@@ -15,7 +15,7 @@
           "id": "assistenza",
           "label": "Attività Assistenza",
           "description": "Elenco attività aperte assistenza tecnica",
-          "file": "data/assistenza.json"
+          "file": "assistenza.json"
         }
       ]
     },
@@ -29,7 +29,7 @@
           "id": "ordini_clienti",
           "label": "Ordini Clienti Aperti",
           "description": "Ordini cliente non ancora evasi",
-          "file": "data/ordini_clienti.json"
+          "file": "ordini_clienti.json"
         }
       ]
     },
@@ -43,13 +43,13 @@
           "id": "ordini_acquisto",
           "label": "Ordini Acquisto Aperti",
           "description": "Ordini fornitore non ancora evasi",
-          "file": "data/ordini_acquisto.json"
+          "file": "ordini_acquisto.json"
         },
         {
           "id": "entrate_merci",
           "label": "Entrate Merci",
           "description": "DDT acquisto ricevuti ultimi 30 giorni",
-          "file": "data/entrate_merci.json"
+          "file": "entrate_merci.json"
         }
       ]
     }
