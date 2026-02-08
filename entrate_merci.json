@@ -1,0 +1,26 @@
+[
+  {
+    "N. DDT": "260001",
+    "Data": "16/01/2026",
+    "Cod. Fornitore": "F000102",
+    "Fornitore": "REPA ITALIA SRL",
+    "Importo": "1254.540000",
+    "Note": "Basato su Ordini d'acquisto 150638."
+  },
+  {
+    "N. DDT": "260003",
+    "Data": "15/01/2026",
+    "Cod. Fornitore": "F000853",
+    "Fornitore": "IDEAM INOX SRL",
+    "Importo": "187.880000",
+    "Note": "MARATEA SERVIZI Basato su Ordini cliente 250891. Basato su Ordini d'acquisto 250476."
+  },
+  {
+    "N. DDT": "260002",
+    "Data": "08/01/2026",
+    "Cod. Fornitore": "F001617",
+    "Fornitore": "TECNOINOX S.R.L.",
+    "Importo": "379.180000",
+    "Note": "OCTO SRLS C/O CHIOSO AL POLPO Basato su Ordini cliente 260001. Basato su Ordini d'acquisto 352."
+  }
+]
