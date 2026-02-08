@@ -432,6 +432,25 @@
             color: var(--text-muted);
             font-family: var(--mono);
         }
+        .filter-row th.filter-cell {
+            background: var(--bg-card);
+            padding: 4px 6px;
+            border-bottom: 1px solid var(--border);
+        }
+        .filter-row .col-filter {
+            width: 100%;
+            padding: 5px 8px;
+            background: var(--bg-primary);
+            border: 1px solid var(--border);
+            border-radius: 3px;
+            color: var(--text-primary);
+            font-family: var(--font);
+            font-size: 11px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .filter-row .col-filter::placeholder { color: var(--text-muted); opacity: 0.6; }
+        .filter-row .col-filter:focus { border-color: var(--accent); }
 
         .no-results {
             text-align: center;
@@ -516,12 +535,14 @@
             CONFIG = await resp.json();
             document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
             renderHome();
+            checkUrlRoute();
         } catch(e) {
             // Fallback: config embedded
             console.warn('config.json not found, using embedded config');
             CONFIG = EMBEDDED_CONFIG;
             document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
             renderHome();
+            checkUrlRoute();
         }
     }
 
@@ -547,6 +568,7 @@
     // ---- NAVIGATION ----
     function goHome() {
         currentView = 'home';
+        history.pushState(null, '', window.location.pathname);
         renderHome();
         updateBreadcrumb();
     }
@@ -556,8 +578,34 @@
         const report = module.reports.find(r => r.id === reportId);
         currentView = 'report';
         currentSort = { col: -1, asc: true };
+        history.pushState(null, '', '?report=' + reportId);
         renderReport(module, report);
         updateBreadcrumb(module, report);
+    }
+
+    // Handle browser back button
+    window.addEventListener('popstate', () => {
+        const params = new URLSearchParams(window.location.search);
+        const reportId = params.get('report');
+        if (reportId) {
+            for (const mod of CONFIG.modules) {
+                const rep = mod.reports.find(r => r.id === reportId);
+                if (rep) { openReport(mod.id, rep.id); return; }
+            }
+        }
+        goHome();
+    });
+
+    // Check URL on load
+    function checkUrlRoute() {
+        const params = new URLSearchParams(window.location.search);
+        const reportId = params.get('report');
+        if (reportId) {
+            for (const mod of CONFIG.modules) {
+                const rep = mod.reports.find(r => r.id === reportId);
+                if (rep) { openReport(mod.id, rep.id); return; }
+            }
+        }
     }
 
     function updateBreadcrumb(module, report) {
@@ -687,6 +735,15 @@
                                         </th>
                                     `).join('')}
                                 </tr>
+                                <tr class="filter-row">
+                                    ${columns.map((col, i) => `
+                                        <th class="filter-cell">
+                                            <input type="text" class="col-filter" data-col="${i}" 
+                                                   placeholder="Filtra..." 
+                                                   oninput="filterRows()">
+                                        </th>
+                                    `).join('')}
+                                </tr>
                             </thead>
                             <tbody id="tableBody">
                                 ${data.map(row => `
@@ -765,8 +822,10 @@
 
         // Notes
         if (col === 'note' || col === 'contenuto') {
-            const truncated = str.length > 120 ? str.substring(0, 120) + '…' : str;
-            return `<span class="cell-note" title="${str.replace(/"/g, '&quot;')}">${truncated}</span>`;
+            // Auto-link URLs
+            let displayStr = str.length > 120 ? str.substring(0, 120) + '…' : str;
+            displayStr = displayStr.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--accent);text-decoration:underline;">📎 link</a>');
+            return `<span class="cell-note" title="${str.replace(/"/g, '&quot;')}">${displayStr}</span>`;
         }
         
         return str;
@@ -774,13 +833,37 @@
 
     // ---- SEARCH ----
     function filterRows() {
-        const filter = document.getElementById('searchInput').value.toLowerCase();
+        const globalFilter = document.getElementById('searchInput').value.toLowerCase();
+        const colFilters = [];
+        document.querySelectorAll('.col-filter').forEach(input => {
+            colFilters.push({
+                col: parseInt(input.dataset.col),
+                value: input.value.toLowerCase()
+            });
+        });
+        
         const rows = document.querySelectorAll('#tableBody tr');
         let visible = 0;
 
         rows.forEach(row => {
-            const text = row.textContent.toLowerCase();
-            const match = text.includes(filter);
+            const cells = row.children;
+            const fullText = row.textContent.toLowerCase();
+            
+            // Global filter
+            let match = globalFilter === '' || fullText.includes(globalFilter);
+            
+            // Column filters
+            if (match) {
+                for (const cf of colFilters) {
+                    if (cf.value && cells[cf.col]) {
+                        if (!cells[cf.col].textContent.toLowerCase().includes(cf.value)) {
+                            match = false;
+                            break;
+                        }
+                    }
+                }
+            }
+            
             row.classList.toggle('hidden', !match);
             if (match) visible++;
         });
