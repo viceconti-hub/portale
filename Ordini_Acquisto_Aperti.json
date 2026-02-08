@@ -1,0 +1,317 @@
+[
+    {
+        "N. Ordine":  "260008",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "2232.600000",
+        "Note":  "Basato su Ordini cliente 250944."
+    },
+    {
+        "N. Ordine":  "260009",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "1525.000000",
+        "Note":  "Basato su Ordini cliente 250944."
+    },
+    {
+        "N. Ordine":  "260007",
+        "Data":  "03/02/2026",
+        "Cod. Fornitore":  "F000865",
+        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
+        "Data Consegna":  "03/02/2026",
+        "Importo":  "63.810000",
+        "Note":  "Basato su Ordini cliente 260029."
+    },
+    {
+        "N. Ordine":  "260006",
+        "Data":  "30/01/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "27/02/2026",
+        "Importo":  "2069.550000",
+        "Note":  "IL LUCANO Basato su Ordini cliente 260025."
+    },
+    {
+        "N. Ordine":  "260004",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "146.400000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
+    },
+    {
+        "N. Ordine":  "260002",
+        "Data":  "28/01/2026",
+        "Cod. Fornitore":  "F051358",
+        "Fornitore":  "STAFF ICE SYSTEM SRL",
+        "Data Consegna":  "28/01/2026",
+        "Importo":  "140.300000",
+        "Note":  "DS1 DOSATORE AUTOMATICO DI SALAMOIA FINO A 3000 KG PER PERSCHERIA AZZURRA"
+    },
+    {
+        "N. Ordine":  "260003",
+        "Data":  "28/01/2026",
+        "Cod. Fornitore":  "F051488",
+        "Fornitore":  "FAMAG SRL",
+        "Data Consegna":  "28/01/2026",
+        "Importo":  "0.000000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260001",
+        "Data":  "26/01/2026",
+        "Cod. Fornitore":  "F051183",
+        "Fornitore":  "PRIOLINOX SPA",
+        "Data Consegna":  "26/01/2026",
+        "Importo":  "345.500000",
+        "Note":  "ARTE DOLCIARIA Basato su Ordini cliente 260024."
+    },
+    {
+        "N. Ordine":  "150640",
+        "Data":  "20/01/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "20/01/2026",
+        "Importo":  "6161.000000",
+        "Note":  "CENTRAL MARKET Basato su Ordini cliente 260019."
+    },
+    {
+        "N. Ordine":  "150635",
+        "Data":  "12/01/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "08/01/2026",
+        "Importo":  "646.600000",
+        "Note":  "Basato su Ordini cliente 260006."
+    },
+    {
+        "N. Ordine":  "150636",
+        "Data":  "12/01/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "08/01/2026",
+        "Importo":  "846.680000",
+        "Note":  "TATA \u0026 CO  SRL Ordini cliente 260006."
+    },
+    {
+        "N. Ordine":  "250504",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250499",
+        "Data":  "11/12/2025",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "11/12/2025",
+        "Importo":  "628.680000",
+        "Note":  "RESIDUO FILTRO PER RUA"
+    },
+    {
+        "N. Ordine":  "250459",
+        "Data":  "25/11/2025",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "24215.540000",
+        "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
+    },
+    {
+        "N. Ordine":  "250442",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP Spa",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "2138.660000",
+        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
+    },
+    {
+        "N. Ordine":  "250443",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F051479",
+        "Fornitore":  "AFINOX SRL",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "12136.940000",
+        "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
+    },
+    {
+        "N. Ordine":  "250446",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "8027.600000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
+        "N. Ordine":  "250434",
+        "Data":  "02/11/2025",
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP Spa",
+        "Data Consegna":  "02/11/2025",
+        "Importo":  "34.160000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250433",
+        "Data":  "01/11/2025",
+        "Cod. Fornitore":  "F051515",
+        "Fornitore":  "CUSTOM SPA",
+        "Data Consegna":  "01/11/2025",
+        "Importo":  "29.280000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250421",
+        "Data":  "23/10/2025",
+        "Cod. Fornitore":  "F050733",
+        "Fornitore":  "IDEA S.R.L.",
+        "Data Consegna":  "23/10/2025",
+        "Importo":  "885.720000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "250416",
+        "Data":  "20/10/2025",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "20/10/2025",
+        "Importo":  "252.810000",
+        "Note":  "CAMPOLEROSE + MAG Basato su Ordini cliente 250801."
+    },
+    {
+        "N. Ordine":  "250470",
+        "Data":  "15/10/2025",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "15/10/2025",
+        "Importo":  "18220.220000",
+        "Note":  "FA\u0027 TU BCC LEASE"
+    },
+    {
+        "N. Ordine":  "250469",
+        "Data":  "22/09/2025",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "22/09/2025",
+        "Importo":  "9127.920000",
+        "Note":  "CAMPOLEROSE BCC LEASE"
+    },
+    {
+        "N. Ordine":  "250351",
+        "Data":  "22/08/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "22/08/2025",
+        "Importo":  "430.980000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250210",
+        "Data":  "09/06/2025",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Data Consegna":  "09/06/2025",
+        "Importo":  "179.950000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250181",
+        "Data":  "20/05/2025",
+        "Cod. Fornitore":  "F000216",
+        "Fornitore":  "ATA S.r.l.",
+        "Data Consegna":  "20/05/2025",
+        "Importo":  "163.940000",
+        "Note":  "RICAMBI DA COMPLETARE (MY ATA OK)"
+    },
+    {
+        "N. Ordine":  "250054",
+        "Data":  "24/02/2025",
+        "Cod. Fornitore":  "F000018",
+        "Fornitore":  "BERTO\u0027S SPA",
+        "Data Consegna":  "24/02/2025",
+        "Importo":  "35.380000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250015",
+        "Data":  "21/01/2025",
+        "Cod. Fornitore":  "F000918",
+        "Fornitore":  "SANELLI AMBROGIO",
+        "Data Consegna":  "21/01/2025",
+        "Importo":  "294.080000",
+        "Note":  "DA TRASMETTERE"
+    },
+    {
+        "N. Ordine":  "240531",
+        "Data":  "26/07/2024",
+        "Cod. Fornitore":  "F000808",
+        "Fornitore":  "RATIONAL ITALIA SRL",
+        "Data Consegna":  "26/07/2024",
+        "Importo":  "7199.830000",
+        "Note":  "H2A RAT 60X40"
+    },
+    {
+        "N. Ordine":  "240482",
+        "Data":  "09/07/2024",
+        "Cod. Fornitore":  "F000805",
+        "Fornitore":  "SMEG SPA",
+        "Data Consegna":  "09/07/2024",
+        "Importo":  "195.200000",
+        "Note":  "DETERGENTI"
+    },
+    {
+        "N. Ordine":  "240294",
+        "Data":  "14/05/2024",
+        "Cod. Fornitore":  "F001617",
+        "Fornitore":  "TECNOINOX S.R.L.",
+        "Data Consegna":  "14/05/2024",
+        "Importo":  "0.000000",
+        "Note":  "MANOPOLE"
+    },
+    {
+        "N. Ordine":  "240023",
+        "Data":  "16/01/2024",
+        "Cod. Fornitore":  "F000808",
+        "Fornitore":  "RATIONAL ITALIA SRL",
+        "Data Consegna":  "16/01/2024",
+        "Importo":  "643.570000",
+        "Note":  "RICAMBI DA COMPLETARE: ORDINE DIRETTO RATIONAL"
+    },
+    {
+        "N. Ordine":  "220520",
+        "Data":  "03/08/2022",
+        "Cod. Fornitore":  "F000822",
+        "Fornitore":  "ITALIANA MACCHI Spa",
+        "Data Consegna":  "03/08/2022",
+        "Importo":  "231.800000",
+        "Note":  ""
+    }
+]
