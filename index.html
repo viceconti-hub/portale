@@ -807,21 +807,21 @@
             let aVal = a.children[colIndex].textContent.trim();
             let bVal = b.children[colIndex].textContent.trim();
 
-            // Numeric
-            const aNum = parseFloat(aVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
-            const bNum = parseFloat(bVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
-            if (!isNaN(aNum) && !isNaN(bNum)) {
-                return isAsc ? aNum - bNum : bNum - aNum;
-            }
-
-            // Date dd/mm/yyyy
-            const dateRegex = /^(\d{2})\/(\d{2})\/(\d{4})$/;
+            // Date dd/mm/yyyy (MUST be checked before numeric)
+            const dateRegex = /^(\d{1,2})\/(\d{1,2})\/(\d{4})$/;
             const aDate = aVal.match(dateRegex);
             const bDate = bVal.match(dateRegex);
             if (aDate && bDate) {
                 const aD = new Date(aDate[3], aDate[2]-1, aDate[1]);
                 const bD = new Date(bDate[3], bDate[2]-1, bDate[1]);
                 return isAsc ? aD - bD : bD - aD;
+            }
+
+            // Numeric
+            const aNum = parseFloat(aVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
+            const bNum = parseFloat(bVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
+            if (!isNaN(aNum) && !isNaN(bNum)) {
+                return isAsc ? aNum - bNum : bNum - aNum;
             }
 
             // String
