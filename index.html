@@ -1,0 +1,851 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Viceconti Hub</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-primary: #0f1117;
+            --bg-secondary: #1a1d27;
+            --bg-card: #1e2130;
+            --bg-card-hover: #252940;
+            --bg-surface: #282c3e;
+            --text-primary: #e8eaed;
+            --text-secondary: #9aa0b0;
+            --text-muted: #6b7185;
+            --border: #2d3148;
+            --accent: #6c8cff;
+            --accent-soft: rgba(108,140,255,0.12);
+            --green: #4caf76;
+            --green-soft: rgba(76,175,118,0.12);
+            --orange: #e8914f;
+            --orange-soft: rgba(232,145,79,0.12);
+            --blue: #5b9cf5;
+            --blue-soft: rgba(91,156,245,0.12);
+            --red: #ef6b6b;
+            --red-soft: rgba(239,107,107,0.12);
+            --radius: 10px;
+            --radius-sm: 6px;
+            --shadow: 0 2px 12px rgba(0,0,0,0.3);
+            --font: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+            --mono: 'JetBrains Mono', monospace;
+        }
+
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        body {
+            font-family: var(--font);
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* ========== TOP BAR ========== */
+        .topbar {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 0 24px;
+            height: 56px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+        .topbar-left {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+        }
+        .topbar-logo {
+            width: 32px;
+            height: 32px;
+            background: linear-gradient(135deg, var(--accent), #a78bfa);
+            border-radius: 8px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: 700;
+            font-size: 14px;
+            color: white;
+            letter-spacing: -0.5px;
+        }
+        .topbar-title {
+            font-size: 15px;
+            font-weight: 600;
+            letter-spacing: -0.3px;
+        }
+        .topbar-subtitle {
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: var(--mono);
+        }
+        .topbar-right {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+        }
+        .topbar-badge {
+            font-size: 11px;
+            font-family: var(--mono);
+            color: var(--text-muted);
+            background: var(--bg-card);
+            padding: 4px 10px;
+            border-radius: 20px;
+            border: 1px solid var(--border);
+        }
+
+        /* ========== BREADCRUMB ========== */
+        .breadcrumb {
+            padding: 16px 24px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+        .breadcrumb a {
+            color: var(--accent);
+            text-decoration: none;
+            cursor: pointer;
+            transition: color 0.2s;
+        }
+        .breadcrumb a:hover { color: #8ba8ff; }
+        .breadcrumb .sep { opacity: 0.4; }
+        .breadcrumb .current { color: var(--text-secondary); }
+
+        /* ========== HOME VIEW ========== */
+        .home-container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 20px 24px 60px;
+        }
+        .home-header {
+            margin-bottom: 40px;
+        }
+        .home-header h1 {
+            font-size: 28px;
+            font-weight: 700;
+            letter-spacing: -0.8px;
+            margin-bottom: 6px;
+        }
+        .home-header p {
+            color: var(--text-secondary);
+            font-size: 15px;
+        }
+
+        /* Module cards */
+        .module-section {
+            margin-bottom: 32px;
+        }
+        .module-header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            margin-bottom: 14px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--border);
+        }
+        .module-icon {
+            font-size: 20px;
+            width: 36px;
+            height: 36px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 8px;
+        }
+        .module-label {
+            font-size: 16px;
+            font-weight: 600;
+            letter-spacing: -0.3px;
+        }
+        .module-count {
+            font-size: 11px;
+            font-family: var(--mono);
+            color: var(--text-muted);
+            background: var(--bg-surface);
+            padding: 2px 8px;
+            border-radius: 10px;
+        }
+
+        .report-cards {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 12px;
+        }
+        .report-card {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            padding: 18px 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            position: relative;
+            overflow: hidden;
+        }
+        .report-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 3px;
+            height: 100%;
+            border-radius: 3px 0 0 3px;
+            transition: width 0.2s;
+        }
+        .report-card:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--text-muted);
+            transform: translateY(-1px);
+            box-shadow: var(--shadow);
+        }
+        .report-card:hover::before { width: 4px; }
+        .report-card-title {
+            font-size: 14px;
+            font-weight: 600;
+            margin-bottom: 4px;
+            letter-spacing: -0.2px;
+        }
+        .report-card-desc {
+            font-size: 12px;
+            color: var(--text-muted);
+            line-height: 1.4;
+        }
+        .report-card-arrow {
+            position: absolute;
+            right: 16px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            opacity: 0;
+            transition: opacity 0.2s, transform 0.2s;
+            font-size: 16px;
+        }
+        .report-card:hover .report-card-arrow {
+            opacity: 1;
+            transform: translateY(-50%) translateX(2px);
+        }
+
+        /* ========== REPORT VIEW ========== */
+        .report-container {
+            padding: 0 24px 60px;
+            max-width: 100%;
+        }
+        .report-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+            margin-bottom: 20px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .report-header h2 {
+            font-size: 22px;
+            font-weight: 700;
+            letter-spacing: -0.5px;
+        }
+        .report-header-desc {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-top: 2px;
+        }
+        .report-stats {
+            display: flex;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+        .stat-chip {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 6px 14px;
+            font-size: 12px;
+            font-family: var(--mono);
+            color: var(--text-secondary);
+            display: flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .stat-chip .dot {
+            width: 7px;
+            height: 7px;
+            border-radius: 50%;
+        }
+
+        /* Search & Controls */
+        .controls-bar {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        .search-box {
+            flex: 1;
+            min-width: 240px;
+            position: relative;
+        }
+        .search-box input {
+            width: 100%;
+            padding: 10px 14px 10px 38px;
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius-sm);
+            color: var(--text-primary);
+            font-family: var(--font);
+            font-size: 13px;
+            outline: none;
+            transition: border-color 0.2s;
+        }
+        .search-box input::placeholder { color: var(--text-muted); }
+        .search-box input:focus { border-color: var(--accent); }
+        .search-box .search-icon {
+            position: absolute;
+            left: 12px;
+            top: 50%;
+            transform: translateY(-50%);
+            color: var(--text-muted);
+            font-size: 14px;
+        }
+        .btn {
+            padding: 10px 16px;
+            border-radius: var(--radius-sm);
+            border: 1px solid var(--border);
+            background: var(--bg-card);
+            color: var(--text-secondary);
+            font-family: var(--font);
+            font-size: 13px;
+            cursor: pointer;
+            transition: all 0.15s;
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            white-space: nowrap;
+        }
+        .btn:hover {
+            background: var(--bg-card-hover);
+            border-color: var(--text-muted);
+            color: var(--text-primary);
+        }
+
+        /* Table */
+        .table-wrap {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            overflow: hidden;
+        }
+        .table-scroll {
+            overflow-x: auto;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 13px;
+        }
+        thead th {
+            background: var(--bg-surface);
+            color: var(--text-secondary);
+            padding: 11px 14px;
+            text-align: left;
+            font-weight: 500;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+            white-space: nowrap;
+            cursor: pointer;
+            user-select: none;
+            position: sticky;
+            top: 0;
+            border-bottom: 1px solid var(--border);
+            transition: color 0.15s;
+        }
+        thead th:hover { color: var(--text-primary); }
+        thead th .sort-indicator {
+            display: inline-block;
+            margin-left: 4px;
+            opacity: 0.3;
+            font-size: 10px;
+        }
+        thead th.sort-asc .sort-indicator,
+        thead th.sort-desc .sort-indicator {
+            opacity: 1;
+            color: var(--accent);
+        }
+        tbody td {
+            padding: 10px 14px;
+            border-bottom: 1px solid rgba(45,49,72,0.5);
+            color: var(--text-primary);
+            vertical-align: top;
+            max-width: 320px;
+        }
+        tbody tr { transition: background 0.1s; }
+        tbody tr:hover { background: rgba(108,140,255,0.04); }
+        tbody tr:last-child td { border-bottom: none; }
+        tbody tr.hidden { display: none; }
+
+        /* Cell styles */
+        .cell-number {
+            font-family: var(--mono);
+            font-size: 12px;
+        }
+        .cell-amount {
+            font-family: var(--mono);
+            font-size: 12px;
+            text-align: right;
+        }
+        .cell-note {
+            font-size: 12px;
+            color: var(--text-secondary);
+            line-height: 1.4;
+            white-space: pre-line;
+            max-width: 400px;
+        }
+        .cell-priority {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 24px;
+            height: 24px;
+            border-radius: 50%;
+            font-size: 11px;
+            font-weight: 600;
+            font-family: var(--mono);
+        }
+        .priority-1 { background: var(--red-soft); color: var(--red); }
+        .priority-2 { background: var(--orange-soft); color: var(--orange); }
+        .priority-3 { background: var(--blue-soft); color: var(--blue); }
+
+        .table-footer {
+            padding: 10px 14px;
+            border-top: 1px solid var(--border);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 12px;
+            color: var(--text-muted);
+            font-family: var(--mono);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 48px 20px;
+            color: var(--text-muted);
+            display: none;
+        }
+        .no-results.show { display: block; }
+        .no-results .icon { font-size: 32px; margin-bottom: 8px; }
+
+        /* ========== ANIMATIONS ========== */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-in {
+            animation: fadeIn 0.3s ease forwards;
+        }
+        .stagger-1 { animation-delay: 0.05s; opacity: 0; }
+        .stagger-2 { animation-delay: 0.1s; opacity: 0; }
+        .stagger-3 { animation-delay: 0.15s; opacity: 0; }
+
+        /* ========== RESPONSIVE ========== */
+        @media (max-width: 768px) {
+            .topbar { padding: 0 14px; }
+            .topbar-subtitle { display: none; }
+            .breadcrumb { padding: 12px 14px; }
+            .home-container { padding: 12px 14px 40px; }
+            .home-header h1 { font-size: 22px; }
+            .report-container { padding: 0 14px 40px; }
+            .report-header { flex-direction: column; }
+            .report-header h2 { font-size: 18px; }
+            .controls-bar { flex-direction: column; }
+            .search-box { min-width: 100%; }
+            thead th { padding: 8px 10px; font-size: 10px; }
+            tbody td { padding: 8px 10px; font-size: 12px; }
+            .report-cards { grid-template-columns: 1fr; }
+        }
+
+        /* ========== UTILITY ========== */
+        .hidden { display: none !important; }
+    </style>
+</head>
+<body>
+
+    <!-- TOP BAR -->
+    <div class="topbar">
+        <div class="topbar-left">
+            <div class="topbar-logo">V</div>
+            <div>
+                <div class="topbar-title">Viceconti Hub</div>
+                <div class="topbar-subtitle">SAP Business One</div>
+            </div>
+        </div>
+        <div class="topbar-right">
+            <div class="topbar-badge" id="lastUpdate"></div>
+        </div>
+    </div>
+
+    <!-- BREADCRUMB -->
+    <div class="breadcrumb" id="breadcrumb">
+        <a onclick="goHome()">🏠 Home</a>
+    </div>
+
+    <!-- CONTENT -->
+    <div id="app"></div>
+
+    <script>
+    // ================================================================
+    // VICECONTI HUB — Dynamic Portal Engine v1.0
+    // ================================================================
+
+    let CONFIG = null;
+    let REPORT_DATA = {};
+    let currentView = 'home';
+    let currentSort = { col: -1, asc: true };
+
+    // ---- CONFIG & DATA LOADING ----
+    async function loadConfig() {
+        try {
+            const resp = await fetch('config.json');
+            CONFIG = await resp.json();
+            document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
+            renderHome();
+        } catch(e) {
+            // Fallback: config embedded
+            console.warn('config.json not found, using embedded config');
+            CONFIG = EMBEDDED_CONFIG;
+            document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
+            renderHome();
+        }
+    }
+
+    async function loadReportData(report) {
+        if (REPORT_DATA[report.id]) return REPORT_DATA[report.id];
+        
+        try {
+            const resp = await fetch(report.file);
+            const data = await resp.json();
+            REPORT_DATA[report.id] = data;
+            return data;
+        } catch(e) {
+            // Fallback: embedded data
+            if (EMBEDDED_DATA[report.id]) {
+                REPORT_DATA[report.id] = EMBEDDED_DATA[report.id];
+                return EMBEDDED_DATA[report.id];
+            }
+            console.error('Cannot load data for', report.id);
+            return [];
+        }
+    }
+
+    // ---- NAVIGATION ----
+    function goHome() {
+        currentView = 'home';
+        renderHome();
+        updateBreadcrumb();
+    }
+
+    function openReport(moduleId, reportId) {
+        const module = CONFIG.modules.find(m => m.id === moduleId);
+        const report = module.reports.find(r => r.id === reportId);
+        currentView = 'report';
+        currentSort = { col: -1, asc: true };
+        renderReport(module, report);
+        updateBreadcrumb(module, report);
+    }
+
+    function updateBreadcrumb(module, report) {
+        const bc = document.getElementById('breadcrumb');
+        if (!module) {
+            bc.innerHTML = '<a onclick="goHome()">🏠 Home</a>';
+        } else {
+            bc.innerHTML = `
+                <a onclick="goHome()">🏠 Home</a>
+                <span class="sep">›</span>
+                <span style="color:${module.color}">${module.icon} ${module.label}</span>
+                <span class="sep">›</span>
+                <span class="current">${report.label}</span>
+            `;
+        }
+    }
+
+    // ---- RENDER: HOME ----
+    function renderHome() {
+        const app = document.getElementById('app');
+        
+        let totalReports = 0;
+        CONFIG.modules.forEach(m => totalReports += m.reports.length);
+        
+        let html = `
+            <div class="home-container">
+                <div class="home-header animate-in">
+                    <h1>Cruscotto Operativo</h1>
+                    <p>${CONFIG.modules.length} moduli · ${totalReports} report disponibili</p>
+                </div>
+        `;
+
+        CONFIG.modules.forEach((mod, mi) => {
+            html += `
+                <div class="module-section animate-in stagger-${mi + 1}">
+                    <div class="module-header">
+                        <div class="module-icon" style="background:${mod.color}15; color:${mod.color}">
+                            ${mod.icon}
+                        </div>
+                        <span class="module-label">${mod.label}</span>
+                        <span class="module-count">${mod.reports.length} report</span>
+                    </div>
+                    <div class="report-cards">
+            `;
+
+            mod.reports.forEach(rep => {
+                html += `
+                    <div class="report-card" onclick="openReport('${mod.id}','${rep.id}')" 
+                         style="--card-color:${mod.color}">
+                        <div style="position:absolute;top:0;left:0;width:3px;height:100%;background:${mod.color};border-radius:3px 0 0 3px;"></div>
+                        <div class="report-card-title">${rep.label}</div>
+                        <div class="report-card-desc">${rep.description}</div>
+                        <div class="report-card-arrow">→</div>
+                    </div>
+                `;
+            });
+
+            html += '</div></div>';
+        });
+
+        html += '</div>';
+        app.innerHTML = html;
+    }
+
+    // ---- RENDER: REPORT ----
+    async function renderReport(module, report) {
+        const app = document.getElementById('app');
+        app.innerHTML = '<div class="report-container" style="padding-top:20px;text-align:center;color:var(--text-muted);">Caricamento dati...</div>';
+        
+        const data = await loadReportData(report);
+        if (!data || data.length === 0) {
+            app.innerHTML = '<div class="report-container"><p style="color:var(--text-muted);padding:40px;text-align:center;">Nessun dato disponibile</p></div>';
+            return;
+        }
+
+        const columns = Object.keys(data[0]);
+        
+        // Compute stats
+        const importoCol = columns.find(c => c.toLowerCase().includes('importo'));
+        let totalImporto = 0;
+        if (importoCol) {
+            data.forEach(row => {
+                const val = parseFloat(String(row[importoCol]).replace(',', '.'));
+                if (!isNaN(val)) totalImporto += val;
+            });
+        }
+
+        let html = `
+            <div class="report-container animate-in">
+                <div class="report-header">
+                    <div>
+                        <h2 style="color:${module.color}">${report.label}</h2>
+                        <div class="report-header-desc">${report.description}</div>
+                    </div>
+                    <div class="report-stats">
+                        <div class="stat-chip">
+                            <span class="dot" style="background:${module.color}"></span>
+                            ${data.length} righe
+                        </div>
+                        ${importoCol ? `
+                        <div class="stat-chip">
+                            <span class="dot" style="background:var(--green)"></span>
+                            € ${totalImporto.toLocaleString('it-IT', {minimumFractionDigits: 2, maximumFractionDigits: 2})}
+                        </div>` : ''}
+                    </div>
+                </div>
+
+                <div class="controls-bar">
+                    <div class="search-box">
+                        <span class="search-icon">🔍</span>
+                        <input type="text" id="searchInput" placeholder="Cerca in tutti i campi..." oninput="filterRows()">
+                    </div>
+                    <button class="btn" onclick="exportCSV('${report.id}', '${report.label}')">
+                        📥 Esporta CSV
+                    </button>
+                </div>
+
+                <div class="table-wrap">
+                    <div class="table-scroll">
+                        <table>
+                            <thead>
+                                <tr>
+                                    ${columns.map((col, i) => `
+                                        <th onclick="sortColumn(${i})" data-col="${i}">
+                                            ${col}
+                                            <span class="sort-indicator">↕</span>
+                                        </th>
+                                    `).join('')}
+                                </tr>
+                            </thead>
+                            <tbody id="tableBody">
+                                ${data.map(row => `
+                                    <tr>
+                                        ${columns.map(col => `<td>${formatCell(col, row[col])}</td>`).join('')}
+                                    </tr>
+                                `).join('')}
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="no-results" id="noResults">
+                        <div class="icon">🔍</div>
+                        Nessun risultato trovato
+                    </div>
+                    <div class="table-footer">
+                        <span id="visibleCount">${data.length} di ${data.length} righe</span>
+                        <span>Aggiornamento: ${CONFIG.lastUpdate}</span>
+                    </div>
+                </div>
+            </div>
+        `;
+
+        app.innerHTML = html;
+        
+        // Store current data for sorting/export
+        window._currentData = data;
+        window._currentColumns = columns;
+        window._currentReport = report;
+    }
+
+    // ---- CELL FORMATTING ----
+    function formatCell(colName, value) {
+        if (value === null || value === undefined || value === '') return '<span style="color:var(--text-muted)">—</span>';
+        
+        const col = colName.toLowerCase();
+        const str = String(value);
+        
+        // Priority
+        if (col.includes('priorita') || col.includes('priorità')) {
+            const p = parseInt(str);
+            return `<span class="cell-priority priority-${p}">${p}</span>`;
+        }
+        
+        // Amount
+        if (col.includes('importo')) {
+            const num = parseFloat(str.replace(',', '.'));
+            if (!isNaN(num)) {
+                return `<span class="cell-amount">€ ${num.toLocaleString('it-IT', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</span>`;
+            }
+        }
+        
+        // ID/Code columns
+        if (col.startsWith('n.') || col.startsWith('cod.')) {
+            return `<span class="cell-number">${str}</span>`;
+        }
+        
+        // Notes
+        if (col === 'note' || col === 'contenuto') {
+            const truncated = str.length > 120 ? str.substring(0, 120) + '…' : str;
+            return `<span class="cell-note" title="${str.replace(/"/g, '&quot;')}">${truncated}</span>`;
+        }
+        
+        return str;
+    }
+
+    // ---- SEARCH ----
+    function filterRows() {
+        const filter = document.getElementById('searchInput').value.toLowerCase();
+        const rows = document.querySelectorAll('#tableBody tr');
+        let visible = 0;
+
+        rows.forEach(row => {
+            const text = row.textContent.toLowerCase();
+            const match = text.includes(filter);
+            row.classList.toggle('hidden', !match);
+            if (match) visible++;
+        });
+
+        const total = rows.length;
+        document.getElementById('visibleCount').textContent = `${visible} di ${total} righe`;
+        document.getElementById('noResults').classList.toggle('show', visible === 0);
+    }
+
+    // ---- SORT ----
+    function sortColumn(colIndex) {
+        const tbody = document.getElementById('tableBody');
+        const rows = Array.from(tbody.querySelectorAll('tr'));
+        const headers = document.querySelectorAll('thead th');
+        
+        const isAsc = currentSort.col === colIndex ? !currentSort.asc : true;
+        currentSort = { col: colIndex, asc: isAsc };
+
+        // Update header indicators
+        headers.forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
+        headers[colIndex].classList.add(isAsc ? 'sort-asc' : 'sort-desc');
+
+        rows.sort((a, b) => {
+            let aVal = a.children[colIndex].textContent.trim();
+            let bVal = b.children[colIndex].textContent.trim();
+
+            // Numeric
+            const aNum = parseFloat(aVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
+            const bNum = parseFloat(bVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
+            if (!isNaN(aNum) && !isNaN(bNum)) {
+                return isAsc ? aNum - bNum : bNum - aNum;
+            }
+
+            // Date dd/mm/yyyy
+            const dateRegex = /^(\d{2})\/(\d{2})\/(\d{4})$/;
+            const aDate = aVal.match(dateRegex);
+            const bDate = bVal.match(dateRegex);
+            if (aDate && bDate) {
+                const aD = new Date(aDate[3], aDate[2]-1, aDate[1]);
+                const bD = new Date(bDate[3], bDate[2]-1, bDate[1]);
+                return isAsc ? aD - bD : bD - aD;
+            }
+
+            // String
+            return isAsc ? aVal.localeCompare(bVal, 'it') : bVal.localeCompare(aVal, 'it');
+        });
+
+        rows.forEach(row => tbody.appendChild(row));
+    }
+
+    // ---- EXPORT CSV ----
+    function exportCSV(reportId, reportLabel) {
+        const data = window._currentData;
+        const columns = window._currentColumns;
+        if (!data) return;
+
+        const sep = ';';
+        let csv = columns.join(sep) + '\n';
+        data.forEach(row => {
+            csv += columns.map(col => {
+                let val = String(row[col] || '').replace(/"/g, '""');
+                if (val.includes(sep) || val.includes('"') || val.includes('\n')) {
+                    val = '"' + val + '"';
+                }
+                return val;
+            }).join(sep) + '\n';
+        });
+
+        const blob = new Blob(['\ufeff' + csv], { type: 'text/csv;charset=utf-8;' });
+        const link = document.createElement('a');
+        link.href = URL.createObjectURL(blob);
+        link.download = `${reportLabel.replace(/\s+/g, '_')}_${new Date().toISOString().slice(0,10)}.csv`;
+        link.click();
+    }
+
+    // ================================================================
+    // EMBEDDED DATA (fallback when JSON files are not available)
+    // This allows the portal to work as a single HTML file
+    // ================================================================
+    const EMBEDDED_CONFIG = null;
+    const EMBEDDED_DATA = {};
+
+    // ---- INIT ----
+    loadConfig();
+
+    </script>
+</body>
+</html>

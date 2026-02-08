@@ -1,0 +1,58 @@
+{
+  "portal": {
+    "name": "Viceconti Hub",
+    "subtitle": "SAP Business One — Portale Operativo",
+    "version": "1.0"
+  },
+  "modules": [
+    {
+      "id": "servizi",
+      "label": "Servizi",
+      "icon": "🔧",
+      "color": "#2e7d32",
+      "reports": [
+        {
+          "id": "assistenza",
+          "label": "Attività Assistenza",
+          "description": "Elenco attività aperte assistenza tecnica",
+          "file": "data/assistenza.json"
+        }
+      ]
+    },
+    {
+      "id": "vendite",
+      "label": "Vendite",
+      "icon": "📦",
+      "color": "#1565c0",
+      "reports": [
+        {
+          "id": "ordini_clienti",
+          "label": "Ordini Clienti Aperti",
+          "description": "Ordini cliente non ancora evasi",
+          "file": "data/ordini_clienti.json"
+        }
+      ]
+    },
+    {
+      "id": "acquisti",
+      "label": "Acquisti",
+      "icon": "🚚",
+      "color": "#e65100",
+      "reports": [
+        {
+          "id": "ordini_acquisto",
+          "label": "Ordini Acquisto Aperti",
+          "description": "Ordini fornitore non ancora evasi",
+          "file": "data/ordini_acquisto.json"
+        },
+        {
+          "id": "entrate_merci",
+          "label": "Entrate Merci",
+          "description": "DDT acquisto ricevuti ultimi 30 giorni",
+          "file": "data/entrate_merci.json"
+        }
+      ]
+    }
+  ],
+  "lastUpdate": "06/02/2026 13:12"
+}
