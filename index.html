@@ -512,7 +512,7 @@
     // ---- CONFIG & DATA LOADING ----
     async function loadConfig() {
         try {
-            const resp = await fetch('config.json');
+            const resp = await fetch('config.json?v=' + Date.now());
             CONFIG = await resp.json();
             document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
             renderHome();
@@ -529,7 +529,7 @@
         if (REPORT_DATA[report.id]) return REPORT_DATA[report.id];
         
         try {
-            const resp = await fetch(report.file);
+            const resp = await fetch(report.file + '?v=' + Date.now());
             const data = await resp.json();
             REPORT_DATA[report.id] = data;
             return data;
@@ -743,6 +743,26 @@
             return `<span class="cell-number">${str}</span>`;
         }
         
+        // Time (e.g. 927 → 09:27, 1005 → 10:05)
+        if (col.includes('ora')) {
+            const num = parseInt(str);
+            if (!isNaN(num)) {
+                const hours = Math.floor(num / 100).toString().padStart(2, '0');
+                const mins = (num % 100).toString().padStart(2, '0');
+                return `<span class="cell-number">${hours}:${mins}</span>`;
+            }
+        }
+
+        // Date fix: ensure dd/mm/yyyy format
+        if (col.includes('data')) {
+            const dateMatch = str.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
+            if (dateMatch) {
+                const d = dateMatch[1].padStart(2, '0');
+                const m = dateMatch[2].padStart(2, '0');
+                return `${d}/${m}/${dateMatch[3]}`;
+            }
+        }
+
         // Notes
         if (col === 'note' || col === 'contenuto') {
             const truncated = str.length > 120 ? str.substring(0, 120) + '…' : str;
