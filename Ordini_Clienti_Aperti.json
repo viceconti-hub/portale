@@ -1,0 +1,402 @@
+[
+    {
+        "N. Ordine":  "260031",
+        "Data":  "05/02/2026",
+        "Cod. Cliente":  "CO52055",
+        "Cliente":  "LUKANIA TURISMO SRL",
+        "Data Consegna":  "05/02/2026",
+        "Importo":  "36.040000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260029",
+        "Data":  "03/02/2026",
+        "Cod. Cliente":  "CO52919",
+        "Cliente":  "GEROLAMO BINDA",
+        "Data Consegna":  "03/02/2026",
+        "Importo":  "52.960000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BILANCIA PADERNO"
+    },
+    {
+        "N. Ordine":  "260028",
+        "Data":  "02/02/2026",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "02/03/2026",
+        "Importo":  "8300.000000",
+        "Agente":  "PIANIFICAZIONE",
+        "Note":  "TAVOLI E SEIDE BELAIRBasato su Offerte di vendita 260012."
+    },
+    {
+        "N. Ordine":  "260032",
+        "Data":  "31/01/2026",
+        "Cod. Cliente":  "C050808",
+        "Cliente":  "C.T.SERVICE SRLS UNIPERSONALE",
+        "Data Consegna":  "31/01/2026",
+        "Importo":  "2196.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "OFFERTA SPECIALE MURALE USATO Basato su Offerte di vendita 250911."
+    },
+    {
+        "N. Ordine":  "260025",
+        "Data":  "29/01/2026",
+        "Cod. Cliente":  "CO51863",
+        "Cliente":  "IL LUCANO SRLS",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "2393.030000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ARMADIO FRIGO SMART A120/2ME Basato su Offerte di vendita 250898."
+    },
+    {
+        "N. Ordine":  "260024",
+        "Data":  "26/01/2026",
+        "Cod. Cliente":  "C001516",
+        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
+        "Data Consegna":  "26/01/2026",
+        "Importo":  "462.620000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "VASCA SIFONE TRAMOGGIA E MISCELATORE"
+    },
+    {
+        "N. Ordine":  "260019",
+        "Data":  "22/01/2026",
+        "Cod. Cliente":  "C000229",
+        "Cliente":  "CENTRAL MARKET SNC DI FORESTIERI G. \u0026 ZACCAGNINO R.",
+        "Data Consegna":  "22/01/2026",
+        "Importo":  "12643.410000",
+        "Agente":  "ANTONIO",
+        "Note":  "ARMADIO CONGELATORE E LAVAOGGETTI Basato su Offerte di vendita 250964."
+    },
+    {
+        "N. Ordine":  "260004",
+        "Data":  "10/01/2026",
+        "Cod. Cliente":  "CO52910",
+        "Cliente":  "RISTORANTE PIZZERIA PICCOLO MONDO",
+        "Data Consegna":  "10/01/2026",
+        "Importo":  "183.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "GRIGLIE COLDLINE GN 2/1"
+    },
+    {
+        "N. Ordine":  "260006",
+        "Data":  "08/01/2026",
+        "Cod. Cliente":  "CO52912",
+        "Cliente":  "TATA \u0026 CO SRL",
+        "Data Consegna":  "08/01/2026",
+        "Importo":  "1246.960000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MENSOLA A PONTE E PORTARIFIUTI RISTORANTE PARADISE - ALL\u0027INTERNO PARCO COMMERCIALE LOLLI PAGAMENTO PAYPAL"
+    },
+    {
+        "N. Ordine":  "260001",
+        "Data":  "07/01/2026",
+        "Cod. Cliente":  "CO52817",
+        "Cliente":  "OCTO SRLS",
+        "Data Consegna":  "07/01/2026",
+        "Importo":  "308.170000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CESTELLO EXTRA TECNOINOX"
+    },
+    {
+        "N. Ordine":  "260002",
+        "Data":  "07/01/2026",
+        "Cod. Cliente":  "C000831",
+        "Cliente":  "Panificio ARENA sas",
+        "Data Consegna":  "07/01/2026",
+        "Importo":  "21.060000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "250942",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "C000628",
+        "Cliente":  "LAMBOGLIA FRANCESCO",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "49.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
+    },
+    {
+        "N. Ordine":  "250944",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "CO52883",
+        "Cliente":  "Brutium Srl",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "4699.930000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
+    },
+    {
+        "N. Ordine":  "250900",
+        "Data":  "11/12/2025",
+        "Cod. Cliente":  "CO52900",
+        "Cliente":  "CALAPRUNA SRLS",
+        "Data Consegna":  "11/12/2025",
+        "Importo":  "800.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TRITACARNE Basato su Offerte di vendita 250940."
+    },
+    {
+        "N. Ordine":  "250888",
+        "Data":  "03/12/2025",
+        "Cod. Cliente":  "CO51973",
+        "Cliente":  "CARLOMAGNO ISABELLA",
+        "Data Consegna":  "03/12/2025",
+        "Importo":  "39.880000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "250881",
+        "Data":  "27/11/2025",
+        "Cod. Cliente":  "C001308",
+        "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
+        "Data Consegna":  "27/11/2025",
+        "Importo":  "845.790000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TUBAZIONE INOX PER ASPIRAZIONE"
+    },
+    {
+        "N. Ordine":  "250878",
+        "Data":  "25/11/2025",
+        "Cod. Cliente":  "CO52615",
+        "Cliente":  "M\u0026M SRL",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA"
+    },
+    {
+        "N. Ordine":  "250870",
+        "Data":  "21/11/2025",
+        "Cod. Cliente":  "CO52001",
+        "Cliente":  "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO",
+        "Data Consegna":  "21/11/2025",
+        "Importo":  "800.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MENSOLE ACCIAIO INOX Basato su Offerte di vendita 250920."
+    },
+    {
+        "N. Ordine":  "250872",
+        "Data":  "21/11/2025",
+        "Cod. Cliente":  "CO52886",
+        "Cliente":  "PIZZERIA ALBACHIARA di VOLPI SIMONE",
+        "Data Consegna":  "21/11/2025",
+        "Importo":  "146.950000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE MORINI E TOMA"
+    },
+    {
+        "N. Ordine":  "250856",
+        "Data":  "12/11/2025",
+        "Cod. Cliente":  "C000865",
+        "Cliente":  "Pasticceria Gelateria Tuzio di TUZIO ANDREA",
+        "Data Consegna":  "12/11/2025",
+        "Importo":  "42358.400000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
+    },
+    {
+        "N. Ordine":  "250841",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C000334",
+        "Cliente":  "DE MARE FRANCO",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "11.200000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
+    },
+    {
+        "N. Ordine":  "250842",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C001516",
+        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "3538.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MACCHINA DA CAFFE\u0027"
+    },
+    {
+        "N. Ordine":  "250843",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C050721",
+        "Cliente":  "GIOIA MARIA",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "27.990000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "APRIBARATTOLI"
+    },
+    {
+        "N. Ordine":  "250832",
+        "Data":  "28/10/2025",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "PIANIFICAZIONE",
+        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
+    },
+    {
+        "N. Ordine":  "250827",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
+    },
+    {
+        "N. Ordine":  "250829",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "15860.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "250790",
+        "Data":  "09/10/2025",
+        "Cod. Cliente":  "C001308",
+        "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
+        "Data Consegna":  "09/10/2025",
+        "Importo":  "192.660000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "250769",
+        "Data":  "01/10/2025",
+        "Cod. Cliente":  "C051539",
+        "Cliente":  "CALA DEL CITRO S.R.L.S.",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "15117.070000",
+        "Agente":  "PIANIFICAZIONE",
+        "Note":  "Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTICIPO"
+    },
+    {
+        "N. Ordine":  "250757",
+        "Data":  "23/09/2025",
+        "Cod. Cliente":  "C050687",
+        "Cliente":  "FITTIPALDI LOREDANA",
+        "Data Consegna":  "23/09/2025",
+        "Importo":  "427.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "AFFETTATRICE 250"
+    },
+    {
+        "N. Ordine":  "250688",
+        "Data":  "13/08/2025",
+        "Cod. Cliente":  "C051685",
+        "Cliente":  "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO",
+        "Data Consegna":  "13/08/2025",
+        "Importo":  "76.790000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "BOTTIGLIE E BICCHIERI PAT"
+    },
+    {
+        "N. Ordine":  "250632",
+        "Data":  "01/08/2025",
+        "Cod. Cliente":  "C000441",
+        "Cliente":  "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
+        "Data Consegna":  "01/08/2025",
+        "Importo":  "3285.460000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "VETRINA\rBasato su Offerte di vendita 250707."
+    },
+    {
+        "N. Ordine":  "250620",
+        "Data":  "31/07/2025",
+        "Cod. Cliente":  "CO52627",
+        "Cliente":  "LA TENUTA DEL BARONE SAS",
+        "Data Consegna":  "31/07/2025",
+        "Importo":  "4.310000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RICAMBIO PER COMPLETARE ASSISTENZA SU LAVASTOVIGLIE"
+    },
+    {
+        "N. Ordine":  "250801",
+        "Data":  "29/07/2025",
+        "Cod. Cliente":  "C050749",
+        "Cliente":  "AGRITURISMO MASSERIA CAMPOLEROSE di TEDESCO ANTONIO",
+        "Data Consegna":  "29/07/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA"
+    },
+    {
+        "N. Ordine":  "250539",
+        "Data":  "12/07/2025",
+        "Cod. Cliente":  "CO52766",
+        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
+        "Data Consegna":  "12/07/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ATTREZZATURE SOLO PER CONSEGNA"
+    },
+    {
+        "N. Ordine":  "250327",
+        "Data":  "14/05/2025",
+        "Cod. Cliente":  "C050747",
+        "Cliente":  "MACELLERIA FERRAZZANO GIUSEPPINA LUCIA",
+        "Data Consegna":  "14/05/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "GUARNZIONI_SOLO CONSEGNA"
+    },
+    {
+        "N. Ordine":  "250219",
+        "Data":  "14/04/2025",
+        "Cod. Cliente":  "C050910",
+        "Cliente":  "DA FELICE srl",
+        "Data Consegna":  "14/04/2025",
+        "Importo":  "29.280000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RICAMBI SIRMAN"
+    },
+    {
+        "N. Ordine":  "241114",
+        "Data":  "20/12/2024",
+        "Cod. Cliente":  "CO52054",
+        "Cliente":  "H2A srl",
+        "Data Consegna":  "31/01/2025",
+        "Importo":  "6876.010000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ABBATTITORE VISION Basato su Offerte di vendita 241027."
+    },
+    {
+        "N. Ordine":  "240903",
+        "Data":  "30/09/2024",
+        "Cod. Cliente":  "C051539",
+        "Cliente":  "CALA DEL CITRO S.R.L.S.",
+        "Data Consegna":  "30/09/2024",
+        "Importo":  "16592.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RATIONAL USATO"
+    },
+    {
+        "N. Ordine":  "240899",
+        "Data":  "28/09/2024",
+        "Cod. Cliente":  "C001223",
+        "Cliente":  "NERA SRL",
+        "Data Consegna":  "28/09/2024",
+        "Importo":  "29000.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Basato su Offerte di vendita 240823."
+    },
+    {
+        "N. Ordine":  "240826",
+        "Data":  "28/08/2024",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "20/04/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA _ FORNI MORETTI\rBasato su Offerte di vendita 240738."
+    }
+]
