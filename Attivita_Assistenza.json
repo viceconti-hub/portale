@@ -1,15 +1,15 @@
 [
     {
-        "N. Attivita":  "7157",
+        "N. Attivita":  "7158",
         "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "08/02/2026",
-        "Ora":  "1926",
-        "Cod. Cliente":  "F001602",
-        "Cliente":  "MORINI s.r.l.",
-        "Contenuto":  "PROVA 08_02_2026 ORE 20:11 + 20:24",
-        "Citta":  "",
-        "Note":  "https://morinionline.it/it/novita-essentia-m1934\r\rhttps://morinionline.it/static/pdf/2025/novita-essentia-m1934.pdf\r\rhttps://www.dropbox.com/scl/fi/iphh4j0b6njb975nd2dsg/1-PORCELLANE.pdf?rlkey=7jiaiwur27cucmb9xqepdw1h1\u0026dl=0"
+        "Utente":  "BIAGIO RIZZO",
+        "Data":  "09/02/2026",
+        "Ora":  "1305",
+        "Cod. Cliente":  "CO52316",
+        "Cliente":  "PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR",
+        "Contenuto":  "BILANCIA",
+        "Citta":  "LAURIA",
+        "Note":  "BILANCIA: SOLITO PROBLEMA, NON CARICAR. PORTARE BILANCIA IN SOSTITUZIONE"
     },
     {
         "N. Attivita":  "7156",
@@ -24,54 +24,6 @@
         "Note":  "Forno cucina (ventilato): sistemare vapore perde\r\rFRIGGITRICE A GAS: MACCHINA IN COMODATO / PROVA\r\rForno pizzeria aspiratore\r\rProblema cappa ?: PROBLEMONE CAPPA"
     },
     {
-        "N. Attivita":  "7155",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "03/02/2026",
-        "Ora":  "1005",
-        "Cod. Cliente":  "CO52099",
-        "Cliente":  "PESCHERIA AZZURRA SRL",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "SANTA MARIA DEL CEDRO",
-        "Note":  "PRODUTTORE DI GHIACCIO"
-    },
-    {
-        "N. Attivita":  "7153",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "22/01/2026",
-        "Ora":  "924",
-        "Cod. Cliente":  "C001308",
-        "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
-        "Contenuto":  "COMPLESSO DI ATTREZZATURE",
-        "Citta":  "MARATEA",
-        "Note":  "CHIAMATA: chiamata_servizio_2026-01-22_092409.txt\r\rMARATEA SERVIZI\r\rRIEPILOGO MANUTENZIONI SOSPESE\r\rMensole: disponibili\r\rAffettatrice: pronta\r\rFrytop a gas mio revisionato non va\r\rFriggitrice mio gas revisionato non va\r\rFrytop elettrico tuo usato non va\r\rProblema cappa ?: PROBLEMONE CAPPA\r\rCestello lavastoviglie cucina da sistemare: \r\rTuo usato anno 2025\r\rForno cucina (ventilato): sistemare vapore perde\r\rLavabicchieri bar regolare detersivo e brillantante\r\rForno pizzeria aspiratore"
-    },
-    {
-        "N. Attivita":  "7151",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "21/01/2026",
-        "Ora":  "1759",
-        "Cod. Cliente":  "CO52039",
-        "Cliente":  "REALE GIACOMO",
-        "Contenuto":  "TRITACARNE",
-        "Citta":  "",
-        "Note":  "TRITACARNE LEONARI"
-    },
-    {
-        "N. Attivita":  "7146",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "16/01/2026",
-        "Ora":  "1711",
-        "Cod. Cliente":  "CO52768",
-        "Cliente":  "VE.RO SRLS",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "SAPRI",
-        "Note":  "FORNO"
-    },
-    {
         "N. Attivita":  "7145",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -82,18 +34,6 @@
         "Contenuto":  "RATIONAL",
         "Citta":  "TORTORA LIDO",
         "Note":  "RATIONAL: CONTROLLO GENERALE + GUARNIZIONE + LED  PREFERIBILMENTE LUNEDì"
-    },
-    {
-        "N. Attivita":  "7143",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "15/01/2026",
-        "Ora":  "1344",
-        "Cod. Cliente":  "C051108",
-        "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "SAN NICOLA ARCELLA",
-        "Note":  "RATIONAL: GUARNIZIONE"
     },
     {
         "N. Attivita":  "7142",
@@ -130,18 +70,6 @@
         "Contenuto":  "GRATTUGIA",
         "Citta":  "",
         "Note":  "GRATTUGIA"
-    },
-    {
-        "N. Attivita":  "7135",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/12/2025",
-        "Ora":  "935",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA",
-        "Contenuto":  "LAVASTOVIGLIE",
-        "Citta":  "SANTA MARIA DEL CEDRO",
-        "Note":  "LAVASTOVIGLIE COMENDA: PROBLEMA A BRACCIO INFERIORE"
     },
     {
         "N. Attivita":  "7133",
