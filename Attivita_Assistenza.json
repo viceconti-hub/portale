@@ -1,5 +1,17 @@
 [
     {
+        "N. Attivita":  "7159",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "10/02/2026",
+        "Ora":  "1106",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Contenuto":  "FORNO MBM",
+        "Citta":  "LAURIA",
+        "Note":  "FORNO MBM: CUSCINETTI\r\rFORNO MBM 2: SELETTORE"
+    },
+    {
         "N. Attivita":  "7158",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -36,30 +48,6 @@
         "Note":  "RATIONAL: CONTROLLO GENERALE + GUARNIZIONE + LED  PREFERIBILMENTE LUNEDì"
     },
     {
-        "N. Attivita":  "7142",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "15/01/2026",
-        "Ora":  "1327",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "MACCHINA SOTTOVUOTO",
-        "Citta":  "LAURIA",
-        "Note":  "MACCHINA SOTTOVUOTO: SOSTITUZIONE OLIO"
-    },
-    {
-        "N. Attivita":  "7141",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "13/01/2026",
-        "Ora":  "1707",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "FRIGGITRICE",
-        "Citta":  "LAURIA",
-        "Note":  "FRIGGITRICE: QUANDO ALZO LA TEMPERATURA NON SALE"
-    },
-    {
         "N. Attivita":  "7140",
         "Priorita":  "2",
         "Utente":  "Gianni",
@@ -94,18 +82,6 @@
         "Contenuto":  "LAVASTOVIGLIE",
         "Citta":  "NEMOLI",
         "Note":  "LAVASTOVIGLIE CUCINA"
-    },
-    {
-        "N. Attivita":  "7131",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/12/2025",
-        "Ora":  "909",
-        "Cod. Cliente":  "C050645",
-        "Cliente":  "VALLE MERCURE CARNI di FORASTIERO GIUSEPPE",
-        "Contenuto":  "MACCHINA SOTTOVUOTO",
-        "Citta":  "CASTELLUCCIO INF.",
-        "Note":  "MACHINA SOTTOVUOTO A CAMPANA: NON VA NUOVAMENTE LA SALDATURA + SOSTITUZIONE GUARNIZIONE"
     },
     {
         "N. Attivita":  "7129",
@@ -514,30 +490,6 @@
         "Contenuto":  "MIXER",
         "Citta":  "TRECCHINA",
         "Note":  "MIXER"
-    },
-    {
-        "N. Attivita":  "6750",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "16/12/2024",
-        "Ora":  "1758",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "CUCINA MARENO (PIZZERIA)",
-        "Citta":  "LAURIA",
-        "Note":  "CUCINA MARENO (PIZZERIA): SOSTITUZIONE MANOPOLE E PARTE RUBINETTO GAS"
-    },
-    {
-        "N. Attivita":  "6748",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "16/12/2024",
-        "Ora":  "1754",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "BRASIERA ZANUSSI (SALA MATRIMONI)",
-        "Citta":  "LAURIA",
-        "Note":  "BRASIERA ZANUSSI (SALA MATRIMONI): CONTROLLO PILOTA"
     },
     {
         "N. Attivita":  "6740",
