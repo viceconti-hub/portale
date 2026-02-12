@@ -1,5 +1,41 @@
 [
     {
+        "N. Attivita":  "7168",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "12/02/2026",
+        "Ora":  "1347",
+        "Cod. Cliente":  "C051194",
+        "Cliente":  "CAPITANERIA DI PORTO",
+        "Contenuto":  "MACCHINA DA CAFFE\u0027",
+        "Citta":  "",
+        "Note":  "MACCHINA DA CAFFE\u0027 DE LONGHI"
+    },
+    {
+        "N. Attivita":  "7167",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "12/02/2026",
+        "Ora":  "1347",
+        "Cod. Cliente":  "CO51727",
+        "Cliente":  "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC",
+        "Contenuto":  "LAVABAR",
+        "Citta":  "LAURIA",
+        "Note":  "LAVABAR"
+    },
+    {
+        "N. Attivita":  "7166",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "12/02/2026",
+        "Ora":  "1344",
+        "Cod. Cliente":  "CO52139",
+        "Cliente":  "TIME OUT FIMAANG SRLS",
+        "Contenuto":  "TAGLIAMOZZARELLA",
+        "Citta":  "LAURIA",
+        "Note":  "TAGLIAMOZZARELLA"
+    },
+    {
         "N. Attivita":  "7162",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -22,18 +58,6 @@
         "Contenuto":  "MURALE IFI",
         "Citta":  "LAURIA",
         "Note":  "MURALE IFI: LA TEMPERATURA VA SOTTO ZERO"
-    },
-    {
-        "N. Attivita":  "7160",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "10/02/2026",
-        "Ora":  "1110",
-        "Cod. Cliente":  "C001356",
-        "Cliente":  "PETER \u0026 FRENK s.a.s. di CALDARELLI FRANCESCO",
-        "Contenuto":  "FRIGGITRICE",
-        "Citta":  "ROTONDA",
-        "Note":  "FRIGGITRICE ZANUSSI: TRASFORMAZIONE"
     },
     {
         "N. Attivita":  "7159",
@@ -108,18 +132,6 @@
         "Note":  "LAVASTOVIGLIE"
     },
     {
-        "N. Attivita":  "7132",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/12/2025",
-        "Ora":  "914",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Contenuto":  "LAVASTOVIGLIE",
-        "Citta":  "NEMOLI",
-        "Note":  "LAVASTOVIGLIE CUCINA"
-    },
-    {
         "N. Attivita":  "7129",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -130,30 +142,6 @@
         "Contenuto":  "RATIONAL",
         "Citta":  "",
         "Note":  "RATIONAL: SERVICE 25 CLEANJET NON DISPONIBILE è POSSIBILE CUOCERE"
-    },
-    {
-        "N. Attivita":  "7125",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "19/12/2025",
-        "Ora":  "845",
-        "Cod. Cliente":  "C051449",
-        "Cliente":  "FRATTA ENZO",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "ROTONDA",
-        "Note":  "AFFETTATRICE"
-    },
-    {
-        "N. Attivita":  "7124",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "19/12/2025",
-        "Ora":  "841",
-        "Cod. Cliente":  "C001064",
-        "Cliente":  "SUPERMERCATO CRAI di FORTE MARIA",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "ROTONDA",
-        "Note":  "RATIONAL"
     },
     {
         "N. Attivita":  "7122",
@@ -202,18 +190,6 @@
         "Contenuto":  "CUCINA",
         "Citta":  "RIVELLO",
         "Note":  "CUCINA\r\r+ ANTE TAVOLI SOSTITUZIONE CERNIERE"
-    },
-    {
-        "N. Attivita":  "7079",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "13/09/2025",
-        "Ora":  "939",
-        "Cod. Cliente":  "CO51792",
-        "Cliente":  "CAPUTO VINCENZO",
-        "Contenuto":  "FORNO",
-        "Citta":  "",
-        "Note":  "FORNO TECNOEKA: SI SPEGNE, PROBABILE PROBLEMA AL MICRO PORTA"
     },
     {
         "N. Attivita":  "7078",
@@ -298,18 +274,6 @@
         "Contenuto":  "LAVABAR",
         "Citta":  "LAURIA",
         "Note":  "LAVABAR THESIS H29E: \r\r\rORDINARE MOZZO SUPERIORE TESTA ROTANTE"
-    },
-    {
-        "N. Attivita":  "7015",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "08/08/2025",
-        "Ora":  "910",
-        "Cod. Cliente":  "CO52300",
-        "Cliente":  "PANIFICIO CUORE FELICE DI CANNAZZARO CATERINA",
-        "Contenuto":  "IMPASTATRICE",
-        "Citta":  "ROTONDA",
-        "Note":  "TASTO STOP PER IMPASTATRICE MOD.BS 80, MATRICOLA 80300002 MARCA TECNOPAST"
     },
     {
         "N. Attivita":  "7011",
