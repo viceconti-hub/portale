@@ -90,16 +90,6 @@
         "Note":  "GRIGLIE COLDLINE GN 2/1"
     },
     {
-        "N. Ordine":  "260006",
-        "Data":  "08/01/2026",
-        "Cod. Cliente":  "CO52912",
-        "Cliente":  "TATA \u0026 CO SRL",
-        "Data Consegna":  "08/01/2026",
-        "Importo":  "1246.960000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MENSOLA A PONTE E PORTARIFIUTI RISTORANTE PARADISE - ALL\u0027INTERNO PARCO COMMERCIALE LOLLI PAGAMENTO PAYPAL"
-    },
-    {
         "N. Ordine":  "260001",
         "Data":  "07/01/2026",
         "Cod. Cliente":  "CO52817",
@@ -178,16 +168,6 @@
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SOLO PER CONSEGNA"
-    },
-    {
-        "N. Ordine":  "250870",
-        "Data":  "21/11/2025",
-        "Cod. Cliente":  "CO52001",
-        "Cliente":  "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO",
-        "Data Consegna":  "21/11/2025",
-        "Importo":  "800.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MENSOLE ACCIAIO INOX Basato su Offerte di vendita 250920."
     },
     {
         "N. Ordine":  "250872",
