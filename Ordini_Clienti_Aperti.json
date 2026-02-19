@@ -7,27 +7,7 @@
         "Data Consegna":  "11/02/2026",
         "Importo":  "12053.560000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260035",
-        "Data":  "10/02/2026",
-        "Cod. Cliente":  "C000202",
-        "Cliente":  "VILLA TERRY di CARLOMAGNO BIAGIO",
-        "Data Consegna":  "10/02/2026",
-        "Importo":  "250.120000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260036",
-        "Data":  "10/02/2026",
-        "Cod. Cliente":  "CO52055",
-        "Cliente":  "LUKANIA TURISMO SRL",
-        "Data Consegna":  "10/02/2026",
-        "Importo":  "600.000000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "CALICI E BICCHIERI Basato su Offerte di vendita 260019."
+        "Note":  "ABBATTITORE VISION NUVO"
     },
     {
         "N. Ordine":  "260034",
@@ -190,16 +170,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250841",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C000334",
-        "Cliente":  "DE MARE FRANCO",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "11.200000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
-    },
-    {
         "N. Ordine":  "250842",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C001516",
@@ -208,6 +178,16 @@
         "Importo":  "3538.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "MACCHINA DA CAFFE\u0027"
+    },
+    {
+        "N. Ordine":  "250841",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C000334",
+        "Cliente":  "DE MARE FRANCO",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "11.200000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
     },
     {
         "N. Ordine":  "250843",
@@ -230,16 +210,6 @@
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
     },
     {
-        "N. Ordine":  "250827",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
-    },
-    {
         "N. Ordine":  "250829",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -248,6 +218,16 @@
         "Importo":  "15860.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "250827",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
     },
     {
         "N. Ordine":  "250790",
