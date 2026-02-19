@@ -18,15 +18,6 @@
         "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
     },
     {
-        "N. Ordine":  "260009",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "1525.000000",
-        "Note":  "Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
-    },
-    {
         "N. Ordine":  "260008",
         "Data":  "05/02/2026",
         "Cod. Fornitore":  "F000826",
@@ -34,6 +25,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "2232.600000",
         "Note":  "Basato su Ordini cliente 250944."
+    },
+    {
+        "N. Ordine":  "260009",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "1525.000000",
+        "Note":  "Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
         "N. Ordine":  "260007",
