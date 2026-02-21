@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260044",
+        "Data":  "21/02/2026",
+        "Cod. Cliente":  "CO52790",
+        "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
+        "Data Consegna":  "21/03/2026",
+        "Importo":  "4700.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Basato su Offerte di vendita 260023."
+    },
+    {
         "N. Ordine":  "260037",
         "Data":  "11/02/2026",
         "Cod. Cliente":  "CO52916",
@@ -70,16 +80,6 @@
         "Note":  "GRIGLIE COLDLINE GN 2/1"
     },
     {
-        "N. Ordine":  "260001",
-        "Data":  "07/01/2026",
-        "Cod. Cliente":  "CO52817",
-        "Cliente":  "OCTO SRLS",
-        "Data Consegna":  "07/01/2026",
-        "Importo":  "308.170000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CESTELLO EXTRA TECNOINOX"
-    },
-    {
         "N. Ordine":  "260002",
         "Data":  "07/01/2026",
         "Cod. Cliente":  "C000831",
@@ -88,6 +88,16 @@
         "Importo":  "21.060000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260001",
+        "Data":  "07/01/2026",
+        "Cod. Cliente":  "CO52817",
+        "Cliente":  "OCTO SRLS",
+        "Data Consegna":  "07/01/2026",
+        "Importo":  "308.170000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CESTELLO EXTRA TECNOINOX"
     },
     {
         "N. Ordine":  "250942",
@@ -170,6 +180,16 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
+        "N. Ordine":  "250843",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C050721",
+        "Cliente":  "GIOIA MARIA",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "27.990000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "APRIBARATTOLI"
+    },
+    {
         "N. Ordine":  "250842",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C001516",
@@ -188,16 +208,6 @@
         "Importo":  "11.200000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
-    },
-    {
-        "N. Ordine":  "250843",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C050721",
-        "Cliente":  "GIOIA MARIA",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "27.990000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "APRIBARATTOLI"
     },
     {
         "N. Ordine":  "250832",
