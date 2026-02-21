@@ -72,15 +72,6 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
     },
     {
-        "N. Ordine":  "260003",
-        "Data":  "28/01/2026",
-        "Cod. Fornitore":  "F051488",
-        "Fornitore":  "FAMAG SRL",
-        "Data Consegna":  "28/01/2026",
-        "Importo":  "0.000000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260002",
         "Data":  "28/01/2026",
         "Cod. Fornitore":  "F051358",
@@ -88,6 +79,15 @@
         "Data Consegna":  "28/01/2026",
         "Importo":  "140.300000",
         "Note":  "DS1 DOSATORE AUTOMATICO DI SALAMOIA FINO A 3000 KG PER PERSCHERIA AZZURRA"
+    },
+    {
+        "N. Ordine":  "260003",
+        "Data":  "28/01/2026",
+        "Cod. Fornitore":  "F051488",
+        "Fornitore":  "FAMAG SRL",
+        "Data Consegna":  "28/01/2026",
+        "Importo":  "0.000000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260001",
