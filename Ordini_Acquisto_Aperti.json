@@ -108,15 +108,6 @@
         "Note":  "CENTRAL MARKET Basato su Ordini cliente 260019."
     },
     {
-        "N. Ordine":  "150636",
-        "Data":  "12/01/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "08/01/2026",
-        "Importo":  "846.680000",
-        "Note":  "TATA \u0026 CO  SRL Ordini cliente 260006."
-    },
-    {
         "N. Ordine":  "150635",
         "Data":  "12/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -124,6 +115,15 @@
         "Data Consegna":  "08/01/2026",
         "Importo":  "646.600000",
         "Note":  "Basato su Ordini cliente 260006."
+    },
+    {
+        "N. Ordine":  "150636",
+        "Data":  "12/01/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "08/01/2026",
+        "Importo":  "846.680000",
+        "Note":  "TATA \u0026 CO  SRL Ordini cliente 260006."
     },
     {
         "N. Ordine":  "250504",
@@ -153,22 +153,13 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
-        "N. Ordine":  "250447",
+        "N. Ordine":  "250442",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
-    },
-    {
-        "N. Ordine":  "250446",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "8027.600000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP Spa",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "2138.660000",
+        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
     },
     {
         "N. Ordine":  "250443",
@@ -180,13 +171,22 @@
         "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
     },
     {
-        "N. Ordine":  "250442",
+        "N. Ordine":  "250446",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "2138.660000",
-        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "8027.600000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
