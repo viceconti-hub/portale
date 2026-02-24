@@ -1,8 +1,42 @@
-[{
-    "N. DDT":  "260004",
-    "Data":  "11/02/2026",
-    "Cod. Fornitore":  "F051367",
-    "Fornitore":  "TOP SERVICE DI TRIESTINO PANETTA",
-    "Importo":  "244.000000",
-    "Note":  "TELAIO APPESO PASTICCERIA PER CENTRAL PAUSA Basato su Ordini d\u0027acquisto 260012."
-}]
+[
+    {
+        "N. DDT":  "260008",
+        "Data":  "19/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Importo":  "4131.730000",
+        "Note":  "CAMPOLEROSE BCC LEASE Basato su Ordini d\u0027acquisto 250469."
+    },
+    {
+        "N. DDT":  "260007",
+        "Data":  "19/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Importo":  "7026.090000",
+        "Note":  "FA\u0027 TU BCC LEASE Basato su Ordini d\u0027acquisto 250470."
+    },
+    {
+        "N. DDT":  "260006",
+        "Data":  "13/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Importo":  "16190.340000",
+        "Note":  "Basato su Ordini d\u0027acquisto 250469. 250470."
+    },
+    {
+        "N. DDT":  "260004",
+        "Data":  "11/02/2026",
+        "Cod. Fornitore":  "F051367",
+        "Fornitore":  "TOP SERVICE DI TRIESTINO PANETTA",
+        "Importo":  "244.000000",
+        "Note":  "TELAIO APPESO PASTICCERIA PER CENTRAL PAUSA Basato su Ordini d\u0027acquisto 260012."
+    },
+    {
+        "N. DDT":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051183",
+        "Fornitore":  "PRIOLINOX SPA",
+        "Importo":  "236.440000",
+        "Note":  "ARTE DOLCIARIA Basato su Ordini cliente 260024. Basato su Ordini d\u0027acquisto 260001."
+    }
+]
