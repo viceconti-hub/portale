@@ -1,15 +1,27 @@
 [
     {
-        "N. Attivita":  "7172",
+        "N. Attivita":  "7174",
         "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "21/02/2026",
-        "Ora":  "946",
-        "Cod. Cliente":  "CO52055",
-        "Cliente":  "LUKANIA TURISMO SRL",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "VIGGIANELLO",
-        "Note":  "PRODUTTORE DI GHIACCIO BREMA MOD.IMF 28W-Q MATRICOLA: 2012040579000 FATTO SABATO"
+        "Utente":  "BIAGIO RIZZO",
+        "Data":  "24/02/2026",
+        "Ora":  "941",
+        "Cod. Cliente":  "CO52368",
+        "Cliente":  "4.0 SRLS YUMARA",
+        "Contenuto":  "FORNO",
+        "Citta":  "MARATEA",
+        "Note":  "FORNO"
+    },
+    {
+        "N. Attivita":  "7173",
+        "Priorita":  "1",
+        "Utente":  "BIAGIO RIZZO",
+        "Data":  "24/02/2026",
+        "Ora":  "940",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Contenuto":  "ARMADIO FRIGO",
+        "Citta":  "MARATEA",
+        "Note":  "ARMADIO FRIGO: NON VA"
     },
     {
         "N. Attivita":  "7171",
@@ -32,7 +44,7 @@
         "Cod. Cliente":  "CO52352",
         "Cliente":  "RISTO BRACERIA A L\u0027URMO SNC di IANNELLI OTTAVIO \u0026 C.",
         "Contenuto":  "FRYTOP",
-        "Citta":  "",
+        "Citta":  "TORRACA",
         "Note":  "FRYTOP aggiornamento 19/02/2026"
     },
     {
@@ -44,7 +56,7 @@
         "Cod. Cliente":  "C051194",
         "Cliente":  "CAPITANERIA DI PORTO",
         "Contenuto":  "MACCHINA DA CAFFE\u0027",
-        "Citta":  "",
+        "Citta":  "MARATEA",
         "Note":  "MACCHINA DA CAFFE\u0027 DE LONGHI"
     },
     {
