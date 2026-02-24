@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260013",
+        "Data":  "23/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "07/02/2026",
+        "Importo":  "6433.060000",
+        "Note":  "CORRADO MICHELA Basato su Ordini cliente 260034."
+    },
+    {
+        "N. Ordine":  "260014",
+        "Data":  "23/02/2026",
+        "Cod. Fornitore":  "F051446",
+        "Fornitore":  "MECNOSUD S.R.L.",
+        "Data Consegna":  "07/02/2026",
+        "Importo":  "6832.000000",
+        "Note":  "CORRADO MICHELA Basato su Ordini cliente 260034."
+    },
+    {
         "N. Ordine":  "260010",
         "Data":  "10/02/2026",
         "Cod. Fornitore":  "F001602",
@@ -33,7 +51,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "31/12/2025",
         "Importo":  "1525.000000",
-        "Note":  "Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
+        "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
         "N. Ordine":  "260007",
@@ -88,15 +106,6 @@
         "Data Consegna":  "28/01/2026",
         "Importo":  "0.000000",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260001",
-        "Data":  "26/01/2026",
-        "Cod. Fornitore":  "F051183",
-        "Fornitore":  "PRIOLINOX SPA",
-        "Data Consegna":  "26/01/2026",
-        "Importo":  "345.500000",
-        "Note":  "ARTE DOLCIARIA Basato su Ordini cliente 260024."
     },
     {
         "N. Ordine":  "150640",
@@ -223,24 +232,6 @@
         "Data Consegna":  "20/10/2025",
         "Importo":  "252.810000",
         "Note":  "CAMPOLEROSE + MAG Basato su Ordini cliente 250801."
-    },
-    {
-        "N. Ordine":  "250470",
-        "Data":  "15/10/2025",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "15/10/2025",
-        "Importo":  "18220.220000",
-        "Note":  "FA\u0027 TU BCC LEASE"
-    },
-    {
-        "N. Ordine":  "250469",
-        "Data":  "22/09/2025",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "22/09/2025",
-        "Importo":  "9127.920000",
-        "Note":  "CAMPOLEROSE BCC LEASE"
     },
     {
         "N. Ordine":  "250351",
