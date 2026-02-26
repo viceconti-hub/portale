@@ -1,5 +1,35 @@
 [
     {
+        "N. Ordine":  "260048",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C050901",
+        "Cliente":  "PANAINO SRL UNIPERSONALE",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "44.970000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260049",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C050811",
+        "Cliente":  "ESCOPOCO S.R.L.",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "119.560000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260050",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "77.240000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
+    },
+    {
         "N. Ordine":  "260044",
         "Data":  "21/02/2026",
         "Cod. Cliente":  "CO52790",
@@ -180,16 +210,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250841",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C000334",
-        "Cliente":  "DE MARE FRANCO",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "11.200000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
-    },
-    {
         "N. Ordine":  "250842",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C001516",
@@ -200,14 +220,14 @@
         "Note":  "MACCHINA DA CAFFE\u0027"
     },
     {
-        "N. Ordine":  "250843",
+        "N. Ordine":  "250841",
         "Data":  "03/11/2025",
-        "Cod. Cliente":  "C050721",
-        "Cliente":  "GIOIA MARIA",
+        "Cod. Cliente":  "C000334",
+        "Cliente":  "DE MARE FRANCO",
         "Data Consegna":  "03/11/2025",
-        "Importo":  "27.990000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "APRIBARATTOLI"
+        "Importo":  "11.200000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
     },
     {
         "N. Ordine":  "250832",
@@ -220,16 +240,6 @@
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
     },
     {
-        "N. Ordine":  "250827",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
-    },
-    {
         "N. Ordine":  "250829",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -238,6 +248,16 @@
         "Importo":  "15860.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "250827",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
     },
     {
         "N. Ordine":  "250790",
