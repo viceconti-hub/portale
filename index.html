@@ -70,6 +70,15 @@
         .topbar-logo:hover { opacity: 0.8; }
         .topbar-title { display: none; }
         .topbar-subtitle { display: none; }
+        .data-source {
+            display: flex;
+            align-items: center;
+            flex-shrink: 0;
+        }
+        .data-source img {
+            height: 36px;
+            width: auto;
+        }
         .topbar-right {
             display: flex;
             align-items: center;
@@ -500,6 +509,7 @@
         @media (max-width: 768px) {
             .topbar { padding: 8px 14px; }
             .topbar-logo { height: 28px; }
+            .data-source img { height: 28px; }
             .navbar { padding: 0 8px; top: 52px; overflow-x: auto; }
             .navbar a { padding: 8px 12px; font-size: 12px; }
             .breadcrumb { padding: 12px 14px; }
@@ -525,6 +535,9 @@
     <div class="topbar">
         <div class="topbar-left">
             <img src="logo-viceconti.png" alt="Viceconti" class="topbar-logo" onclick="goHome()" onerror="this.style.display='none'">
+            <div class="data-source">
+                <img src="logo-sap-business-one.png" alt="SAP Business One" onerror="this.parentElement.style.display='none'">
+            </div>
         </div>
         <div class="topbar-right">
             <div class="topbar-badge" id="lastUpdate"></div>
