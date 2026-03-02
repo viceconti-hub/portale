@@ -1,5 +1,17 @@
 [
     {
+        "N. Attivita":  "7177",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "02/03/2026",
+        "Ora":  "1124",
+        "Cod. Cliente":  "C000766",
+        "Cliente":  "MINIMARKET di PAPALEO GIOVANNI",
+        "Contenuto":  "BILANCIA",
+        "Citta":  "MARATEA",
+        "Note":  "BILANCIA ITALIANA MACCHI: PROBLEMA ALLA STAMPA"
+    },
+    {
         "N. Attivita":  "7176",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -10,18 +22,6 @@
         "Contenuto":  "MIXER IMMERSIONE",
         "Citta":  "Piedimonte Matese",
         "Note":  "MIXER IMMERSIONE DYNAMIC DMX 410"
-    },
-    {
-        "N. Attivita":  "7175",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "24/02/2026",
-        "Ora":  "1019",
-        "Cod. Cliente":  "CO51863",
-        "Cliente":  "IL LUCANO SRLS",
-        "Contenuto":  "FRIGGITRICE",
-        "Citta":  "MARATEA",
-        "Note":  "FRIGGITRICE"
     },
     {
         "N. Attivita":  "7174",
@@ -55,9 +55,9 @@
         "Ora":  "1342",
         "Cod. Cliente":  "CO52181",
         "Cliente":  "MARIZIOSA S.N.C. DI MARILENA FORESTIEIRI E MARIA BLOISE",
-        "Contenuto":  "",
+        "Contenuto":  "IMPASTATRICE",
         "Citta":  "LAURIA",
-        "Note":  "MACCHINA NON SPECIFICATA"
+        "Note":  "IMPASTATRICE"
     },
     {
         "N. Attivita":  "7170",
