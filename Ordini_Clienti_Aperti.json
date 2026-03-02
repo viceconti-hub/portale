@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260052",
+        "Data":  "28/02/2026",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "28/02/2026",
+        "Importo":  "7581.810000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FRIGO VINI DOPPIA ZONA DI TEMPERATURA Basato su Offerte di vendita 260016."
+    },
+    {
+        "N. Ordine":  "260050",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "77.240000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
+    },
+    {
         "N. Ordine":  "260048",
         "Data":  "26/02/2026",
         "Cod. Cliente":  "C050901",
@@ -17,17 +37,7 @@
         "Data Consegna":  "26/02/2026",
         "Importo":  "119.560000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260050",
-        "Data":  "26/02/2026",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "77.240000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
+        "Note":  "DETERGENTE MODULAR"
     },
     {
         "N. Ordine":  "260044",
@@ -67,7 +77,7 @@
         "Data Consegna":  "03/02/2026",
         "Importo":  "52.960000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BILANCIA PADERNO"
+        "Note":  "BILANCIA PADERNO BONIFICO MPS PROSPERO \u003e\u003e CONTANTI"
     },
     {
         "N. Ordine":  "260028",
@@ -130,16 +140,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250942",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "C000628",
-        "Cliente":  "LAMBOGLIA FRANCESCO",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "49.780000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
-    },
-    {
         "N. Ordine":  "250944",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "CO52883",
@@ -148,6 +148,16 @@
         "Importo":  "4699.930000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
+    },
+    {
+        "N. Ordine":  "250942",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "C000628",
+        "Cliente":  "LAMBOGLIA FRANCESCO",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "49.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
     },
     {
         "N. Ordine":  "250900",
@@ -187,7 +197,7 @@
         "Data Consegna":  "25/11/2025",
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA"
+        "Note":  "SOLO PER CONSEGNA DATA AGGIORNAMENTO TESTO LIBERO 28_02_2026"
     },
     {
         "N. Ordine":  "250872",
@@ -388,15 +398,5 @@
         "Importo":  "29000.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Basato su Offerte di vendita 240823."
-    },
-    {
-        "N. Ordine":  "240826",
-        "Data":  "28/08/2024",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
-        "Data Consegna":  "20/04/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA _ FORNI MORETTI\rBasato su Offerte di vendita 240738."
     }
 ]
