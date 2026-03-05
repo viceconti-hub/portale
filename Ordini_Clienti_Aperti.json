@@ -10,16 +10,6 @@
         "Note":  "FRIGO VINI DOPPIA ZONA DI TEMPERATURA Basato su Offerte di vendita 260016."
     },
     {
-        "N. Ordine":  "260049",
-        "Data":  "26/02/2026",
-        "Cod. Cliente":  "C050811",
-        "Cliente":  "ESCOPOCO S.R.L.",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "119.560000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE MODULAR"
-    },
-    {
         "N. Ordine":  "260048",
         "Data":  "26/02/2026",
         "Cod. Cliente":  "C050901",
@@ -28,6 +18,16 @@
         "Importo":  "44.970000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260049",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C050811",
+        "Cliente":  "ESCOPOCO S.R.L.",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "119.560000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE MODULAR"
     },
     {
         "N. Ordine":  "260050",
@@ -110,16 +110,6 @@
         "Note":  "GRIGLIE COLDLINE GN 2/1"
     },
     {
-        "N. Ordine":  "260002",
-        "Data":  "07/01/2026",
-        "Cod. Cliente":  "C000831",
-        "Cliente":  "Panificio ARENA sas",
-        "Data Consegna":  "07/01/2026",
-        "Importo":  "21.060000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260001",
         "Data":  "07/01/2026",
         "Cod. Cliente":  "CO52817",
@@ -128,6 +118,16 @@
         "Importo":  "308.170000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CESTELLO EXTRA TECNOINOX"
+    },
+    {
+        "N. Ordine":  "260002",
+        "Data":  "07/01/2026",
+        "Cod. Cliente":  "C000831",
+        "Cliente":  "Panificio ARENA sas",
+        "Data Consegna":  "07/01/2026",
+        "Importo":  "21.060000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "250944",
