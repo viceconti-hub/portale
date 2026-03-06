@@ -81,15 +81,6 @@
         "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
     },
     {
-        "N. Ordine":  "260008",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "2232.600000",
-        "Note":  "Basato su Ordini cliente 250944."
-    },
-    {
         "N. Ordine":  "260009",
         "Data":  "05/02/2026",
         "Cod. Fornitore":  "F050748",
@@ -97,6 +88,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "1525.000000",
         "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
+    },
+    {
+        "N. Ordine":  "260008",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "2232.600000",
+        "Note":  "Basato su Ordini cliente 250944."
     },
     {
         "N. Ordine":  "260006",
@@ -198,24 +198,6 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
-        "N. Ordine":  "250447",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
-    },
-    {
-        "N. Ordine":  "250446",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "8027.600000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
-    },
-    {
         "N. Ordine":  "250443",
         "Data":  "10/11/2025",
         "Cod. Fornitore":  "F051479",
@@ -232,6 +214,24 @@
         "Data Consegna":  "28/10/2025",
         "Importo":  "2138.660000",
         "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
+    },
+    {
+        "N. Ordine":  "250446",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "8027.600000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
