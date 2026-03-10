@@ -20,16 +20,6 @@
         "Note":  "FRIGO VINI DOPPIA ZONA DI TEMPERATURA Basato su Offerte di vendita 260016."
     },
     {
-        "N. Ordine":  "260050",
-        "Data":  "26/02/2026",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "77.240000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
-    },
-    {
         "N. Ordine":  "260048",
         "Data":  "26/02/2026",
         "Cod. Cliente":  "C050901",
@@ -48,6 +38,16 @@
         "Importo":  "119.560000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "DETERGENTE MODULAR"
+    },
+    {
+        "N. Ordine":  "260050",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "77.240000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
     },
     {
         "N. Ordine":  "260044",
@@ -110,16 +110,6 @@
         "Note":  "GRIGLIE COLDLINE GN 2/1"
     },
     {
-        "N. Ordine":  "260002",
-        "Data":  "07/01/2026",
-        "Cod. Cliente":  "C000831",
-        "Cliente":  "Panificio ARENA sas",
-        "Data Consegna":  "07/01/2026",
-        "Importo":  "21.060000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260001",
         "Data":  "07/01/2026",
         "Cod. Cliente":  "CO52817",
@@ -128,6 +118,16 @@
         "Importo":  "308.170000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CESTELLO EXTRA TECNOINOX"
+    },
+    {
+        "N. Ordine":  "260002",
+        "Data":  "07/01/2026",
+        "Cod. Cliente":  "C000831",
+        "Cliente":  "Panificio ARENA sas",
+        "Data Consegna":  "07/01/2026",
+        "Importo":  "21.060000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "250944",
@@ -240,16 +240,6 @@
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
     },
     {
-        "N. Ordine":  "250827",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
-    },
-    {
         "N. Ordine":  "250829",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -258,6 +248,16 @@
         "Importo":  "15860.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "250827",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
     },
     {
         "N. Ordine":  "250790",
