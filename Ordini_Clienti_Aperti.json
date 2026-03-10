@@ -130,16 +130,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250944",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "CO52883",
-        "Cliente":  "Brutium Srl",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "4699.930000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
-    },
-    {
         "N. Ordine":  "250942",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "C000628",
@@ -148,6 +138,16 @@
         "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
+    },
+    {
+        "N. Ordine":  "250944",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "CO52883",
+        "Cliente":  "Brutium Srl",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "4699.930000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
     },
     {
         "N. Ordine":  "250900",
@@ -210,16 +210,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250842",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C001516",
-        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "3538.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MACCHINA DA CAFFE\u0027"
-    },
-    {
         "N. Ordine":  "250841",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C000334",
@@ -228,6 +218,16 @@
         "Importo":  "11.200000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
+    },
+    {
+        "N. Ordine":  "250842",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C001516",
+        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "3538.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MACCHINA DA CAFFE\u0027"
     },
     {
         "N. Ordine":  "250832",
@@ -240,16 +240,6 @@
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
     },
     {
-        "N. Ordine":  "250829",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "15860.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "250827",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -258,6 +248,16 @@
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
+    },
+    {
+        "N. Ordine":  "250829",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "15860.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "250790",
