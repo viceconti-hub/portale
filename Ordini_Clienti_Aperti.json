@@ -30,16 +30,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260058",
-        "Data":  "06/03/2026",
-        "Cod. Cliente":  "C051638",
-        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
-        "Data Consegna":  "06/03/2026",
-        "Importo":  "138.350000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE RATIONAL"
-    },
-    {
         "N. Ordine":  "260052",
         "Data":  "28/02/2026",
         "Cod. Cliente":  "C000223",
@@ -68,16 +58,6 @@
         "Importo":  "119.560000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "DETERGENTE MODULAR"
-    },
-    {
-        "N. Ordine":  "260050",
-        "Data":  "26/02/2026",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "77.240000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "BARRE PORTACLICI Basato su Offerte di vendita 260032."
     },
     {
         "N. Ordine":  "260044",
@@ -120,16 +100,6 @@
         "Note":  "ARMADIO FRIGO SMART A120/2ME Basato su Offerte di vendita 250898."
     },
     {
-        "N. Ordine":  "260019",
-        "Data":  "22/01/2026",
-        "Cod. Cliente":  "C000229",
-        "Cliente":  "CENTRAL MARKET SNC DI FORESTIERI G. \u0026 ZACCAGNINO R.",
-        "Data Consegna":  "22/01/2026",
-        "Importo":  "12643.410000",
-        "Agente":  "ANTONIO",
-        "Note":  "ARMADIO CONGELATORE E LAVAOGGETTI Basato su Offerte di vendita 250964."
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "10/01/2026",
         "Cod. Cliente":  "CO52910",
@@ -150,14 +120,14 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260001",
-        "Data":  "07/01/2026",
-        "Cod. Cliente":  "CO52817",
-        "Cliente":  "OCTO SRLS",
-        "Data Consegna":  "07/01/2026",
-        "Importo":  "308.170000",
+        "N. Ordine":  "250942",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "C000628",
+        "Cliente":  "LAMBOGLIA FRANCESCO",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CESTELLO EXTRA TECNOINOX"
+        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
     },
     {
         "N. Ordine":  "250944",
@@ -168,16 +138,6 @@
         "Importo":  "4699.930000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
-    },
-    {
-        "N. Ordine":  "250942",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "C000628",
-        "Cliente":  "LAMBOGLIA FRANCESCO",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "49.780000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
     },
     {
         "N. Ordine":  "250900",
@@ -240,16 +200,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250842",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C001516",
-        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "3538.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MACCHINA DA CAFFE\u0027"
-    },
-    {
         "N. Ordine":  "250841",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C000334",
@@ -258,6 +208,16 @@
         "Importo":  "11.200000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
+    },
+    {
+        "N. Ordine":  "250842",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C001516",
+        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "3538.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MACCHINA DA CAFFE\u0027"
     },
     {
         "N. Ordine":  "250832",
