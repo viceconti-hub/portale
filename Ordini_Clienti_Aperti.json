@@ -1,13 +1,13 @@
 [
     {
-        "N. Ordine":  "260062",
+        "N. Ordine":  "260064",
         "Data":  "11/03/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
         "Data Consegna":  "11/03/2026",
-        "Importo":  "106.140000",
+        "Importo":  "175.680000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
+        "Note":  ""
     },
     {
         "N. Ordine":  "260063",
@@ -20,14 +20,14 @@
         "Note":  "FRIGGITRICE FERRO Basato su Offerte di vendita 260050."
     },
     {
-        "N. Ordine":  "260064",
+        "N. Ordine":  "260062",
         "Data":  "11/03/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
         "Data Consegna":  "11/03/2026",
-        "Importo":  "175.680000",
+        "Importo":  "106.140000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
     },
     {
         "N. Ordine":  "260052",
@@ -200,16 +200,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250842",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C001516",
-        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "3538.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MACCHINA DA CAFFE\u0027"
-    },
-    {
         "N. Ordine":  "250841",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C000334",
@@ -218,6 +208,16 @@
         "Importo":  "11.200000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
+    },
+    {
+        "N. Ordine":  "250842",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C001516",
+        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "3538.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MACCHINA DA CAFFE\u0027"
     },
     {
         "N. Ordine":  "250832",
@@ -230,16 +230,6 @@
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250835."
     },
     {
-        "N. Ordine":  "250829",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "15860.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "250827",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -248,6 +238,16 @@
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
+    },
+    {
+        "N. Ordine":  "250829",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "15860.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "250790",
