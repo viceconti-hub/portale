@@ -120,16 +120,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250944",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "CO52883",
-        "Cliente":  "Brutium Srl",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "4699.930000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
-    },
-    {
         "N. Ordine":  "250942",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "C000628",
@@ -138,6 +128,16 @@
         "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
+    },
+    {
+        "N. Ordine":  "250944",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "CO52883",
+        "Cliente":  "Brutium Srl",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "4699.930000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
     },
     {
         "N. Ordine":  "250900",
