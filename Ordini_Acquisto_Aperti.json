@@ -144,15 +144,6 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
     },
     {
-        "N. Ordine":  "260003",
-        "Data":  "28/01/2026",
-        "Cod. Fornitore":  "F051488",
-        "Fornitore":  "FAMAG SRL",
-        "Data Consegna":  "28/01/2026",
-        "Importo":  "0.000000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260002",
         "Data":  "28/01/2026",
         "Cod. Fornitore":  "F051358",
@@ -160,6 +151,15 @@
         "Data Consegna":  "28/01/2026",
         "Importo":  "140.300000",
         "Note":  "DS1 DOSATORE AUTOMATICO DI SALAMOIA FINO A 3000 KG PER PERSCHERIA AZZURRA"
+    },
+    {
+        "N. Ordine":  "260003",
+        "Data":  "28/01/2026",
+        "Cod. Fornitore":  "F051488",
+        "Fornitore":  "FAMAG SRL",
+        "Data Consegna":  "28/01/2026",
+        "Importo":  "0.000000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "150640",
@@ -216,6 +216,15 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
         "N. Ordine":  "250446",
         "Data":  "10/11/2025",
         "Cod. Fornitore":  "F051393",
@@ -241,15 +250,6 @@
         "Data Consegna":  "28/10/2025",
         "Importo":  "2138.660000",
         "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
-    },
-    {
-        "N. Ordine":  "250447",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
