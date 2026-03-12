@@ -1,11 +1,35 @@
 [
     {
+        "N. DDT":  "260014",
+        "Data":  "11/03/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "273.400000",
+        "Note":  ""
+    },
+    {
+        "N. DDT":  "260013",
+        "Data":  "11/03/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "366.570000",
+        "Note":  ""
+    },
+    {
         "N. DDT":  "260009",
         "Data":  "26/02/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Importo":  "164.700000",
         "Note":  "CAMPOLEROSE + MAG Basato su Ordini cliente 250801. Basato su Ordini d\u0027acquisto 250416."
+    },
+    {
+        "N. DDT":  "260012",
+        "Data":  "24/02/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "57.730000",
+        "Note":  ""
     },
     {
         "N. DDT":  "260008",
@@ -22,6 +46,14 @@
         "Fornitore":  "COLDLINE srl",
         "Importo":  "7026.090000",
         "Note":  "FA\u0027 TU BCC LEASE Basato su Ordini d\u0027acquisto 250470."
+    },
+    {
+        "N. DDT":  "260011",
+        "Data":  "13/02/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "57.730000",
+        "Note":  ""
     },
     {
         "N. DDT":  "260006",
