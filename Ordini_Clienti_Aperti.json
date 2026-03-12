@@ -120,16 +120,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250942",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "C000628",
-        "Cliente":  "LAMBOGLIA FRANCESCO",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "49.780000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
-    },
-    {
         "N. Ordine":  "250944",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "CO52883",
@@ -138,6 +128,16 @@
         "Importo":  "4699.930000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
+    },
+    {
+        "N. Ordine":  "250942",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "C000628",
+        "Cliente":  "LAMBOGLIA FRANCESCO",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "49.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
     },
     {
         "N. Ordine":  "250900",
@@ -200,16 +200,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250841",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C000334",
-        "Cliente":  "DE MARE FRANCO",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "11.200000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
-    },
-    {
         "N. Ordine":  "250842",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C001516",
@@ -218,6 +208,16 @@
         "Importo":  "3538.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "MACCHINA DA CAFFE\u0027"
+    },
+    {
+        "N. Ordine":  "250841",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C000334",
+        "Cliente":  "DE MARE FRANCO",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "11.200000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
     },
     {
         "N. Ordine":  "250832",
