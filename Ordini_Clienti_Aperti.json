@@ -10,14 +10,14 @@
         "Note":  "TERMOMETRO DIGITALE"
     },
     {
-        "N. Ordine":  "260064",
+        "N. Ordine":  "260062",
         "Data":  "11/03/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
         "Data Consegna":  "11/03/2026",
-        "Importo":  "175.680000",
+        "Importo":  "106.140000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
     },
     {
         "N. Ordine":  "260063",
@@ -30,14 +30,14 @@
         "Note":  "FRIGGITRICE FERRO Basato su Offerte di vendita 260050."
     },
     {
-        "N. Ordine":  "260062",
+        "N. Ordine":  "260064",
         "Data":  "11/03/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
         "Data Consegna":  "11/03/2026",
-        "Importo":  "106.140000",
+        "Importo":  "175.680000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
+        "Note":  ""
     },
     {
         "N. Ordine":  "260052",
@@ -200,16 +200,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250841",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C000334",
-        "Cliente":  "DE MARE FRANCO",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "11.200000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
-    },
-    {
         "N. Ordine":  "250842",
         "Data":  "03/11/2025",
         "Cod. Cliente":  "C001516",
@@ -218,6 +208,16 @@
         "Importo":  "3538.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "MACCHINA DA CAFFE\u0027"
+    },
+    {
+        "N. Ordine":  "250841",
+        "Data":  "03/11/2025",
+        "Cod. Cliente":  "C000334",
+        "Cliente":  "DE MARE FRANCO",
+        "Data Consegna":  "03/11/2025",
+        "Importo":  "11.200000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
     },
     {
         "N. Ordine":  "250832",
