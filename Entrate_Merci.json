@@ -46,21 +46,5 @@
         "Fornitore":  "COLDLINE srl",
         "Importo":  "7026.090000",
         "Note":  "FA\u0027 TU BCC LEASE Basato su Ordini d\u0027acquisto 250470."
-    },
-    {
-        "N. DDT":  "260011",
-        "Data":  "13/02/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "57.730000",
-        "Note":  ""
-    },
-    {
-        "N. DDT":  "260006",
-        "Data":  "13/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Importo":  "16190.340000",
-        "Note":  "Basato su Ordini d\u0027acquisto 250469. 250470."
     }
 ]
