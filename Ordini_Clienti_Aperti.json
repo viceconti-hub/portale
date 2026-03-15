@@ -10,16 +10,6 @@
         "Note":  "TERMOMETRO DIGITALE"
     },
     {
-        "N. Ordine":  "260062",
-        "Data":  "11/03/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "106.140000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
-    },
-    {
         "N. Ordine":  "260063",
         "Data":  "11/03/2026",
         "Cod. Cliente":  "CO52190",
@@ -40,6 +30,16 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260062",
+        "Data":  "11/03/2026",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Data Consegna":  "11/03/2026",
+        "Importo":  "106.140000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
+    },
+    {
         "N. Ordine":  "260052",
         "Data":  "28/02/2026",
         "Cod. Cliente":  "C000223",
@@ -50,16 +50,6 @@
         "Note":  "FRIGO VINI DOPPIA ZONA DI TEMPERATURA Basato su Offerte di vendita 260016."
     },
     {
-        "N. Ordine":  "260048",
-        "Data":  "26/02/2026",
-        "Cod. Cliente":  "C050901",
-        "Cliente":  "PANAINO SRL UNIPERSONALE",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "44.970000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260049",
         "Data":  "26/02/2026",
         "Cod. Cliente":  "C050811",
@@ -68,6 +58,16 @@
         "Importo":  "119.560000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "DETERGENTE MODULAR"
+    },
+    {
+        "N. Ordine":  "260048",
+        "Data":  "26/02/2026",
+        "Cod. Cliente":  "C050901",
+        "Cliente":  "PANAINO SRL UNIPERSONALE",
+        "Data Consegna":  "26/02/2026",
+        "Importo":  "44.970000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260044",
@@ -130,16 +130,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250944",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "CO52883",
-        "Cliente":  "Brutium Srl",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "4699.930000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
-    },
-    {
         "N. Ordine":  "250942",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "C000628",
@@ -148,6 +138,16 @@
         "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
+    },
+    {
+        "N. Ordine":  "250944",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "CO52883",
+        "Cliente":  "Brutium Srl",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "4699.930000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
     },
     {
         "N. Ordine":  "250888",
