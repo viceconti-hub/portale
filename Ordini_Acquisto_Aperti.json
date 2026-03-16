@@ -126,15 +126,6 @@
         "Note":  "IL LUCANO Basato su Ordini cliente 260025."
     },
     {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -142,6 +133,15 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "226.920000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
     },
     {
         "N. Ordine":  "260003",
