@@ -90,15 +90,6 @@
         "Note":  "Basato su Ordini cliente 260035. 260036."
     },
     {
-        "N. Ordine":  "260011",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "09/02/2026",
-        "Importo":  "6008.600000",
-        "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
-    },
-    {
         "N. Ordine":  "260009",
         "Data":  "05/02/2026",
         "Cod. Fornitore":  "F050748",
@@ -106,6 +97,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "1525.000000",
         "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
+    },
+    {
+        "N. Ordine":  "260011",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "09/02/2026",
+        "Importo":  "6008.600000",
+        "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
     },
     {
         "N. Ordine":  "260008",
@@ -126,15 +126,6 @@
         "Note":  "IL LUCANO Basato su Ordini cliente 260025."
     },
     {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -142,6 +133,15 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "226.920000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
     },
     {
         "N. Ordine":  "260003",
@@ -162,15 +162,6 @@
         "Note":  "CENTRAL MARKET Basato su Ordini cliente 260019."
     },
     {
-        "N. Ordine":  "150636",
-        "Data":  "12/01/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "08/01/2026",
-        "Importo":  "846.680000",
-        "Note":  "TATA \u0026 CO  SRL Ordini cliente 260006."
-    },
-    {
         "N. Ordine":  "150635",
         "Data":  "12/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -178,6 +169,15 @@
         "Data Consegna":  "08/01/2026",
         "Importo":  "646.600000",
         "Note":  "Basato su Ordini cliente 260006."
+    },
+    {
+        "N. Ordine":  "150636",
+        "Data":  "12/01/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "08/01/2026",
+        "Importo":  "846.680000",
+        "Note":  "TATA \u0026 CO  SRL Ordini cliente 260006."
     },
     {
         "N. Ordine":  "250504",
