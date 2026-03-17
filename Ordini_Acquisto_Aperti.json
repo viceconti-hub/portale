@@ -207,6 +207,15 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
         "N. Ordine":  "250446",
         "Data":  "10/11/2025",
         "Cod. Fornitore":  "F051393",
@@ -232,15 +241,6 @@
         "Data Consegna":  "28/10/2025",
         "Importo":  "2138.660000",
         "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
-    },
-    {
-        "N. Ordine":  "250447",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
