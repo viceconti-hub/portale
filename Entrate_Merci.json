@@ -30,21 +30,5 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Importo":  "57.730000",
         "Note":  ""
-    },
-    {
-        "N. DDT":  "260008",
-        "Data":  "19/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Importo":  "4131.730000",
-        "Note":  "CAMPOLEROSE BCC LEASE Basato su Ordini d\u0027acquisto 250469."
-    },
-    {
-        "N. DDT":  "260007",
-        "Data":  "19/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Importo":  "7026.090000",
-        "Note":  "FA\u0027 TU BCC LEASE Basato su Ordini d\u0027acquisto 250470."
     }
 ]
