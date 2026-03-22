@@ -5,556 +5,555 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Viceconti Hub</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
     <style>
-        :root {
-            --bg-primary: #ffffff;
-            --bg-secondary: #ffffff;
-            --bg-card: #f7f8fa;
-            --bg-card-hover: #edeef2;
-            --bg-surface: #f0f2f6;
-            --text-primary: #1b1f2a;
-            --text-secondary: #6b7280;
-            --text-muted: #9ca3af;
-            --border: #e8e8e8;
-            --border-strong: #d9dde6;
-            --accent: #203058;
-            --accent-soft: rgba(32,48,88,0.08);
-            --green: #1f8a70;
-            --green-soft: rgba(31,138,112,0.10);
-            --orange: #d97706;
-            --orange-soft: rgba(217,119,6,0.10);
-            --blue: #2563eb;
-            --blue-soft: rgba(37,99,235,0.10);
-            --red: #dc2626;
-            --red-soft: rgba(220,38,38,0.10);
-            --radius: 10px;
-            --radius-sm: 6px;
-            --shadow: 0 1px 3px rgba(0,0,0,0.08);
-            --font: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-            --mono: 'DM Mono', monospace;
-        }
+/* ═══════════════════════════════════════════════════════
+   BRAND TOKENS — VICECONTI v1.0
+═══════════════════════════════════════════════════════ */
+:root {
+  --vc-primary:       #203058;
+  --vc-primary-hover: #16223e;
+  --vc-primary-light: #edeef2;
+  --vc-bg:            #ffffff;
+  --vc-surface:       #f7f8fa;
+  --vc-surface2:      #f0f2f6;
+  --vc-border:        #e8e8e8;
+  --vc-border-strong: #d9dde6;
+  --vc-text:          #1b1f2a;
+  --vc-text-muted:    #6b7280;
+  --vc-text-faint:    #b8c0d8;
+  --vc-success:       #1f8a70;
+  --vc-warning:       #d97706;
+  --vc-danger:        #d64545;
+  --vc-info:          #2f6fed;
+  --vc-shadow-sm:     0 1px 3px rgba(0,0,0,0.08);
+  --vc-shadow-md:     0 4px 12px rgba(0,0,0,0.10);
+  --vc-radius-sm:     4px;
+  --vc-radius-md:     8px;
+  --vc-radius-lg:     12px;
+  --vc-font-sans:     'DM Sans', system-ui, sans-serif;
+  --vc-font-mono:     'DM Mono', 'Courier New', monospace;
+  --vc-transition:    0.15s ease-in-out;
+}
 
-        * { box-sizing: border-box; margin: 0; padding: 0; }
-        
-        body {
-            font-family: var(--font);
-            background: var(--bg-primary);
-            color: var(--text-primary);
-            min-height: 100vh;
-            -webkit-font-smoothing: antialiased;
-        }
+* { box-sizing: border-box; margin: 0; padding: 0; }
 
-        /* ========== HEADER ========== */
-        .topbar {
-            background: var(--bg-secondary);
-            padding: 12px 24px;
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            position: sticky;
-            top: 0;
-            z-index: 100;
-            box-shadow: var(--shadow);
-        }
-        .topbar-left {
-            display: flex;
-            align-items: center;
-            gap: 14px;
-        }
-        .topbar-logo {
-            height: 36px;
-            width: auto;
-            cursor: pointer;
-        }
-        .topbar-logo:hover { opacity: 0.8; }
-        .topbar-title { display: none; }
-        .topbar-subtitle { display: none; }
-        .data-source {
-            display: flex;
-            align-items: center;
-            flex-shrink: 0;
-        }
-        .data-source img {
-            height: 36px;
-            width: auto;
-        }
-        .topbar-right {
-            display: flex;
-            align-items: center;
-            gap: 16px;
-        }
-        .topbar-badge {
-            font-size: 11px;
-            font-family: var(--mono);
-            color: var(--text-muted);
-            background: var(--bg-card);
-            padding: 4px 10px;
-            border-radius: 20px;
-            border: 1px solid var(--border);
-        }
+body {
+  font-family: var(--vc-font-sans);
+  font-size: 13px;
+  background: var(--vc-bg);
+  color: var(--vc-text);
+  overflow-x: hidden;
+}
 
-        /* ========== NAVBAR ========== */
-        .navbar {
-            background: #f4f4f4;
-            border-bottom: 2px solid var(--accent);
-            padding: 0 24px;
-            display: flex;
-            align-items: center;
-            gap: 0;
-            position: sticky;
-            top: 60px;
-            z-index: 99;
-        }
-        .navbar a {
-            display: inline-flex;
-            align-items: center;
-            padding: 10px 18px;
-            font-family: var(--font);
-            font-size: 13px;
-            font-weight: 500;
-            color: var(--text-primary);
-            text-decoration: none;
-            text-transform: uppercase;
-            letter-spacing: 0.04em;
-            transition: background 0.15s, color 0.15s;
-            white-space: nowrap;
-            cursor: pointer;
-        }
-        .navbar a:hover {
-            background: #e8e8e8;
-            color: var(--accent);
-        }
-        .navbar a.active {
-            color: var(--accent);
-            font-weight: 600;
-            border-bottom: 2px solid var(--accent);
-            margin-bottom: -2px;
-        }
+/* ═══════════════════════════════════════════════════════
+   HEADER — 52px, logo + tab + status
+═══════════════════════════════════════════════════════ */
+header {
+  background: var(--vc-bg);
+  border-bottom: 2px solid var(--vc-primary);
+  height: 52px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 200;
+  box-shadow: var(--vc-shadow-sm);
+}
 
-        /* ========== BREADCRUMB ========== */
-        .breadcrumb {
-            padding: 16px 24px;
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            font-size: 13px;
-            color: var(--text-muted);
-        }
-        .breadcrumb a {
-            color: var(--accent);
-            text-decoration: none;
-            cursor: pointer;
-            transition: color 0.2s;
-        }
-        .breadcrumb a:hover { color: #8ba8ff; }
-        .breadcrumb .sep { opacity: 0.4; }
-        .breadcrumb .current { color: var(--text-secondary); }
+.logo {
+  font-family: var(--vc-font-sans);
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--vc-primary);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+}
+.logo-img {
+  height: 28px;
+  width: auto;
+}
+.logo-sap {
+  height: 28px;
+  width: auto;
+  margin-left: 4px;
+}
+.logo-sep { color: var(--vc-text-faint); font-weight: 300; }
+.logo-page {
+  font-weight: 400;
+  color: var(--vc-text-muted);
+  text-transform: none;
+  letter-spacing: 0;
+  font-size: 13px;
+}
 
-        /* ========== HOME VIEW ========== */
-        .home-container {
-            max-width: 960px;
-            margin: 0 auto;
-            padding: 20px 24px 60px;
-        }
-        .home-header {
-            margin-bottom: 40px;
-        }
-        .home-header h1 {
-            font-size: 28px;
-            font-weight: 700;
-            letter-spacing: -0.8px;
-            margin-bottom: 6px;
-        }
-        .home-header p {
-            color: var(--text-secondary);
-            font-size: 15px;
-        }
+.header-center {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  height: 100%;
+}
 
-        /* Module cards */
-        .module-section {
-            margin-bottom: 32px;
-        }
-        .module-header {
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-bottom: 14px;
-            padding-bottom: 10px;
-            border-bottom: 1px solid var(--border);
-        }
-        .module-icon {
-            font-size: 20px;
-            width: 36px;
-            height: 36px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            border-radius: 8px;
-        }
-        .module-label {
-            font-size: 16px;
-            font-weight: 600;
-            letter-spacing: -0.3px;
-        }
-        .module-count {
-            font-size: 11px;
-            font-family: var(--mono);
-            color: var(--text-muted);
-            background: var(--bg-surface);
-            padding: 2px 8px;
-            border-radius: 10px;
-        }
+.header-tab {
+  display: inline-flex;
+  align-items: center;
+  height: 100%;
+  padding: 0 16px;
+  font-family: var(--vc-font-sans);
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--vc-text-muted);
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  cursor: pointer;
+  border-bottom: 2px solid transparent;
+  margin-bottom: -2px;
+  transition: color var(--vc-transition);
+  white-space: nowrap;
+}
+.header-tab:hover {
+  color: var(--vc-primary);
+}
+.header-tab.active {
+  color: var(--vc-primary);
+  font-weight: 600;
+  border-bottom-color: var(--vc-primary);
+}
 
-        .report-cards {
-            display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-            gap: 12px;
-        }
-        .report-card {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            padding: 18px 20px;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            position: relative;
-            overflow: hidden;
-        }
-        .report-card::before {
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 3px;
-            height: 100%;
-            border-radius: 3px 0 0 3px;
-            transition: width 0.2s;
-        }
-        .report-card:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--text-muted);
-            transform: translateY(-1px);
-            box-shadow: var(--shadow);
-        }
-        .report-card:hover::before { width: 4px; }
-        .report-card-title {
-            font-size: 14px;
-            font-weight: 600;
-            margin-bottom: 4px;
-            letter-spacing: -0.2px;
-        }
-        .report-card-desc {
-            font-size: 12px;
-            color: var(--text-muted);
-            line-height: 1.4;
-        }
-        .report-card-arrow {
-            position: absolute;
-            right: 16px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--text-muted);
-            opacity: 0;
-            transition: opacity 0.2s, transform 0.2s;
-            font-size: 16px;
-        }
-        .report-card:hover .report-card-arrow {
-            opacity: 1;
-            transform: translateY(-50%) translateX(2px);
-        }
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
 
-        /* ========== REPORT VIEW ========== */
-        .report-container {
-            padding: 0 24px 60px;
-            max-width: 100%;
-        }
-        .report-header {
-            display: flex;
-            align-items: flex-start;
-            justify-content: space-between;
-            margin-bottom: 20px;
-            flex-wrap: wrap;
-            gap: 12px;
-        }
-        .report-header h2 {
-            font-size: 22px;
-            font-weight: 700;
-            letter-spacing: -0.5px;
-        }
-        .report-header-desc {
-            font-size: 13px;
-            color: var(--text-muted);
-            margin-top: 2px;
-        }
-        .report-stats {
-            display: flex;
-            gap: 16px;
-            flex-wrap: wrap;
-        }
-        .stat-chip {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: 20px;
-            padding: 6px 14px;
-            font-size: 12px;
-            font-family: var(--mono);
-            color: var(--text-secondary);
-            display: flex;
-            align-items: center;
-            gap: 6px;
-        }
-        .stat-chip .dot {
-            width: 7px;
-            height: 7px;
-            border-radius: 50%;
-        }
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 12px;
+  color: var(--vc-text-muted);
+  padding: 4px 10px;
+  background: var(--vc-surface);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-sm);
+  font-family: var(--vc-font-mono);
+}
 
-        /* Search & Controls */
-        .controls-bar {
-            display: flex;
-            gap: 10px;
-            margin-bottom: 16px;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-        .search-box {
-            flex: 1;
-            min-width: 240px;
-            position: relative;
-        }
-        .search-box input {
-            width: 100%;
-            padding: 10px 14px 10px 38px;
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius-sm);
-            color: var(--text-primary);
-            font-family: var(--font);
-            font-size: 13px;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-        .search-box input::placeholder { color: var(--text-muted); }
-        .search-box input:focus { border-color: var(--accent); }
-        .search-box .search-icon {
-            position: absolute;
-            left: 12px;
-            top: 50%;
-            transform: translateY(-50%);
-            color: var(--text-muted);
-            font-size: 14px;
-        }
-        .btn {
-            padding: 10px 16px;
-            border-radius: var(--radius-sm);
-            border: 1px solid var(--border);
-            background: var(--bg-card);
-            color: var(--text-secondary);
-            font-family: var(--font);
-            font-size: 13px;
-            cursor: pointer;
-            transition: all 0.15s;
-            display: flex;
-            align-items: center;
-            gap: 6px;
-            white-space: nowrap;
-        }
-        .btn:hover {
-            background: var(--bg-card-hover);
-            border-color: var(--text-muted);
-            color: var(--text-primary);
-        }
+/* ═══════════════════════════════════════════════════════
+   HOME VIEW
+═══════════════════════════════════════════════════════ */
+.home-container {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 20px 24px 60px;
+}
+.home-header {
+  margin-bottom: 32px;
+}
+.home-header h1 {
+  font-size: 22px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  margin-bottom: 4px;
+  color: var(--vc-text);
+}
+.home-header p {
+  color: var(--vc-text-muted);
+  font-size: 13px;
+}
 
-        /* Table */
-        .table-wrap {
-            background: var(--bg-card);
-            border: 1px solid var(--border);
-            border-radius: var(--radius);
-            overflow: hidden;
-        }
-        .table-scroll {
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-size: 13px;
-        }
-        thead th {
-            background: var(--bg-surface);
-            color: var(--text-secondary);
-            padding: 11px 14px;
-            text-align: left;
-            font-weight: 500;
-            font-size: 11px;
-            text-transform: uppercase;
-            letter-spacing: 0.5px;
-            white-space: nowrap;
-            cursor: pointer;
-            user-select: none;
-            position: sticky;
-            top: 0;
-            border-bottom: 1px solid var(--border);
-            transition: color 0.15s;
-        }
-        thead th:hover { color: var(--text-primary); }
-        thead th .sort-indicator {
-            display: inline-block;
-            margin-left: 4px;
-            opacity: 0.3;
-            font-size: 10px;
-        }
-        thead th.sort-asc .sort-indicator,
-        thead th.sort-desc .sort-indicator {
-            opacity: 1;
-            color: var(--accent);
-        }
-        tbody td {
-            padding: 10px 14px;
-            border-bottom: 1px solid var(--border);
-            color: var(--text-primary);
-            vertical-align: top;
-            max-width: 320px;
-        }
-        tbody tr { transition: background 0.1s; }
-        tbody tr:hover { background: rgba(32,48,88,0.04); }
-        tbody tr:last-child td { border-bottom: none; }
-        tbody tr.hidden { display: none; }
+/* Module sections */
+.module-section {
+  margin-bottom: 28px;
+}
+.module-header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 12px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid var(--vc-border);
+}
+.module-icon {
+  font-size: 18px;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--vc-radius-md);
+}
+.module-label {
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  color: var(--vc-text);
+}
+.module-count {
+  font-size: 11px;
+  font-family: var(--vc-font-mono);
+  color: var(--vc-text-muted);
+  background: var(--vc-surface2);
+  padding: 2px 8px;
+  border-radius: 10px;
+}
 
-        /* Cell styles */
-        .cell-number {
-            font-family: var(--mono);
-            font-size: 12px;
-        }
-        .cell-amount {
-            font-family: var(--mono);
-            font-size: 12px;
-            text-align: right;
-        }
-        .cell-note {
-            font-size: 12px;
-            color: var(--text-secondary);
-            line-height: 1.4;
-            white-space: pre-line;
-            max-width: 400px;
-        }
-        .cell-priority {
-            display: inline-flex;
-            align-items: center;
-            justify-content: center;
-            width: 24px;
-            height: 24px;
-            border-radius: 50%;
-            font-size: 11px;
-            font-weight: 600;
-            font-family: var(--mono);
-        }
-        .priority-1 { background: var(--red-soft); color: var(--red); }
-        .priority-2 { background: var(--orange-soft); color: var(--orange); }
-        .priority-3 { background: var(--blue-soft); color: var(--blue); }
+/* Report cards */
+.report-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 10px;
+}
+.report-card {
+  background: var(--vc-surface);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-md);
+  padding: 14px 16px;
+  cursor: pointer;
+  transition: all var(--vc-transition);
+  position: relative;
+  overflow: hidden;
+}
+.report-card:hover {
+  background: var(--vc-primary-light);
+  border-color: var(--vc-border-strong);
+  transform: translateY(-1px);
+  box-shadow: var(--vc-shadow-sm);
+}
+.report-card-title {
+  font-size: 13px;
+  font-weight: 600;
+  margin-bottom: 3px;
+  letter-spacing: -0.1px;
+  color: var(--vc-text);
+}
+.report-card-desc {
+  font-size: 12px;
+  color: var(--vc-text-muted);
+  line-height: 1.4;
+}
+.report-card-arrow {
+  position: absolute;
+  right: 14px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--vc-text-faint);
+  opacity: 0;
+  transition: opacity var(--vc-transition), transform var(--vc-transition);
+  font-size: 14px;
+}
+.report-card:hover .report-card-arrow {
+  opacity: 1;
+  transform: translateY(-50%) translateX(2px);
+}
 
-        .table-footer {
-            padding: 10px 14px;
-            border-top: 1px solid var(--border);
-            display: flex;
-            justify-content: space-between;
-            align-items: center;
-            font-size: 12px;
-            color: var(--text-muted);
-            font-family: var(--mono);
-        }
-        .filter-row th.filter-cell {
-            background: var(--bg-card);
-            padding: 4px 6px;
-            border-bottom: 1px solid var(--border);
-        }
-        .filter-row .col-filter {
-            width: 100%;
-            padding: 5px 8px;
-            background: var(--bg-primary);
-            border: 1px solid var(--border);
-            border-radius: 3px;
-            color: var(--text-primary);
-            font-family: var(--font);
-            font-size: 11px;
-            outline: none;
-            transition: border-color 0.2s;
-        }
-        .filter-row .col-filter::placeholder { color: var(--text-muted); opacity: 0.6; }
-        .filter-row .col-filter:focus { border-color: var(--accent); }
+/* ═══════════════════════════════════════════════════════
+   REPORT VIEW
+═══════════════════════════════════════════════════════ */
+.report-container {
+  padding: 0 20px 40px;
+  max-width: 100%;
+}
+.report-header {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+  gap: 10px;
+  padding-top: 16px;
+}
+.report-header h2 {
+  font-size: 18px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
+  color: var(--vc-text);
+}
+.report-header-desc {
+  font-size: 12px;
+  color: var(--vc-text-muted);
+  margin-top: 2px;
+}
+.report-stats {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.stat-chip {
+  background: var(--vc-surface);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-sm);
+  padding: 4px 10px;
+  font-size: 11px;
+  font-family: var(--vc-font-mono);
+  color: var(--vc-text-muted);
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.stat-chip .dot {
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+}
 
-        .no-results {
-            text-align: center;
-            padding: 48px 20px;
-            color: var(--text-muted);
-            display: none;
-        }
-        .no-results.show { display: block; }
-        .no-results .icon { font-size: 32px; margin-bottom: 8px; }
+/* Search & Controls */
+.controls-bar {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.search-box {
+  flex: 1;
+  min-width: 200px;
+  max-width: 300px;
+  position: relative;
+}
+.search-box input {
+  width: 100%;
+  padding: 4px 8px 4px 26px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-border);
+  border-radius: var(--vc-radius-sm);
+  color: var(--vc-text);
+  font-family: var(--vc-font-sans);
+  font-size: 12px;
+  outline: none;
+  height: 28px;
+  transition: border-color var(--vc-transition);
+}
+.search-box input::placeholder { color: var(--vc-text-muted); }
+.search-box input:focus { border-color: var(--vc-primary); }
+.search-box .search-icon {
+  position: absolute;
+  left: 8px;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--vc-text-muted);
+  font-size: 11px;
+  pointer-events: none;
+}
 
-        /* ========== ANIMATIONS ========== */
-        @keyframes fadeIn {
-            from { opacity: 0; transform: translateY(8px); }
-            to { opacity: 1; transform: translateY(0); }
-        }
-        .animate-in {
-            animation: fadeIn 0.3s ease forwards;
-        }
-        .stagger-1 { animation-delay: 0.05s; opacity: 0; }
-        .stagger-2 { animation-delay: 0.1s; opacity: 0; }
-        .stagger-3 { animation-delay: 0.15s; opacity: 0; }
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  padding: 4px 12px;
+  height: 28px;
+  border-radius: var(--vc-radius-sm);
+  font-family: var(--vc-font-sans);
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  border: 1px solid var(--vc-border);
+  background: var(--vc-bg);
+  color: var(--vc-text-muted);
+  transition: var(--vc-transition);
+  white-space: nowrap;
+}
+.btn:hover {
+  color: var(--vc-primary);
+  border-color: var(--vc-primary);
+  background: var(--vc-primary-light);
+}
 
-        /* ========== RESPONSIVE ========== */
-        @media (max-width: 768px) {
-            .topbar { padding: 8px 14px; }
-            .topbar-logo { height: 28px; }
-            .data-source img { height: 28px; }
-            .navbar { padding: 0 8px; top: 52px; overflow-x: auto; }
-            .navbar a { padding: 8px 12px; font-size: 12px; }
-            .breadcrumb { padding: 12px 14px; }
-            .home-container { padding: 12px 14px 40px; }
-            .home-header h1 { font-size: 22px; }
-            .report-container { padding: 0 14px 40px; }
-            .report-header { flex-direction: column; }
-            .report-header h2 { font-size: 18px; }
-            .controls-bar { flex-direction: column; }
-            .search-box { min-width: 100%; }
-            thead th { padding: 8px 10px; font-size: 10px; }
-            tbody td { padding: 8px 10px; font-size: 12px; }
-            .report-cards { grid-template-columns: 1fr; }
-        }
+/* Table */
+.table-wrap {
+  overflow-x: auto;
+  overflow-y: auto;
+}
 
-        /* ========== UTILITY ========== */
-        .hidden { display: none !important; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 12px;
+}
+
+/* Colonne a larghezza fissa (valori di lunghezza prevedibile) */
+.col-numero       { width: 58px; }
+.col-priorita     { width: 52px; }
+.col-data-inizio  { width: 82px; }
+.col-ora-inizio   { width: 56px; }
+.col-cod-cliente  { width: 82px; }
+thead th {
+  background: var(--vc-surface);
+  color: var(--vc-text-muted);
+  padding: 6px 8px;
+  text-align: left;
+  font-weight: 600;
+  font-size: 11px;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  border-bottom: 2px solid var(--vc-border-strong);
+  border-right: 1px solid var(--vc-border);
+  transition: color var(--vc-transition);
+}
+thead th:last-child { border-right: none; }
+thead th:hover { color: var(--vc-primary); }
+thead th .sort-indicator {
+  display: inline-block;
+  margin-left: 3px;
+  opacity: 0.35;
+  font-size: 9px;
+}
+thead th.sort-asc .sort-indicator,
+thead th.sort-desc .sort-indicator {
+  opacity: 1;
+  color: var(--vc-primary);
+}
+
+tbody td {
+  padding: 4px 8px;
+  border-bottom: 1px solid var(--vc-border);
+  border-right: 1px solid var(--vc-border);
+  color: var(--vc-text);
+  vertical-align: top;
+  max-width: 320px;
+}
+tbody td:last-child { border-right: none; }
+tbody tr { transition: background 0.1s; }
+tbody tr:hover td { background: var(--vc-surface2); }
+tbody tr:last-child td { border-bottom: none; }
+tbody tr.hidden { display: none; }
+
+/* Cell styles */
+.cell-number {
+  font-family: var(--vc-font-mono);
+  font-size: 12px;
+}
+.cell-amount {
+  font-family: var(--vc-font-mono);
+  font-size: 12px;
+  text-align: right;
+}
+.cell-note {
+  font-size: 12px;
+  color: var(--vc-text-muted);
+  line-height: 1.4;
+  white-space: pre-line;
+  max-width: 400px;
+}
+.cell-priority {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  font-size: 11px;
+  font-weight: 600;
+  font-family: var(--vc-font-mono);
+}
+.priority-1 { background: rgba(214,69,69,0.10); color: var(--vc-danger); }
+.priority-2 { background: rgba(217,119,6,0.10); color: var(--vc-warning); }
+.priority-3 { background: rgba(47,111,237,0.10); color: var(--vc-info); }
+
+/* Filter row */
+.filter-row th.filter-cell {
+  background: var(--vc-surface);
+  padding: 3px 6px;
+  border-bottom: 1px solid var(--vc-border);
+  font-weight: 400;
+}
+.filter-row .col-filter {
+  width: 100%;
+  padding: 3px 6px;
+  background: var(--vc-bg);
+  border: 1px solid var(--vc-border);
+  border-radius: 3px;
+  color: var(--vc-text);
+  font-family: var(--vc-font-sans);
+  font-size: 11px;
+  outline: none;
+  transition: border-color var(--vc-transition);
+}
+.filter-row .col-filter::placeholder { color: var(--vc-text-muted); opacity: 0.6; }
+.filter-row .col-filter:focus { border-color: var(--vc-primary); }
+
+.table-footer {
+  padding: 8px 10px;
+  border-top: 1px solid var(--vc-border);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 11px;
+  color: var(--vc-text-muted);
+  font-family: var(--vc-font-mono);
+}
+
+.no-results {
+  text-align: center;
+  padding: 40px 20px;
+  color: var(--vc-text-muted);
+  display: none;
+}
+.no-results.show { display: block; }
+.no-results .icon { font-size: 28px; margin-bottom: 6px; }
+
+/* ═══════════════════════════════════════════════════════
+   ANIMATIONS
+═══════════════════════════════════════════════════════ */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+.animate-in { animation: fadeIn 0.25s ease forwards; }
+.stagger-1 { animation-delay: 0.05s; opacity: 0; }
+.stagger-2 { animation-delay: 0.1s; opacity: 0; }
+.stagger-3 { animation-delay: 0.15s; opacity: 0; }
+
+/* ═══════════════════════════════════════════════════════
+   RESPONSIVE
+═══════════════════════════════════════════════════════ */
+@media (max-width: 768px) {
+  header { padding: 0 12px; }
+  .logo { font-size: 12px; }
+  .header-center { gap: 0; overflow-x: auto; }
+  .header-tab { padding: 0 10px; font-size: 11px; }
+  .home-container { padding: 12px 14px 40px; }
+  .home-header h1 { font-size: 18px; }
+  .report-container { padding: 0 14px 40px; }
+  .report-header { flex-direction: column; }
+  .report-header h2 { font-size: 16px; }
+  .controls-bar { flex-direction: column; }
+  .search-box { min-width: 100%; max-width: 100%; }
+  .report-cards { grid-template-columns: 1fr; }
+}
+
+.hidden { display: none !important; }
     </style>
 </head>
 <body>
 
-    <!-- TOP BAR -->
-    <div class="topbar">
-        <div class="topbar-left">
-            <img src="logo-viceconti.png" alt="Viceconti" class="topbar-logo" onclick="goHome()" onerror="this.style.display='none'">
-            <div class="data-source">
-                <img src="logo-sap-business-one.png" alt="SAP Business One" onerror="this.parentElement.style.display='none'">
-            </div>
+    <!-- HEADER -->
+    <header>
+        <div class="logo" onclick="goHome()">
+            <img src="logo-viceconti.png" alt="Viceconti" class="logo-img" onerror="this.style.display='none'">
+            VICECONTI <span class="logo-sep">|</span> <span class="logo-page">Reports</span>
+            <img src="logo-sap-business-one.png" alt="SAP Business One" class="logo-sap" onerror="this.style.display='none'">
         </div>
-        <div class="topbar-right">
-            <div class="topbar-badge" id="lastUpdate"></div>
+        <nav class="header-center">
+            <a class="header-tab active" onclick="goHome()">Interfaccia SAP SQL</a>
+            <a class="header-tab" href="https://viceconti-hub.github.io/hub-documentale/" target="_blank">Hub Documentale</a>
+            <a class="header-tab" href="https://vicecontistore.it" target="_blank">Viceconti Store</a>
+        </nav>
+        <div class="header-right">
+            <div class="status-indicator" id="lastUpdate"></div>
         </div>
-    </div>
-
-    <!-- NAVBAR -->
-    <nav class="navbar">
-        <a class="active" onclick="goHome()">Viceconti Hub</a>
-        <a href="https://viceconti-hub.github.io/hub-documentale/" target="_blank">Hub Documentale</a>
-        <a href="https://vicecontistore.it" target="_blank">Viceconti Store</a>
-    </nav>
-
-    <!-- BREADCRUMB -->
-    <div class="breadcrumb" id="breadcrumb">
-        <a onclick="goHome()">🏠 Home</a>
-    </div>
+    </header>
 
     <!-- CONTENT -->
     <div id="app"></div>
@@ -578,7 +577,6 @@
             renderHome();
             checkUrlRoute();
         } catch(e) {
-            // Fallback: config embedded
             console.warn('config.json not found, using embedded config');
             CONFIG = EMBEDDED_CONFIG;
             document.getElementById('lastUpdate').textContent = '⟳ ' + CONFIG.lastUpdate;
@@ -589,14 +587,13 @@
 
     async function loadReportData(report) {
         if (REPORT_DATA[report.id]) return REPORT_DATA[report.id];
-        
+
         try {
             const resp = await fetch(report.file + '?v=' + Date.now());
             const data = await resp.json();
             REPORT_DATA[report.id] = data;
             return data;
         } catch(e) {
-            // Fallback: embedded data
             if (EMBEDDED_DATA[report.id]) {
                 REPORT_DATA[report.id] = EMBEDDED_DATA[report.id];
                 return EMBEDDED_DATA[report.id];
@@ -611,7 +608,6 @@
         currentView = 'home';
         history.pushState(null, '', window.location.pathname);
         renderHome();
-        updateBreadcrumb();
     }
 
     function openReport(moduleId, reportId) {
@@ -621,10 +617,8 @@
         currentSort = { col: -1, asc: true };
         history.pushState(null, '', '?report=' + reportId);
         renderReport(module, report);
-        updateBreadcrumb(module, report);
     }
 
-    // Handle browser back button
     window.addEventListener('popstate', () => {
         const params = new URLSearchParams(window.location.search);
         const reportId = params.get('report');
@@ -637,7 +631,6 @@
         goHome();
     });
 
-    // Check URL on load
     function checkUrlRoute() {
         const params = new URLSearchParams(window.location.search);
         const reportId = params.get('report');
@@ -649,32 +642,17 @@
         }
     }
 
-    function updateBreadcrumb(module, report) {
-        const bc = document.getElementById('breadcrumb');
-        if (!module) {
-            bc.innerHTML = '<a onclick="goHome()">🏠 Home</a>';
-        } else {
-            bc.innerHTML = `
-                <a onclick="goHome()">🏠 Home</a>
-                <span class="sep">›</span>
-                <span style="color:${module.color}">${module.icon} ${module.label}</span>
-                <span class="sep">›</span>
-                <span class="current">${report.label}</span>
-            `;
-        }
-    }
-
     // ---- RENDER: HOME ----
     function renderHome() {
         const app = document.getElementById('app');
-        
+
         let totalReports = 0;
         CONFIG.modules.forEach(m => totalReports += m.reports.length);
-        
+
         let html = `
             <div class="home-container">
                 <div class="home-header animate-in">
-                    <h1>Cruscotto Operativo</h1>
+                    <h1>Reports</h1>
                     <p>${CONFIG.modules.length} moduli · ${totalReports} report disponibili</p>
                 </div>
         `;
@@ -694,8 +672,7 @@
 
             mod.reports.forEach(rep => {
                 html += `
-                    <div class="report-card" onclick="openReport('${mod.id}','${rep.id}')" 
-                         style="--card-color:${mod.color}">
+                    <div class="report-card" onclick="openReport('${mod.id}','${rep.id}')">
                         <div style="position:absolute;top:0;left:0;width:3px;height:100%;background:${mod.color};border-radius:3px 0 0 3px;"></div>
                         <div class="report-card-title">${rep.label}</div>
                         <div class="report-card-desc">${rep.description}</div>
@@ -714,17 +691,17 @@
     // ---- RENDER: REPORT ----
     async function renderReport(module, report) {
         const app = document.getElementById('app');
-        app.innerHTML = '<div class="report-container" style="padding-top:20px;text-align:center;color:var(--text-muted);">Caricamento dati...</div>';
-        
+        app.innerHTML = '<div class="report-container" style="padding-top:20px;text-align:center;color:var(--vc-text-muted);">Caricamento dati...</div>';
+
         const data = await loadReportData(report);
         if (!data || data.length === 0) {
-            app.innerHTML = '<div class="report-container"><p style="color:var(--text-muted);padding:40px;text-align:center;">Nessun dato disponibile</p></div>';
+            app.innerHTML = '<div class="report-container"><p style="color:var(--vc-text-muted);padding:40px;text-align:center;">Nessun dato disponibile</p></div>';
             return;
         }
 
-        const columns = Object.keys(data[0]);
-        
-        // Compute stats
+        const rawColumns = Object.keys(data[0]);
+        const columns = reorderColumns(rawColumns);
+
         const importoCol = columns.find(c => c.toLowerCase().includes('importo'));
         let totalImporto = 0;
         if (importoCol) {
@@ -738,7 +715,7 @@
             <div class="report-container animate-in">
                 <div class="report-header">
                     <div>
-                        <h2 style="color:${module.color}">${report.label}</h2>
+                        <h2>${report.label}</h2>
                         <div class="report-header-desc">${report.description}</div>
                     </div>
                     <div class="report-stats">
@@ -748,7 +725,7 @@
                         </div>
                         ${importoCol ? `
                         <div class="stat-chip">
-                            <span class="dot" style="background:var(--green)"></span>
+                            <span class="dot" style="background:var(--vc-success)"></span>
                             € ${totalImporto.toLocaleString('it-IT', {minimumFractionDigits: 2, maximumFractionDigits: 2})}
                         </div>` : ''}
                     </div>
@@ -765,36 +742,34 @@
                 </div>
 
                 <div class="table-wrap">
-                    <div class="table-scroll">
-                        <table>
-                            <thead>
-                                <tr>
-                                    ${columns.map((col, i) => `
-                                        <th onclick="sortColumn(${i})" data-col="${i}">
-                                            ${col}
-                                            <span class="sort-indicator">↕</span>
-                                        </th>
-                                    `).join('')}
-                                </tr>
-                                <tr class="filter-row">
-                                    ${columns.map((col, i) => `
-                                        <th class="filter-cell">
-                                            <input type="text" class="col-filter" data-col="${i}" 
-                                                   placeholder="Filtra..." 
-                                                   oninput="filterRows()">
-                                        </th>
-                                    `).join('')}
-                                </tr>
-                            </thead>
-                            <tbody id="tableBody">
-                                ${data.map(row => `
-                                    <tr>
-                                        ${columns.map(col => `<td>${formatCell(col, row[col])}</td>`).join('')}
-                                    </tr>
+                    <table>
+                        <thead>
+                            <tr>
+                                ${columns.map((col, i) => `
+                                    <th onclick="sortColumn(${i})" data-col="${i}" class="${getColClass(col)}">
+                                        ${getDisplayName(col)}
+                                        <span class="sort-indicator">↕</span>
+                                    </th>
                                 `).join('')}
-                            </tbody>
-                        </table>
-                    </div>
+                            </tr>
+                            <tr class="filter-row">
+                                ${columns.map((col, i) => `
+                                    <th class="filter-cell">
+                                        <input type="text" class="col-filter" data-col="${i}"
+                                               placeholder="Filtra..."
+                                               oninput="filterRows()">
+                                    </th>
+                                `).join('')}
+                            </tr>
+                        </thead>
+                        <tbody id="tableBody">
+                            ${data.map(row => `
+                                <tr>
+                                    ${columns.map(col => `<td class="${getColClass(col)}">${formatCell(col, row[col])}</td>`).join('')}
+                                </tr>
+                            `).join('')}
+                        </tbody>
+                    </table>
                     <div class="no-results" id="noResults">
                         <div class="icon">🔍</div>
                         Nessun risultato trovato
@@ -808,40 +783,85 @@
         `;
 
         app.innerHTML = html;
-        
-        // Store current data for sorting/export
+
         window._currentData = data;
         window._currentColumns = columns;
         window._currentReport = report;
     }
 
+    // ---- COLUMN RENAME & REORDER (allineamento Client SAP) ----
+    const COLUMN_RENAME = {
+        'N. Attivita': 'Numero',
+        'Priorita':    'Priorità',
+        'Utente':      'Elaborato da',
+        'Data':        'Data di inizio',
+        'Ora':         'Ora di inizio',
+        'Cliente':     'Nome BP',
+        'Contenuto':   'Osservazioni',
+        'Citta':       'Città',
+        'Note':        'Contenuto'
+    };
+
+    // Ordine colonne allineato al Client SAP (chiavi JSON originali)
+    const COLUMN_ORDER = [
+        'N. Attivita', 'Priorita', 'Utente',
+        'Citta', 'Data', 'Ora',
+        'Cod. Cliente', 'Cliente', 'Contenuto', 'Note'
+    ];
+
+    function getDisplayName(jsonCol) {
+        return COLUMN_RENAME[jsonCol] || jsonCol;
+    }
+
+    // Classi CSS per colonne a larghezza fissa
+    const COLUMN_CLASS = {
+        'N. Attivita': 'col-numero',
+        'Priorita':    'col-priorita',
+        'Data':        'col-data-inizio',
+        'Ora':         'col-ora-inizio',
+        'Cod. Cliente':'col-cod-cliente'
+    };
+
+    function getColClass(jsonCol) {
+        return COLUMN_CLASS[jsonCol] || '';
+    }
+
+    function reorderColumns(originalColumns) {
+        const ordered = [];
+        COLUMN_ORDER.forEach(col => {
+            if (originalColumns.includes(col)) ordered.push(col);
+        });
+        // Append any columns not in COLUMN_ORDER (future-proof)
+        originalColumns.forEach(col => {
+            if (!ordered.includes(col)) ordered.push(col);
+        });
+        return ordered;
+    }
+
     // ---- CELL FORMATTING ----
     function formatCell(colName, value) {
-        if (value === null || value === undefined || value === '') return '<span style="color:var(--text-muted)">—</span>';
-        
-        const col = colName.toLowerCase();
+        if (value === null || value === undefined || value === '') return '<span style="color:var(--vc-text-muted)">—</span>';
+
+        const display = getDisplayName(colName);
+        const col = display.toLowerCase();
         const str = String(value);
-        
-        // Priority
-        if (col.includes('priorita') || col.includes('priorità')) {
+
+        if (col.includes('priorit')) {
             const p = parseInt(str);
             return `<span class="cell-priority priority-${p}">${p}</span>`;
         }
-        
-        // Amount
+
         if (col.includes('importo')) {
             const num = parseFloat(str.replace(',', '.'));
             if (!isNaN(num)) {
                 return `<span class="cell-amount">€ ${num.toLocaleString('it-IT', {minimumFractionDigits: 2, maximumFractionDigits: 2})}</span>`;
             }
         }
-        
-        // ID/Code columns
-        if (col.startsWith('n.') || col.startsWith('cod.')) {
+
+        if (col === 'numero' || col.startsWith('cod.')) {
             return `<span class="cell-number">${str}</span>`;
         }
-        
-        // Time (e.g. 927 → 09:27, 1005 → 10:05)
+
         if (col.includes('ora')) {
             const num = parseInt(str);
             if (!isNaN(num)) {
@@ -851,7 +871,6 @@
             }
         }
 
-        // Date fix: ensure dd/mm/yyyy format
         if (col.includes('data')) {
             const dateMatch = str.match(/^(\d{1,2})\/(\d{1,2})\/(\d{4})$/);
             if (dateMatch) {
@@ -861,14 +880,12 @@
             }
         }
 
-        // Notes
-        if (col === 'note' || col === 'contenuto') {
-            // Auto-link URLs
+        if (col === 'contenuto' || col === 'osservazioni') {
             let displayStr = str.length > 120 ? str.substring(0, 120) + '…' : str;
-            displayStr = displayStr.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--accent);text-decoration:underline;">📎 link</a>');
+            displayStr = displayStr.replace(/(https?:\/\/[^\s<]+)/g, '<a href="$1" target="_blank" style="color:var(--vc-primary);text-decoration:underline;">📎 link</a>');
             return `<span class="cell-note" title="${str.replace(/"/g, '&quot;')}">${displayStr}</span>`;
         }
-        
+
         return str;
     }
 
@@ -882,18 +899,16 @@
                 value: input.value.toLowerCase()
             });
         });
-        
+
         const rows = document.querySelectorAll('#tableBody tr');
         let visible = 0;
 
         rows.forEach(row => {
             const cells = row.children;
             const fullText = row.textContent.toLowerCase();
-            
-            // Global filter
+
             let match = globalFilter === '' || fullText.includes(globalFilter);
-            
-            // Column filters
+
             if (match) {
                 for (const cf of colFilters) {
                     if (cf.value && cells[cf.col]) {
@@ -904,7 +919,7 @@
                     }
                 }
             }
-            
+
             row.classList.toggle('hidden', !match);
             if (match) visible++;
         });
@@ -919,11 +934,10 @@
         const tbody = document.getElementById('tableBody');
         const rows = Array.from(tbody.querySelectorAll('tr'));
         const headers = document.querySelectorAll('thead th');
-        
+
         const isAsc = currentSort.col === colIndex ? !currentSort.asc : true;
         currentSort = { col: colIndex, asc: isAsc };
 
-        // Update header indicators
         headers.forEach(h => h.classList.remove('sort-asc', 'sort-desc'));
         headers[colIndex].classList.add(isAsc ? 'sort-asc' : 'sort-desc');
 
@@ -931,7 +945,6 @@
             let aVal = a.children[colIndex].textContent.trim();
             let bVal = b.children[colIndex].textContent.trim();
 
-            // Date dd/mm/yyyy (MUST be checked before numeric)
             const dateRegex = /^(\d{1,2})\/(\d{1,2})\/(\d{4})$/;
             const aDate = aVal.match(dateRegex);
             const bDate = bVal.match(dateRegex);
@@ -941,14 +954,12 @@
                 return isAsc ? aD - bD : bD - aD;
             }
 
-            // Numeric
             const aNum = parseFloat(aVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
             const bNum = parseFloat(bVal.replace(/[^\d,.-]/g, '').replace(',', '.'));
             if (!isNaN(aNum) && !isNaN(bNum)) {
                 return isAsc ? aNum - bNum : bNum - aNum;
             }
 
-            // String
             return isAsc ? aVal.localeCompare(bVal, 'it') : bVal.localeCompare(aVal, 'it');
         });
 
@@ -962,7 +973,7 @@
         if (!data) return;
 
         const sep = ';';
-        let csv = columns.join(sep) + '\n';
+        let csv = columns.map(c => getDisplayName(c)).join(sep) + '\n';
         data.forEach(row => {
             csv += columns.map(col => {
                 let val = String(row[col] || '').replace(/"/g, '""');
@@ -982,7 +993,6 @@
 
     // ================================================================
     // EMBEDDED DATA (fallback when JSON files are not available)
-    // This allows the portal to work as a single HTML file
     // ================================================================
     const EMBEDDED_CONFIG = null;
     const EMBEDDED_DATA = {};
