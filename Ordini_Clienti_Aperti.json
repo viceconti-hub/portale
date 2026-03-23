@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260074",
+        "Data":  "23/03/2026",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Data Consegna":  "23/03/2026",
+        "Importo":  "253.830000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260073",
         "Data":  "19/03/2026",
         "Cod. Cliente":  "C050811",
@@ -18,16 +28,6 @@
         "Importo":  "27.180000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TERMOMETRO DIGITALE"
-    },
-    {
-        "N. Ordine":  "260062",
-        "Data":  "11/03/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "106.140000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPPETTE E CASSERUOLA Basato su Offerte di vendita 260051."
     },
     {
         "N. Ordine":  "260064",
