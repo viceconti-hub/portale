@@ -18,6 +18,15 @@
         "Note":  "FORNITURA COMPLETA"
     },
     {
+        "N. Ordine":  "260025",
+        "Data":  "23/03/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "11/03/2026",
+        "Importo":  "1409.320000",
+        "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075."
+    },
+    {
         "N. Ordine":  "260022",
         "Data":  "19/03/2026",
         "Cod. Fornitore":  "F000853",
