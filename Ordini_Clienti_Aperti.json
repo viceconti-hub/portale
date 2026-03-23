@@ -7,6 +7,16 @@
         "Data Consegna":  "23/03/2026",
         "Importo":  "253.830000",
         "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE MORINI KAREL PADERNO"
+    },
+    {
+        "N. Ordine":  "260075",
+        "Data":  "23/03/2026",
+        "Cod. Cliente":  "C000022",
+        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
+        "Data Consegna":  "23/03/2026",
+        "Importo":  "1314.090000",
+        "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
     },
     {
@@ -37,7 +47,7 @@
         "Data Consegna":  "11/03/2026",
         "Importo":  "175.680000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TENTAZIONI CALICE ORANGE"
+        "Note":  "TENTAZIONI CALICE ORANGE MORINI"
     },
     {
         "N. Ordine":  "260052",
@@ -57,7 +67,7 @@
         "Data Consegna":  "26/02/2026",
         "Importo":  "44.970000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "HOTELLERIE BACINELLE KAREL E RETINA PIZZA"
     },
     {
         "N. Ordine":  "260034",
@@ -67,7 +77,7 @@
         "Data Consegna":  "07/02/2026",
         "Importo":  "7700.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 250779. 260017."
+        "Note":  "IMPASTATRICE E ARMADIO CONGELATORE Basato su Offerte di vendita 250779. 260017."
     },
     {
         "N. Ordine":  "260028",
@@ -130,16 +140,6 @@
         "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
     },
     {
-        "N. Ordine":  "250888",
-        "Data":  "03/12/2025",
-        "Cod. Cliente":  "CO51973",
-        "Cliente":  "CARLOMAGNO ISABELLA",
-        "Data Consegna":  "03/12/2025",
-        "Importo":  "39.880000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "250881",
         "Data":  "27/11/2025",
         "Cod. Cliente":  "C001308",
@@ -178,16 +178,6 @@
         "Importo":  "42358.400000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
-    },
-    {
-        "N. Ordine":  "250841",
-        "Data":  "03/11/2025",
-        "Cod. Cliente":  "C000334",
-        "Cliente":  "DE MARE FRANCO",
-        "Data Consegna":  "03/11/2025",
-        "Importo":  "11.200000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "PINZA PER AFFETTATI Basato su Offerte di vendita 250860."
     },
     {
         "N. Ordine":  "250842",
