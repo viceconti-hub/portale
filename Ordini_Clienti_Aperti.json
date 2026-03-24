@@ -260,26 +260,6 @@
         "Note":  "Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTICIPO"
     },
     {
-        "N. Ordine":  "250757",
-        "Data":  "23/09/2025",
-        "Cod. Cliente":  "C050687",
-        "Cliente":  "FITTIPALDI LOREDANA",
-        "Data Consegna":  "23/09/2025",
-        "Importo":  "427.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "AFFETTATRICE 250"
-    },
-    {
-        "N. Ordine":  "250688",
-        "Data":  "13/08/2025",
-        "Cod. Cliente":  "C051685",
-        "Cliente":  "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO",
-        "Data Consegna":  "13/08/2025",
-        "Importo":  "76.790000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "BOTTIGLIE E BICCHIERI PAT"
-    },
-    {
         "N. Ordine":  "250632",
         "Data":  "01/08/2025",
         "Cod. Cliente":  "C000441",
@@ -288,16 +268,6 @@
         "Importo":  "3285.460000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "VETRINA\rBasato su Offerte di vendita 250707."
-    },
-    {
-        "N. Ordine":  "250620",
-        "Data":  "31/07/2025",
-        "Cod. Cliente":  "CO52627",
-        "Cliente":  "LA TENUTA DEL BARONE SAS",
-        "Data Consegna":  "31/07/2025",
-        "Importo":  "4.310000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RICAMBIO PER COMPLETARE ASSISTENZA SU LAVASTOVIGLIE"
     },
     {
         "N. Ordine":  "250801",
@@ -318,16 +288,6 @@
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ATTREZZATURE SOLO PER CONSEGNA"
-    },
-    {
-        "N. Ordine":  "250327",
-        "Data":  "14/05/2025",
-        "Cod. Cliente":  "C050747",
-        "Cliente":  "MACELLERIA FERRAZZANO GIUSEPPINA LUCIA",
-        "Data Consegna":  "14/05/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "GUARNZIONI_SOLO CONSEGNA"
     },
     {
         "N. Ordine":  "250219",
