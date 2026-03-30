@@ -10,6 +10,26 @@
         "Note":  "PRODUTTORE DI GHIACCIO CB316W HC"
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "30/03/2026",
+        "Cod. Cliente":  "CO52861",
+        "Cliente":  "PASTICCERIA CALA\u0027 ANTONIO",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "130.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MOLLA PORTA FORNO ø 26x155 mm Basato su Offerte di vendita 260073."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "30/03/2026",
+        "Cod. Cliente":  "C051640",
+        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "67.280000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RESISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023"
+    },
+    {
         "N. Ordine":  "260085",
         "Data":  "27/03/2026",
         "Cod. Cliente":  "C001686",
