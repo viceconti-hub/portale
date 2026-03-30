@@ -18,6 +18,24 @@
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
     },
     {
+        "N. Ordine":  "260030",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "239.120000",
+        "Note":  "DETERGENTE"
+    },
+    {
+        "N. Ordine":  "260031",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "152.500000",
+        "Note":  "Basato su Ordini cliente 260082."
+    },
+    {
         "N. Ordine":  "260029",
         "Data":  "26/03/2026",
         "Cod. Fornitore":  "F000063",
