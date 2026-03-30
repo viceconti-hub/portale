@@ -368,15 +368,5 @@
         "Importo":  "16592.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "RATIONAL USATO"
-    },
-    {
-        "N. Ordine":  "240899",
-        "Data":  "28/09/2024",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Data Consegna":  "28/09/2024",
-        "Importo":  "29000.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 240823."
     }
 ]
