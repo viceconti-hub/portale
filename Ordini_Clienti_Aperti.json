@@ -7,7 +7,7 @@
         "Data Consegna":  "30/03/2026",
         "Importo":  "1726.580000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PRODUTTORE DI GHIACCIO CB316W HC"
+        "Note":  "PRODUTTORE DI GHIACCIO CB316W HC PAGAMENTO PAYPAL"
     },
     {
         "N. Ordine":  "260087",
@@ -378,15 +378,5 @@
         "Importo":  "6876.010000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ABBATTITORE VISION Basato su Offerte di vendita 241027."
-    },
-    {
-        "N. Ordine":  "240903",
-        "Data":  "30/09/2024",
-        "Cod. Cliente":  "C051539",
-        "Cliente":  "CALA DEL CITRO S.R.L.S.",
-        "Data Consegna":  "30/09/2024",
-        "Importo":  "16592.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RATIONAL USATO"
     }
 ]
