@@ -9,6 +9,24 @@
         "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
+        "N. Ordine":  "260028",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "134.570000",
+        "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
+    },
+    {
+        "N. Ordine":  "260029",
+        "Data":  "26/03/2026",
+        "Cod. Fornitore":  "F000063",
+        "Fornitore":  "CIMBALI GROUP SPA",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "154.550000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260026",
         "Data":  "26/03/2026",
         "Cod. Fornitore":  "F001558",
