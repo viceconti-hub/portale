@@ -20,14 +20,14 @@
         "Note":  "COPERCHI ALLUMINIO Basato su Offerte di vendita 260071."
     },
     {
-        "N. Ordine":  "260081",
+        "N. Ordine":  "260083",
         "Data":  "26/03/2026",
-        "Cod. Cliente":  "C001539",
-        "Cliente":  "LENTINI SANTO",
-        "Data Consegna":  "03/04/2026",
-        "Importo":  "100.000000",
+        "Cod. Cliente":  "C000876",
+        "Cliente":  "3AM SRL HOTEL MARTINO",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "140.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "LASTRA IN POLIETILENE SU MISURA SP 1 CM (PREZZO AL MQ) CM 80 X 57,5 X 1 Basato su Offerte di vendita 260069."
+        "Note":  "VASCA PER PLANETARIA PLUTONE 7 SIRMAN Basato su Offerte di vendita 260056."
     },
     {
         "N. Ordine":  "260082",
@@ -40,24 +40,24 @@
         "Note":  "ASTA DA 35 CM PER MIXER CICLONE"
     },
     {
-        "N. Ordine":  "260083",
+        "N. Ordine":  "260081",
         "Data":  "26/03/2026",
-        "Cod. Cliente":  "C000876",
-        "Cliente":  "3AM SRL HOTEL MARTINO",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "140.000000",
+        "Cod. Cliente":  "C001539",
+        "Cliente":  "LENTINI SANTO",
+        "Data Consegna":  "03/04/2026",
+        "Importo":  "100.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VASCA PER PLANETARIA PLUTONE 7 SIRMAN Basato su Offerte di vendita 260056."
+        "Note":  "LASTRA IN POLIETILENE SU MISURA SP 1 CM (PREZZO AL MQ) CM 80 X 57,5 X 1 Basato su Offerte di vendita 260069."
     },
     {
-        "N. Ordine":  "260074",
+        "N. Ordine":  "260080",
         "Data":  "23/03/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "23/03/2026",
-        "Importo":  "253.830000",
+        "Cod. Cliente":  "C001223",
+        "Cliente":  "NERA SRL",
+        "Data Consegna":  "20/03/2026",
+        "Importo":  "17058.750000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE MORINI KAREL PADERNO"
+        "Note":  ""
     },
     {
         "N. Ordine":  "260075",
@@ -70,14 +70,14 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260078",
+        "N. Ordine":  "260074",
         "Data":  "23/03/2026",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
         "Data Consegna":  "23/03/2026",
-        "Importo":  "0.000000",
+        "Importo":  "253.830000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA ORDINE RIF. FATTURA COMPASS"
+        "Note":  "HOTELLERIE MORINI KAREL PADERNO"
     },
     {
         "N. Ordine":  "260079",
@@ -90,14 +90,14 @@
         "Note":  "FORNO 2 CAMERE CUPPONE MODELLO TIZIANO Basato su Offerte di vendita 260065."
     },
     {
-        "N. Ordine":  "260080",
+        "N. Ordine":  "260078",
         "Data":  "23/03/2026",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Data Consegna":  "20/03/2026",
-        "Importo":  "17058.750000",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "23/03/2026",
+        "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "SOLO PER CONSEGNA ORDINE RIF. FATTURA COMPASS"
     },
     {
         "N. Ordine":  "260073",
@@ -190,16 +190,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "250942",
-        "Data":  "31/12/2025",
-        "Cod. Cliente":  "C000628",
-        "Cliente":  "LAMBOGLIA FRANCESCO",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "49.780000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
-    },
-    {
         "N. Ordine":  "250944",
         "Data":  "31/12/2025",
         "Cod. Cliente":  "CO52883",
@@ -208,6 +198,16 @@
         "Importo":  "4699.930000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "Basato su Offerte di vendita 250973. 250974. 250975. 250976."
+    },
+    {
+        "N. Ordine":  "250942",
+        "Data":  "31/12/2025",
+        "Cod. Cliente":  "C000628",
+        "Cliente":  "LAMBOGLIA FRANCESCO",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "49.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
     },
     {
         "N. Ordine":  "250881",
