@@ -1,23 +1,5 @@
 [
     {
-        "N. Ordine":  "260031",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "152.500000",
-        "Note":  "Basato su Ordini cliente 260082."
-    },
-    {
-        "N. Ordine":  "260030",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "239.120000",
-        "Note":  "DETERGENTE"
-    },
-    {
         "N. Ordine":  "260027",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F051393",
@@ -34,6 +16,24 @@
         "Data Consegna":  "30/03/2026",
         "Importo":  "134.570000",
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
+    },
+    {
+        "N. Ordine":  "260030",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "239.120000",
+        "Note":  "DETERGENTE"
+    },
+    {
+        "N. Ordine":  "260031",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "152.500000",
+        "Note":  "Basato su Ordini cliente 260082."
     },
     {
         "N. Ordine":  "260029",
@@ -189,15 +189,6 @@
         "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
     },
     {
-        "N. Ordine":  "260009",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "1525.000000",
-        "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
-    },
-    {
         "N. Ordine":  "260008",
         "Data":  "05/02/2026",
         "Cod. Fornitore":  "F000826",
@@ -205,6 +196,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "2232.600000",
         "Note":  "Basato su Ordini cliente 250944."
+    },
+    {
+        "N. Ordine":  "260009",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "1525.000000",
+        "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
         "N. Ordine":  "260006",
