@@ -1,21 +1,12 @@
 [
     {
-        "N. Ordine":  "260027",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "35258.000000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
-    },
-    {
-        "N. Ordine":  "260028",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F000033",
-        "Fornitore":  "CB SRL",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "134.570000",
-        "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
+        "N. Ordine":  "260032",
+        "Data":  "01/04/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "01/04/2026",
+        "Importo":  "7339.520000",
+        "Note":  "ARTE DOLCIARIA\u003e\u003eMeM Basato su Ordini cliente 260089."
     },
     {
         "N. Ordine":  "260030",
@@ -34,6 +25,24 @@
         "Data Consegna":  "26/03/2026",
         "Importo":  "152.500000",
         "Note":  "Basato su Ordini cliente 260082."
+    },
+    {
+        "N. Ordine":  "260027",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "35258.000000",
+        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+    },
+    {
+        "N. Ordine":  "260028",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "134.570000",
+        "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
     },
     {
         "N. Ordine":  "260029",
@@ -121,8 +130,8 @@
         "Data":  "02/03/2026",
         "Cod. Fornitore":  "F000894",
         "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "22/01/2026",
-        "Importo":  "13772.580000",
+        "Data Consegna":  "20/03/2026",
+        "Importo":  "6238.590000",
         "Note":  "CENTRAL PECORONE e MeM Basato su Ordini cliente 260019."
     },
     {
