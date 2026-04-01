@@ -9,6 +9,15 @@
         "Note":  "ARTE DOLCIARIA\u003e\u003eMeM Basato su Ordini cliente 260089."
     },
     {
+        "N. Ordine":  "260033",
+        "Data":  "01/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "6967.420000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
+    },
+    {
         "N. Ordine":  "260030",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F051522",
