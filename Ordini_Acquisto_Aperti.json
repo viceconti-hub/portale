@@ -18,13 +18,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260027",
+        "N. Ordine":  "260030",
         "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "35258.000000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "239.120000",
+        "Note":  "DETERGENTE"
     },
     {
         "N. Ordine":  "260031",
@@ -36,6 +36,15 @@
         "Note":  "Basato su Ordini cliente 260082."
     },
     {
+        "N. Ordine":  "260027",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "35258.000000",
+        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+    },
+    {
         "N. Ordine":  "260028",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F000033",
@@ -43,15 +52,6 @@
         "Data Consegna":  "30/03/2026",
         "Importo":  "134.570000",
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
-    },
-    {
-        "N. Ordine":  "260030",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "239.120000",
-        "Note":  "DETERGENTE"
     },
     {
         "N. Ordine":  "260029",
@@ -72,15 +72,6 @@
         "Note":  "Basato su Ordini cliente 260052."
     },
     {
-        "N. Ordine":  "260025",
-        "Data":  "23/03/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "1409.320000",
-        "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075."
-    },
-    {
         "N. Ordine":  "260023",
         "Data":  "23/03/2026",
         "Cod. Fornitore":  "F000220",
@@ -97,6 +88,15 @@
         "Data Consegna":  "23/03/2026",
         "Importo":  "1558.060000",
         "Note":  "FORNITURA COMPLETA"
+    },
+    {
+        "N. Ordine":  "260025",
+        "Data":  "23/03/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "11/03/2026",
+        "Importo":  "1409.320000",
+        "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075."
     },
     {
         "N. Ordine":  "260022",
@@ -198,6 +198,15 @@
         "Note":  "Basato su Ordini cliente 260035. 260036."
     },
     {
+        "N. Ordine":  "260011",
+        "Data":  "05/02/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "09/02/2026",
+        "Importo":  "6008.600000",
+        "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
+    },
+    {
         "N. Ordine":  "260008",
         "Data":  "05/02/2026",
         "Cod. Fornitore":  "F000826",
@@ -216,15 +225,6 @@
         "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
-        "N. Ordine":  "260011",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "09/02/2026",
-        "Importo":  "6008.600000",
-        "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
-    },
-    {
         "N. Ordine":  "260006",
         "Data":  "30/01/2026",
         "Cod. Fornitore":  "F000894",
@@ -234,15 +234,6 @@
         "Note":  "IL LUCANO Basato su Ordini cliente 260025."
     },
     {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -250,6 +241,15 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "226.920000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
     },
     {
         "N. Ordine":  "260003",
@@ -306,22 +306,13 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
-        "N. Ordine":  "250447",
+        "N. Ordine":  "250442",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
-    },
-    {
-        "N. Ordine":  "250446",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "8027.600000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP Spa",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "2138.660000",
+        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
     },
     {
         "N. Ordine":  "250443",
@@ -333,13 +324,22 @@
         "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
     },
     {
-        "N. Ordine":  "250442",
+        "N. Ordine":  "250446",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "2138.660000",
-        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "8027.600000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
+        "N. Ordine":  "250447",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
