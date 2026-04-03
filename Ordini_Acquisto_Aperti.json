@@ -27,24 +27,6 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260030",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "239.120000",
-        "Note":  "DETERGENTE"
-    },
-    {
-        "N. Ordine":  "260031",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "152.500000",
-        "Note":  "Basato su Ordini cliente 260082."
-    },
-    {
         "N. Ordine":  "260027",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F051393",
@@ -61,6 +43,24 @@
         "Data Consegna":  "30/03/2026",
         "Importo":  "134.570000",
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
+    },
+    {
+        "N. Ordine":  "260030",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "239.120000",
+        "Note":  "DETERGENTE"
+    },
+    {
+        "N. Ordine":  "260031",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "152.500000",
+        "Note":  "Basato su Ordini cliente 260082."
     },
     {
         "N. Ordine":  "260029",
@@ -106,15 +106,6 @@
         "Data Consegna":  "11/03/2026",
         "Importo":  "1409.320000",
         "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075."
-    },
-    {
-        "N. Ordine":  "260022",
-        "Data":  "19/03/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "19/03/2026",
-        "Importo":  "1068.720000",
-        "Note":  "RIF. ACAL"
     },
     {
         "N. Ordine":  "260021",
