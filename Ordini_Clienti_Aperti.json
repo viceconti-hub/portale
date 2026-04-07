@@ -10,16 +10,6 @@
         "Note":  "ARREDO INOX Basato su Offerte di vendita 260053."
     },
     {
-        "N. Ordine":  "260093",
-        "Data":  "02/04/2026",
-        "Cod. Cliente":  "CO52360",
-        "Cliente":  "ORO CAFFE\u0027 SRL A SOCIO UNICO",
-        "Data Consegna":  "02/04/2026",
-        "Importo":  "406.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BACINELLE POLIPROPILENE Basato su Offerte di vendita 260068."
-    },
-    {
         "N. Ordine":  "260089",
         "Data":  "01/04/2026",
         "Cod. Cliente":  "C001516",
@@ -37,17 +27,7 @@
         "Data Consegna":  "31/03/2026",
         "Importo":  "749.570000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260076."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "30/03/2026",
-        "Cod. Cliente":  "C051640",
-        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "67.280000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RESISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023"
+        "Note":  "HOTELLERIE RESIDUO PIATTO PIANO MORINI Basato su Offerte di vendita 260076."
     },
     {
         "N. Ordine":  "260085",
@@ -57,7 +37,7 @@
         "Data Consegna":  "27/03/2026",
         "Importo":  "170.800000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPERCHI ALLUMINIO Basato su Offerte di vendita 260071."
+        "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
     },
     {
         "N. Ordine":  "260081",
