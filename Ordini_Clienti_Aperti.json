@@ -60,16 +60,6 @@
         "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
     },
     {
-        "N. Ordine":  "260083",
-        "Data":  "26/03/2026",
-        "Cod. Cliente":  "C000876",
-        "Cliente":  "3AM SRL HOTEL MARTINO",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "140.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VASCA PER PLANETARIA PLUTONE 7 SIRMAN Basato su Offerte di vendita 260056."
-    },
-    {
         "N. Ordine":  "260081",
         "Data":  "26/03/2026",
         "Cod. Cliente":  "C001539",
@@ -88,6 +78,16 @@
         "Importo":  "138.170000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ASTA DA 35 CM PER MIXER CICLONE"
+    },
+    {
+        "N. Ordine":  "260083",
+        "Data":  "26/03/2026",
+        "Cod. Cliente":  "C000876",
+        "Cliente":  "3AM SRL HOTEL MARTINO",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "140.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "VASCA PER PLANETARIA PLUTONE 7 SIRMAN Basato su Offerte di vendita 260056."
     },
     {
         "N. Ordine":  "260074",
