@@ -22,5 +22,13 @@
         "Fornitore":  "MORINI s.r.l.",
         "Importo":  "1041.270000",
         "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075. Basato su Ordini d\u0027acquisto 260025."
+    },
+    {
+        "N. DDT":  "260030",
+        "Data":  "23/03/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "310.430000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260048."
     }
 ]
