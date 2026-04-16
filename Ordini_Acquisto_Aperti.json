@@ -207,6 +207,15 @@
         "Note":  "FA TU Basato su Ordini cliente 260028."
     },
     {
+        "N. Ordine":  "260008",
+        "Data":  "25/02/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "25/02/2026",
+        "Importo":  "986.250000",
+        "Note":  "Basato su Ordini cliente 250944."
+    },
+    {
         "N. Ordine":  "260013",
         "Data":  "24/02/2026",
         "Cod. Fornitore":  "F000894",
@@ -250,15 +259,6 @@
         "Data Consegna":  "09/02/2026",
         "Importo":  "7441.000000",
         "Note":  "A.M. di Antonella Mancino s.a.s. Basato su Ordini cliente 260037."
-    },
-    {
-        "N. Ordine":  "260008",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "2232.600000",
-        "Note":  "Basato su Ordini cliente 250944."
     },
     {
         "N. Ordine":  "260009",
@@ -313,15 +313,6 @@
         "Data Consegna":  "20/01/2026",
         "Importo":  "6161.000000",
         "Note":  "CENTRAL MARKET Basato su Ordini cliente 260019."
-    },
-    {
-        "N. Ordine":  "150635",
-        "Data":  "12/01/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "08/01/2026",
-        "Importo":  "646.600000",
-        "Note":  "Basato su Ordini cliente 260006."
     },
     {
         "N. Ordine":  "250504",
