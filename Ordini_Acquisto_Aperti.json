@@ -180,15 +180,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260018",
-        "Data":  "02/03/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "20/03/2026",
-        "Importo":  "6238.590000",
-        "Note":  "CENTRAL PECORONE e MeM Basato su Ordini cliente 260019."
-    },
-    {
         "N. Ordine":  "260017",
         "Data":  "01/03/2026",
         "Cod. Fornitore":  "F001613",
@@ -205,15 +196,6 @@
         "Data Consegna":  "02/03/2026",
         "Importo":  "6389.260000",
         "Note":  "FA TU Basato su Ordini cliente 260028."
-    },
-    {
-        "N. Ordine":  "260013",
-        "Data":  "24/02/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "20/03/2026",
-        "Importo":  "2734.060000",
-        "Note":  "CORRADO MICHELA Basato su Ordini cliente 260034."
     },
     {
         "N. Ordine":  "260014",
