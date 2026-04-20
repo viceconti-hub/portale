@@ -18,6 +18,15 @@
         "Note":  "RIF. YELLOW BOAT"
     },
     {
+        "N. Ordine":  "260056",
+        "Data":  "20/04/2026",
+        "Cod. Fornitore":  "F001626",
+        "Fornitore":  "CUPPONE F.LLI S.R.L.",
+        "Data Consegna":  "23/03/2026",
+        "Importo":  "2159.750000",
+        "Note":  "FA TU Basato su Ordini cliente 260079."
+    },
+    {
         "N. Ordine":  "260044",
         "Data":  "16/04/2026",
         "Cod. Fornitore":  "F051446",
@@ -259,15 +268,6 @@
         "Data Consegna":  "10/02/2026",
         "Importo":  "542.920000",
         "Note":  "Basato su Ordini cliente 260035. 260036."
-    },
-    {
-        "N. Ordine":  "260009",
-        "Data":  "05/02/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "1525.000000",
-        "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
         "N. Ordine":  "260004",
