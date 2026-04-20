@@ -27,6 +27,15 @@
         "Note":  "FA TU Basato su Ordini cliente 260079."
     },
     {
+        "N. Ordine":  "260058",
+        "Data":  "20/04/2026",
+        "Cod. Fornitore":  "F000146",
+        "Fornitore":  "NUOVA RICAMBI srl",
+        "Data Consegna":  "20/04/2026",
+        "Importo":  "386.980000",
+        "Note":  "DETERGENTE"
+    },
+    {
         "N. Ordine":  "260044",
         "Data":  "16/04/2026",
         "Cod. Fornitore":  "F051446",
