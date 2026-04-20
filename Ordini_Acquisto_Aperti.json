@@ -72,24 +72,6 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260027",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "35258.000000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
-    },
-    {
-        "N. Ordine":  "260028",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F000033",
-        "Fornitore":  "CB SRL",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "134.570000",
-        "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
-    },
-    {
         "N. Ordine":  "260030",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F051522",
@@ -106,6 +88,24 @@
         "Data Consegna":  "26/03/2026",
         "Importo":  "152.500000",
         "Note":  "Basato su Ordini cliente 260082."
+    },
+    {
+        "N. Ordine":  "260027",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "25/11/2025",
+        "Importo":  "35258.000000",
+        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+    },
+    {
+        "N. Ordine":  "260028",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "134.570000",
+        "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
     },
     {
         "N. Ordine":  "260029",
@@ -234,15 +234,6 @@
         "Note":  "BRUTIUM Basato su Ordini cliente 250944. ore 20:00 ORE 20:11"
     },
     {
-        "N. Ordine":  "260004",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "226.920000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260005",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F051055",
@@ -250,6 +241,15 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "93.700000",
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
+    },
+    {
+        "N. Ordine":  "260004",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "226.920000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "260003",
@@ -297,22 +297,13 @@
         "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
-        "N. Ordine":  "250442",
+        "N. Ordine":  "250447",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "2138.660000",
-        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
-    },
-    {
-        "N. Ordine":  "250443",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F051479",
-        "Fornitore":  "AFINOX SRL",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "12136.940000",
-        "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250446",
@@ -324,13 +315,22 @@
         "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
-        "N. Ordine":  "250447",
+        "N. Ordine":  "250443",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+        "Cod. Fornitore":  "F051479",
+        "Fornitore":  "AFINOX SRL",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "12136.940000",
+        "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
+    },
+    {
+        "N. Ordine":  "250442",
+        "Data":  "10/11/2025",
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP Spa",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "2138.660000",
+        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
     },
     {
         "N. Ordine":  "250434",
