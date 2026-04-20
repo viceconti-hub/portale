@@ -13,7 +13,7 @@
         "Cod. Fornitore":  "F000894",
         "Fornitore":  "COLDLINE srl",
         "Importo":  "8972.650000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260013. 260018."
+        "Note":  "CORRADO MICHELA E MeM Basato su Ordini d\u0027acquisto 260013. 260018."
     },
     {
         "N. DDT":  "260024",
@@ -22,6 +22,14 @@
         "Fornitore":  "SPAGNOLI S.N.C.",
         "Importo":  "65.870000",
         "Note":  "LENTINI SANTO Basato su Ordini cliente 260081. Basato su Ordini d\u0027acquisto 260039."
+    },
+    {
+        "N. DDT":  "260035",
+        "Data":  "31/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "21505.670000",
+        "Note":  "MeM Basato su Ordini d\u0027acquisto 260049."
     },
     {
         "N. DDT":  "260023",
