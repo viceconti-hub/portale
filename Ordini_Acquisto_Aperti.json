@@ -135,6 +135,15 @@
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
     },
     {
+        "N. Ordine":  "260059",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
+        "Data Consegna":  "30/03/2026",
+        "Importo":  "1122.890000",
+        "Note":  "FA TU Basato su Ordini cliente 260108."
+    },
+    {
         "N. Ordine":  "260029",
         "Data":  "26/03/2026",
         "Cod. Fornitore":  "F000063",
@@ -159,7 +168,7 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "21/04/2026",
         "Importo":  "2623.980000",
-        "Note":  "MeM SRL"
+        "Note":  "MeM SRL LAVELLO E TAVOLO"
     },
     {
         "N. Ordine":  "260052",
