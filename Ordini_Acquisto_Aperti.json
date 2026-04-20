@@ -72,6 +72,15 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
+        "N. Ordine":  "260031",
+        "Data":  "30/03/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "26/03/2026",
+        "Importo":  "152.500000",
+        "Note":  "Basato su Ordini cliente 260082."
+    },
+    {
         "N. Ordine":  "260027",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F051393",
@@ -90,15 +99,6 @@
         "Note":  "PERRETTA: REISTENZE PER GIRARROSTI MODELLO E-6P S/ 02106 ANNO 2023 Basato su Ordini cliente 260088."
     },
     {
-        "N. Ordine":  "260031",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "152.500000",
-        "Note":  "Basato su Ordini cliente 260082."
-    },
-    {
         "N. Ordine":  "260029",
         "Data":  "26/03/2026",
         "Cod. Fornitore":  "F000063",
@@ -115,6 +115,15 @@
         "Data Consegna":  "28/02/2026",
         "Importo":  "11236.200000",
         "Note":  "Basato su Ordini cliente 260052."
+    },
+    {
+        "N. Ordine":  "260051",
+        "Data":  "24/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "21/04/2026",
+        "Importo":  "2623.980000",
+        "Note":  "MeM SRL"
     },
     {
         "N. Ordine":  "260023",
@@ -160,6 +169,15 @@
         "Data Consegna":  "11/03/2026",
         "Importo":  "378.940000",
         "Note":  "HOTELLERIE Basato su Ordini cliente 260062. 260063."
+    },
+    {
+        "N. Ordine":  "260050",
+        "Data":  "05/03/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "05/03/2026",
+        "Importo":  "6494.300000",
+        "Note":  "FA TU FRIGGITRICI ROC 900"
     },
     {
         "N. Ordine":  "260019",
@@ -277,15 +295,6 @@
         "Data Consegna":  "11/12/2025",
         "Importo":  "628.680000",
         "Note":  "RESIDUO FILTRO PER RUA"
-    },
-    {
-        "N. Ordine":  "250459",
-        "Data":  "25/11/2025",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "24215.540000",
-        "Note":  "Basato su Ordini cliente 250878.\r\rCOMMESSA_IT2505186_MININI GIOVANNI (M\u0026M SRL)"
     },
     {
         "N. Ordine":  "250442",
