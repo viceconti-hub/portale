@@ -1,25 +1,11 @@
 [
     {
-        "N. Attivita":  "7227",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "22/04/2026",
-        "Ora Inizio":  "900",
-        "Ora Fine":  "1000",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "LAURIA",
-        "Note":  ""
-    },
-    {
         "N. Attivita":  "7222",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora Inizio":  "852",
-        "Ora Fine":  "907",
+        "Data":  "22/04/2026",
+        "Ora Inizio":  "541",
+        "Ora Fine":  "556",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "CO52935",
         "Cliente":  "MALITO MICHELE",
