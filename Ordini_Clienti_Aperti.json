@@ -30,16 +30,6 @@
         "Note":  "VETRINA NORA"
     },
     {
-        "N. Ordine":  "260098",
-        "Data":  "13/04/2026",
-        "Cod. Cliente":  "CO52936",
-        "Cliente":  "LIBERTY HOUSE SRLS",
-        "Data Consegna":  "13/04/2026",
-        "Importo":  "89.340000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BARATTOLI PAGAMENTO PAYPAL"
-    },
-    {
         "N. Ordine":  "260097",
         "Data":  "09/04/2026",
         "Cod. Cliente":  "CO52766",
@@ -88,16 +78,6 @@
         "Importo":  "170.800000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
-    },
-    {
-        "N. Ordine":  "260082",
-        "Data":  "26/03/2026",
-        "Cod. Cliente":  "CO52931",
-        "Cliente":  "De Michele Alejandro s.a.s.",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "124.340000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ASTA DA 35 CM PER MIXER CICLONE"
     },
     {
         "N. Ordine":  "260083",
