@@ -1,0 +1,543 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Attività → Calendar | Viceconti</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f0f2f6;
+            font-size: 13px;
+            color: #1b1f2a;
+        }
+
+        /* ── HEADER ── */
+        .header {
+            background: linear-gradient(135deg, #1a237e 0%, #283593 100%);
+            color: white;
+            padding: 18px 20px 14px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .header-left { display: flex; align-items: center; gap: 14px; }
+        .header-icon {
+            width: 40px; height: 40px; background: rgba(255,255,255,0.15);
+            border-radius: 10px; display: flex; align-items: center;
+            justify-content: center; font-size: 20px;
+        }
+        .header h1 { font-size: 15px; font-weight: 700; letter-spacing: -0.2px; }
+        .header .meta { font-size: 12px; opacity: 0.75; margin-top: 2px; }
+        .header-badge {
+            background: rgba(255,255,255,0.18); border: 1px solid rgba(255,255,255,0.25);
+            border-radius: 20px; padding: 4px 12px; font-size: 11px; font-weight: 600;
+            letter-spacing: 0.03em; white-space: nowrap;
+        }
+
+        /* ── CONTROLS BAR ── */
+        .controls {
+            background: white;
+            border-bottom: 2px solid #e8e8e8;
+            padding: 10px 16px;
+            display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+            position: sticky; top: 0; z-index: 200;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.07);
+        }
+
+        .search-wrap {
+            flex: 1; min-width: 180px; max-width: 280px; position: relative;
+        }
+        .search-icon {
+            position: absolute; left: 9px; top: 50%; transform: translateY(-50%);
+            color: #9ca3af; font-size: 12px; pointer-events: none;
+        }
+        .search-input {
+            width: 100%; padding: 6px 10px 6px 28px;
+            border: 1px solid #e0e0e0; border-radius: 5px;
+            font-size: 12px; color: #1b1f2a; background: #fafafa;
+            transition: border-color 0.15s;
+        }
+        .search-input:focus { outline: none; border-color: #1a237e; background: white; }
+
+        .filter-tipo {
+            padding: 6px 10px; border: 1px solid #e0e0e0; border-radius: 5px;
+            font-size: 12px; background: #fafafa; color: #1b1f2a; cursor: pointer;
+        }
+        .filter-tipo:focus { outline: none; border-color: #1a237e; }
+
+        .badge-count {
+            background: #edeef2; color: #5b6372; padding: 4px 10px;
+            border-radius: 20px; font-size: 11px; font-family: monospace;
+            white-space: nowrap;
+        }
+
+        .badge-selected {
+            display: none; align-items: center; gap: 5px;
+            background: #e8f5e9; color: #2e7d32;
+            border: 1px solid #a5d6a7;
+            padding: 4px 10px; border-radius: 20px;
+            font-size: 11px; font-weight: 600;
+        }
+        .badge-selected.show { display: inline-flex; }
+
+        .btn-sync {
+            display: inline-flex; align-items: center; gap: 6px;
+            padding: 6px 16px; border-radius: 5px;
+            background: #2e7d32; color: white; border: none;
+            font-size: 12px; font-weight: 700; cursor: pointer;
+            opacity: 0.4; pointer-events: none;
+            transition: opacity 0.2s, background 0.2s, transform 0.1s;
+            white-space: nowrap; letter-spacing: 0.02em;
+        }
+        .btn-sync.active { opacity: 1; pointer-events: auto; }
+        .btn-sync.active:hover { background: #1b5e20; transform: translateY(-1px); }
+        .btn-sync.active:active { transform: translateY(0); }
+        .btn-sync.loading { background: #78909c; pointer-events: none; opacity: 1; }
+
+        /* ── RESULT BANNER ── */
+        .sync-result {
+            display: none; padding: 10px 16px;
+            font-size: 12px; font-weight: 600;
+            border-left: 4px solid transparent;
+        }
+        .sync-result.success {
+            display: block; background: #f1f8e9; color: #2e7d32;
+            border-color: #66bb6a;
+        }
+        .sync-result.error {
+            display: block; background: #ffebee; color: #c62828;
+            border-color: #ef9a9a;
+        }
+
+        /* ── TABLE ── */
+        .table-container {
+            overflow-x: auto;
+            background: white;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+        }
+
+        table { width: 100%; border-collapse: collapse; }
+
+        thead th {
+            background: #1a237e; color: white;
+            padding: 9px 8px;
+            text-align: left; font-size: 11px; font-weight: 600;
+            white-space: nowrap; user-select: none;
+            position: sticky; top: 49px; z-index: 100;
+            border-right: 1px solid rgba(255,255,255,0.08);
+            cursor: pointer;
+            letter-spacing: 0.03em;
+        }
+        thead th:last-child { border-right: none; }
+        thead th.no-sort { cursor: default; }
+        thead th:not(.no-sort):hover { background: #283593; }
+        thead th:not(.no-sort)::after { content: ' ↕'; opacity: 0.35; font-size: 9px; }
+        thead th.sort-asc::after  { content: ' ↑'; opacity: 1; }
+        thead th.sort-desc::after { content: ' ↓'; opacity: 1; }
+
+        tbody td {
+            padding: 8px 8px; border-bottom: 1px solid #f0f0f0;
+            border-right: 1px solid #f5f5f5; vertical-align: middle;
+        }
+        tbody td:last-child { border-right: none; }
+        tbody tr:hover td { background: #f5f7ff; }
+        tbody tr.hidden { display: none; }
+
+        tbody tr.synced td {
+            background: #f1f8e9 !important;
+            opacity: 0.7;
+        }
+
+        /* Colonna checkbox */
+        .col-check { width: 36px; text-align: center; }
+        input[type="checkbox"] { width: 15px; height: 15px; cursor: pointer; accent-color: #1a237e; }
+
+        /* Tipo badge */
+        .tipo-pill {
+            display: inline-block; padding: 2px 8px; border-radius: 10px;
+            font-size: 10px; font-weight: 700; letter-spacing: 0.04em;
+        }
+        .tipo-a { background: #e3f2fd; color: #1565c0; }
+        .tipo-c { background: #fff3e0; color: #bf360c; }
+
+        /* Priority */
+        .prio-dot {
+            display: inline-flex; align-items: center; justify-content: center;
+            width: 20px; height: 20px; border-radius: 50%;
+            font-size: 10px; font-weight: 800;
+        }
+        .prio-1 { background: #fce4ec; color: #b71c1c; }
+        .prio-2 { background: #fff8e1; color: #e65100; }
+        .prio-3 { background: #e8f5e9; color: #1b5e20; }
+
+        .cell-num  { font-family: monospace; font-size: 12px; color: #555; }
+        .cell-ora  { font-family: monospace; font-size: 12px; }
+        .cell-note { color: #666; font-size: 11px; line-height: 1.4; white-space: pre-line; max-width: 200px; }
+        .cell-cliente { font-weight: 500; max-width: 180px; }
+        .synced-tag {
+            display: inline-block; background: #c8e6c9; color: #2e7d32;
+            border-radius: 3px; padding: 1px 5px; font-size: 10px;
+            font-weight: 700; margin-left: 4px;
+        }
+
+        /* ── FOOTER ── */
+        .table-footer {
+            padding: 8px 14px; border-top: 1px solid #eee;
+            display: flex; justify-content: space-between; align-items: center;
+            font-size: 11px; color: #9ca3af; font-family: monospace;
+        }
+
+        .no-data {
+            text-align: center; padding: 48px 20px;
+            color: #9ca3af; display: none;
+        }
+        .no-data.show { display: block; }
+        .no-data-icon { font-size: 32px; margin-bottom: 8px; }
+
+        @media (max-width: 768px) {
+            .header { padding: 12px 14px 10px; }
+            .header h1 { font-size: 13px; }
+            .controls { padding: 8px 12px; gap: 6px; }
+            thead th { padding: 7px 6px; font-size: 10px; top: 46px; }
+            tbody td { padding: 7px 6px; font-size: 12px; }
+            .btn-sync { font-size: 11px; padding: 5px 12px; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- ═══════ HEADER ═══════ -->
+<div class="header">
+    <div class="header-left">
+        <div class="header-icon">📅</div>
+        <div>
+            <h1>Sincronizza Attività su Google Calendar</h1>
+            <div class="meta" id="headerMeta">Caricamento in corso…</div>
+        </div>
+    </div>
+    <span class="header-badge" id="headerBadge">–</span>
+</div>
+
+<!-- ═══════ CONTROLS ═══════ -->
+<div class="controls">
+    <div class="search-wrap">
+        <span class="search-icon">🔍</span>
+        <input type="text" class="search-input" id="searchBox"
+               placeholder="Cerca cliente, tecnico, contenuto…"
+               oninput="applyFilters()">
+    </div>
+
+    <select class="filter-tipo" id="filterTipo" onchange="applyFilters()">
+        <option value="">Tutti i tipi</option>
+        <option value="ASSISTENZA">Assistenza</option>
+        <option value="CONSEGNA">Consegna</option>
+    </select>
+
+    <span class="badge-count" id="rowCount">–</span>
+
+    <span class="badge-selected" id="selectedBadge">
+        ✓ <span id="selectedNum">0</span> selezionate
+    </span>
+
+    <button class="btn-sync" id="syncBtn" onclick="syncToCalendar()">
+        📅 Sincronizza su Calendar
+    </button>
+</div>
+
+<div class="sync-result" id="syncResult"></div>
+
+<!-- ═══════ TABLE ═══════ -->
+<div class="table-container">
+    <table id="dataTable">
+        <thead>
+            <tr>
+                <th class="col-check no-sort">
+                    <input type="checkbox" id="checkAll" onchange="toggleAll(this)" title="Seleziona/deseleziona tutte le righe visibili">
+                </th>
+                <th class="no-sort" style="width:30px">P.</th>
+                <th onclick="sortTable(this)">N. Att.</th>
+                <th onclick="sortTable(this)">Tecnico</th>
+                <th onclick="sortTable(this)">Data</th>
+                <th onclick="sortTable(this)">Inizio</th>
+                <th onclick="sortTable(this)">Fine</th>
+                <th onclick="sortTable(this)">Tipo</th>
+                <th onclick="sortTable(this)">Cliente</th>
+                <th onclick="sortTable(this)">Contenuto</th>
+                <th onclick="sortTable(this)">Città</th>
+                <th onclick="sortTable(this)">Note</th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <tr>
+                <td colspan="12" style="text-align:center;padding:48px;color:#bbb">
+                    Caricamento dati…
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <div class="no-data" id="noData">
+        <div class="no-data-icon">🔍</div>
+        Nessun risultato trovato
+    </div>
+    <div class="table-footer">
+        <span id="footerLeft">–</span>
+        <span id="footerRight">–</span>
+    </div>
+</div>
+
+<script>
+// ════════════════════════════════════════════════════
+// ⚙️  CONFIGURAZIONE — modifica solo qui
+// ════════════════════════════════════════════════════
+const N8N_WEBHOOK_URL = 'INSERISCI_URL_WEBHOOK_N8N_QUI';
+const JSON_FILE       = 'Attivita_Assistenza.json';
+// ════════════════════════════════════════════════════
+
+let allData = [];
+
+// ── INIT ──────────────────────────────────────────
+async function init() {
+    try {
+        const r = await fetch(JSON_FILE + '?v=' + Date.now());
+        if (!r.ok) throw new Error('HTTP ' + r.status);
+        allData = await r.json();
+        renderTable();
+
+        const now = new Date().toLocaleString('it-IT', {
+            day:'2-digit', month:'2-digit', year:'numeric',
+            hour:'2-digit', minute:'2-digit'
+        });
+        document.getElementById('headerMeta').textContent =
+            `${allData.length} attività aperte · Aggiornato: ${now}`;
+        document.getElementById('headerBadge').textContent =
+            allData.length + ' attività';
+        document.getElementById('footerRight').textContent =
+            'Dati al ' + now;
+    } catch(e) {
+        document.getElementById('headerMeta').textContent = 'Errore caricamento: ' + e.message;
+        document.getElementById('tableBody').innerHTML =
+            `<tr><td colspan="12" style="text-align:center;padding:48px;color:#c62828">
+             ❌ Impossibile caricare ${JSON_FILE}</td></tr>`;
+    }
+}
+
+// ── RENDER ────────────────────────────────────────
+function renderTable() {
+    const tbody = document.getElementById('tableBody');
+
+    if (!allData.length) {
+        tbody.innerHTML = '<tr><td colspan="12" style="text-align:center;padding:48px;color:#bbb">Nessun dato disponibile</td></tr>';
+        document.getElementById('rowCount').textContent = '0 attività';
+        return;
+    }
+
+    tbody.innerHTML = allData.map((row, idx) => {
+        const tipo  = (row['Tipo'] || 'ASSISTENZA').toUpperCase();
+        const prio  = parseInt(row['Priorita']) || 1;
+        const tipoClass = tipo === 'CONSEGNA' ? 'tipo-c' : 'tipo-a';
+        const prioClass = `prio-${Math.min(prio, 3)}`;
+
+        return `<tr data-idx="${idx}">
+            <td class="col-check">
+                <input type="checkbox" class="row-check" onchange="updateSelection()">
+            </td>
+            <td class="col-check">
+                <span class="prio-dot ${prioClass}">${prio}</span>
+            </td>
+            <td class="cell-num">${row['N. Attivita'] || '—'}</td>
+            <td>${escHtml(row['Utente'] || '—')}</td>
+            <td style="white-space:nowrap">${row['Data'] || '—'}</td>
+            <td class="cell-ora">${fmtOra(row['Ora Inizio'])}</td>
+            <td class="cell-ora">${fmtOra(row['Ora Fine'])}</td>
+            <td><span class="tipo-pill ${tipoClass}">${tipo}</span></td>
+            <td class="cell-cliente">${escHtml(row['Cliente'] || '—')}</td>
+            <td>${escHtml(row['Contenuto'] || '—')}</td>
+            <td>${escHtml(row['Citta'] || '—')}</td>
+            <td class="cell-note">${escHtml(row['Note'] || '')}</td>
+        </tr>`;
+    }).join('');
+
+    updateRowCount();
+}
+
+// ── UTILITIES ─────────────────────────────────────
+function fmtOra(v) {
+    const n = parseInt(v);
+    if (!n || isNaN(n)) return '—';
+    return String(Math.floor(n/100)).padStart(2,'0') + ':' + String(n%100).padStart(2,'0');
+}
+
+function escHtml(s) {
+    return String(s)
+        .replace(/&/g,'&amp;')
+        .replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;')
+        .replace(/"/g,'&quot;');
+}
+
+// ── FILTER ────────────────────────────────────────
+function applyFilters() {
+    const txt  = document.getElementById('searchBox').value.toLowerCase();
+    const tipo = document.getElementById('filterTipo').value.toUpperCase();
+    const rows = document.querySelectorAll('#tableBody tr[data-idx]');
+    let vis = 0;
+
+    rows.forEach(tr => {
+        const idx  = parseInt(tr.dataset.idx);
+        const row  = allData[idx];
+        const text = Object.values(row).join(' ').toLowerCase();
+        const rt   = (row['Tipo'] || '').toUpperCase();
+
+        const ok = (!txt || text.includes(txt)) && (!tipo || rt === tipo);
+        tr.classList.toggle('hidden', !ok);
+        if (ok) vis++;
+    });
+
+    updateRowCount(vis);
+    updateSelection();
+    document.getElementById('noData').classList.toggle('show', vis === 0);
+}
+
+function updateRowCount(vis) {
+    const total = document.querySelectorAll('#tableBody tr[data-idx]').length;
+    const n = (vis !== undefined) ? vis : total;
+    document.getElementById('rowCount').textContent = n + ' attività';
+    document.getElementById('footerLeft').textContent = n + ' di ' + total + ' righe';
+}
+
+// ── SORT ──────────────────────────────────────────
+function sortTable(th) {
+    const tbody = document.getElementById('tableBody');
+    const rows  = Array.from(tbody.querySelectorAll('tr[data-idx]'));
+    const col   = Array.from(th.parentNode.children).indexOf(th);
+    const asc   = th.classList.contains('sort-asc');
+
+    th.parentNode.querySelectorAll('th').forEach(h => h.classList.remove('sort-asc','sort-desc'));
+    th.classList.add(asc ? 'sort-desc' : 'sort-asc');
+
+    rows.sort((a, b) => {
+        let av = a.children[col]?.textContent.trim() || '';
+        let bv = b.children[col]?.textContent.trim() || '';
+
+        // Date IT
+        if (/^\d{2}\/\d{2}\/\d{4}$/.test(av) && /^\d{2}\/\d{2}\/\d{4}$/.test(bv)) {
+            const toD = s => { const [d,m,y]=s.split('/'); return new Date(y,m-1,d); };
+            return asc ? toD(bv)-toD(av) : toD(av)-toD(bv);
+        }
+        // Numeric
+        const an = parseFloat(av), bn = parseFloat(bv);
+        if (!isNaN(an) && !isNaN(bn)) return asc ? bn-an : an-bn;
+        // String
+        return asc ? bv.localeCompare(av,'it') : av.localeCompare(bv,'it');
+    });
+
+    rows.forEach(r => tbody.appendChild(r));
+}
+
+// ── CHECKBOX SELECTION ────────────────────────────
+function toggleAll(master) {
+    document.querySelectorAll('#tableBody tr[data-idx]:not(.hidden) .row-check:not(:disabled)')
+        .forEach(cb => { cb.checked = master.checked; });
+    updateSelection();
+}
+
+function updateSelection() {
+    const checked = document.querySelectorAll('#tableBody .row-check:checked').length;
+    const total   = document.querySelectorAll('#tableBody tr[data-idx]:not(.hidden) .row-check:not(:disabled)').length;
+
+    document.getElementById('selectedNum').textContent = checked;
+    document.getElementById('selectedBadge').classList.toggle('show', checked > 0);
+
+    const btn = document.getElementById('syncBtn');
+    btn.classList.toggle('active', checked > 0);
+
+    const master = document.getElementById('checkAll');
+    master.indeterminate = checked > 0 && checked < total;
+    master.checked = total > 0 && checked === total;
+}
+
+// ── SYNC TO CALENDAR ─────────────────────────────
+async function syncToCalendar() {
+    const checked = document.querySelectorAll('#tableBody .row-check:checked');
+    if (!checked.length) return;
+
+    // Raccolta dati
+    const attivita = [];
+    checked.forEach(cb => {
+        const idx = parseInt(cb.closest('tr').dataset.idx);
+        const r   = allData[idx];
+        attivita.push({
+            N_Attivita:  r['N. Attivita'],
+            Utente:      r['Utente'],
+            Data:        r['Data'],
+            Ora_Inizio:  r['Ora Inizio'],
+            Ora_Fine:    r['Ora Fine'],
+            Tipo:        (r['Tipo'] || 'ASSISTENZA').toUpperCase(),
+            Cod_Cliente: r['Cod. Cliente'],
+            Cliente:     r['Cliente'],
+            Contenuto:   r['Contenuto'],
+            Citta:       r['Citta'],
+            Note:        r['Note']
+        });
+    });
+
+    if (!confirm(`Sincronizzare ${attivita.length} attività su Google Calendar?`)) return;
+
+    // UI → loading
+    const btn       = document.getElementById('syncBtn');
+    const resultEl  = document.getElementById('syncResult');
+    const origLabel = btn.innerHTML;
+
+    btn.innerHTML = '⏳ Invio in corso…';
+    btn.classList.remove('active');
+    btn.classList.add('loading');
+    resultEl.className = 'sync-result';
+
+    try {
+        if (N8N_WEBHOOK_URL === 'INSERISCI_URL_WEBHOOK_N8N_QUI') {
+            throw new Error('URL webhook non configurato. Apri il file HTML e modifica la variabile N8N_WEBHOOK_URL.');
+        }
+
+        const resp = await fetch(N8N_WEBHOOK_URL, {
+            method:  'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body:    JSON.stringify({ attivita })
+        });
+
+        if (!resp.ok) throw new Error('Risposta HTTP ' + resp.status);
+
+        // Marca righe come sincronizzate
+        checked.forEach(cb => {
+            const tr = cb.closest('tr');
+            tr.classList.add('synced');
+            cb.checked = false;
+            cb.disabled = true;
+            const numCell = tr.children[2];
+            numCell.innerHTML += '<span class="synced-tag">✓ CAL</span>';
+        });
+
+        resultEl.textContent = `✅ ${attivita.length} attività inviate a n8n correttamente.`;
+        resultEl.className   = 'sync-result success';
+
+    } catch(e) {
+        resultEl.textContent = `❌ Errore: ${e.message}`;
+        resultEl.className   = 'sync-result error';
+    }
+
+    // Ripristino UI
+    btn.innerHTML = origLabel;
+    btn.classList.remove('loading');
+    updateSelection();
+    setTimeout(() => { resultEl.className = 'sync-result'; }, 10000);
+}
+
+// ── START ─────────────────────────────────────────
+init();
+</script>
+</body>
+</html>
