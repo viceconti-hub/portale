@@ -1,53 +1,5 @@
 [
     {
-        "N. Attivita":  "7226",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "17/04/2026",
-        "Ora":  "951",
-        "Cod. Cliente":  "C000126",
-        "Cliente":  "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "LAURIA",
-        "Note":  "CONSEGNA DETERGENTE"
-    },
-    {
-        "N. Attivita":  "7225",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "900",
-        "Cod. Cliente":  "CO51794",
-        "Cliente":  "FALCONE SAS di FALCONE ALESSANDRO \u0026 C. BISCOTTIFICIO CAUCCI",
-        "Contenuto":  "COMPRESSORE",
-        "Citta":  "TRECCHINA",
-        "Note":  "COMPRESSORE"
-    },
-    {
-        "N. Attivita":  "7224",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "857",
-        "Cod. Cliente":  "CO52761",
-        "Cliente":  "CANNAZZARO SRL",
-        "Contenuto":  "FRONO QUBI",
-        "Citta":  "LAINO CASTELLO",
-        "Note":  "FORNO QUBI"
-    },
-    {
-        "N. Attivita":  "7223",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "853",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "",
-        "Note":  "TUBAZIONE INOX:\r\rLINEARE 500 DIAMETRO 500 QTA 1\rLINEARE 500 DIAMETRO 150 QTA 2"
-    },
-    {
         "N. Attivita":  "7222",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -72,54 +24,6 @@
         "Note":  "ATOLL SPEED"
     },
     {
-        "N. Attivita":  "7220",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "849",
-        "Cod. Cliente":  "C050882",
-        "Cliente":  "LA REGINA S.r.l. Servizi e Logistica",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "LAURIA",
-        "Note":  "RATIONAL"
-    },
-    {
-        "N. Attivita":  "7219",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "846",
-        "Cod. Cliente":  "C000489",
-        "Cliente":  "GRAN SOLE S.r.l.",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "NEMOLI",
-        "Note":  "GRATTUGIA SIRMAN IN COMODATO"
-    },
-    {
-        "N. Attivita":  "7218",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "844",
-        "Cod. Cliente":  "C000785",
-        "Cliente":  "NATALE SALVATORE",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "",
-        "Note":  "PERGEL QTA\u0027 1"
-    },
-    {
-        "N. Attivita":  "7217",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "843",
-        "Cod. Cliente":  "CO52766",
-        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "PRAIA A MARE",
-        "Note":  "LAVASTOVIGLIE"
-    },
-    {
         "N. Attivita":  "7216",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -130,126 +34,6 @@
         "Contenuto":  "MACCHINA DA CAFFE",
         "Citta":  "LAURIA",
         "Note":  "MACCHINA DA CAFFE: MANUTENZIONE ORDINARIA"
-    },
-    {
-        "N. Attivita":  "7215",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "840",
-        "Cod. Cliente":  "C000149",
-        "Cliente":  "Billy Bar di SCALDAFERRI PIETRO",
-        "Contenuto":  "LAVABAR",
-        "Citta":  "LAURIA",
-        "Note":  "LAVABAR ATA AL40"
-    },
-    {
-        "N. Attivita":  "7214",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "839",
-        "Cod. Cliente":  "C001261",
-        "Cliente":  "CARNI LIMONGI SRL",
-        "Contenuto":  "MACCHINA SOTTOVUOTO",
-        "Citta":  "LAURIA",
-        "Note":  "MACCHINA SOTTOVUOTO ORVED VM 98"
-    },
-    {
-        "N. Attivita":  "7213",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "837",
-        "Cod. Cliente":  "C000139",
-        "Cliente":  "BASILICATA GRANTOUR S.A.S. DI ANTONIO AGRELLO \u0026 C.",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "LAURIA",
-        "Note":  "AFFETTATRICE"
-    },
-    {
-        "N. Attivita":  "7212",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "834",
-        "Cod. Cliente":  "C050811",
-        "Cliente":  "ESCOPOCO S.R.L.",
-        "Contenuto":  "DOCCIA",
-        "Citta":  "PRAIA A MARE",
-        "Note":  "DOCCIA"
-    },
-    {
-        "N. Attivita":  "7211",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "832",
-        "Cod. Cliente":  "CO52305",
-        "Cliente":  "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO \u0026 C. S.N.C.",
-        "Contenuto":  "FORNO PIZZA",
-        "Citta":  "LAURIA",
-        "Note":  "FORNO PIZZA"
-    },
-    {
-        "N. Attivita":  "7210",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "830",
-        "Cod. Cliente":  "CO52054",
-        "Cliente":  "H2A srl",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "PRAIA A MARE",
-        "Note":  "PRODUTTORE DI GHIACCIO"
-    },
-    {
-        "N. Attivita":  "7209",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "829",
-        "Cod. Cliente":  "C051108",
-        "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "SAN NICOLA ARCELLA",
-        "Note":  "RATIONAL"
-    },
-    {
-        "N. Attivita":  "7208",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/04/2026",
-        "Ora":  "828",
-        "Cod. Cliente":  "C001360",
-        "Cliente":  "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "TRECCHINA",
-        "Note":  "AFFETTATRICE"
-    },
-    {
-        "N. Attivita":  "7207",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "823",
-        "Cod. Cliente":  "CO52567",
-        "Cliente":  "CARACOJ PRAJA SRL",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7206",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "12/04/2026",
-        "Ora":  "822",
-        "Cod. Cliente":  "C000202",
-        "Cliente":  "VILLA TERRY di CARLOMAGNO BIAGIO",
-        "Contenuto":  "CUCINA",
-        "Citta":  "LAURIA",
-        "Note":  "CUCINA 4 FUOCHI ZANUSSI"
     },
     {
         "N. Attivita":  "7205",
@@ -286,30 +70,6 @@
         "Contenuto":  "TRITACARNE",
         "Citta":  "LAURIA",
         "Note":  ""
-    },
-    {
-        "N. Attivita":  "7202",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "08/04/2026",
-        "Ora":  "1238",
-        "Cod. Cliente":  "C000229",
-        "Cliente":  "CENTRAL MARKET SNC DI FORESTIERI G. \u0026 ZACCAGNINO R.",
-        "Contenuto":  "MATECATORE",
-        "Citta":  "LAURIA",
-        "Note":  "MANTECATORE"
-    },
-    {
-        "N. Attivita":  "7201",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "01/04/2026",
-        "Ora":  "928",
-        "Cod. Cliente":  "C000489",
-        "Cliente":  "GRAN SOLE S.r.l.",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "LAGONEGRO",
-        "Note":  "RATIONAL CADE ACQUA DALLA CAPPA"
     },
     {
         "N. Attivita":  "7200",
@@ -408,42 +168,6 @@
         "Note":  "ORDINARE VENTOLA EVAPORATORE"
     },
     {
-        "N. Attivita":  "7192",
-        "Priorita":  "2",
-        "Utente":  "Gianni",
-        "Data":  "23/03/2026",
-        "Ora":  "2039",
-        "Cod. Cliente":  "C001261",
-        "Cliente":  "CARNI LIMONGI SRL",
-        "Contenuto":  "TERMOSIGILLATRICE VALKO",
-        "Citta":  "",
-        "Note":  "RICHIESTA DI OFFERTA PER RICAMBI\rPOS. 176  CODICE 16160001 CILINDRO CAMPANA QTA\u0027 1\rPOS. 177 CODICE 16160002 CILINDRO SALDATURA QTA\u0027 2\rPOS. 91 CODICE 05780000 O RING 30X3 1,5 M"
-    },
-    {
-        "N. Attivita":  "7191",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "31/03/2026",
-        "Ora":  "900",
-        "Cod. Cliente":  "C051176",
-        "Cliente":  "HOTEL PISACANE S. R. L.",
-        "Contenuto":  "MACCHINA DA CAFFE\u0027",
-        "Citta":  "SAPRI",
-        "Note":  "MACCHINA DA CAFFE: MANUTENZIONE ORDINARIA + CAMBIO CARTUCCIA"
-    },
-    {
-        "N. Attivita":  "7190",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "25/03/2026",
-        "Ora":  "1500",
-        "Cod. Cliente":  "C001516",
-        "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "TRECCHINA",
-        "Note":  "VETRINA IFI LILIUM + MOTORE REMOTO: MERCOLEDì POMERIGGIO"
-    },
-    {
         "N. Attivita":  "7186",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -480,42 +204,6 @@
         "Note":  "IMPASTATRICE: POMOLO VEDI FOTO\r\rABBATTITORE SOSTITUZIONE FILTRO\r\rPLANETARIA DOMINO: PARAOILIO VEDI FOTO\r\r\r------------------------------------"
     },
     {
-        "N. Attivita":  "7183",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "09/03/2026",
-        "Ora":  "911",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Contenuto":  "FRIGGITRICE",
-        "Citta":  "LAURIA",
-        "Note":  "FRIGGITRICE"
-    },
-    {
-        "N. Attivita":  "7182",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "09/03/2026",
-        "Ora":  "906",
-        "Cod. Cliente":  "C000489",
-        "Cliente":  "GRAN SOLE S.r.l.",
-        "Contenuto":  "GRATTUGIA",
-        "Citta":  "NEMOLI",
-        "Note":  "GRATTUGIA FIMAR"
-    },
-    {
-        "N. Attivita":  "7181",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "09/03/2026",
-        "Ora":  "905",
-        "Cod. Cliente":  "C050795",
-        "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
-        "Contenuto":  "LAVASTOVIGLIE",
-        "Citta":  "LAGONEGRO",
-        "Note":  "LAVASTOVIGLIE"
-    },
-    {
         "N. Attivita":  "7177",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -550,18 +238,6 @@
         "Contenuto":  "FORNO",
         "Citta":  "MARATEA",
         "Note":  "FORNO"
-    },
-    {
-        "N. Attivita":  "7173",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "24/02/2026",
-        "Ora":  "940",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Contenuto":  "ARMADIO FRIGO",
-        "Citta":  "MARATEA",
-        "Note":  "ARMADIO FRIGO: NON VA"
     },
     {
         "N. Attivita":  "7171",
@@ -612,18 +288,6 @@
         "Note":  "LAVABAR"
     },
     {
-        "N. Attivita":  "7166",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/02/2026",
-        "Ora":  "1344",
-        "Cod. Cliente":  "CO52139",
-        "Cliente":  "TIME OUT FIMAANG SRLS",
-        "Contenuto":  "TAGLIAMOZZARELLA",
-        "Citta":  "LAURIA",
-        "Note":  "TAGLIAMOZZARELLA"
-    },
-    {
         "N. Attivita":  "7162",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -658,18 +322,6 @@
         "Contenuto":  "BILANCIA",
         "Citta":  "LAURIA",
         "Note":  "BILANCIA: SOLITO PROBLEMA, NON CARICAR. PORTARE BILANCIA IN SOSTITUZIONE"
-    },
-    {
-        "N. Attivita":  "7156",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "05/02/2026",
-        "Ora":  "927",
-        "Cod. Cliente":  "C001308",
-        "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
-        "Contenuto":  "Prosecuzione: COMPLESSO DI ATTREZZATURE",
-        "Citta":  "MARATEA",
-        "Note":  "Forno cucina (ventilato): sistemare vapore perde\r\rFRIGGITRICE A GAS: MACCHINA IN COMODATO / PROVA\r\rForno pizzeria aspiratore\r\rProblema cappa ?: PROBLEMONE CAPPA"
     },
     {
         "N. Attivita":  "7145",
@@ -708,30 +360,6 @@
         "Note":  "LAVASTOVIGLIE"
     },
     {
-        "N. Attivita":  "7129",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "23/12/2025",
-        "Ora":  "952",
-        "Cod. Cliente":  "CO52481",
-        "Cliente":  "LANIFICIO MANGO SRLS",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "",
-        "Note":  "RATIONAL: SERVICE 25 CLEANJET NON DISPONIBILE è POSSIBILE CUOCERE"
-    },
-    {
-        "N. Attivita":  "7122",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "12/12/2025",
-        "Ora":  "1403",
-        "Cod. Cliente":  "CO52880",
-        "Cliente":  "PIZZERIA OHIMA DI DE ROSA ANGELO",
-        "Contenuto":  "",
-        "Citta":  "",
-        "Note":  "SOPRALLUOGO"
-    },
-    {
         "N. Attivita":  "7112",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -754,18 +382,6 @@
         "Contenuto":  "LAVASTOVIGLIE A CAPPOTTA",
         "Citta":  "LAURIA",
         "Note":  "LAVASTOVIGLIE A CAPPOTTA: PERDE ACQUA"
-    },
-    {
-        "N. Attivita":  "7104",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "29/10/2025",
-        "Ora":  "1336",
-        "Cod. Cliente":  "C051582",
-        "Cliente":  "SAFAR SRLS IL RIFUGIO DEL CAVALIERE",
-        "Contenuto":  "CUCINA",
-        "Citta":  "RIVELLO",
-        "Note":  "CUCINA\r\r+ ANTE TAVOLI SOSTITUZIONE CERNIERE"
     },
     {
         "N. Attivita":  "7078",
@@ -970,18 +586,6 @@
         "Contenuto":  "COMPLESSO DI MACCHINE",
         "Citta":  "LAURIA",
         "Note":  "IMPASTATRICE\r\rFRIGO LUCE\r\rABBATTITORE SOSTITUZIONE FILTRO\r\rMERCOLEDì POMERIGGIO / GIOVEDIì MATTINA"
-    },
-    {
-        "N. Attivita":  "6871",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "13/05/2025",
-        "Ora":  "1647",
-        "Cod. Cliente":  "CO52348",
-        "Cliente":  "AGRICOLA DAI NONNI DI LABANCA EMANUEL LUCIANO",
-        "Contenuto":  "BILANCIA",
-        "Citta":  "MOLITERNO",
-        "Note":  "BILANCIA"
     },
     {
         "N. Attivita":  "6869",
