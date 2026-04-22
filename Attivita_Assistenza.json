@@ -1,5 +1,33 @@
 [
     {
+        "N. Attivita":  "7229",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "22/04/2026",
+        "Ora Inizio":  "947",
+        "Ora Fine":  "1002",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO51789",
+        "Cliente":  "CENTRO BALNEARE YELLOW BOAT SAS",
+        "Contenuto":  "",
+        "Citta":  "",
+        "Note":  "richiesta di assistenza su attrezzature della cucina: cucina modulare a 6 fuochi.\r Probabile sostituzione bruciatori, più #Rational verifica stato di pulizia. \rProbabile necessità di trattamento anticalcare. \rInoltre, si chiede se è possibile utilizzare le pastiglie verdi come per forno di Regina Droghini, che hanno preso in gestione. \rProssima settimana contattare per sopralluogo per programmare assistenze"
+    },
+    {
+        "N. Attivita":  "7228",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "22/04/2026",
+        "Ora Inizio":  "943",
+        "Ora Fine":  "958",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Contenuto":  "FRIGGITRICE",
+        "Citta":  "NEMOLI",
+        "Note":  "FRIGGITRICE: SI SPEGNE \r\r+ CONTROLLOARE ASPIRAZIONE FORNO PIZZERIA"
+    },
+    {
         "N. Attivita":  "7222",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
