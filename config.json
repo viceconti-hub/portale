@@ -13,8 +13,8 @@
                         "reports":  [
                                         {
                                             "id":  "attivita_assistenza",
-                                            "label":  "Attività Assistenza",
-                                            "description":  "Elenco attività aperte assistenza tecnica",
+                                            "label":  "Attività Tecniche",
+                                            "description":  "Assistenze, consegne e sopralluoghi aperti",
                                             "file":  "Attivita_Assistenza.json"
                                         }
                                     ]
@@ -54,5 +54,5 @@
                                     ]
                     }
                 ],
-    "lastUpdate":  "26/04/2026 20:00"
+    "lastUpdate":  "26/04/2026 21:02"
 }
