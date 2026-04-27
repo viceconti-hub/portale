@@ -20,16 +20,6 @@
         "Note":  "Basato su Offerte di vendita 260125."
     },
     {
-        "N. Ordine":  "260108",
-        "Data":  "20/04/2026",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
-        "Data Consegna":  "20/04/2026",
-        "Importo":  "1837.170000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SCAFFALI ARTINOX"
-    },
-    {
         "N. Ordine":  "260105",
         "Data":  "17/04/2026",
         "Cod. Cliente":  "CO52638",
@@ -188,16 +178,6 @@
         "Importo":  "175.680000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TENTAZIONI CALICE ORANGE MORINI"
-    },
-    {
-        "N. Ordine":  "260052",
-        "Data":  "28/02/2026",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
-        "Data Consegna":  "28/02/2026",
-        "Importo":  "13634.660000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FRIGGITRICE ROC 900 Basato su Offerte di vendita 260016."
     },
     {
         "N. Ordine":  "260034",
