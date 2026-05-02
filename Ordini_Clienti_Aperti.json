@@ -157,17 +157,7 @@
         "Data Consegna":  "23/03/2026",
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLO PER CONSEGNA ORDINE RIF. FATTURA COMPASS"
-    },
-    {
-        "N. Ordine":  "260079",
-        "Data":  "23/03/2026",
-        "Cod. Cliente":  "C000223",
-        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
-        "Data Consegna":  "23/03/2026",
-        "Importo":  "3369.210000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FORNO 2 CAMERE CUPPONE MODELLO TIZIANO Basato su Offerte di vendita 260065."
+        "Note":  "RESIDUTO TAVOLO 150X80 SOLO PER CONSEGNA ORDINE RIF. FATTURA COMPASS"
     },
     {
         "N. Ordine":  "260080",
