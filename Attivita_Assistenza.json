@@ -1,19 +1,5 @@
 [
     {
-        "N. Attivita":  "7240",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "29/04/2026",
-        "Ora Inizio":  "1056",
-        "Ora Fine":  "1111",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "CO52615",
-        "Cliente":  "M\u0026M SRL",
-        "Contenuto":  "CONSEGNA",
-        "Citta":  "TORTORA",
-        "Note":  "PRIMA CONSEGNA"
-    },
-    {
         "N. Attivita":  "7239",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -110,20 +96,6 @@
         "Contenuto":  "SOPRALLUOGO + ASSISTENZA GRIGLIA",
         "Citta":  "MARATEA",
         "Note":  "SOPRALLUOGO PER FORNITURA \r\r+ ASSISTENZA SU GRIGLIA A PIETRA LAVIA MBM: POTENZA TROPPO ALTA ANCHE AL MINIMO\r\r+ FOTO PER CUCINE DA VENDERE"
-    },
-    {
-        "N. Attivita":  "7231",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "28/04/2026",
-        "Ora Inizio":  "540",
-        "Ora Fine":  "555",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001261",
-        "Cliente":  "CARNI LIMONGI SRL",
-        "Contenuto":  "CONSEGNA PELLLICOLA",
-        "Citta":  "LAURIA",
-        "Note":  ""
     },
     {
         "N. Attivita":  "7230",
