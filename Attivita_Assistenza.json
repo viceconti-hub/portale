@@ -4,14 +4,14 @@
         "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "05/05/2026",
-        "Ora Inizio":  "936",
-        "Ora Fine":  "951",
+        "Ora Inizio":  "900",
+        "Ora Fine":  "1200",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C001223",
         "Cliente":  "NERA SRL",
         "Contenuto":  "COMPLESSO DI MACCHINE",
         "Citta":  "MARATEA",
-        "Note":  ""
+        "Note":  "MOTORE CAPPA\r\rMACCHINA SOTTOVUOTO\r\rFRIGGITRICE\r\rLAVASTOVIGLIE OSMOSI"
     },
     {
         "N. Attivita":  "7242",
@@ -381,15 +381,15 @@
         "N. Attivita":  "7174",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
-        "Data":  "24/02/2026",
-        "Ora Inizio":  "941",
-        "Ora Fine":  "956",
+        "Data":  "05/05/2026",
+        "Ora Inizio":  "1200",
+        "Ora Fine":  "1400",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "CO52368",
         "Cliente":  "4.0 SRLS YUMARA",
-        "Contenuto":  "FORNO",
+        "Contenuto":  "COMPLESSO DI MACCHINE",
         "Citta":  "MARATEA",
-        "Note":  "FORNO"
+        "Note":  "FORNO\r\rLAVASTOVIGLIE\r\rCONSEGNA DETERSIVI\r\rVERIFICA INSTALLAZIONE NUOVO PRODUTTORE"
     },
     {
         "N. Attivita":  "7171",
