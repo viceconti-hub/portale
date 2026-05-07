@@ -45,6 +45,15 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
+        "N. Ordine":  "260070",
+        "Data":  "28/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "21/05/2026",
+        "Importo":  "2053.780000",
+        "Note":  "FA TU INTEGRAZIONE TAVOLO 150 X 80 CON RIPIANO DI APPOGGIO"
+    },
+    {
         "N. Ordine":  "260060",
         "Data":  "28/04/2026",
         "Cod. Fornitore":  "F001573",
@@ -133,6 +142,15 @@
         "Data Consegna":  "15/04/2026",
         "Importo":  "523.380000",
         "Note":  "Basato su Ordini cliente 260100."
+    },
+    {
+        "N. Ordine":  "260071",
+        "Data":  "14/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "07/05/2026",
+        "Importo":  "1126.020000",
+        "Note":  "RUGGIERO ARREDO INOX"
     },
     {
         "N. Ordine":  "260042",
