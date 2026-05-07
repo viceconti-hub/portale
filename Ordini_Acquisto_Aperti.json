@@ -1,20 +1,20 @@
 [
     {
+        "N. Ordine":  "260061",
+        "Data":  "05/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "9787.020000",
+        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
+    },
+    {
         "N. Ordine":  "260063",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000151",
         "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260064",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "11792.520000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
@@ -52,15 +52,6 @@
         "Data Consegna":  "20/05/2026",
         "Importo":  "1433.500000",
         "Note":  "Basato su Ordini cliente 260114."
-    },
-    {
-        "N. Ordine":  "260061",
-        "Data":  "28/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "15/05/2026",
-        "Importo":  "10407.090000",
-        "Note":  "MeM Basato su Ordini cliente 260113."
     },
     {
         "N. Ordine":  "260062",
@@ -115,6 +106,15 @@
         "Data Consegna":  "23/03/2026",
         "Importo":  "2159.750000",
         "Note":  "FA TU Basato su Ordini cliente 260079."
+    },
+    {
+        "N. Ordine":  "260064",
+        "Data":  "17/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "17/04/2026",
+        "Importo":  "5011.130000",
+        "Note":  "MeM CAPPE E VENTILATORE CASSONATO Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260044",
@@ -178,15 +178,6 @@
         "Data Consegna":  "01/04/2026",
         "Importo":  "3119.300000",
         "Note":  "ARTE DOLCIARIA\u003e\u003eMeM Basato su Ordini cliente 260089."
-    },
-    {
-        "N. Ordine":  "260033",
-        "Data":  "01/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "6967.420000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260031",
