@@ -40,16 +40,6 @@
         "Note":  "ATTREZZATURE Basato su Offerte di vendita 260112."
     },
     {
-        "N. Ordine":  "260119",
-        "Data":  "04/05/2026",
-        "Cod. Cliente":  "CO51710",
-        "Cliente":  "MARGITTA SRLS",
-        "Data Consegna":  "04/05/2026",
-        "Importo":  "1600.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ARMADIO FRIGO SMART A70/1ME Basato su Offerte di vendita 260136."
-    },
-    {
         "N. Ordine":  "260120",
         "Data":  "04/05/2026",
         "Cod. Cliente":  "C000223",
@@ -108,16 +98,6 @@
         "Importo":  "7197.940000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ARREDO INOX + BASAMENTO ARISTARCO Basato su Offerte di vendita 260125."
-    },
-    {
-        "N. Ordine":  "260105",
-        "Data":  "17/04/2026",
-        "Cod. Cliente":  "CO52638",
-        "Cliente":  "ZACCAGNINO RISTORAZIONE SRL A S.U",
-        "Data Consegna":  "17/04/2026",
-        "Importo":  "229.360000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COFFEE CLEAN QTA\u0027 20"
     },
     {
         "N. Ordine":  "260097",
