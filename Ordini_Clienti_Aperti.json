@@ -20,26 +20,6 @@
         "Note":  "COPERCHIO 1/2 AD INTEGRAZIONE"
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "07/05/2026",
-        "Cod. Cliente":  "C000489",
-        "Cliente":  "GRAN SOLE S.r.l.",
-        "Data Consegna":  "07/05/2026",
-        "Importo":  "44.800000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ROTOLO FILO PRESSO PUNTO VENDITA DI LAGONEGRO"
-    },
-    {
-        "N. Ordine":  "260126",
-        "Data":  "06/05/2026",
-        "Cod. Cliente":  "C000030",
-        "Cliente":  "ALEX BAR di MACERI ALESSANDRO",
-        "Data Consegna":  "11/05/2026",
-        "Importo":  "262.420000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE RATIONAL"
-    },
-    {
         "N. Ordine":  "260123",
         "Data":  "05/05/2026",
         "Cod. Cliente":  "C001624",
