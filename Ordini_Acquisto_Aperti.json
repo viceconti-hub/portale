@@ -23,7 +23,7 @@
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/05/2026",
-        "Importo":  "2030.080000",
+        "Importo":  "1258.530000",
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
@@ -126,6 +126,15 @@
         "Note":  "Basato su Ordini cliente 260139."
     },
     {
+        "N. Ordine":  "260092",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Data Consegna":  "12/05/2026",
+        "Importo":  "161.040000",
+        "Note":  "Basato su Ordini cliente 260142."
+    },
+    {
         "N. Ordine":  "260076",
         "Data":  "11/05/2026",
         "Cod. Fornitore":  "F001570",
@@ -160,6 +169,15 @@
         "Data Consegna":  "28/05/2026",
         "Importo":  "9787.020000",
         "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
+    },
+    {
+        "N. Ordine":  "260091",
+        "Data":  "05/05/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "1464.000000",
+        "Note":  "Basato su Ordini cliente 260141."
     },
     {
         "N. Ordine":  "260063",
