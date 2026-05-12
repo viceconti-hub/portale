@@ -59,7 +59,7 @@
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "01/05/2026",
-        "Importo":  "328.420000",
+        "Importo":  "821.060000",
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
@@ -68,7 +68,7 @@
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "01/05/2026",
-        "Importo":  "5506.350000",
+        "Importo":  "2284.010000",
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
@@ -95,7 +95,7 @@
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "01/05/2026",
-        "Importo":  "1395.680000",
+        "Importo":  "767.380000",
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
@@ -113,7 +113,7 @@
         "Cod. Fornitore":  "F051292",
         "Fornitore":  "HENDI ITALIA SRL",
         "Data Consegna":  "01/05/2026",
-        "Importo":  "1677.200000",
+        "Importo":  "898.370000",
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
@@ -133,6 +133,15 @@
         "Data Consegna":  "12/05/2026",
         "Importo":  "161.040000",
         "Note":  "Basato su Ordini cliente 260142."
+    },
+    {
+        "N. Ordine":  "260093",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000943",
+        "Fornitore":  "AIRFAN dI MANENTI \u0026 C. s.n.c.",
+        "Data Consegna":  "12/05/2026",
+        "Importo":  "495.200000",
+        "Note":  "Basato su Ordini cliente 260143."
     },
     {
         "N. Ordine":  "260076",
@@ -297,6 +306,15 @@
         "Note":  "MeM CAPPE E VENTILATORE CASSONATO Basato su Ordini cliente 250878."
     },
     {
+        "N. Ordine":  "260027",
+        "Data":  "17/04/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "04/05/2026",
+        "Importo":  "35258.000000",
+        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+    },
+    {
         "N. Ordine":  "260044",
         "Data":  "16/04/2026",
         "Cod. Fornitore":  "F051446",
@@ -394,15 +412,6 @@
         "Data Consegna":  "26/03/2026",
         "Importo":  "152.500000",
         "Note":  "Basato su Ordini cliente 260082."
-    },
-    {
-        "N. Ordine":  "260027",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "25/11/2025",
-        "Importo":  "35258.000000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
         "N. Ordine":  "260028",
