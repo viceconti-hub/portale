@@ -20,6 +20,26 @@
         "Note":  "RICEVUTO ACCONTO DI € 380 IN CONTANTI + 3 TITOLI DI 500 A 30/06/2026 - 31/07/2026 - 31/08/2026 Basato su Offerte di vendita 260150."
     },
     {
+        "N. Ordine":  "260139",
+        "Data":  "12/05/2026",
+        "Cod. Cliente":  "CO52946",
+        "Cliente":  "LO RUSSO VITO",
+        "Data Consegna":  "12/05/2026",
+        "Importo":  "126.270000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260140",
+        "Data":  "12/05/2026",
+        "Cod. Cliente":  "CO52201",
+        "Cliente":  "CHECK Srl BAR MATER DEI",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "24.400000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE ECOSAN DET 6 QTA\u00271"
+    },
+    {
         "N. Ordine":  "260134",
         "Data":  "09/05/2026",
         "Cod. Cliente":  "CO52224",
