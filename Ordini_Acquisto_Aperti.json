@@ -9,6 +9,15 @@
         "Note":  "Basato su Ordini cliente 260131."
     },
     {
+        "N. Ordine":  "260074",
+        "Data":  "08/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "03/06/2026",
+        "Importo":  "1902.380000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260061",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F000853",
