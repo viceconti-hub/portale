@@ -45,6 +45,78 @@
         "Note":  "Basato su Ordini cliente 260138."
     },
     {
+        "N. Ordine":  "260082",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000095",
+        "Fornitore":  "INOX B.I.M. s.r.l",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "3437.960000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260083",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "328.420000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260084",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5506.350000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260085",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5461.940000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260086",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "9815.020000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260087",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "1395.680000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5138.640000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "1677.200000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
         "N. Ordine":  "260076",
         "Data":  "11/05/2026",
         "Cod. Fornitore":  "F001570",
