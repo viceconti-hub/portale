@@ -117,6 +117,15 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
+        "N. Ordine":  "260090",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "12/05/2026",
+        "Importo":  "128.100000",
+        "Note":  "Basato su Ordini cliente 260139."
+    },
+    {
         "N. Ordine":  "260076",
         "Data":  "11/05/2026",
         "Cod. Fornitore":  "F001570",
