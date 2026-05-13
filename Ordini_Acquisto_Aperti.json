@@ -9,15 +9,6 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260081",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "1425.880000",
-        "Note":  "Basato su Ordini cliente 260138."
-    },
-    {
         "N. Ordine":  "260084",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F000826",
@@ -45,6 +36,15 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
+        "N. Ordine":  "260081",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "1425.880000",
+        "Note":  "Basato su Ordini cliente 260138."
+    },
+    {
         "N. Ordine":  "260092",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F000033",
@@ -61,42 +61,6 @@
         "Data Consegna":  "12/05/2026",
         "Importo":  "495.200000",
         "Note":  "Basato su Ordini cliente 260143."
-    },
-    {
-        "N. Ordine":  "260087",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "5138.640000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260089",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F051292",
-        "Fornitore":  "HENDI ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "898.370000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260090",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "128.100000",
-        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
     },
     {
         "N. Ordine":  "260082",
@@ -151,6 +115,42 @@
         "Data Consegna":  "05/05/2026",
         "Importo":  "13538.340000",
         "Note":  "Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260087",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5138.640000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "898.370000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260090",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "128.100000",
+        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
     },
     {
         "N. Ordine":  "260076",
@@ -369,15 +369,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260023",
-        "Data":  "23/03/2026",
-        "Cod. Fornitore":  "F000220",
-        "Fornitore":  "ECOSAN SRL",
-        "Data Consegna":  "23/03/2026",
-        "Importo":  "402.970000",
-        "Note":  "ORDINE RAPIDO"
-    },
-    {
         "N. Ordine":  "260025",
         "Data":  "23/03/2026",
         "Cod. Fornitore":  "F001602",
@@ -421,15 +412,6 @@
         "Data Consegna":  "02/03/2026",
         "Importo":  "6389.260000",
         "Note":  "FA TU Basato su Ordini cliente 260028."
-    },
-    {
-        "N. Ordine":  "260015",
-        "Data":  "23/02/2026",
-        "Cod. Fornitore":  "F001617",
-        "Fornitore":  "TECNOINOX S.R.L.",
-        "Data Consegna":  "26/02/2026",
-        "Importo":  "302.560000",
-        "Note":  "RICAMBI GRIGLIA MODELLO GR70E/0 CODE 126042 SN 32820264"
     },
     {
         "N. Ordine":  "260010",
