@@ -13,7 +13,7 @@
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F000853",
         "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "13/05/2026",
+        "Data Consegna":  "08/06/2026",
         "Importo":  "2635.880000",
         "Note":  "Basato su Ordini cliente 260118."
     },
@@ -72,6 +72,42 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5138.640000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "898.370000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260090",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "128.100000",
+        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
+    },
+    {
         "N. Ordine":  "260077",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F000826",
@@ -108,42 +144,6 @@
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
-        "N. Ordine":  "260087",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "5138.640000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260089",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F051292",
-        "Fornitore":  "HENDI ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "898.370000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260090",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "12/05/2026",
-        "Importo":  "128.100000",
-        "Note":  "Basato su Ordini cliente 260139."
-    },
-    {
         "N. Ordine":  "260076",
         "Data":  "11/05/2026",
         "Cod. Fornitore":  "F001570",
@@ -171,15 +171,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260061",
-        "Data":  "05/05/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "9787.020000",
-        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
-    },
-    {
         "N. Ordine":  "260091",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F051522",
@@ -189,13 +180,13 @@
         "Note":  "Basato su Ordini cliente 260141."
     },
     {
-        "N. Ordine":  "260063",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "N. Ordine":  "260061",
+        "Data":  "05/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "9787.020000",
+        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
         "N. Ordine":  "260065",
@@ -225,6 +216,15 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
+        "N. Ordine":  "260063",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
         "N. Ordine":  "260070",
         "Data":  "28/04/2026",
         "Cod. Fornitore":  "F000853",
@@ -232,15 +232,6 @@
         "Data Consegna":  "21/05/2026",
         "Importo":  "2053.780000",
         "Note":  "FA TU INTEGRAZIONE TAVOLO 150 X 80 CON RIPIANO DI APPOGGIO"
-    },
-    {
-        "N. Ordine":  "260060",
-        "Data":  "28/04/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "08/05/2026",
-        "Importo":  "1433.500000",
-        "Note":  "Basato su Ordini cliente 260114."
     },
     {
         "N. Ordine":  "260062",
@@ -252,22 +243,13 @@
         "Note":  "MeM BASAMENTO Basato su Ordini cliente 260113."
     },
     {
-        "N. Ordine":  "260021",
-        "Data":  "23/04/2026",
-        "Cod. Fornitore":  "F000821",
-        "Fornitore":  "IFI Spa",
-        "Data Consegna":  "23/04/2026",
-        "Importo":  "136.640000",
-        "Note":  "KIT SCORREVOLI + KIT PISTONI TONDA ACAL"
-    },
-    {
-        "N. Ordine":  "260058",
-        "Data":  "21/04/2026",
-        "Cod. Fornitore":  "F000146",
-        "Fornitore":  "NUOVA RICAMBI srl",
-        "Data Consegna":  "22/04/2026",
-        "Importo":  "188.980000",
-        "Note":  "DETERGENTE"
+        "N. Ordine":  "260094",
+        "Data":  "28/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "28/04/2026",
+        "Importo":  "2542.480000",
+        "Note":  "Basato su Ordini cliente 260117."
     },
     {
         "N. Ordine":  "260054",
@@ -279,22 +261,13 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260055",
-        "Data":  "20/04/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "20/04/2026",
-        "Importo":  "67.100000",
-        "Note":  "RIF. YELLOW BOAT"
-    },
-    {
-        "N. Ordine":  "260056",
-        "Data":  "20/04/2026",
-        "Cod. Fornitore":  "F001626",
-        "Fornitore":  "CUPPONE F.LLI S.R.L.",
-        "Data Consegna":  "23/03/2026",
-        "Importo":  "2159.750000",
-        "Note":  "FA TU Basato su Ordini cliente 260079."
+        "N. Ordine":  "260027",
+        "Data":  "17/04/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "04/05/2026",
+        "Importo":  "35258.000000",
+        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
         "N. Ordine":  "260064",
@@ -304,15 +277,6 @@
         "Data Consegna":  "17/04/2026",
         "Importo":  "5011.130000",
         "Note":  "MeM CAPPE E VENTILATORE CASSONATO Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260027",
-        "Data":  "17/04/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "04/05/2026",
-        "Importo":  "35258.000000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
         "N. Ordine":  "260044",
@@ -387,24 +351,6 @@
         "Note":  "ARTE DOLCIARIA\u003e\u003eMeM Basato su Ordini cliente 260089."
     },
     {
-        "N. Ordine":  "260072",
-        "Data":  "01/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "01/04/2026",
-        "Importo":  "2483.050000",
-        "Note":  "NERA"
-    },
-    {
-        "N. Ordine":  "260059",
-        "Data":  "30/03/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
-        "Data Consegna":  "30/03/2026",
-        "Importo":  "1122.890000",
-        "Note":  "FA TU Basato su Ordini cliente 260108."
-    },
-    {
         "N. Ordine":  "260031",
         "Data":  "30/03/2026",
         "Cod. Fornitore":  "F001573",
@@ -430,33 +376,6 @@
         "Data Consegna":  "26/03/2026",
         "Importo":  "154.550000",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260026",
-        "Data":  "26/03/2026",
-        "Cod. Fornitore":  "F001558",
-        "Fornitore":  "LA MITO srl KLIMAITALIA",
-        "Data Consegna":  "28/02/2026",
-        "Importo":  "11236.200000",
-        "Note":  "Basato su Ordini cliente 260052."
-    },
-    {
-        "N. Ordine":  "260051",
-        "Data":  "24/03/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "21/04/2026",
-        "Importo":  "2623.980000",
-        "Note":  "MeM SRL LAVELLO E TAVOLO"
-    },
-    {
-        "N. Ordine":  "260052",
-        "Data":  "24/03/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "24/03/2026",
-        "Importo":  "7175.550000",
-        "Note":  "NERA e FA TU"
     },
     {
         "N. Ordine":  "260023",
@@ -493,15 +412,6 @@
         "Data Consegna":  "11/03/2026",
         "Importo":  "378.940000",
         "Note":  "HOTELLERIE Basato su Ordini cliente 260062. 260063."
-    },
-    {
-        "N. Ordine":  "260050",
-        "Data":  "05/03/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "05/03/2026",
-        "Importo":  "6494.300000",
-        "Note":  "FA TU FRIGGITRICI ROC 900"
     },
     {
         "N. Ordine":  "260019",
