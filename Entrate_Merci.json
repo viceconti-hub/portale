@@ -1,11 +1,43 @@
 [
     {
+        "N. DDT":  "260046",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000146",
+        "Fornitore":  "NUOVA RICAMBI srl",
+        "Importo":  "188.980000",
+        "Note":  "DETERGENTE Basato su Ordini d\u0027acquisto 260058."
+    },
+    {
+        "N. DDT":  "260044",
+        "Data":  "08/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Importo":  "747.250000",
+        "Note":  "Basato su Ordini cliente 260114. BONIFICO EFFETTUATO Basato su Ordini d\u0027acquisto 260060."
+    },
+    {
+        "N. DDT":  "260047",
+        "Data":  "05/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Importo":  "2483.070000",
+        "Note":  "NERA Basato su Ordini d\u0027acquisto 260072."
+    },
+    {
         "N. DDT":  "260043",
         "Data":  "04/05/2026",
         "Cod. Fornitore":  "F051503",
         "Fornitore":  "FAMA INDUSTRIE SRL",
         "Importo":  "353.310000",
         "Note":  "TAGLIO PER SFOGLIATRICE N 04 FETTUCCINE MM 6,5, NUOVO MODELLO PER ATTACCO LATERALE Basato su Ordini d\u0027acquisto 260075."
+    },
+    {
+        "N. DDT":  "260045",
+        "Data":  "30/04/2026",
+        "Cod. Fornitore":  "F000821",
+        "Fornitore":  "IFI Spa",
+        "Importo":  "136.640000",
+        "Note":  "KIT SCORREVOLI + KIT PISTONI TONDA ACAL Basato su Ordini d\u0027acquisto 260021."
     },
     {
         "N. DDT":  "260041",
@@ -16,12 +48,60 @@
         "Note":  "VELARDI PIAZZA EUROPA Basato su Ordini cliente 260092. Basato su Ordini d\u0027acquisto 260068."
     },
     {
+        "N. DDT":  "260051",
+        "Data":  "28/04/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "2623.980000",
+        "Note":  "MeM SRL LAVELLO E TAVOLO Basato su Ordini d\u0027acquisto 260051."
+    },
+    {
+        "N. DDT":  "260054",
+        "Data":  "23/04/2026",
+        "Cod. Fornitore":  "F001626",
+        "Fornitore":  "CUPPONE F.LLI S.R.L.",
+        "Importo":  "2159.750000",
+        "Note":  "FA TU Basato su Ordini cliente 260079. Basato su Ordini d\u0027acquisto 260056."
+    },
+    {
         "N. DDT":  "260042",
         "Data":  "23/04/2026",
         "Cod. Fornitore":  "F000853",
         "Fornitore":  "IDEAM INOX SRL",
         "Importo":  "3212.470000",
         "Note":  "FA TU ARREDO INOX Basato su Ordini d\u0027acquisto 260069."
+    },
+    {
+        "N. DDT":  "260050",
+        "Data":  "22/04/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "67.100000",
+        "Note":  "RIF. YELLOW BOAT Basato su Ordini d\u0027acquisto 260055."
+    },
+    {
+        "N. DDT":  "260049",
+        "Data":  "22/04/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "6494.300000",
+        "Note":  "FA TU FRIGGITRICI ROC 900 Basato su Ordini d\u0027acquisto 260050."
+    },
+    {
+        "N. DDT":  "260053",
+        "Data":  "21/04/2026",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
+        "Importo":  "1122.720000",
+        "Note":  "FA TU Basato su Ordini cliente 260108. Basato su Ordini d\u0027acquisto 260059."
+    },
+    {
+        "N. DDT":  "260048",
+        "Data":  "21/04/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Importo":  "7175.550000",
+        "Note":  "NERA e FA TU Basato su Ordini d\u0027acquisto 260052."
     },
     {
         "N. DDT":  "260040",
