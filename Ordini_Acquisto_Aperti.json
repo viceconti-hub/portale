@@ -1,12 +1,21 @@
 [
     {
-        "N. Ordine":  "260044",
+        "N. Ordine":  "260093",
+        "Data":  "14/05/2026",
+        "Cod. Fornitore":  "F000943",
+        "Fornitore":  "AIRFAN dI MANENTI \u0026 C. s.n.c.",
+        "Data Consegna":  "14/05/2026",
+        "Importo":  "500.080000",
+        "Note":  "MACELLERIA DE DIEGO Basato su Ordini cliente 260143."
+    },
+    {
+        "N. Ordine":  "260081",
         "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051446",
-        "Fornitore":  "MECNOSUD S.R.L.",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "13/05/2026",
-        "Importo":  "2867.000000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "1425.880000",
+        "Note":  "Basato su Ordini cliente 260138."
     },
     {
         "N. Ordine":  "260084",
@@ -36,13 +45,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260081",
+        "N. Ordine":  "260044",
         "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Cod. Fornitore":  "F051446",
+        "Fornitore":  "MECNOSUD S.R.L.",
         "Data Consegna":  "13/05/2026",
-        "Importo":  "1425.880000",
-        "Note":  "Basato su Ordini cliente 260138."
+        "Importo":  "2867.000000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260092",
@@ -54,13 +63,40 @@
         "Note":  "Basato su Ordini cliente 260142."
     },
     {
-        "N. Ordine":  "260093",
+        "N. Ordine":  "260087",
         "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000943",
-        "Fornitore":  "AIRFAN dI MANENTI \u0026 C. s.n.c.",
-        "Data Consegna":  "12/05/2026",
-        "Importo":  "495.200000",
-        "Note":  "Basato su Ordini cliente 260143."
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "5138.640000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "898.370000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260090",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "128.100000",
+        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
     },
     {
         "N. Ordine":  "260082",
@@ -115,42 +151,6 @@
         "Data Consegna":  "05/05/2026",
         "Importo":  "13538.340000",
         "Note":  "Basato su Ordini cliente 260123."
-    },
-    {
-        "N. Ordine":  "260087",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "5138.640000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260089",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F051292",
-        "Fornitore":  "HENDI ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "898.370000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260090",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "128.100000",
-        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
     },
     {
         "N. Ordine":  "260076",
