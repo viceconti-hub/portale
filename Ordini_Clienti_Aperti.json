@@ -468,5 +468,15 @@
         "Importo":  "6876.010000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ABBATTITORE VISION Basato su Offerte di vendita 241027."
+    },
+    {
+        "N. Ordine":  "240438",
+        "Data":  "23/05/2024",
+        "Cod. Cliente":  "CO52436",
+        "Cliente":  "H2O SRL",
+        "Data Consegna":  "23/05/2024",
+        "Importo":  "2601.650000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MURALE RIF.NATURA MIA"
     }
 ]
