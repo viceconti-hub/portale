@@ -9,6 +9,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260100",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "610.000000",
+        "Note":  "Basato su Ordini cliente 260151."
+    },
+    {
         "N. Ordine":  "260093",
         "Data":  "14/05/2026",
         "Cod. Fornitore":  "F000943",
@@ -95,7 +104,7 @@
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/05/2026",
-        "Importo":  "1286.060000",
+        "Importo":  "1105.810000",
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
