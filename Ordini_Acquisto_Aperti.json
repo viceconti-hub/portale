@@ -1,28 +1,10 @@
 [
     {
-        "N. Ordine":  "260079",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "Basato su Ordini cliente 260123."
-    },
-    {
-        "N. Ordine":  "260099",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001552",
-        "Fornitore":  "GO PACK S.R.L. a socio unico",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "332.280000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260100",
-        "Data":  "18/05/2026",
+        "Data":  "20/05/2026",
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "18/05/2026",
+        "Data Consegna":  "20/05/2026",
         "Importo":  "610.000000",
         "Note":  "Basato su Ordini cliente 260151. AI CARCONI + 1 MAG"
     },
@@ -43,6 +25,24 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "2210.880000",
         "Note":  "Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS"
+    },
+    {
+        "N. Ordine":  "260099",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001552",
+        "Fornitore":  "GO PACK S.R.L. a socio unico",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "332.280000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260079",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "1105.810000",
+        "Note":  "Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260093",
@@ -198,15 +198,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260073",
-        "Data":  "08/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "12/05/2026",
-        "Importo":  "1091.170000",
-        "Note":  "Basato su Ordini cliente 260131."
-    },
-    {
         "N. Ordine":  "260074",
         "Data":  "08/05/2026",
         "Cod. Fornitore":  "F000853",
@@ -232,6 +223,15 @@
         "Data Consegna":  "22/05/2026",
         "Importo":  "1464.000000",
         "Note":  "Basato su Ordini cliente 260141."
+    },
+    {
+        "N. Ordine":  "260094",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "2542.480000",
+        "Note":  "Basato su Ordini cliente 260117."
     },
     {
         "N. Ordine":  "260065",
@@ -268,15 +268,6 @@
         "Data Consegna":  "29/04/2026",
         "Importo":  "4831.200000",
         "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260094",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "2542.480000",
-        "Note":  "Basato su Ordini cliente 260117."
     },
     {
         "N. Ordine":  "260070",
