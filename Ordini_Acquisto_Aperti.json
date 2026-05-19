@@ -9,24 +9,6 @@
         "Note":  "Basato su Ordini cliente 260151. AI CARCONI + 1 MAG"
     },
     {
-        "N. Ordine":  "260104",
-        "Data":  "19/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "19/05/2026",
-        "Importo":  "710.040000",
-        "Note":  "Basato su Ordini cliente 260156."
-    },
-    {
-        "N. Ordine":  "260099",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001552",
-        "Fornitore":  "GO PACK S.R.L. a socio unico",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "332.280000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260101",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F050733",
@@ -61,6 +43,15 @@
         "Data Consegna":  "05/06/2026",
         "Importo":  "1105.810000",
         "Note":  "Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260099",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001552",
+        "Fornitore":  "GO PACK S.R.L. a socio unico",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "332.280000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260093",
@@ -139,8 +130,8 @@
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "13538.340000",
+        "Data Consegna":  "12/06/2026",
+        "Importo":  "5753.800000",
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
