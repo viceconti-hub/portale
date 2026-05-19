@@ -27,13 +27,13 @@
         "Note":  "Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS"
     },
     {
-        "N. Ordine":  "260099",
+        "N. Ordine":  "260103",
         "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001552",
-        "Fornitore":  "GO PACK S.R.L. a socio unico",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
         "Data Consegna":  "18/05/2026",
-        "Importo":  "332.280000",
-        "Note":  ""
+        "Importo":  "185.640000",
+        "Note":  "Basato su Ordini cliente 260154."
     },
     {
         "N. Ordine":  "260079",
@@ -43,6 +43,15 @@
         "Data Consegna":  "05/06/2026",
         "Importo":  "1105.810000",
         "Note":  "Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260099",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001552",
+        "Fornitore":  "GO PACK S.R.L. a socio unico",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "332.280000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260093",
@@ -61,15 +70,6 @@
         "Data Consegna":  "13/05/2026",
         "Importo":  "1425.880000",
         "Note":  "Basato su Ordini cliente 260138."
-    },
-    {
-        "N. Ordine":  "260092",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000033",
-        "Fornitore":  "CB SRL",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "161.040000",
-        "Note":  "Basato su Ordini cliente 260142."
     },
     {
         "N. Ordine":  "260084",
@@ -115,6 +115,15 @@
         "Data Consegna":  "13/05/2026",
         "Importo":  "2867.000000",
         "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260092",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "161.040000",
+        "Note":  "Basato su Ordini cliente 260142."
     },
     {
         "N. Ordine":  "260080",
