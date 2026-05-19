@@ -10,12 +10,12 @@
     },
     {
         "N. Ordine":  "260101",
-        "Data":  "18/05/2026",
+        "Data":  "19/05/2026",
         "Cod. Fornitore":  "F050733",
         "Fornitore":  "IDEA S.R.L.",
         "Data Consegna":  "22/05/2026",
-        "Importo":  "1046.760000",
-        "Note":  "Basato su Ordini cliente 260152. IELPO NICOLA + 1 MAG"
+        "Importo":  "649.040000",
+        "Note":  "Basato su Ordini cliente 260152. IELPO NICOLA + NEW BAR"
     },
     {
         "N. Ordine":  "260102",
@@ -103,7 +103,7 @@
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "13/05/2026",
+        "Data Consegna":  "07/06/2026",
         "Importo":  "2905.190000",
         "Note":  "Basato su Ordini cliente 260118."
     },
