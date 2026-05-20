@@ -9,6 +9,15 @@
         "Note":  "Basato su Ordini cliente 260151. AI CARCONI + 1 MAG"
     },
     {
+        "N. Ordine":  "260105",
+        "Data":  "20/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "20/05/2026",
+        "Importo":  "1834.880000",
+        "Note":  "Basato su Ordini cliente 260155."
+    },
+    {
         "N. Ordine":  "260101",
         "Data":  "19/05/2026",
         "Cod. Fornitore":  "F050733",
@@ -69,7 +78,7 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "13/05/2026",
         "Importo":  "1425.880000",
-        "Note":  "Basato su Ordini cliente 260138."
+        "Note":  "Basato su Ordini cliente 260138. LA SORGENTE FRIGGITRICE MODULAR"
     },
     {
         "N. Ordine":  "260084",
@@ -132,7 +141,7 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "12/06/2026",
         "Importo":  "5753.800000",
-        "Note":  "Basato su Ordini cliente 260123."
+        "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA CIUCINA E GRIGLIA"
     },
     {
         "N. Ordine":  "260077",
@@ -213,7 +222,7 @@
         "Fornitore":  "IDEAM INOX SRL",
         "Data Consegna":  "03/06/2026",
         "Importo":  "1902.380000",
-        "Note":  ""
+        "Note":  "CAMPOLEROSE VENTILATORE VTC 18/13 A E INVERTER INV 3"
     },
     {
         "N. Ordine":  "260061",
@@ -230,8 +239,8 @@
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "22/05/2026",
-        "Importo":  "1464.000000",
-        "Note":  "Basato su Ordini cliente 260141."
+        "Importo":  "732.000000",
+        "Note":  "Basato su Ordini cliente 260141. CAVALLETTO SUPPORTO  PER FORNO"
     },
     {
         "N. Ordine":  "260094",
