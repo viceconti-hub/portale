@@ -328,8 +328,8 @@
         "Data":  "17/04/2026",
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "04/05/2026",
-        "Importo":  "35258.000000",
+        "Data Consegna":  "21/05/2026",
+        "Importo":  "15304.900000",
         "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
@@ -477,6 +477,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO SPA",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "609.400000",
+        "Note":  "RICAMBI"
+    },
+    {
         "N. Ordine":  "250504",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F050695",
@@ -537,15 +546,6 @@
         "Fornitore":  "CUSTOM SPA",
         "Data Consegna":  "01/11/2025",
         "Importo":  "29.280000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250351",
-        "Data":  "22/08/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO SPA",
-        "Data Consegna":  "22/08/2025",
-        "Importo":  "430.980000",
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
