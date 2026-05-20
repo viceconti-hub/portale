@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7289",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "19/05/2026",
+        "Ora Inizio":  "2151",
+        "Ora Fine":  "2206",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52304",
+        "Cliente":  "BERMUDA 3.0 FOOD SNC di A.FILARDI F.OLIVIERI \u0026 A.IMBELLONE",
+        "Contenuto":  "PRODUTTORE DI GHIACCIO",
+        "Citta":  "LAURIA",
+        "Note":  "PRODUTTORE DI GHIACCIO: TRATTAMENTO ANTICALCARE"
+    },
+    {
         "N. Attivita":  "7288",
         "Priorita":  "1",
         "Utente":  "Gianni",
