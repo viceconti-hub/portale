@@ -70,20 +70,6 @@
         "Note":  "CUCINA 1"
     },
     {
-        "N. Attivita":  "7292",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "21/05/2026",
-        "Ora Inizio":  "900",
-        "Ora Fine":  "1000",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C000829",
-        "Cliente":  "Panificio AGRELLO di MICELI ANNA MARIA",
-        "Contenuto":  "CUCINA",
-        "Citta":  "LAURIA",
-        "Note":  "PASSAGGIO PRESSO CASA DI GIOVANNA  PER VERIFICA FORTE ODORE DI GAS"
-    },
-    {
         "N. Attivita":  "7291",
         "Priorita":  "1",
         "Utente":  "prospero",
@@ -647,15 +633,15 @@
         "N. Attivita":  "7193",
         "Priorita":  "1",
         "Utente":  "prospero",
-        "Data":  "16/03/2026",
-        "Ora Inizio":  "2056",
-        "Ora Fine":  "2111",
+        "Data":  "23/05/2026",
+        "Ora Inizio":  "900",
+        "Ora Fine":  "1000",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "CO52684",
         "Cliente":  "MARIE SAS DI CARMINE CANTISANI E C.",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "",
-        "Note":  "ORDINARE VENTOLA EVAPORATORE"
+        "Contenuto":  "ABBATTITORE COLDLINE",
+        "Citta":  "NEMOLI",
+        "Note":  "ORDINARE VENTOLA EVAPORATORE\r\rABBATTITORE COLDLINE MODELLO DT3S MATRICOLA: 091711901"
     },
     {
         "N. Attivita":  "7186",
