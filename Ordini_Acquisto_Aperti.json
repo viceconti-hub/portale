@@ -45,6 +45,15 @@
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -72,15 +81,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
-    },
-    {
         "N. Ordine":  "260093",
         "Data":  "14/05/2026",
         "Cod. Fornitore":  "F000943",
@@ -88,15 +88,6 @@
         "Data Consegna":  "14/05/2026",
         "Importo":  "500.080000",
         "Note":  "MACELLERIA DE DIEGO Basato su Ordini cliente 260143."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
-        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260084",
@@ -126,13 +117,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260092",
+        "N. Ordine":  "260088",
         "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000033",
-        "Fornitore":  "CB SRL",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "161.040000",
-        "Note":  "Basato su Ordini cliente 260142."
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
+        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260081",
@@ -198,24 +189,6 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260090",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "128.100000",
-        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026"
-    },
-    {
-        "N. Ordine":  "260076",
-        "Data":  "11/05/2026",
-        "Cod. Fornitore":  "F001570",
-        "Fornitore":  "FAC s.r.l.",
-        "Data Consegna":  "11/05/2026",
-        "Importo":  "708.700000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260074",
         "Data":  "08/05/2026",
         "Cod. Fornitore":  "F000853",
@@ -223,15 +196,6 @@
         "Data Consegna":  "03/06/2026",
         "Importo":  "1902.380000",
         "Note":  "CAMPOLEROSE VENTILATORE VTC 18/13 A E INVERTER INV 3"
-    },
-    {
-        "N. Ordine":  "260061",
-        "Data":  "05/05/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "9787.020000",
-        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
         "N. Ordine":  "260091",
@@ -243,22 +207,13 @@
         "Note":  "Basato su Ordini cliente 260141. CAVALLETTO SUPPORTO  PER FORNO"
     },
     {
-        "N. Ordine":  "260094",
-        "Data":  "29/04/2026",
+        "N. Ordine":  "260061",
+        "Data":  "05/05/2026",
         "Cod. Fornitore":  "F000853",
         "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "2542.480000",
-        "Note":  "Basato su Ordini cliente 260117."
-    },
-    {
-        "N. Ordine":  "260063",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "9787.020000",
+        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
         "N. Ordine":  "260065",
@@ -285,6 +240,24 @@
         "Fornitore":  "ABM COMPANY SRL",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4184.600000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260094",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "2542.480000",
+        "Note":  "Basato su Ordini cliente 260117."
+    },
+    {
+        "N. Ordine":  "260063",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4831.200000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
@@ -342,15 +315,6 @@
         "Note":  "RUGGIERO ARREDO INOX"
     },
     {
-        "N. Ordine":  "260042",
-        "Data":  "13/04/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "27/03/2026",
-        "Importo":  "731.380000",
-        "Note":  "GRISOLIA CASTELLUCCIO CLIENTE WEB Basato su Ordini cliente 260085. 260091. 260098."
-    },
-    {
         "N. Ordine":  "260040",
         "Data":  "09/04/2026",
         "Cod. Fornitore":  "F051184",
@@ -378,42 +342,6 @@
         "Note":  "ORO CAFFE Basato su Ordini cliente 260093."
     },
     {
-        "N. Ordine":  "260032",
-        "Data":  "01/04/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Data Consegna":  "01/04/2026",
-        "Importo":  "3119.300000",
-        "Note":  "ARTE DOLCIARIA\u003e\u003eMeM Basato su Ordini cliente 260089."
-    },
-    {
-        "N. Ordine":  "260029",
-        "Data":  "26/03/2026",
-        "Cod. Fornitore":  "F000063",
-        "Fornitore":  "CIMBALI GROUP SPA",
-        "Data Consegna":  "26/03/2026",
-        "Importo":  "154.550000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260025",
-        "Data":  "23/03/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "1409.320000",
-        "Note":  "Basato su Ordini cliente 260064. 260073. 260074. 260075."
-    },
-    {
-        "N. Ordine":  "260020",
-        "Data":  "11/03/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "378.940000",
-        "Note":  "HOTELLERIE Basato su Ordini cliente 260062. 260063."
-    },
-    {
         "N. Ordine":  "260017",
         "Data":  "01/03/2026",
         "Cod. Fornitore":  "F001613",
@@ -432,15 +360,6 @@
         "Note":  "FA TU Basato su Ordini cliente 260028."
     },
     {
-        "N. Ordine":  "260010",
-        "Data":  "10/02/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "10/02/2026",
-        "Importo":  "542.920000",
-        "Note":  "Basato su Ordini cliente 260035. 260036."
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -456,16 +375,7 @@
         "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
         "Data Consegna":  "29/01/2026",
         "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY M"
-    },
-    {
-        "N. Ordine":  "260003",
-        "Data":  "28/01/2026",
-        "Cod. Fornitore":  "F051488",
-        "Fornitore":  "FAMAG SRL",
-        "Data Consegna":  "28/01/2026",
-        "Importo":  "0.000000",
-        "Note":  ""
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
         "N. Ordine":  "250351",
