@@ -9,6 +9,15 @@
         "Note":  "Basato su Ordini cliente 260159."
     },
     {
+        "N. Ordine":  "260107",
+        "Data":  "21/05/2026",
+        "Cod. Fornitore":  "F051438",
+        "Fornitore":  "DM COMMERCIALE DI GUAGLIANONE SONNY F.",
+        "Data Consegna":  "21/05/2026",
+        "Importo":  "866.200000",
+        "Note":  "Basato su Ordini cliente 260161."
+    },
+    {
         "N. Ordine":  "260105",
         "Data":  "20/05/2026",
         "Cod. Fornitore":  "F000853",
