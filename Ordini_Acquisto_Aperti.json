@@ -4,9 +4,9 @@
         "Data":  "21/05/2026",
         "Cod. Fornitore":  "F000821",
         "Fornitore":  "IFI Spa",
-        "Data Consegna":  "31/05/2026",
-        "Importo":  "8082.500000",
-        "Note":  "Basato su Ordini cliente 260159."
+        "Data Consegna":  "10/06/2026",
+        "Importo":  "3597.500000",
+        "Note":  "LA CAPPELLINA VETRINA MIX VBD 150 Basato su Ordini cliente 260159."
     },
     {
         "N. Ordine":  "260107",
@@ -14,8 +14,8 @@
         "Cod. Fornitore":  "F051438",
         "Fornitore":  "DM COMMERCIALE DI GUAGLIANONE SONNY F.",
         "Data Consegna":  "21/05/2026",
-        "Importo":  "866.200000",
-        "Note":  "Basato su Ordini cliente 260161."
+        "Importo":  "244.000000",
+        "Note":  "LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260161."
     },
     {
         "N. Ordine":  "260105",
@@ -225,6 +225,15 @@
         "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
+        "N. Ordine":  "260063",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
         "N. Ordine":  "260065",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000863",
@@ -259,15 +268,6 @@
         "Data Consegna":  "22/05/2026",
         "Importo":  "2542.480000",
         "Note":  "Basato su Ordini cliente 260117."
-    },
-    {
-        "N. Ordine":  "260063",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260070",
@@ -396,6 +396,15 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
+        "N. Ordine":  "250210",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "819.960000",
+        "Note":  "KIT DISPLAY PER NERA + MAG"
+    },
+    {
         "N. Ordine":  "250351",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F051393",
@@ -465,15 +474,6 @@
         "Fornitore":  "CUSTOM SPA",
         "Data Consegna":  "01/11/2025",
         "Importo":  "29.280000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250210",
-        "Data":  "09/06/2025",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Data Consegna":  "09/06/2025",
-        "Importo":  "179.950000",
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
