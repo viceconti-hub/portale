@@ -1,11 +1,35 @@
 [
     {
+        "N. DDT":  "260069",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLDLINE srl",
+        "Importo":  "128.100000",
+        "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026 Basato su Ordini d\u0027acquisto 260090."
+    },
+    {
+        "N. DDT":  "260073",
+        "Data":  "14/05/2026",
+        "Cod. Fornitore":  "F000033",
+        "Fornitore":  "CB SRL",
+        "Importo":  "161.040000",
+        "Note":  "Basato su Ordini cliente 260142. Basato su Ordini d\u0027acquisto 260092. SACCO DI PIETRA LAVICA"
+    },
+    {
         "N. DDT":  "260046",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F000146",
         "Fornitore":  "NUOVA RICAMBI srl",
         "Importo":  "188.980000",
         "Note":  "DETERGENTE Basato su Ordini d\u0027acquisto 260058."
+    },
+    {
+        "N. DDT":  "260072",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001570",
+        "Fornitore":  "FAC s.r.l.",
+        "Importo":  "708.700000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260076. RUGGERINI DDT INGROIA"
     },
     {
         "N. DDT":  "260067",
@@ -102,21 +126,5 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Importo":  "6494.300000",
         "Note":  "FA TU FRIGGITRICI ROC 900 Basato su Ordini d\u0027acquisto 260050."
-    },
-    {
-        "N. DDT":  "260053",
-        "Data":  "21/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
-        "Importo":  "1122.720000",
-        "Note":  "FA TU Basato su Ordini cliente 260108. Basato su Ordini d\u0027acquisto 260059."
-    },
-    {
-        "N. DDT":  "260048",
-        "Data":  "21/04/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLDLINE srl",
-        "Importo":  "7175.550000",
-        "Note":  "NERA e FA TU Basato su Ordini d\u0027acquisto 260052."
     }
 ]
