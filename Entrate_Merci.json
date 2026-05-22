@@ -118,21 +118,5 @@
         "Fornitore":  "IDEAM INOX SRL",
         "Importo":  "3212.470000",
         "Note":  "FA TU ARREDO INOX Basato su Ordini d\u0027acquisto 260069."
-    },
-    {
-        "N. DDT":  "260050",
-        "Data":  "22/04/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Importo":  "67.100000",
-        "Note":  "RIF. YELLOW BOAT Basato su Ordini d\u0027acquisto 260055."
-    },
-    {
-        "N. DDT":  "260049",
-        "Data":  "22/04/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Importo":  "6494.300000",
-        "Note":  "FA TU FRIGGITRICI ROC 900 Basato su Ordini d\u0027acquisto 260050."
     }
 ]
