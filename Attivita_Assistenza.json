@@ -70,20 +70,6 @@
         "Note":  "DETERSIVO DET 6 + DET 12 2+2 \r\rPORTARE ANCHE BRILL DA LASCIARE EVENTUALMENTE"
     },
     {
-        "N. Attivita":  "7310",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "23/05/2026",
-        "Ora Inizio":  "925",
-        "Ora Fine":  "940",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C050650",
-        "Cliente":  "FIMAPA S.r.l.",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "TORTORA (CS)",
-        "Note":  "SOSTITUZIONE LAMA"
-    },
-    {
         "N. Attivita":  "7309",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
