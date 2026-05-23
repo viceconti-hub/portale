@@ -94,29 +94,5 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Importo":  "2623.980000",
         "Note":  "MeM SRL LAVELLO E TAVOLO Basato su Ordini d\u0027acquisto 260051."
-    },
-    {
-        "N. DDT":  "260055",
-        "Data":  "23/04/2026",
-        "Cod. Fornitore":  "F001626",
-        "Fornitore":  "CUPPONE F.LLI S.R.L.",
-        "Importo":  "70.760000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260095."
-    },
-    {
-        "N. DDT":  "260054",
-        "Data":  "23/04/2026",
-        "Cod. Fornitore":  "F001626",
-        "Fornitore":  "CUPPONE F.LLI S.R.L.",
-        "Importo":  "2159.750000",
-        "Note":  "FA TU Basato su Ordini cliente 260079. Basato su Ordini d\u0027acquisto 260056."
-    },
-    {
-        "N. DDT":  "260042",
-        "Data":  "23/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Importo":  "3212.470000",
-        "Note":  "FA TU ARREDO INOX Basato su Ordini d\u0027acquisto 260069."
     }
 ]
