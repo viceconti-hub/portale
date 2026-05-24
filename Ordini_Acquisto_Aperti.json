@@ -63,15 +63,6 @@
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
-    },
-    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -90,6 +81,15 @@
         "Note":  "Basato su Ordini cliente 260154."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260093",
         "Data":  "14/05/2026",
         "Cod. Fornitore":  "F000943",
@@ -97,6 +97,24 @@
         "Data Consegna":  "14/05/2026",
         "Importo":  "500.080000",
         "Note":  "MACELLERIA DE DIEGO Basato su Ordini cliente 260143."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260081",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "1425.880000",
+        "Note":  "Basato su Ordini cliente 260138. LA SORGENTE FRIGGITRICE MODULAR"
     },
     {
         "N. Ordine":  "260084",
@@ -124,24 +142,6 @@
         "Data Consegna":  "05/06/2026",
         "Importo":  "9815.020000",
         "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260081",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "1425.880000",
-        "Note":  "Basato su Ordini cliente 260138. LA SORGENTE FRIGGITRICE MODULAR"
     },
     {
         "N. Ordine":  "260044",
@@ -207,6 +207,15 @@
         "Note":  "CAMPOLEROSE VENTILATORE VTC 18/13 A E INVERTER INV 3"
     },
     {
+        "N. Ordine":  "260061",
+        "Data":  "05/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "9787.020000",
+        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
+    },
+    {
         "N. Ordine":  "260091",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F051522",
@@ -216,13 +225,13 @@
         "Note":  "Basato su Ordini cliente 260141. CAVALLETTO SUPPORTO  PER FORNO"
     },
     {
-        "N. Ordine":  "260061",
-        "Data":  "05/05/2026",
+        "N. Ordine":  "260094",
+        "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000853",
         "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "9787.020000",
-        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "2542.480000",
+        "Note":  "Basato su Ordini cliente 260117."
     },
     {
         "N. Ordine":  "260063",
@@ -237,7 +246,7 @@
         "N. Ordine":  "260065",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
+        "Fornitore":  "BREMA GROUP SPA",
         "Data Consegna":  "29/04/2026",
         "Importo":  "3778.950000",
         "Note":  "Basato su Ordini cliente 250878."
@@ -259,15 +268,6 @@
         "Data Consegna":  "29/04/2026",
         "Importo":  "4184.600000",
         "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260094",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "2542.480000",
-        "Note":  "Basato su Ordini cliente 260117."
     },
     {
         "N. Ordine":  "260070",
@@ -360,24 +360,6 @@
         "Note":  "MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte di vendita 260182."
     },
     {
-        "N. Ordine":  "260017",
-        "Data":  "01/03/2026",
-        "Cod. Fornitore":  "F001613",
-        "Fornitore":  "BELLADONNA SRL",
-        "Data Consegna":  "21/03/2026",
-        "Importo":  "2813.080000",
-        "Note":  "MACELELRIA DE DIEGO Basato su Ordini cliente 260044."
-    },
-    {
-        "N. Ordine":  "260016",
-        "Data":  "28/02/2026",
-        "Cod. Fornitore":  "F001613",
-        "Fornitore":  "BELLADONNA SRL",
-        "Data Consegna":  "02/03/2026",
-        "Importo":  "6389.260000",
-        "Note":  "FA TU Basato su Ordini cliente 260028."
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -435,7 +417,7 @@
         "N. Ordine":  "250442",
         "Data":  "10/11/2025",
         "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
+        "Fornitore":  "BREMA GROUP SPA",
         "Data Consegna":  "28/10/2025",
         "Importo":  "2138.660000",
         "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
@@ -462,7 +444,7 @@
         "N. Ordine":  "250434",
         "Data":  "02/11/2025",
         "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP Spa",
+        "Fornitore":  "BREMA GROUP SPA",
         "Data Consegna":  "02/11/2025",
         "Importo":  "34.160000",
         "Note":  "RICAMBI DA COMPLETARE"
