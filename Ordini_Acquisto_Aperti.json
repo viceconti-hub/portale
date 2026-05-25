@@ -36,6 +36,15 @@
         "Note":  "Basato su Ordini cliente 260151. AI CARCONI + 1 MAG"
     },
     {
+        "N. Ordine":  "260101",
+        "Data":  "19/05/2026",
+        "Cod. Fornitore":  "F050733",
+        "Fornitore":  "IDEA S.R.L.",
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "649.040000",
+        "Note":  "Basato su Ordini cliente 260152. IELPO NICOLA + NEW BAR"
+    },
+    {
         "N. Ordine":  "260077",
         "Data":  "19/05/2026",
         "Cod. Fornitore":  "F000826",
@@ -45,13 +54,13 @@
         "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA FRIGGITRICE FR88 + 1 MAG"
     },
     {
-        "N. Ordine":  "260101",
-        "Data":  "19/05/2026",
-        "Cod. Fornitore":  "F050733",
-        "Fornitore":  "IDEA S.R.L.",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "649.040000",
-        "Note":  "Basato su Ordini cliente 260152. IELPO NICOLA + NEW BAR"
+        "N. Ordine":  "260079",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "1105.810000",
+        "Note":  "Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260102",
@@ -81,15 +90,6 @@
         "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
-        "N. Ordine":  "260079",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260093",
         "Data":  "14/05/2026",
         "Cod. Fornitore":  "F000943",
@@ -105,6 +105,24 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "07/06/2026",
         "Importo":  "2905.190000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260081",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "1425.880000",
+        "Note":  "Basato su Ordini cliente 260138. LA SORGENTE FRIGGITRICE MODULAR"
+    },
+    {
+        "N. Ordine":  "260084",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "14/05/2026",
+        "Importo":  "2372.960000",
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
@@ -135,33 +153,6 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260081",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "1425.880000",
-        "Note":  "Basato su Ordini cliente 260138. LA SORGENTE FRIGGITRICE MODULAR"
-    },
-    {
-        "N. Ordine":  "260084",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "14/05/2026",
-        "Importo":  "2372.960000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "128.390000",
-        "Note":  "Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260082",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F000095",
@@ -180,15 +171,6 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260089",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F051292",
-        "Fornitore":  "HENDI ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "898.370000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
         "N. Ordine":  "260080",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F051522",
@@ -196,6 +178,24 @@
         "Data Consegna":  "12/06/2026",
         "Importo":  "5753.800000",
         "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA CIUCINA E GRIGLIA"
+    },
+    {
+        "N. Ordine":  "260078",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "05/05/2026",
+        "Importo":  "128.390000",
+        "Note":  "Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "898.370000",
+        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260074",
@@ -234,6 +234,15 @@
         "Note":  "Basato su Ordini cliente 260117."
     },
     {
+        "N. Ordine":  "260063",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
         "N. Ordine":  "260065",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000863",
@@ -258,15 +267,6 @@
         "Fornitore":  "ABM COMPANY SRL",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4184.600000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260063",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
@@ -297,15 +297,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260064",
-        "Data":  "17/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "17/04/2026",
-        "Importo":  "5011.130000",
-        "Note":  "MeM CAPPE E VENTILATORE CASSONATO Basato su Ordini cliente 250878."
-    },
-    {
         "N. Ordine":  "260027",
         "Data":  "17/04/2026",
         "Cod. Fornitore":  "F051393",
@@ -313,6 +304,15 @@
         "Data Consegna":  "21/05/2026",
         "Importo":  "15304.900000",
         "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
+    },
+    {
+        "N. Ordine":  "260064",
+        "Data":  "17/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "17/04/2026",
+        "Importo":  "5011.130000",
+        "Note":  "MeM CAPPE E VENTILATORE CASSONATO Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260071",
@@ -324,15 +324,6 @@
         "Note":  "RUGGIERO ARREDO INOX"
     },
     {
-        "N. Ordine":  "260041",
-        "Data":  "09/04/2026",
-        "Cod. Fornitore":  "F051414",
-        "Fornitore":  "ZINCO GROUP SRL",
-        "Data Consegna":  "09/04/2026",
-        "Importo":  "2129.300000",
-        "Note":  "ILAMA Basato su Ordini cliente 260097."
-    },
-    {
         "N. Ordine":  "260040",
         "Data":  "09/04/2026",
         "Cod. Fornitore":  "F051184",
@@ -340,6 +331,15 @@
         "Data Consegna":  "09/04/2026",
         "Importo":  "174.240000",
         "Note":  "NOCERA STREET FOOD Basato su Ordini cliente 260096."
+    },
+    {
+        "N. Ordine":  "260041",
+        "Data":  "09/04/2026",
+        "Cod. Fornitore":  "F051414",
+        "Fornitore":  "ZINCO GROUP SRL",
+        "Data Consegna":  "09/04/2026",
+        "Importo":  "2129.300000",
+        "Note":  "ILAMA Basato su Ordini cliente 260097."
     },
     {
         "N. Ordine":  "260034",
@@ -378,15 +378,6 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
-        "N. Ordine":  "250504",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "47.700000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "250210",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F000922",
@@ -405,6 +396,15 @@
         "Note":  "RICAMBI"
     },
     {
+        "N. Ordine":  "250504",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
         "N. Ordine":  "250499",
         "Data":  "11/12/2025",
         "Cod. Fornitore":  "F000102",
@@ -414,13 +414,13 @@
         "Note":  "RESIDUO FILTRO PER RUA"
     },
     {
-        "N. Ordine":  "250447",
+        "N. Ordine":  "250442",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+        "Cod. Fornitore":  "F000863",
+        "Fornitore":  "BREMA GROUP SPA",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "2138.660000",
+        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
     },
     {
         "N. Ordine":  "250443",
@@ -432,13 +432,13 @@
         "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
     },
     {
-        "N. Ordine":  "250442",
+        "N. Ordine":  "250447",
         "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP SPA",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "2138.660000",
-        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI",
+        "Data Consegna":  "10/10/2025",
+        "Importo":  "5313.100000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
