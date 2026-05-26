@@ -369,15 +369,6 @@
         "Note":  "ORO CAFFE Basato su Ordini cliente 260093."
     },
     {
-        "N. Ordine":  "260108",
-        "Data":  "24/03/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "24/03/2026",
-        "Importo":  "122.000000",
-        "Note":  "MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte di vendita 260182."
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
