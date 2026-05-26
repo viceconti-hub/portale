@@ -243,15 +243,6 @@
         "Note":  "Basato su Ordini cliente 260117."
     },
     {
-        "N. Ordine":  "260067",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F051381",
-        "Fornitore":  "ABM COMPANY SRL",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4184.600000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
         "N. Ordine":  "260063",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000151",
@@ -276,6 +267,15 @@
         "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4018.680000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260067",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F051381",
+        "Fornitore":  "ABM COMPANY SRL",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4184.600000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
