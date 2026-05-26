@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260170",
+        "Data":  "26/05/2026",
+        "Cod. Cliente":  "CO52943",
+        "Cliente":  "MACELLERIA LOSARDO GIOVANNINO",
+        "Data Consegna":  "26/05/2026",
+        "Importo":  "3000.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "GIRARROSTO ELETTRICO CB MOD.E12-P-S3 E CAVALLETTO Basato su Offerte di vendita 260141. 260142."
+    },
+    {
+        "N. Ordine":  "260171",
+        "Data":  "26/05/2026",
+        "Cod. Cliente":  "CO52953",
+        "Cliente":  "ARCENNI SOCIETA\u0027 AGRICOLA SRL",
+        "Data Consegna":  "26/05/2026",
+        "Importo":  "256.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COPIIE GUIDA E GRIGLIE PER ARMADIO COLDLINE A70/1NE"
+    },
+    {
         "N. Ordine":  "260165",
         "Data":  "23/05/2026",
         "Cod. Cliente":  "C000405",
@@ -35,9 +55,9 @@
         "Cod. Cliente":  "CO52622",
         "Cliente":  "GIOIA AURELIO",
         "Data Consegna":  "21/05/2026",
-        "Importo":  "165.810000",
+        "Importo":  "35.810000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260183."
+        "Note":  "TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183."
     },
     {
         "N. Ordine":  "260163",
