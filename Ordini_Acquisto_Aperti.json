@@ -9,6 +9,15 @@
         "Note":  "MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12 PBasato su Ordini cliente 260170."
     },
     {
+        "N. Ordine":  "260116",
+        "Data":  "26/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "25/05/2026",
+        "Importo":  "3860.570000",
+        "Note":  "Basato su Ordini cliente 260134."
+    },
+    {
         "N. Ordine":  "260113",
         "Data":  "25/05/2026",
         "Cod. Fornitore":  "F000894",
