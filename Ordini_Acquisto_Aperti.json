@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260117",
+        "Data":  "27/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "27/05/2026",
+        "Importo":  "651.480000",
+        "Note":  "ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172."
+    },
+    {
+        "N. Ordine":  "260118",
+        "Data":  "27/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "27/05/2026",
+        "Importo":  "1110.200000",
+        "Note":  "FLAVIO BARLASCINI LAVALLO 140X70  Basato su Ordini cliente 260173."
+    },
+    {
         "N. Ordine":  "260115",
         "Data":  "26/05/2026",
         "Cod. Fornitore":  "F000033",
@@ -87,7 +105,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/06/2026",
         "Importo":  "1105.810000",
-        "Note":  "Basato su Ordini cliente 260123."
+        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260102",
@@ -123,7 +141,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "07/06/2026",
         "Importo":  "2905.190000",
-        "Note":  "Basato su Ordini cliente 260118."
+        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260081",
@@ -252,15 +270,6 @@
         "Note":  "Basato su Ordini cliente 260117."
     },
     {
-        "N. Ordine":  "260067",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F051381",
-        "Fornitore":  "ABM COMPANY SRL",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4184.600000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
         "N. Ordine":  "260063",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000151",
@@ -285,6 +294,15 @@
         "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4018.680000",
+        "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260067",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F051381",
+        "Fornitore":  "ABM COMPANY SRL",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4184.600000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
