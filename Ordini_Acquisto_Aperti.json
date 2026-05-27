@@ -4,7 +4,7 @@
         "Data":  "27/05/2026",
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "27/05/2026",
+        "Data Consegna":  "11/06/2026",
         "Importo":  "651.480000",
         "Note":  "ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172."
     },
@@ -23,7 +23,7 @@
         "Cod. Fornitore":  "F000033",
         "Fornitore":  "CB SRL",
         "Data Consegna":  "26/05/2026",
-        "Importo":  "1034.560000",
+        "Importo":  "579.740000",
         "Note":  "MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12 PBasato su Ordini cliente 260170."
     },
     {
@@ -177,7 +177,7 @@
         "Fornitore":  "COLD LINE srl",
         "Data Consegna":  "05/06/2026",
         "Importo":  "9815.020000",
-        "Note":  "Basato su Ordini cliente 260118."
+        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260044",
@@ -187,24 +187,6 @@
         "Data Consegna":  "13/05/2026",
         "Importo":  "2867.000000",
         "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260082",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000095",
-        "Fornitore":  "INOX B.I.M. s.r.l",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "3437.960000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260083",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "821.060000",
-        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260080",
@@ -225,6 +207,24 @@
         "Note":  "Basato su Ordini cliente 260123."
     },
     {
+        "N. Ordine":  "260082",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000095",
+        "Fornitore":  "INOX B.I.M. s.r.l",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "3437.960000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260083",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "821.060000",
+        "Note":  "Basato su Ordini cliente 260118."
+    },
+    {
         "N. Ordine":  "260089",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F051292",
@@ -243,15 +243,6 @@
         "Note":  "CAMPOLEROSE VENTILATORE VTC 18/13 A E INVERTER INV 3"
     },
     {
-        "N. Ordine":  "260061",
-        "Data":  "05/05/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "9787.020000",
-        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
-    },
-    {
         "N. Ordine":  "260091",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F051522",
@@ -261,13 +252,13 @@
         "Note":  "Basato su Ordini cliente 260141. CAVALLETTO SUPPORTO  PER FORNO"
     },
     {
-        "N. Ordine":  "260094",
-        "Data":  "29/04/2026",
+        "N. Ordine":  "260061",
+        "Data":  "05/05/2026",
         "Cod. Fornitore":  "F000853",
         "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "2542.480000",
-        "Note":  "Basato su Ordini cliente 260117."
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "9787.020000",
+        "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
         "N. Ordine":  "260063",
@@ -285,7 +276,7 @@
         "Fornitore":  "BREMA GROUP SPA",
         "Data Consegna":  "29/04/2026",
         "Importo":  "3778.950000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260066",
@@ -294,7 +285,7 @@
         "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
         "Importo":  "4018.680000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260067",
@@ -306,6 +297,15 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
+        "N. Ordine":  "260094",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Data Consegna":  "22/05/2026",
+        "Importo":  "2542.480000",
+        "Note":  "Basato su Ordini cliente 260117."
+    },
+    {
         "N. Ordine":  "260070",
         "Data":  "28/04/2026",
         "Cod. Fornitore":  "F000853",
@@ -315,15 +315,6 @@
         "Note":  "FA TU INTEGRAZIONE TAVOLO 150 X 80 CON RIPIANO DI APPOGGIO"
     },
     {
-        "N. Ordine":  "260062",
-        "Data":  "28/04/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "15/05/2026",
-        "Importo":  "561.200000",
-        "Note":  "MeM BASAMENTO Basato su Ordini cliente 260113."
-    },
-    {
         "N. Ordine":  "260054",
         "Data":  "20/04/2026",
         "Cod. Fornitore":  "F000063",
@@ -331,15 +322,6 @@
         "Data Consegna":  "20/04/2026",
         "Importo":  "818.740000",
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
-    },
-    {
-        "N. Ordine":  "260027",
-        "Data":  "17/04/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "21/05/2026",
-        "Importo":  "15304.900000",
-        "Note":  "Basato su Ordini cliente 250878. 260078. 260080."
     },
     {
         "N. Ordine":  "260064",
@@ -405,6 +387,15 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
+        "N. Ordine":  "250447",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI EUROPE B.V.",
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "2629.590000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
+    },
+    {
         "N. Ordine":  "250210",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F000922",
@@ -441,15 +432,6 @@
         "Note":  "RESIDUO FILTRO PER RUA"
     },
     {
-        "N. Ordine":  "250442",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP SPA",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "2138.660000",
-        "Note":  "RIF. FA TU Basato su Ordini cliente 250832."
-    },
-    {
         "N. Ordine":  "250443",
         "Data":  "10/11/2025",
         "Cod. Fornitore":  "F051479",
@@ -457,15 +439,6 @@
         "Data Consegna":  "28/10/2025",
         "Importo":  "12136.940000",
         "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
-    },
-    {
-        "N. Ordine":  "250447",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI",
-        "Data Consegna":  "10/10/2025",
-        "Importo":  "5313.100000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
         "N. Ordine":  "250434",
