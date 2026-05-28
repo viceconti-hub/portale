@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260120",
+        "Data":  "28/05/2026",
+        "Cod. Fornitore":  "F051184",
+        "Fornitore":  "LOTUS spa",
+        "Data Consegna":  "28/05/2026",
+        "Importo":  "6275.680000",
+        "Note":  "LIDO VALENTINA Basato su Ordini cliente 260175."
+    },
+    {
         "N. Ordine":  "260117",
         "Data":  "27/05/2026",
         "Cod. Fornitore":  "F050748",
