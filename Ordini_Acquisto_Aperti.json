@@ -216,15 +216,6 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260083",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "821.060000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
         "N. Ordine":  "260089",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F051292",
