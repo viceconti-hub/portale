@@ -56,6 +56,22 @@
         "Note":  "Basato su Ordini cliente 260142. Basato su Ordini d\u0027acquisto 260092. SACCO DI PIETRA LAVICA"
     },
     {
+        "N. DDT":  "260087",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "218.060000",
+        "Note":  ""
+    },
+    {
+        "N. DDT":  "260086",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "1757.070000",
+        "Note":  "Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260083."
+    },
+    {
         "N. DDT":  "260046",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F000146",
@@ -118,13 +134,5 @@
         "Fornitore":  "IDEAM INOX SRL",
         "Importo":  "4097.990000",
         "Note":  "VELARDI PIAZZA EUROPA Basato su Ordini cliente 260092. Basato su Ordini d\u0027acquisto 260068."
-    },
-    {
-        "N. DDT":  "260051",
-        "Data":  "28/04/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Importo":  "2623.980000",
-        "Note":  "MeM SRL LAVELLO E TAVOLO Basato su Ordini d\u0027acquisto 260051."
     }
 ]
