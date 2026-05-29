@@ -63,15 +63,6 @@
         "Note":  "LA CAPPELLINA VETRINA MIX VBD 150 Basato su Ordini cliente 260159."
     },
     {
-        "N. Ordine":  "260107",
-        "Data":  "21/05/2026",
-        "Cod. Fornitore":  "F051438",
-        "Fornitore":  "DM COMMERCIALE S.R.L.",
-        "Data Consegna":  "21/05/2026",
-        "Importo":  "244.000000",
-        "Note":  "LA TANA GROUP CHIAVARINA QTA 10 Basato su Ordini cliente 260161."
-    },
-    {
         "N. Ordine":  "260105",
         "Data":  "20/05/2026",
         "Cod. Fornitore":  "F000853",
@@ -243,15 +234,6 @@
         "Note":  "CAMPOLEROSE VENTILATORE VTC 18/13 A E INVERTER INV 3"
     },
     {
-        "N. Ordine":  "260091",
-        "Data":  "05/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "22/05/2026",
-        "Importo":  "732.000000",
-        "Note":  "Basato su Ordini cliente 260141. CAVALLETTO SUPPORTO  PER FORNO"
-    },
-    {
         "N. Ordine":  "260061",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F000853",
@@ -396,6 +378,15 @@
         "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
     },
     {
+        "N. Ordine":  "250504",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
         "N. Ordine":  "250210",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F000922",
@@ -412,24 +403,6 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "609.400000",
         "Note":  "RICAMBI"
-    },
-    {
-        "N. Ordine":  "250504",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "47.700000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250499",
-        "Data":  "11/12/2025",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "11/12/2025",
-        "Importo":  "628.680000",
-        "Note":  "RESIDUO FILTRO PER RUA"
     },
     {
         "N. Ordine":  "250443",
@@ -457,6 +430,15 @@
         "Data Consegna":  "01/11/2025",
         "Importo":  "29.280000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250416",
+        "Data":  "20/10/2025",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "20/10/2025",
+        "Importo":  "252.810000",
+        "Note":  "CAMPOLEROSE + MAG Basato su Ordini cliente 250801."
     },
     {
         "N. Ordine":  "250181",
