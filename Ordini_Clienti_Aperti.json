@@ -77,7 +77,7 @@
         "Data Consegna":  "31/05/2026",
         "Importo":  "4544.260000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260143."
+        "Note":  "VETRINA MIX CON VETRI EXTRACHIARI SNACK FREDDO VENTILATO MOD.MIX VBD Basato su Offerte di vendita 260143."
     },
     {
         "N. Ordine":  "260162",
@@ -538,16 +538,6 @@
         "Importo":  "15117.070000",
         "Agente":  "PIANIFICAZIONE",
         "Note":  "Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTICIPO"
-    },
-    {
-        "N. Ordine":  "250632",
-        "Data":  "01/08/2025",
-        "Cod. Cliente":  "C000441",
-        "Cliente":  "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
-        "Data Consegna":  "01/08/2025",
-        "Importo":  "3285.460000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VETRINA\rBasato su Offerte di vendita 250707."
     },
     {
         "N. Ordine":  "250801",
