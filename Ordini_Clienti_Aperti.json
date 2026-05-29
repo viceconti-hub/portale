@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260176",
+        "Data":  "29/05/2026",
+        "Cod. Cliente":  "C050901",
+        "Cliente":  "PANAINO SRL UNIPERSONALE",
+        "Data Consegna":  "29/05/2026",
+        "Importo":  "1590.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "TAVOLO REFRIGERATO Basato su Offerte di vendita 260167. 260168."
+    },
+    {
         "N. Ordine":  "260175",
         "Data":  "28/05/2026",
         "Cod. Cliente":  "CO52061",
@@ -15,7 +25,7 @@
         "Cod. Cliente":  "C001628",
         "Cliente":  "ACAL SRL",
         "Data Consegna":  "27/05/2026",
-        "Importo":  "586.330000",
+        "Importo":  "527.700000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "MENSOLA A PONTE 2 RIPIANI 140 X 40 AGGANCI LATERALI"
     },
