@@ -8,6 +8,14 @@
         "Note":  "YUMARA RICAMBI PER FORNO"
     },
     {
+        "N. DDT":  "260099",
+        "Data":  "26/05/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "732.000000",
+        "Note":  "MeM CAVALLETTO SUPPORTO  PER FORNO Basato su Ordini cliente 260141.  Basato su Ordini d\u0027acquisto 260091."
+    },
+    {
         "N. DDT":  "260088",
         "Data":  "26/05/2026",
         "Cod. Fornitore":  "F000102",
@@ -142,13 +150,5 @@
         "Fornitore":  "IFI Spa",
         "Importo":  "136.640000",
         "Note":  "KIT SCORREVOLI + KIT PISTONI TONDA ACAL Basato su Ordini d\u0027acquisto 260021."
-    },
-    {
-        "N. DDT":  "260041",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Importo":  "4097.990000",
-        "Note":  "VELARDI PIAZZA EUROPA Basato su Ordini cliente 260092. Basato su Ordini d\u0027acquisto 260068."
     }
 ]
