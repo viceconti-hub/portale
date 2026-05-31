@@ -63,33 +63,6 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
-        "N. Ordine":  "260100",
-        "Data":  "20/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "20/05/2026",
-        "Importo":  "610.000000",
-        "Note":  "Basato su Ordini cliente 260151. AI CARCONI + 1 MAG"
-    },
-    {
-        "N. Ordine":  "260077",
-        "Data":  "19/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "20/05/2026",
-        "Importo":  "640.010000",
-        "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA FRIGGITRICE FR88 + 1 MAG"
-    },
-    {
-        "N. Ordine":  "260079",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260087",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -117,13 +90,13 @@
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
+        "N. Ordine":  "260079",
+        "Data":  "18/05/2026",
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "1105.810000",
+        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260084",
@@ -153,6 +126,15 @@
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
+        "N. Ordine":  "260088",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
+        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
+    },
+    {
         "N. Ordine":  "260044",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F051446",
@@ -171,6 +153,15 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
+        "N. Ordine":  "260078",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "05/05/2026",
+        "Importo":  "128.390000",
+        "Note":  "Basato su Ordini cliente 260123."
+    },
+    {
         "N. Ordine":  "260080",
         "Data":  "12/05/2026",
         "Cod. Fornitore":  "F051522",
@@ -187,15 +178,6 @@
         "Data Consegna":  "01/05/2026",
         "Importo":  "3437.960000",
         "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "128.390000",
-        "Note":  "Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260061",
@@ -252,24 +234,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260040",
-        "Data":  "09/04/2026",
-        "Cod. Fornitore":  "F051184",
-        "Fornitore":  "LOTUS spa",
-        "Data Consegna":  "09/04/2026",
-        "Importo":  "174.240000",
-        "Note":  "NOCERA STREET FOOD Basato su Ordini cliente 260096."
-    },
-    {
-        "N. Ordine":  "260034",
-        "Data":  "03/04/2026",
-        "Cod. Fornitore":  "F000866",
-        "Fornitore":  "PIAZZA EFFEPI srl",
-        "Data Consegna":  "02/04/2026",
-        "Importo":  "328.180000",
-        "Note":  "ORO CAFFE Basato su Ordini cliente 260093."
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -286,24 +250,6 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "93.700000",
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
-    },
-    {
-        "N. Ordine":  "250447",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI EUROPE B.V.",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "2629.590000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769."
-    },
-    {
-        "N. Ordine":  "250504",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "47.700000",
-        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250210",
@@ -324,13 +270,13 @@
         "Note":  "RICAMBI"
     },
     {
-        "N. Ordine":  "250443",
-        "Data":  "10/11/2025",
-        "Cod. Fornitore":  "F051479",
-        "Fornitore":  "AFINOX SRL",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "12136.940000",
-        "Note":  "RIF. FA\u0027 TU Basato su Ordini cliente 250832."
+        "N. Ordine":  "250504",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250434",
