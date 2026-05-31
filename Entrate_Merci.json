@@ -1,5 +1,13 @@
 [
     {
+        "N. DDT":  "260110",
+        "Data":  "28/05/2026",
+        "Cod. Fornitore":  "F0515832",
+        "Fornitore":  "HOSHIZAKI EUROPE B.V.",
+        "Importo":  "2629.590000",
+        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Ordini d\u0027acquisto 250447."
+    },
+    {
         "N. DDT":  "260089",
         "Data":  "28/05/2026",
         "Cod. Fornitore":  "F000102",
@@ -86,6 +94,14 @@
         "Fornitore":  "ARISTARCO S.P.A.",
         "Importo":  "15585.500000",
         "Note":  "Basato su Ordini d\u0027acquisto 260027. 260062."
+    },
+    {
+        "N. DDT":  "260109",
+        "Data":  "20/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "1250.010000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260077. 260100."
     },
     {
         "N. DDT":  "260105",
@@ -189,7 +205,7 @@
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Importo":  "747.250000",
-        "Note":  "Basato su Ordini cliente 260114. BONIFICO EFFETTUATO Basato su Ordini d\u0027acquisto 260060."
+        "Note":  "ARTE DOLCIARIA PLANETARIA Basato su Ordini cliente 260114. BONIFICO EFFETTUATO Basato su Ordini d\u0027acquisto 260060."
     },
     {
         "N. DDT":  "260047",
