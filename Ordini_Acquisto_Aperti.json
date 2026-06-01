@@ -63,15 +63,6 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
-        "N. Ordine":  "260079",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260087",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -99,12 +90,21 @@
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
+        "N. Ordine":  "260079",
+        "Data":  "18/05/2026",
         "Cod. Fornitore":  "F050748",
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "1105.810000",
+        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260084",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "14/05/2026",
+        "Importo":  "2372.960000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
@@ -126,12 +126,12 @@
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260084",
+        "N. Ordine":  "260088",
         "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "14/05/2026",
-        "Importo":  "2372.960000",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
@@ -142,6 +142,15 @@
         "Data Consegna":  "13/05/2026",
         "Importo":  "2867.000000",
         "Note":  "Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260089",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F051292",
+        "Fornitore":  "HENDI ITALIA SRL",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "898.370000",
+        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260078",
@@ -171,15 +180,6 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260089",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F051292",
-        "Fornitore":  "HENDI ITALIA SRL",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "898.370000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
         "N. Ordine":  "260061",
         "Data":  "05/05/2026",
         "Cod. Fornitore":  "F000853",
@@ -189,22 +189,13 @@
         "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
-        "N. Ordine":  "260067",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F051381",
-        "Fornitore":  "ABM COMPANY SRL",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4184.600000",
+        "Importo":  "4831.200000",
         "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260066",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4018.680000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -216,12 +207,21 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
+        "Importo":  "4018.680000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260067",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F051381",
+        "Fornitore":  "ABM COMPANY SRL",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4184.600000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
@@ -234,15 +234,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -252,13 +243,22 @@
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
-        "N. Ordine":  "250504",
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
+    },
+    {
+        "N. Ordine":  "250210",
         "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
         "Data Consegna":  "31/12/2025",
-        "Importo":  "47.700000",
-        "Note":  "RICAMBI DA COMPLETARE"
+        "Importo":  "819.960000",
+        "Note":  "KIT DISPLAY PER NERA + MAG"
     },
     {
         "N. Ordine":  "250351",
@@ -270,13 +270,13 @@
         "Note":  "RICAMBI"
     },
     {
-        "N. Ordine":  "250210",
+        "N. Ordine":  "250504",
         "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
         "Data Consegna":  "31/12/2025",
-        "Importo":  "819.960000",
-        "Note":  "KIT DISPLAY PER NERA + MAG"
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250434",
