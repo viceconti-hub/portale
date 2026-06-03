@@ -1,5 +1,13 @@
 [
     {
+        "N. DDT":  "260111",
+        "Data":  "28/05/2026",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Importo":  "819.960000",
+        "Note":  "KIT DISPLAY PER NERA + MAG Basato su Ordini d\u0027acquisto 250210."
+    },
+    {
         "N. DDT":  "260110",
         "Data":  "28/05/2026",
         "Cod. Fornitore":  "F0515832",
@@ -14,6 +22,14 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Importo":  "143.730000",
         "Note":  "YUMARA RICAMBI PER FORNO"
+    },
+    {
+        "N. DDT":  "260112",
+        "Data":  "27/05/2026",
+        "Cod. Fornitore":  "F051358",
+        "Fornitore":  "STAFF ICE SYSTEM SRL",
+        "Importo":  "74.180000",
+        "Note":  "I PASTICCI DI WALTER RICAMBI PER MACCHINA MULTIFUNZIONE ROBOCREAM MOD.R151 MAXBasato su Offerte di vendita 260192. Basato su Ordini d\u0027acquisto 260122."
     },
     {
         "N. DDT":  "260103",
