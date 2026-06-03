@@ -130,16 +130,6 @@
         "Note":  "Basato su Offerte di vendita 260171."
     },
     {
-        "N. Ordine":  "260153",
-        "Data":  "18/05/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "452.930000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260173."
-    },
-    {
         "N. Ordine":  "260168",
         "Data":  "18/05/2026",
         "Cod. Cliente":  "CO52952",
@@ -148,6 +138,16 @@
         "Importo":  "121.350000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA 300 LAMAFF0012A"
+    },
+    {
+        "N. Ordine":  "260153",
+        "Data":  "18/05/2026",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "452.930000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Basato su Offerte di vendita 260173."
     },
     {
         "N. Ordine":  "260150",
@@ -408,16 +408,6 @@
         "Importo":  "3714.050000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260034",
-        "Data":  "07/02/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA",
-        "Data Consegna":  "07/02/2026",
-        "Importo":  "7700.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "IMPASTATRICE E ARMADIO CONGELATORE Basato su Offerte di vendita 250779. 260017."
     },
     {
         "N. Ordine":  "260025",
