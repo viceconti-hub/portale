@@ -240,6 +240,16 @@
         "Note":  "ATTREZZATURE Basato su Offerte di vendita 260112."
     },
     {
+        "N. Ordine":  "260181",
+        "Data":  "05/05/2026",
+        "Cod. Cliente":  "CO52368",
+        "Cliente":  "4.0 SRLS YUMARA",
+        "Data Consegna":  "05/05/2026",
+        "Importo":  "289.070000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BIDONI MORINI"
+    },
+    {
         "N. Ordine":  "260118",
         "Data":  "01/05/2026",
         "Cod. Cliente":  "CO52939",
