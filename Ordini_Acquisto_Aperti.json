@@ -5,8 +5,8 @@
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "03/06/2026",
-        "Importo":  "146.400000",
-        "Note":  "Basato su Ordini cliente 260183."
+        "Importo":  "282.740000",
+        "Note":  "APRISCATOLE E LAVAMI Basato su Ordini cliente 260183."
     },
     {
         "N. Ordine":  "260120",
@@ -72,13 +72,13 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
-        "N. Ordine":  "260079",
+        "N. Ordine":  "260102",
         "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "2210.880000",
+        "Note":  "Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS"
     },
     {
         "N. Ordine":  "260103",
@@ -90,15 +90,6 @@
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
-        "N. Ordine":  "260102",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "2210.880000",
-        "Note":  "Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS"
-    },
-    {
         "N. Ordine":  "260087",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -108,12 +99,21 @@
         "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
-        "N. Ordine":  "260086",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
+        "N. Ordine":  "260079",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/06/2026",
-        "Importo":  "9815.020000",
+        "Importo":  "1105.810000",
+        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
@@ -126,12 +126,21 @@
         "Note":  "PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260088",
+        "N. Ordine":  "260086",
         "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "9815.020000",
+        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260084",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "14/05/2026",
+        "Importo":  "2372.960000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
@@ -144,13 +153,13 @@
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260084",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "14/05/2026",
-        "Importo":  "2372.960000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
+        "N. Ordine":  "260082",
+        "Data":  "12/05/2026",
+        "Cod. Fornitore":  "F000095",
+        "Fornitore":  "INOX B.I.M. s.r.l",
+        "Data Consegna":  "01/05/2026",
+        "Importo":  "3437.960000",
+        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260078",
@@ -160,15 +169,6 @@
         "Data Consegna":  "05/05/2026",
         "Importo":  "128.390000",
         "Note":  "Basato su Ordini cliente 260123."
-    },
-    {
-        "N. Ordine":  "260082",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000095",
-        "Fornitore":  "INOX B.I.M. s.r.l",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "3437.960000",
-        "Note":  "Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260089",
@@ -198,22 +198,13 @@
         "Note":  "MeM ARREDO INOX  Basato su Ordini cliente 260113."
     },
     {
-        "N. Ordine":  "260067",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F051381",
-        "Fornitore":  "ABM COMPANY SRL",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4184.600000",
+        "Importo":  "4831.200000",
         "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260066",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4018.680000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -225,12 +216,21 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
+        "Importo":  "4018.680000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260067",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F051381",
+        "Fornitore":  "ABM COMPANY SRL",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4184.600000",
         "Note":  "Basato su Ordini cliente 250878."
     },
     {
@@ -243,15 +243,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260004",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "226.920000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260005",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F051055",
@@ -261,13 +252,13 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "609.400000",
-        "Note":  "RICAMBI"
+        "N. Ordine":  "260004",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "226.920000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250504",
@@ -277,6 +268,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "47.700000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "609.400000",
+        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250434",
