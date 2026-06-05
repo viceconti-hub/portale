@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260186",
+        "Data":  "05/06/2026",
+        "Cod. Cliente":  "C001223",
+        "Cliente":  "NERA SRL",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "461.840000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE LAVASTOVIGLIE"
+    },
+    {
         "N. Ordine":  "260185",
         "Data":  "04/06/2026",
         "Cod. Cliente":  "C000441",
