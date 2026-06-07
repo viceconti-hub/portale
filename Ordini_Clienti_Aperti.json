@@ -170,16 +170,6 @@
         "Note":  "Basato su Offerte di vendita 260171."
     },
     {
-        "N. Ordine":  "260153",
-        "Data":  "18/05/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "452.930000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260173."
-    },
-    {
         "N. Ordine":  "260168",
         "Data":  "18/05/2026",
         "Cod. Cliente":  "CO52952",
@@ -188,6 +178,16 @@
         "Importo":  "121.350000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA 300 LAMAFF0012A"
+    },
+    {
+        "N. Ordine":  "260153",
+        "Data":  "18/05/2026",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "452.930000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Basato su Offerte di vendita 260173."
     },
     {
         "N. Ordine":  "260150",
@@ -260,16 +260,6 @@
         "Note":  "COPERCHIO 1/2 AD INTEGRAZIONE"
     },
     {
-        "N. Ordine":  "260123",
-        "Data":  "05/05/2026",
-        "Cod. Cliente":  "C001624",
-        "Cliente":  "Ristorante SANTA LUCIA DI APICELLA TERESA",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "10198.320000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE Basato su Offerte di vendita 260112."
-    },
-    {
         "N. Ordine":  "260181",
         "Data":  "05/05/2026",
         "Cod. Cliente":  "CO52368",
@@ -278,6 +268,16 @@
         "Importo":  "289.070000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "BIDONI MORINI"
+    },
+    {
+        "N. Ordine":  "260123",
+        "Data":  "05/05/2026",
+        "Cod. Cliente":  "C001624",
+        "Cliente":  "Ristorante SANTA LUCIA DI APICELLA TERESA",
+        "Data Consegna":  "05/05/2026",
+        "Importo":  "10198.320000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ATTREZZATURE Basato su Offerte di vendita 260112."
     },
     {
         "N. Ordine":  "260118",
@@ -478,6 +478,16 @@
         "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
+    },
+    {
+        "N. Ordine":  "250924",
+        "Data":  "18/12/2025",
+        "Cod. Cliente":  "CO52897",
+        "Cliente":  "GARGANO TOPTUR SRL - HOTEL LE GINESTRE",
+        "Data Consegna":  "18/12/2025",
+        "Importo":  "208.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "MEDINA VASSOIO Basato su Offerte di vendita 250959."
     },
     {
         "N. Ordine":  "250878",
