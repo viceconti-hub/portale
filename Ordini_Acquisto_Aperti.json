@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260125",
+        "Data":  "08/06/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "18/12/2025",
+        "Importo":  "378.150000",
+        "Note":  "Basato su Ordini cliente 250924. 260150. 260157. 260181."
+    },
+    {
+        "N. Ordine":  "260126",
+        "Data":  "08/06/2026",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
+        "Data Consegna":  "08/06/2026",
+        "Importo":  "296.870000",
+        "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
+    },
+    {
         "N. Ordine":  "260124",
         "Data":  "04/06/2026",
         "Cod. Fornitore":  "F000894",
