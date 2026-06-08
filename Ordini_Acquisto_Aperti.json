@@ -18,6 +18,15 @@
         "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
     },
     {
+        "N. Ordine":  "260120",
+        "Data":  "05/06/2026",
+        "Cod. Fornitore":  "F051184",
+        "Fornitore":  "LOTUS spa",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "3031.700000",
+        "Note":  "LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 31/07/2026"
+    },
+    {
         "N. Ordine":  "260124",
         "Data":  "04/06/2026",
         "Cod. Fornitore":  "F000894",
@@ -34,15 +43,6 @@
         "Data Consegna":  "03/06/2026",
         "Importo":  "282.740000",
         "Note":  "APRISCATOLE E LAVAMI Basato su Ordini cliente 260183."
-    },
-    {
-        "N. Ordine":  "260120",
-        "Data":  "28/05/2026",
-        "Cod. Fornitore":  "F051184",
-        "Fornitore":  "LOTUS spa",
-        "Data Consegna":  "28/05/2026",
-        "Importo":  "6275.680000",
-        "Note":  "LIDO VALENTINA Basato su Ordini cliente 260175."
     },
     {
         "N. Ordine":  "260117",
