@@ -600,6 +600,16 @@
         "Note":  "RICAMBI SIRMAN"
     },
     {
+        "N. Ordine":  "250198",
+        "Data":  "09/04/2025",
+        "Cod. Cliente":  "CO52766",
+        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
+        "Data Consegna":  "15/06/2025",
+        "Importo":  "0.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RATIONAL solo per CONSEGNA"
+    },
+    {
         "N. Ordine":  "241114",
         "Data":  "20/12/2024",
         "Cod. Cliente":  "CO52054",
