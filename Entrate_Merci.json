@@ -1,5 +1,13 @@
 [
     {
+        "N. DDT":  "260114",
+        "Data":  "03/06/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "2206.980000",
+        "Note":  "SANTOS BACK BAR + PANAINO RUA TAVOLO REFRIGERATO Basato su Ordini cliente 260134. Basato su Ordini d\u0027acquisto 260116."
+    },
+    {
         "N. DDT":  "260113",
         "Data":  "01/06/2026",
         "Cod. Fornitore":  "F000853",
@@ -142,6 +150,14 @@
         "Fornitore":  "AIRFAN dI MANENTI \u0026 C. s.n.c.",
         "Importo":  "500.080000",
         "Note":  "MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato su Ordini d\u0027acquisto 260093."
+    },
+    {
+        "N. DDT":  "260116",
+        "Data":  "19/05/2026",
+        "Cod. Fornitore":  "F000853",
+        "Fornitore":  "IDEAM INOX SRL",
+        "Importo":  "1768.610000",
+        "Note":  "PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260085."
     },
     {
         "N. DDT":  "260102",
