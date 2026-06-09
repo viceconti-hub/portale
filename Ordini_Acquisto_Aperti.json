@@ -9,6 +9,24 @@
         "Note":  "SANTOS BACKBAR INTEGRAZIONE"
     },
     {
+        "N. Ordine":  "260128",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "329.400000",
+        "Note":  "Basato su Ordini cliente 260199."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "2466.840000",
+        "Note":  "Basato su Ordini cliente 260199."
+    },
+    {
         "N. Ordine":  "260125",
         "Data":  "08/06/2026",
         "Cod. Fornitore":  "F001602",
