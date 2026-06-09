@@ -18,6 +18,15 @@
         "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
     },
     {
+        "N. Ordine":  "260127",
+        "Data":  "08/06/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "08/06/2026",
+        "Importo":  "507.830000",
+        "Note":  "SANTOS INTEGRAZIONE"
+    },
+    {
         "N. Ordine":  "260120",
         "Data":  "05/06/2026",
         "Cod. Fornitore":  "F051184",
@@ -61,15 +70,6 @@
         "Data Consegna":  "27/05/2026",
         "Importo":  "1110.200000",
         "Note":  "FLAVIO BARLASCINI LAVALLO 140X70  Basato su Ordini cliente 260173."
-    },
-    {
-        "N. Ordine":  "260116",
-        "Data":  "26/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "25/05/2026",
-        "Importo":  "2799.570000",
-        "Note":  "SANTOS BACK BAR + PANAINO RUA TAVOLO REFRIGERATO Basato su Ordini cliente 260134."
     },
     {
         "N. Ordine":  "260113",
@@ -142,15 +142,6 @@
         "Data Consegna":  "14/05/2026",
         "Importo":  "2372.960000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260085",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Data Consegna":  "08/06/2026",
-        "Importo":  "2635.880000",
-        "Note":  "PASSION SUSHI CAPPA E MOTORE Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260086",
