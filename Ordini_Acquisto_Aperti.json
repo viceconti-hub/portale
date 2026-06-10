@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260131",
+        "Data":  "10/06/2026",
+        "Cod. Fornitore":  "F051353",
+        "Fornitore":  "TAMAI S.R.L.",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "4833.640000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260200."
+    },
+    {
         "N. Ordine":  "260127",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000826",
@@ -25,6 +34,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "2466.840000",
         "Note":  "Basato su Ordini cliente 260199."
+    },
+    {
+        "N. Ordine":  "260130",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F051414",
+        "Fornitore":  "ZINCO GROUP SRL",
+        "Data Consegna":  "09/07/2026",
+        "Importo":  "2564.280000",
+        "Note":  "PASSION SUSHI Basato su Offerte di vendita 260210."
     },
     {
         "N. Ordine":  "260125",
