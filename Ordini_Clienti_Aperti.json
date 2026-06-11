@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260201",
+        "Data":  "11/06/2026",
+        "Cod. Cliente":  "C000245",
+        "Cliente":  "CHOCOLATE \u0026 PASTRY SAS",
+        "Data Consegna":  "11/06/2026",
+        "Importo":  "3470.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ARMADIO CONGELATORE COLDLINE WIND A90/1B Basato su Offerte di vendita 260208."
+    },
+    {
         "N. Ordine":  "260200",
         "Data":  "10/06/2026",
         "Cod. Cliente":  "C050795",
