@@ -198,29 +198,5 @@
         "Fornitore":  "CB SRL",
         "Importo":  "161.040000",
         "Note":  "Basato su Ordini cliente 260142. Basato su Ordini d\u0027acquisto 260092. SACCO DI PIETRA LAVICA"
-    },
-    {
-        "N. DDT":  "260087",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "218.060000",
-        "Note":  ""
-    },
-    {
-        "N. DDT":  "260086",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "1757.070000",
-        "Note":  "Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260083."
-    },
-    {
-        "N. DDT":  "260046",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000146",
-        "Fornitore":  "NUOVA RICAMBI srl",
-        "Importo":  "188.980000",
-        "Note":  "DETERGENTE Basato su Ordini d\u0027acquisto 260058."
     }
 ]
