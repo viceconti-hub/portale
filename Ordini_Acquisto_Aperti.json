@@ -189,15 +189,6 @@
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260044",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051446",
-        "Fornitore":  "MECNOSUD S.R.L.",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "2867.000000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
         "N. Ordine":  "260088",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F050748",
@@ -205,6 +196,15 @@
         "Data Consegna":  "07/06/2026",
         "Importo":  "2905.190000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
+    },
+    {
+        "N. Ordine":  "260044",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F051446",
+        "Fornitore":  "MECNOSUD S.R.L.",
+        "Data Consegna":  "13/05/2026",
+        "Importo":  "2867.000000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260089",
