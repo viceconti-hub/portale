@@ -190,13 +190,5 @@
         "Fornitore":  "COLDLINE srl",
         "Importo":  "128.100000",
         "Note":  "Basato su Ordini cliente 260139. BONIFICO DEL 12_06_2026 Basato su Ordini d\u0027acquisto 260090."
-    },
-    {
-        "N. DDT":  "260101",
-        "Data":  "15/05/2026",
-        "Cod. Fornitore":  "F000853",
-        "Fornitore":  "IDEAM INOX SRL",
-        "Importo":  "7064.910000",
-        "Note":  "M\u0026M E FA TU Basato su Ordini d\u0027acquisto 260064. 260070."
     }
 ]
