@@ -27,15 +27,6 @@
         "Note":  "Basato su Ordini cliente 260115. 260162. 260205."
     },
     {
-        "N. Ordine":  "260133",
-        "Data":  "12/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "12/06/2026",
-        "Importo":  "550.220000",
-        "Note":  "PASSION SUSHI LAVAMANI E DOCCIA PRELAVAGGIO + ACCESSORI LAVELLI"
-    },
-    {
         "N. Ordine":  "260131",
         "Data":  "10/06/2026",
         "Cod. Fornitore":  "F051353",
@@ -61,15 +52,6 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "345.520000",
         "Note":  "YUMARA + MAG Basato su Ordini cliente 250924. 260150. 260157. 260181."
-    },
-    {
-        "N. Ordine":  "260127",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "10/06/2026",
-        "Importo":  "507.830000",
-        "Note":  "SANTOS BACKBAR INTEGRAZIONE"
     },
     {
         "N. Ordine":  "260128",
@@ -135,15 +117,6 @@
         "Note":  "APRISCATOLE E LAVAMI Basato su Ordini cliente 260183."
     },
     {
-        "N. Ordine":  "260117",
-        "Data":  "27/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "11/06/2026",
-        "Importo":  "651.480000",
-        "Note":  "ACAL MENSOLA A PONTE 140X70 Basato su Ordini cliente 260172."
-    },
-    {
         "N. Ordine":  "260118",
         "Data":  "27/05/2026",
         "Cod. Fornitore":  "F050748",
@@ -205,42 +178,6 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "767.380000",
         "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
-    },
-    {
-        "N. Ordine":  "260079",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "1105.810000",
-        "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
-    },
-    {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260084",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "14/05/2026",
-        "Importo":  "2372.960000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260086",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "9815.020000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260044",
