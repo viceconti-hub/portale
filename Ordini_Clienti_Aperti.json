@@ -30,6 +30,26 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260209",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051489",
+        "Cliente":  "DIMAC SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "124.070000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE BLU RATIONAL"
+    },
+    {
+        "N. Ordine":  "260211",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C001087",
+        "Cliente":  "TURISTICA MARATEA snc di BARONE FRANCESCO \u0026 C.",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "24.400000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE LAVABICCHIERI"
+    },
+    {
         "N. Ordine":  "260205",
         "Data":  "12/06/2026",
         "Cod. Cliente":  "C000550",
