@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260134",
+        "Data":  "15/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "568.520000",
+        "Note":  "FA TU"
+    },
+    {
         "N. Ordine":  "260136",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F000865",
@@ -9,24 +18,6 @@
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
     },
     {
-        "N. Ordine":  "260133",
-        "Data":  "12/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "12/06/2026",
-        "Importo":  "1037.000000",
-        "Note":  "INTEGRAZIONE AD ORDINE IN RITIRO OGGI POMERIGGIO"
-    },
-    {
-        "N. Ordine":  "260134",
-        "Data":  "12/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "12/06/2026",
-        "Importo":  "568.520000",
-        "Note":  "FA TU"
-    },
-    {
         "N. Ordine":  "260135",
         "Data":  "12/06/2026",
         "Cod. Fornitore":  "F000027",
@@ -34,6 +25,15 @@
         "Data Consegna":  "27/04/2026",
         "Importo":  "399.180000",
         "Note":  "Basato su Ordini cliente 260115. 260162. 260205."
+    },
+    {
+        "N. Ordine":  "260133",
+        "Data":  "12/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "12/06/2026",
+        "Importo":  "550.220000",
+        "Note":  "PASSION SUSHI LAVAMANI E DOCCIA PRELAVAGGIO + ACCESSORI LAVELLI"
     },
     {
         "N. Ordine":  "260131",
@@ -52,6 +52,15 @@
         "Data Consegna":  "10/06/2026",
         "Importo":  "142.740000",
         "Note":  "PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE: COLLARI DI FISSAGGIO"
+    },
+    {
+        "N. Ordine":  "260125",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "345.520000",
+        "Note":  "YUMARA + MAG Basato su Ordini cliente 250924. 260150. 260157. 260181."
     },
     {
         "N. Ordine":  "260127",
@@ -78,7 +87,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "09/06/2026",
         "Importo":  "2466.840000",
-        "Note":  "Basato su Ordini cliente 260199."
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260130",
@@ -90,13 +99,13 @@
         "Note":  "PASSION SUSHI Basato su Offerte di vendita 260210."
     },
     {
-        "N. Ordine":  "260125",
-        "Data":  "08/06/2026",
+        "N. Ordine":  "260078",
+        "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
         "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "18/12/2025",
-        "Importo":  "399.220000",
-        "Note":  "Basato su Ordini cliente 250924. 260150. 260157. 260181."
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "128.390000",
+        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
@@ -171,15 +180,6 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
-    },
-    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -198,6 +198,15 @@
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260079",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F050748",
@@ -205,6 +214,15 @@
         "Data Consegna":  "05/06/2026",
         "Importo":  "1105.810000",
         "Note":  "SANTA LUCIA modificato Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260088",
+        "Data":  "13/05/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "07/06/2026",
+        "Importo":  "2905.190000",
+        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
         "N. Ordine":  "260084",
@@ -225,15 +243,6 @@
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260088",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "07/06/2026",
-        "Importo":  "2905.190000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118."
-    },
-    {
         "N. Ordine":  "260044",
         "Data":  "13/05/2026",
         "Cod. Fornitore":  "F051446",
@@ -250,15 +259,6 @@
         "Data Consegna":  "01/05/2026",
         "Importo":  "898.370000",
         "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "128.390000",
-        "Note":  "Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260080",
