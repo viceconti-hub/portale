@@ -1,17 +1,17 @@
 [
     {
-        "N. Attivita":  "7359",
+        "N. Attivita":  "7360",
         "Priorita":  "1",
-        "Utente":  "Gianni",
+        "Utente":  "BIAGIO RIZZO",
         "Data":  "15/06/2026",
-        "Ora Inizio":  "1000",
-        "Ora Fine":  "1100",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "MIXER A IMMESIONA SIRMAN CICLONE 28VT  Basato su Offerte di vendita 260173.",
-        "Citta":  "",
-        "Note":  ""
+        "Ora Inizio":  "1258",
+        "Ora Fine":  "1313",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52005",
+        "Cliente":  "BOTTEGA 63 SRLS",
+        "Contenuto":  "TOSTIERA E PRODUTTORE",
+        "Citta":  "LAURIA",
+        "Note":  "TOSTIERA: SOSTITUZIONE RESISTENZA \r\rPRODUTTORE DI GHIACCIO: CONTROLLO"
     },
     {
         "N. Attivita":  "7349",
