@@ -1,5 +1,13 @@
 [
     {
+        "N. DDT":  "260122",
+        "Data":  "12/06/2026",
+        "Cod. Fornitore":  "F000027",
+        "Fornitore":  "DE LUCA SRL",
+        "Importo":  "316.770000",
+        "Note":  "Basato su Ordini cliente 260115. 260162. 260205. Basato su Ordini d\u0027acquisto 260135."
+    },
+    {
         "N. DDT":  "260118",
         "Data":  "12/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -8,12 +16,36 @@
         "Note":  "Basato su Ordini d\u0027acquisto 260079. 260088. 260117. 260133."
     },
     {
+        "N. DDT":  "260123",
+        "Data":  "11/06/2026",
+        "Cod. Fornitore":  "F051452",
+        "Fornitore":  "BRUZIA SYSTEM SRL",
+        "Importo":  "265.340000",
+        "Note":  "RICAMBI FAEMA"
+    },
+    {
         "N. DDT":  "260119",
         "Data":  "11/06/2026",
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "2372.960000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260084."
+    },
+    {
+        "N. DDT":  "260127",
+        "Data":  "10/06/2026",
+        "Cod. Fornitore":  "F001613",
+        "Fornitore":  "BELLADONNA SRL",
+        "Importo":  "1046.760000",
+        "Note":  "MACELLERIA DE DIEGO TAVOLO ISPICA 80X80 Basato su Ordini d\u0027acquisto 260138."
+    },
+    {
+        "N. DDT":  "260125",
+        "Data":  "10/06/2026",
+        "Cod. Fornitore":  "F051414",
+        "Fornitore":  "ZINCO GROUP SRL",
+        "Importo":  "889.420000",
+        "Note":  "PASSION SUSHI TUBAZIONE Basato su Ordini d\u0027acquisto 260130. 260132."
     },
     {
         "N. DDT":  "260121",
@@ -32,12 +64,28 @@
         "Note":  "SANTOS BACKBAR INTEGRAZIONE Basato su Ordini d\u0027acquisto 260127."
     },
     {
+        "N. DDT":  "260124",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F001512",
+        "Fornitore":  "FE.MA. SRL",
+        "Importo":  "82.400000",
+        "Note":  "Relè allo Stato Solido Basato su Offerte di vendita 260216. Basato su Ordini d\u0027acquisto 260137."
+    },
+    {
         "N. DDT":  "260117",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F051184",
         "Fornitore":  "LOTUS spa",
         "Importo":  "3031.700000",
         "Note":  "LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 31/07/2026 Basato su Ordini d\u0027acquisto 260120."
+    },
+    {
+        "N. DDT":  "260126",
+        "Data":  "08/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "924.930000",
+        "Note":  ""
     },
     {
         "N. DDT":  "260114",
