@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260206",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "CO52962",
+        "Cliente":  "THEMYSCIRA SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "254.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "610.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
+    },
+    {
         "N. Ordine":  "260205",
         "Data":  "12/06/2026",
         "Cod. Cliente":  "C000550",
@@ -198,16 +218,6 @@
         "Importo":  "4544.260000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "VETRINA MIX CON VETRI EXTRACHIARI SNACK FREDDO VENTILATO MOD.MIX VBD Basato su Offerte di vendita 260143."
-    },
-    {
-        "N. Ordine":  "260162",
-        "Data":  "21/05/2026",
-        "Cod. Cliente":  "CO52622",
-        "Cliente":  "GIOIA AURELIO",
-        "Data Consegna":  "21/05/2026",
-        "Importo":  "35.810000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TEGLIA IN LAMIERA BLU Basato su Offerte di vendita 260183."
     },
     {
         "N. Ordine":  "260163",
