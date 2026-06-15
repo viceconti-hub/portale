@@ -18,31 +18,22 @@
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
     },
     {
-        "N. Ordine":  "260135",
-        "Data":  "12/06/2026",
-        "Cod. Fornitore":  "F000027",
-        "Fornitore":  "DE LUCA SRL",
-        "Data Consegna":  "27/04/2026",
-        "Importo":  "399.180000",
-        "Note":  "Basato su Ordini cliente 260115. 260162. 260205."
-    },
-    {
         "N. Ordine":  "260131",
         "Data":  "10/06/2026",
         "Cod. Fornitore":  "F051353",
         "Fornitore":  "TAMAI S.R.L.",
         "Data Consegna":  "17/06/2026",
-        "Importo":  "4833.640000",
+        "Importo":  "2346.980000",
         "Note":  "AI CARCONI Basato su Ordini cliente 260200."
     },
     {
-        "N. Ordine":  "260132",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F051414",
-        "Fornitore":  "ZINCO GROUP SRL",
-        "Data Consegna":  "10/06/2026",
-        "Importo":  "142.740000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE ORDINE TUBAZIONE: COLLARI DI FISSAGGIO"
+        "N. Ordine":  "260078",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "128.390000",
+        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260125",
@@ -54,15 +45,6 @@
         "Note":  "YUMARA + MAG Basato su Ordini cliente 250924. 260150. 260157. 260181."
     },
     {
-        "N. Ordine":  "260128",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "329.400000",
-        "Note":  "Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260129",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -70,24 +52,6 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "2466.840000",
         "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
-        "N. Ordine":  "260130",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F051414",
-        "Fornitore":  "ZINCO GROUP SRL",
-        "Data Consegna":  "09/07/2026",
-        "Importo":  "2564.280000",
-        "Note":  "PASSION SUSHI Basato su Offerte di vendita 260210."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "128.390000",
-        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
@@ -106,15 +70,6 @@
         "Data Consegna":  "04/06/2026",
         "Importo":  "0.000000",
         "Note":  "RICAMBI PER STRADELLA, NERA, MAG"
-    },
-    {
-        "N. Ordine":  "260123",
-        "Data":  "03/06/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "03/06/2026",
-        "Importo":  "282.740000",
-        "Note":  "APRISCATOLE E LAVAMI Basato su Ordini cliente 260183."
     },
     {
         "N. Ordine":  "260118",
@@ -153,6 +108,15 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -169,15 +133,6 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "185.640000",
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
-    },
-    {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
         "N. Ordine":  "260044",
@@ -207,15 +162,6 @@
         "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA CIUCINA E GRIGLIA"
     },
     {
-        "N. Ordine":  "260082",
-        "Data":  "12/05/2026",
-        "Cod. Fornitore":  "F000095",
-        "Fornitore":  "INOX B.I.M. s.r.l",
-        "Data Consegna":  "01/05/2026",
-        "Importo":  "3437.960000",
-        "Note":  "Basato su Ordini cliente 260118."
-    },
-    {
         "N. Ordine":  "260063",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000151",
@@ -241,15 +187,6 @@
         "Data Consegna":  "29/04/2026",
         "Importo":  "4018.680000",
         "Note":  "MeM Basato su Ordini cliente 250878."
-    },
-    {
-        "N. Ordine":  "260067",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F051381",
-        "Fornitore":  "ABM COMPANY SRL",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4184.600000",
-        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
