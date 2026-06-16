@@ -27,15 +27,6 @@
         "Note":  "AI CARCONI Basato su Ordini cliente 260200."
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "2466.840000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260078",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
@@ -52,6 +43,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "345.520000",
         "Note":  "YUMARA + MAG Basato su Ordini cliente 250924. 260150. 260157. 260181."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "2466.840000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -108,13 +108,13 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
-        "N. Ordine":  "260103",
+        "N. Ordine":  "260087",
         "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "18/05/2026",
-        "Importo":  "185.640000",
-        "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
         "N. Ordine":  "260102",
@@ -126,13 +126,13 @@
         "Note":  "Basato su Ordini cliente 260153. MIXER AD IMMERSIONA CICLONE 28VT HAPPY MOMENTS"
     },
     {
-        "N. Ordine":  "260087",
+        "N. Ordine":  "260103",
         "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
         "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+        "Importo":  "185.640000",
+        "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
         "N. Ordine":  "260044",
@@ -162,13 +162,13 @@
         "Note":  "Basato su Ordini cliente 260123. SANTA LUCIA CIUCINA E GRIGLIA"
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4018.680000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -180,13 +180,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "4018.680000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
@@ -198,15 +198,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -216,13 +207,13 @@
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
-        "N. Ordine":  "250504",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "47.700000",
-        "Note":  "RICAMBI DA COMPLETARE"
+        "N. Ordine":  "260005",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "93.700000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
         "N. Ordine":  "250351",
@@ -232,6 +223,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "609.400000",
         "Note":  "RICAMBI"
+    },
+    {
+        "N. Ordine":  "250504",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "47.700000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250434",
