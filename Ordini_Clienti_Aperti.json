@@ -20,6 +20,26 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260217",
+        "Data":  "17/06/2026",
+        "Cod. Cliente":  "CO52964",
+        "Cliente":  "AZIENDA AGRICOLA PECORELLI FRANCESCO",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "400.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260218",
+        "Data":  "17/06/2026",
+        "Cod. Cliente":  "CO52964",
+        "Cliente":  "AZIENDA AGRICOLA PECORELLI FRANCESCO",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "90.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
