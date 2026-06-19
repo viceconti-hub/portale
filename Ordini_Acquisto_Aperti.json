@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260141",
+        "Data":  "18/06/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "561.200000",
+        "Note":  "AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217."
+    },
+    {
         "N. Ordine":  "260139",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F001602",
