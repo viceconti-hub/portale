@@ -10,6 +10,16 @@
         "Note":  "DETERGENTE RATIONAL ROSSO"
     },
     {
+        "N. Ordine":  "260220",
+        "Data":  "18/06/2026",
+        "Cod. Cliente":  "C000522",
+        "Cliente":  "LA TANA GROUP SRL",
+        "Data Consegna":  "18/06/2026",
+        "Importo":  "473.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PRIMA INSTALLAZIONE FILTRO BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260225."
+    },
+    {
         "N. Ordine":  "260214",
         "Data":  "17/06/2026",
         "Cod. Cliente":  "CO51931",
@@ -37,7 +47,7 @@
         "Data Consegna":  "17/06/2026",
         "Importo":  "400.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "MACCHINA SOTTOVUOTO UNIVAC SMALL"
     },
     {
         "N. Ordine":  "260206",
