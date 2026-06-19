@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7375",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "19/06/2026",
+        "Ora Inizio":  "855",
+        "Ora Fine":  "910",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52190",
+        "Cliente":  "CORRADO MICHELA",
+        "Contenuto":  "FORNO RATIONAL",
+        "Citta":  "SANTA MARIA DEL CEDRO",
+        "Note":  "PULIZIA INTERROTTA"
+    },
+    {
         "N. Attivita":  "7374",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -106,10 +120,10 @@
         "Ora Fine":  "1100",
         "Tipo":  "CONSEGNA",
         "Cod. Cliente":  "C001087",
-        "Cliente":  "TURISTICA MARATEA snc di BARONE FRANCESCO \u0026 C.",
+        "Cliente":  "TURISTICA MARATEA snc di BARONE FRANCESCO \u0026 C. BAR LA COLONNA",
         "Contenuto":  "DETERGENTE LAVABICCHIERI",
         "Citta":  "MARATEA",
-        "Note":  ""
+        "Note":  "1 DET 6, FATTURA EMESSA"
     },
     {
         "N. Attivita":  "7362",
@@ -787,9 +801,9 @@
         "N. Attivita":  "7078",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "19/06/2025",
-        "Ora Inizio":  "1105",
-        "Ora Fine":  "1120",
+        "Data":  "19/06/2026",
+        "Ora Inizio":  "900",
+        "Ora Fine":  "1300",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C001290",
         "Cliente":  "AGRITURISMO L\u0027AIA DEI CAPPELLANI di RICCARDI VINCENZO",
