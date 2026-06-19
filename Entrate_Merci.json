@@ -222,29 +222,5 @@
         "Fornitore":  "ARISTARCO S.P.A.",
         "Importo":  "15585.500000",
         "Note":  "Basato su Ordini d\u0027acquisto 260027. 260062."
-    },
-    {
-        "N. DDT":  "260109",
-        "Data":  "20/05/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "1250.010000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260077. 260100."
-    },
-    {
-        "N. DDT":  "260105",
-        "Data":  "20/05/2026",
-        "Cod. Fornitore":  "F050733",
-        "Fornitore":  "IDEA S.R.L.",
-        "Importo":  "649.040000",
-        "Note":  "IELPO NICOLA + NEW BAR Basato su Ordini cliente 260152.  Basato su Ordini d\u0027acquisto 260101."
-    },
-    {
-        "N. DDT":  "260083",
-        "Data":  "20/05/2026",
-        "Cod. Fornitore":  "F000943",
-        "Fornitore":  "AIRFAN dI MANENTI \u0026 C. s.n.c.",
-        "Importo":  "500.080000",
-        "Note":  "MACELLERIA DE DIEGO Basato su Ordini cliente 260143. Basato su Ordini d\u0027acquisto 260093."
     }
 ]
