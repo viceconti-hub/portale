@@ -182,37 +182,5 @@
         "Fornitore":  "IDEAM INOX SRL",
         "Importo":  "3668.500000",
         "Note":  "RUGGIERO MARIACHIARA  + MeM Basato su Ordini d\u0027acquisto 260071. 260094."
-    },
-    {
-        "N. DDT":  "260107",
-        "Data":  "22/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "989.590000",
-        "Note":  "CIDO SRL LIDO ILLICINI RICAMBI CUCINE ANGELO PO + DOSATORE MAG Basato su Offerte di vendita 260186. Basato su Ordini d\u0027acquisto 260114."
-    },
-    {
-        "N. DDT":  "260106",
-        "Data":  "22/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "998.460000",
-        "Note":  "CIDO SRL LIDO ILLICINI RICAMBI CUCINE ANGELO PO + DOSATORE MAG Basato su Offerte di vendita 260186. Basato su Ordini d\u0027acquisto 260114. Basato su Entrata merci da fornitore 260082."
-    },
-    {
-        "N. DDT":  "260084",
-        "Data":  "22/05/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "122.000000",
-        "Note":  "MARIE VENTOLA PER DT3S MATRICOLA 091711901 Basato su Offerte di vendita 260182. Basato su Ordini d\u0027acquisto 260108."
-    },
-    {
-        "N. DDT":  "260082",
-        "Data":  "22/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "998.460000",
-        "Note":  "CIDO SRL LIDO ILLICINI RICAMBI CUCINE ANGELO PO + DOSATORE MAG Basato su Offerte di vendita 260186. Basato su Ordini d\u0027acquisto 260114."
     }
 ]
