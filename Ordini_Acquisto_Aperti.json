@@ -126,6 +126,15 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -142,15 +151,6 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "185.640000",
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
-    },
-    {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
         "N. Ordine":  "260044",
