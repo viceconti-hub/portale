@@ -1,5 +1,45 @@
 [
     {
+        "N. Ordine":  "260224",
+        "Data":  "22/06/2026",
+        "Cod. Cliente":  "C051047",
+        "Cliente":  "TRATTORIA TICCIABBACA di MAIORANA FRANCESCA",
+        "Data Consegna":  "20/07/2026",
+        "Importo":  "2364.260000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CUCINA 4 FUOCHI MODULAR Basato su Offerte di vendita 260226."
+    },
+    {
+        "N. Ordine":  "260225",
+        "Data":  "22/06/2026",
+        "Cod. Cliente":  "C001568",
+        "Cliente":  "LACAVA VINCENZO SOCIETA\u0027 A RESPONSABILITA\u0027 LIMITATA BAR SMILE",
+        "Data Consegna":  "22/06/2026",
+        "Importo":  "73.200000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE LAVABICCHIERI"
+    },
+    {
+        "N. Ordine":  "260226",
+        "Data":  "22/06/2026",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Data Consegna":  "22/06/2026",
+        "Importo":  "401.620000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BACINELLA POLIROPILENE  GN 1/2 H 15 QTA 40"
+    },
+    {
+        "N. Ordine":  "260227",
+        "Data":  "22/06/2026",
+        "Cod. Cliente":  "CO52965",
+        "Cliente":  "CUCINOTTA GIOVANNI",
+        "Data Consegna":  "22/06/2026",
+        "Importo":  "39.890000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BACINELLE IN POLIPROPILENE"
+    },
+    {
         "N. Ordine":  "260219",
         "Data":  "18/06/2026",
         "Cod. Cliente":  "CO52001",
