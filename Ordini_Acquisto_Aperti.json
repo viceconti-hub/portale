@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260144",
+        "Data":  "23/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "23/06/2026",
+        "Importo":  "142.920000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260142",
         "Data":  "22/06/2026",
         "Cod. Fornitore":  "F000866",
@@ -16,6 +25,15 @@
         "Data Consegna":  "17/06/2026",
         "Importo":  "561.200000",
         "Note":  "AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217."
+    },
+    {
+        "N. Ordine":  "260145",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "876.070000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260139",
@@ -52,6 +70,15 @@
         "Data Consegna":  "17/06/2026",
         "Importo":  "2346.980000",
         "Note":  "AI CARCONI Basato su Ordini cliente 260200."
+    },
+    {
+        "N. Ordine":  "260143",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "20.980000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260078",
