@@ -36,15 +36,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260139",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "293.720000",
-        "Note":  "HAPPY MOMENTS SANTA LUCIA AIA DEI CAPPELLANI Basato su Ordini cliente 260196. 260215."
-    },
-    {
         "N. Ordine":  "260134",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -72,15 +63,6 @@
         "Note":  "AI CARCONI Basato su Ordini cliente 260200."
     },
     {
-        "N. Ordine":  "260143",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "20.980000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260129",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -90,15 +72,6 @@
         "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
-        "N. Ordine":  "260125",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "345.520000",
-        "Note":  "YUMARA + MAG Basato su Ordini cliente 250924. 260150. 260157. 260181."
-    },
-    {
         "N. Ordine":  "260078",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
@@ -106,6 +79,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260143",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "20.980000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260126",
