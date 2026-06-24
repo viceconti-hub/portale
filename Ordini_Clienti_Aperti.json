@@ -270,26 +270,6 @@
         "Note":  "COPERCHIO 1/2 AD INTEGRAZIONE"
     },
     {
-        "N. Ordine":  "260123",
-        "Data":  "05/05/2026",
-        "Cod. Cliente":  "C001624",
-        "Cliente":  "Ristorante SANTA LUCIA DI APICELLA TERESA",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "10198.320000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE Basato su Offerte di vendita 260112."
-    },
-    {
-        "N. Ordine":  "260181",
-        "Data":  "05/05/2026",
-        "Cod. Cliente":  "CO52368",
-        "Cliente":  "4.0 SRLS YUMARA",
-        "Data Consegna":  "05/05/2026",
-        "Importo":  "289.070000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BIDONI MORINI"
-    },
-    {
         "N. Ordine":  "260118",
         "Data":  "01/05/2026",
         "Cod. Cliente":  "CO52939",
