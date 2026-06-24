@@ -3,7 +3,7 @@
         "N. Attivita":  "7382",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "23/06/2026",
+        "Data":  "24/06/2026",
         "Ora Inizio":  "1035",
         "Ora Fine":  "1050",
         "Tipo":  "ASSISTENZA",
@@ -171,7 +171,7 @@
         "N. Attivita":  "7348",
         "Priorita":  "2",
         "Utente":  "BIAGIO RIZZO",
-        "Data":  "23/06/2026",
+        "Data":  "24/06/2026",
         "Ora Inizio":  "900",
         "Ora Fine":  "1000",
         "Tipo":  "ASSISTENZA",
@@ -180,20 +180,6 @@
         "Contenuto":  "GRIGLIA A PIETRA LAVICA",
         "Citta":  "MARATEA",
         "Note":  "GRIGLIA A GAS A PIETRA LAVICA ZANUSSI: CONTROLLO BRUCIATORE, FIAMMA IRREEGOLARE"
-    },
-    {
-        "N. Attivita":  "7346",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "17/06/2026",
-        "Ora Inizio":  "1000",
-        "Ora Fine":  "1100",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C051074",
-        "Cliente":  "DE FILIPPO ROCCO",
-        "Contenuto":  "LAVASTOVIGLIE ZANUSSI TRIFASE",
-        "Citta":  "MARATEA",
-        "Note":  "LAVASTOVIGLIE ZANUSSI TRIFASE: SOSTITUIRE DOSATORE BRILLANTANTE"
     },
     {
         "N. Attivita":  "7345",
@@ -222,20 +208,6 @@
         "Contenuto":  "CUOCIPASTA",
         "Citta":  "MARATEA",
         "Note":  "CUOCIPASTA: FULIGGINE DAL CAMINO"
-    },
-    {
-        "N. Attivita":  "7342",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "23/06/2026",
-        "Ora Inizio":  "1600",
-        "Ora Fine":  "1800",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52768",
-        "Cliente":  "VE.RO SRLS",
-        "Contenuto":  "FORNO QUIBI",
-        "Citta":  "SAPRI",
-        "Note":  ""
     },
     {
         "N. Attivita":  "7339",
@@ -535,7 +507,7 @@
         "N. Attivita":  "7221",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "23/06/2026",
+        "Data":  "24/06/2026",
         "Ora Inizio":  "1200",
         "Ora Fine":  "1300",
         "Tipo":  "ASSISTENZA",
@@ -572,20 +544,6 @@
         "Contenuto":  "TRITACARNE",
         "Citta":  "LAURIA",
         "Note":  ""
-    },
-    {
-        "N. Attivita":  "7199",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/06/2026",
-        "Ora Inizio":  "1706",
-        "Ora Fine":  "1721",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C000522",
-        "Cliente":  "LA TANA GROUP SRL",
-        "Contenuto":  "MACCHINA DA CAFFE",
-        "Citta":  "MARATEA",
-        "Note":  "MACCHINA DA CAFFE: MANUTENZIONE ORDINARIA"
     },
     {
         "N. Attivita":  "7197",
@@ -717,7 +675,7 @@
         "N. Attivita":  "7167",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "23/06/2026",
+        "Data":  "24/06/2026",
         "Ora Inizio":  "1000",
         "Ora Fine":  "1100",
         "Tipo":  "ASSISTENZA",
