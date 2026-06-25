@@ -174,29 +174,5 @@
         "Fornitore":  "CB SRL",
         "Importo":  "579.740000",
         "Note":  "MACELLERIA LOSARDO CAVALLETTO SMONTABILE PER GIRARROSTI E12 PBasato su Ordini cliente 260170. Basato su Ordini d\u0027acquisto 260115."
-    },
-    {
-        "N. DDT":  "260104",
-        "Data":  "26/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Importo":  "1425.880000",
-        "Note":  "LA SORGENTE FRIGGITRICE MODULAR Basato su Ordini cliente 260138. Basato su Ordini d\u0027acquisto 260081."
-    },
-    {
-        "N. DDT":  "260099",
-        "Data":  "26/05/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Importo":  "732.000000",
-        "Note":  "MeM CAVALLETTO SUPPORTO  PER FORNO Basato su Ordini cliente 260141.  Basato su Ordini d\u0027acquisto 260091."
-    },
-    {
-        "N. DDT":  "260088",
-        "Data":  "26/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "538.590000",
-        "Note":  "IL MULINO LA PERLA DEL TIRRENO YELLOW BOAT RATIONAL + MAG Basato su Ordini d\u0027acquisto 260119."
     }
 ]
