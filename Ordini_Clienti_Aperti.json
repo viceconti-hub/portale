@@ -10,16 +10,6 @@
         "Note":  "FRIGGITRICE FERRO"
     },
     {
-        "N. Ordine":  "260239",
-        "Data":  "26/06/2026",
-        "Cod. Cliente":  "CO51863",
-        "Cliente":  "IL LUCANO SRLS",
-        "Data Consegna":  "26/06/2026",
-        "Importo":  "490.880000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260231",
         "Data":  "25/06/2026",
         "Cod. Cliente":  "C050901",
@@ -35,7 +25,7 @@
         "Cod. Cliente":  "CO52939",
         "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
         "Data Consegna":  "25/06/2026",
-        "Importo":  "3576.110000",
+        "Importo":  "2336.190000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
     },
