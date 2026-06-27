@@ -134,29 +134,5 @@
         "Fornitore":  "IDEAM INOX SRL",
         "Importo":  "5046.480000",
         "Note":  "MeM e  PASSIONE SUSHI Basato su Ordini d\u0027acquisto 260061. 260085."
-    },
-    {
-        "N. DDT":  "260111",
-        "Data":  "28/05/2026",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Importo":  "819.960000",
-        "Note":  "KIT DISPLAY PER NERA + MAG Basato su Ordini d\u0027acquisto 250210."
-    },
-    {
-        "N. DDT":  "260110",
-        "Data":  "28/05/2026",
-        "Cod. Fornitore":  "F0515832",
-        "Fornitore":  "HOSHIZAKI EUROPE B.V.",
-        "Importo":  "2629.590000",
-        "Note":  "CALA DEL CITRO Basato su Ordini cliente 250769. Basato su Ordini d\u0027acquisto 250447."
-    },
-    {
-        "N. DDT":  "260089",
-        "Data":  "28/05/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "143.730000",
-        "Note":  "YUMARA RICAMBI PER FORNO"
     }
 ]
