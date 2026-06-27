@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260150",
+        "Data":  "26/06/2026",
+        "Cod. Fornitore":  "F000027",
+        "Fornitore":  "DE LUCA SRL",
+        "Data Consegna":  "26/07/2026",
+        "Importo":  "0.000000",
+        "Note":  "Basato su Offerte di vendita 260237."
+    },
+    {
         "N. Ordine":  "260149",
         "Data":  "25/06/2026",
         "Cod. Fornitore":  "F000027",
