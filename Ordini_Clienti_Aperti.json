@@ -10,22 +10,22 @@
         "Note":  "FRIGGITRICE FERRO"
     },
     {
-        "N. Ordine":  "260236",
-        "Data":  "25/06/2026",
-        "Cod. Cliente":  "CO52939",
-        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
-        "Data Consegna":  "25/06/2026",
-        "Importo":  "2336.190000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260231",
         "Data":  "25/06/2026",
         "Cod. Cliente":  "C050901",
         "Cliente":  "PANAINO SRL UNIPERSONALE",
         "Data Consegna":  "25/06/2026",
         "Importo":  "236.070000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260236",
+        "Data":  "25/06/2026",
+        "Cod. Cliente":  "CO52939",
+        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
+        "Data Consegna":  "25/06/2026",
+        "Importo":  "2336.190000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
     },
@@ -100,16 +100,6 @@
         "Note":  "ASCIUGA LUCIDA POSATE TAMAI STAR EVO MANUALE Basato su Offerte di vendita 260202."
     },
     {
-        "N. Ordine":  "260199",
-        "Data":  "09/06/2026",
-        "Cod. Cliente":  "CO52939",
-        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "5405.380000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE LAVAGGIO Basato su Offerte di vendita 260200."
-    },
-    {
         "N. Ordine":  "260196",
         "Data":  "09/06/2026",
         "Cod. Cliente":  "CO52957",
@@ -118,6 +108,16 @@
         "Importo":  "15.250000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CONICA CARAFFA LT.1 MORINI"
+    },
+    {
+        "N. Ordine":  "260199",
+        "Data":  "09/06/2026",
+        "Cod. Cliente":  "CO52939",
+        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "5405.380000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ATTREZZATURE LAVAGGIO Basato su Offerte di vendita 260200."
     },
     {
         "N. Ordine":  "260192",
@@ -150,16 +150,6 @@
         "Note":  "VETRINA RISCALDATA 2 PIANI FORCAR"
     },
     {
-        "N. Ordine":  "260183",
-        "Data":  "03/06/2026",
-        "Cod. Cliente":  "C001290",
-        "Cliente":  "AGRITURISMO L\u0027AIA DEI CAPPELLANI di RICCARDI VINCENZO",
-        "Data Consegna":  "03/06/2026",
-        "Importo":  "109.800000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "APRISCATOLE"
-    },
-    {
         "N. Ordine":  "260182",
         "Data":  "03/06/2026",
         "Cod. Cliente":  "C001614",
@@ -168,6 +158,16 @@
         "Importo":  "611.870000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Basato su Offerte di vendita 260188."
+    },
+    {
+        "N. Ordine":  "260183",
+        "Data":  "03/06/2026",
+        "Cod. Cliente":  "C001290",
+        "Cliente":  "AGRITURISMO L\u0027AIA DEI CAPPELLANI di RICCARDI VINCENZO",
+        "Data Consegna":  "03/06/2026",
+        "Importo":  "109.800000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "APRISCATOLE"
     },
     {
         "N. Ordine":  "260173",
@@ -310,16 +310,6 @@
         "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
     },
     {
-        "N. Ordine":  "260080",
-        "Data":  "23/03/2026",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Data Consegna":  "20/03/2026",
-        "Importo":  "17058.750000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260075",
         "Data":  "23/03/2026",
         "Cod. Cliente":  "C000022",
@@ -328,6 +318,16 @@
         "Importo":  "1314.090000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE RESIDUO VASSOI MEDINA MORINI"
+    },
+    {
+        "N. Ordine":  "260080",
+        "Data":  "23/03/2026",
+        "Cod. Cliente":  "C001223",
+        "Cliente":  "NERA SRL",
+        "Data Consegna":  "20/03/2026",
+        "Importo":  "17058.750000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260067",
@@ -440,16 +440,6 @@
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
     },
     {
-        "N. Ordine":  "250829",
-        "Data":  "27/10/2025",
-        "Cod. Cliente":  "CO52363",
-        "Cliente":  "LUTIPICO SRLS",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "15860.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "250827",
         "Data":  "27/10/2025",
         "Cod. Cliente":  "CO52363",
@@ -458,6 +448,16 @@
         "Importo":  "0.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SOLO PER CONSEGNA Basato su Offerte di vendita 250582. 250844."
+    },
+    {
+        "N. Ordine":  "250829",
+        "Data":  "27/10/2025",
+        "Cod. Cliente":  "CO52363",
+        "Cliente":  "LUTIPICO SRLS",
+        "Data Consegna":  "27/10/2025",
+        "Importo":  "15860.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "250769",
