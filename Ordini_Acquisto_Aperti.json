@@ -1,12 +1,12 @@
 [
     {
-        "N. Ordine":  "260149",
-        "Data":  "25/06/2026",
-        "Cod. Fornitore":  "F000027",
-        "Fornitore":  "DE LUCA SRL",
-        "Data Consegna":  "25/06/2026",
-        "Importo":  "1222.770000",
-        "Note":  "Basato su Ordini cliente 260236."
+        "N. Ordine":  "260151",
+        "Data":  "29/06/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "29/06/2026",
+        "Importo":  "231.800000",
+        "Note":  "RIASTORANTE SANTA LUCIA GRIGLI GHISA PER GRIGLIA A PIETRA LAVICA Basato su Ordini cliente 260244."
     },
     {
         "N. Ordine":  "260142",
@@ -19,10 +19,10 @@
     },
     {
         "N. Ordine":  "260141",
-        "Data":  "18/06/2026",
+        "Data":  "19/06/2026",
         "Cod. Fornitore":  "F001548",
         "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "17/06/2026",
+        "Data Consegna":  "30/06/2026",
         "Importo":  "561.200000",
         "Note":  "AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217."
     },
