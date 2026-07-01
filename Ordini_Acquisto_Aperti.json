@@ -9,15 +9,6 @@
         "Note":  "RIASTORANTE SANTA LUCIA GRIGLI GHISA PER GRIGLIA A PIETRA LAVICA Basato su Ordini cliente 260244."
     },
     {
-        "N. Ordine":  "260142",
-        "Data":  "22/06/2026",
-        "Cod. Fornitore":  "F000866",
-        "Fornitore":  "PIAZZA EFFEPI srl",
-        "Data Consegna":  "22/06/2026",
-        "Importo":  "294.280000",
-        "Note":  "FA TU Basato su Ordini cliente 260226."
-    },
-    {
         "N. Ordine":  "260141",
         "Data":  "19/06/2026",
         "Cod. Fornitore":  "F001548",
@@ -27,21 +18,21 @@
         "Note":  "AZIENDA AGRIGOLA PECORELLI Basato su Ordini cliente 260217."
     },
     {
-        "N. Ordine":  "260145",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "876.070000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260148",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "164.540000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260145",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "876.070000",
         "Note":  ""
     },
     {
@@ -90,24 +81,6 @@
         "Note":  "AI CARCONI Basato su Ordini cliente 260200."
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "128.390000",
-        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
@@ -124,6 +97,24 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "142.920000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
+    },
+    {
+        "N. Ordine":  "260078",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "128.390000",
+        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
@@ -239,7 +230,7 @@
         "Cod. Fornitore":  "F001530",
         "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4018.680000",
+        "Importo":  "2009.340000",
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
