@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7415",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "02/07/2026",
+        "Ora Inizio":  "800",
+        "Ora Fine":  "800",
+        "Tipo":  "CONSEGNA",
+        "Cod. Cliente":  "C001261",
+        "Cliente":  "CARNI LIMONGI SRL",
+        "Contenuto":  "PELLICOLA",
+        "Citta":  "LAURIA",
+        "Note":  ""
+    },
+    {
         "N. Attivita":  "7414",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -619,7 +633,7 @@
         "N. Attivita":  "7239",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "05/07/2026",
+        "Data":  "01/09/2026",
         "Ora Inizio":  "2000",
         "Ora Fine":  "2100",
         "Tipo":  "ASSISTENZA",
@@ -1011,7 +1025,7 @@
         "N. Attivita":  "6935",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "19/06/2025",
+        "Data":  "01/09/2025",
         "Ora Inizio":  "1632",
         "Ora Fine":  "1647",
         "Tipo":  "ASSISTENZA",
@@ -1020,20 +1034,6 @@
         "Contenuto":  "BILICO",
         "Citta":  "LAURIA",
         "Note":  "BILICO"
-    },
-    {
-        "N. Attivita":  "6927",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "11/06/2025",
-        "Ora Inizio":  "1624",
-        "Ora Fine":  "1639",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001261",
-        "Cliente":  "CARNI LIMONGI SRL",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "LAURIA",
-        "Note":  "AFFETTATRICE MARWEL MAXI 390"
     },
     {
         "N. Attivita":  "6902",
