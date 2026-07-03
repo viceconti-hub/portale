@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260152",
+        "Data":  "02/07/2026",
+        "Cod. Fornitore":  "F000027",
+        "Fornitore":  "DE LUCA SRL",
+        "Data Consegna":  "02/07/2026",
+        "Importo":  "6075.340000",
+        "Note":  "IMPASTATRICE SOTTOVUOTO E PORDUTTORE DI GHIACCIO PER MeM"
+    },
+    {
         "N. Ordine":  "260151",
         "Data":  "29/06/2026",
         "Cod. Fornitore":  "F051522",
@@ -72,24 +81,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260131",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F051353",
-        "Fornitore":  "TAMAI S.R.L.",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "2346.980000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260200."
-    },
-    {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
@@ -106,6 +97,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "142.920000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260078",
