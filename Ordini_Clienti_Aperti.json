@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260249",
-        "Data":  "03/07/2026",
-        "Cod. Cliente":  "CO52768",
-        "Cliente":  "VE.RO SRLS",
-        "Data Consegna":  "03/07/2026",
-        "Importo":  "393.620000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VENTILATORE DIRETTAMENTE ACCOPPIATO ALTA EFFICIENZA, AKP9/RM 1999RPM 1,05KW MONOFASE USATO"
-    },
-    {
         "N. Ordine":  "260248",
         "Data":  "02/07/2026",
         "Cod. Cliente":  "C001261",
@@ -60,16 +50,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260236",
-        "Data":  "25/06/2026",
-        "Cod. Cliente":  "CO52939",
-        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
-        "Data Consegna":  "25/06/2026",
-        "Importo":  "2336.190000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260224",
         "Data":  "22/06/2026",
         "Cod. Cliente":  "C051047",
@@ -87,7 +67,7 @@
         "Data Consegna":  "17/06/2026",
         "Importo":  "286.720000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "BICCHIERE ACQUA PLANEO"
     },
     {
         "N. Ordine":  "260217",
@@ -120,16 +100,6 @@
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
-        "N. Ordine":  "260196",
-        "Data":  "09/06/2026",
-        "Cod. Cliente":  "CO52957",
-        "Cliente":  "GIOEL MARCON",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "15.250000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CONICA CARAFFA LT.1 MORINI"
-    },
-    {
         "N. Ordine":  "260199",
         "Data":  "09/06/2026",
         "Cod. Cliente":  "CO52939",
@@ -160,16 +130,6 @@
         "Note":  "DETERGENTE LAVASTOVIGLIE"
     },
     {
-        "N. Ordine":  "260185",
-        "Data":  "04/06/2026",
-        "Cod. Cliente":  "C000441",
-        "Cliente":  "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
-        "Data Consegna":  "04/06/2026",
-        "Importo":  "573.400000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VETRINA RISCALDATA 2 PIANI FORCAR"
-    },
-    {
         "N. Ordine":  "260182",
         "Data":  "03/06/2026",
         "Cod. Cliente":  "C001614",
@@ -180,16 +140,6 @@
         "Note":  "Basato su Offerte di vendita 260188."
     },
     {
-        "N. Ordine":  "260183",
-        "Data":  "03/06/2026",
-        "Cod. Cliente":  "C001290",
-        "Cliente":  "AGRITURISMO L\u0027AIA DEI CAPPELLANI di RICCARDI VINCENZO",
-        "Data Consegna":  "03/06/2026",
-        "Importo":  "109.800000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "APRISCATOLE"
-    },
-    {
         "N. Ordine":  "260173",
         "Data":  "27/05/2026",
         "Cod. Cliente":  "CO52954",
@@ -198,16 +148,6 @@
         "Importo":  "999.180000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAVELLO A GIORNO 2 VASCHE (60x50x30hCM) IN ACCIAIO INOX, 140x70x85h CM"
-    },
-    {
-        "N. Ordine":  "260159",
-        "Data":  "21/05/2026",
-        "Cod. Cliente":  "C000441",
-        "Cliente":  "AZIENDA AGRICOLA LA CAPPELLINA DI ROSA FORASTIERO",
-        "Data Consegna":  "31/05/2026",
-        "Importo":  "4544.260000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "VETRINA MIX CON VETRI EXTRACHIARI SNACK FREDDO VENTILATO MOD.MIX VBD Basato su Offerte di vendita 260143."
     },
     {
         "N. Ordine":  "260163",
@@ -307,7 +247,7 @@
         "Data Consegna":  "20/03/2026",
         "Importo":  "17058.750000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "ATTREZZATURE PROFESSIONALI Riferimento Bozza Progetto"
     },
     {
         "N. Ordine":  "260067",
@@ -328,16 +268,6 @@
         "Importo":  "175.680000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TENTAZIONI CALICE ORANGE MORINI"
-    },
-    {
-        "N. Ordine":  "260025",
-        "Data":  "29/01/2026",
-        "Cod. Cliente":  "CO51863",
-        "Cliente":  "IL LUCANO SRLS",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "2393.030000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ARMADIO FRIGO SMART A120/2ME Basato su Offerte di vendita 250898."
     },
     {
         "N. Ordine":  "260004",
@@ -488,15 +418,5 @@
         "Importo":  "6876.010000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ABBATTITORE VISION Basato su Offerte di vendita 241027."
-    },
-    {
-        "N. Ordine":  "240438",
-        "Data":  "23/05/2024",
-        "Cod. Cliente":  "CO52436",
-        "Cliente":  "H2O SRL",
-        "Data Consegna":  "23/05/2024",
-        "Importo":  "2601.650000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MURALE RIF.NATURA MIA"
     }
 ]
