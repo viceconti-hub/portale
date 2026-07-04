@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260251",
+        "Data":  "04/07/2026",
+        "Cod. Cliente":  "CO52766",
+        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
+        "Data Consegna":  "10/07/2026",
+        "Importo":  "3480.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Basato su Offerte di vendita 260247. 260248."
+    },
+    {
         "N. Ordine":  "260242",
         "Data":  "29/06/2026",
         "Cod. Cliente":  "C001400",
@@ -318,6 +328,16 @@
         "Importo":  "42358.400000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
+    },
+    {
+        "N. Ordine":  "250833",
+        "Data":  "28/10/2025",
+        "Cod. Cliente":  "CO52766",
+        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
+        "Data Consegna":  "28/10/2025",
+        "Importo":  "0.000000",
+        "Agente":  "PIANIFICAZIONE",
+        "Note":  "SEDIE E TAVOLI SOLO PER CONSEGNA"
     },
     {
         "N. Ordine":  "250827",
