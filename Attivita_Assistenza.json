@@ -1,23 +1,9 @@
 [
     {
-        "N. Attivita":  "7418",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "02/07/2026",
-        "Ora Inizio":  "930",
-        "Ora Fine":  "945",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C050811",
-        "Cliente":  "ESCOPOCO S.R.L.",
-        "Contenuto":  "FORNO QUBI",
-        "Citta":  "PRAIA A MARE",
-        "Note":  "PERDE ACQUA DURANTE IL LAVAGGIO"
-    },
-    {
         "N. Attivita":  "7417",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "02/07/2026",
+        "Data":  "04/07/2026",
         "Ora Inizio":  "1200",
         "Ora Fine":  "1300",
         "Tipo":  "ASSISTENZA",
@@ -224,20 +210,6 @@
         "Note":  "GRANITORE E SPREMIAGRUMI SOSTITUZIONE MANOPOLA"
     },
     {
-        "N. Attivita":  "7375",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "02/07/2026",
-        "Ora Inizio":  "900",
-        "Ora Fine":  "915",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Contenuto":  "FORNO RATIONAL",
-        "Citta":  "SANTA MARIA DEL CEDRO",
-        "Note":  "PULIZIA INTERROTTA"
-    },
-    {
         "N. Attivita":  "7362",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -255,7 +227,7 @@
         "N. Attivita":  "7348",
         "Priorita":  "2",
         "Utente":  "BIAGIO RIZZO",
-        "Data":  "02/07/2026",
+        "Data":  "04/07/2026",
         "Ora Inizio":  "1400",
         "Ora Fine":  "1500",
         "Tipo":  "ASSISTENZA",
