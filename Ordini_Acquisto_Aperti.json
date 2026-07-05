@@ -9,21 +9,21 @@
         "Note":  "RIASTORANTE SANTA LUCIA GRIGLI GHISA PER GRIGLIA A PIETRA LAVICA Basato su Ordini cliente 260244."
     },
     {
-        "N. Ordine":  "260145",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "876.070000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260148",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "164.540000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260145",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "876.070000",
         "Note":  ""
     },
     {
@@ -81,15 +81,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260078",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
@@ -97,6 +88,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -144,6 +144,15 @@
         "Note":  "ILAMA TAVOLI INOX PROF. 40Basato su Ordini cliente 260155."
     },
     {
+        "N. Ordine":  "260087",
+        "Data":  "18/05/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/05/2026",
+        "Importo":  "767.380000",
+        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
+    },
+    {
         "N. Ordine":  "260102",
         "Data":  "18/05/2026",
         "Cod. Fornitore":  "F001573",
@@ -160,15 +169,6 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "185.640000",
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
-    },
-    {
-        "N. Ordine":  "260087",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "767.380000",
-        "Note":  "Basato su Ordini cliente 260118.PASSION SUSHI"
     },
     {
         "N. Ordine":  "260044",
@@ -286,15 +286,6 @@
         "Data Consegna":  "20/05/2025",
         "Importo":  "380.320000",
         "Note":  "RICAMBI DA COMPLETARE (MY ATA OK)"
-    },
-    {
-        "N. Ordine":  "250054",
-        "Data":  "24/02/2025",
-        "Cod. Fornitore":  "F000018",
-        "Fornitore":  "BERTO\u0027S SPA",
-        "Data Consegna":  "24/02/2025",
-        "Importo":  "35.380000",
-        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250015",
