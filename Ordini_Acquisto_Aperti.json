@@ -9,6 +9,15 @@
         "Note":  "TRATTORIA TICCIABACA Basato su Ordini cliente 260224."
     },
     {
+        "N. Ordine":  "260156",
+        "Data":  "06/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "06/07/2026",
+        "Importo":  "558.990000",
+        "Note":  "DOCCIA PRELAVAGGIO E MISCELATORI PER MeM + DOSATORI MAG Basato su Ordini cliente 260255."
+    },
+    {
         "N. Ordine":  "260151",
         "Data":  "29/06/2026",
         "Cod. Fornitore":  "F051522",
