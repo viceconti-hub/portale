@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260256",
+        "Data":  "07/07/2026",
+        "Cod. Cliente":  "CO52190",
+        "Cliente":  "CORRADO MICHELA BINARIO 1",
+        "Data Consegna":  "07/07/2026",
+        "Importo":  "420.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Coppia guide tipo L 605 mm per griglie EN60x40 Basato su Offerte di vendita 260245."
+    },
+    {
+        "N. Ordine":  "260257",
+        "Data":  "07/07/2026",
+        "Cod. Cliente":  "CO52832",
+        "Cliente":  "FLAVIA DE MARCO",
+        "Data Consegna":  "17/07/2026",
+        "Importo":  "2570.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ARMADIO CONGELATORE COLDLINE SMART A70/1BE"
+    },
+    {
         "N. Ordine":  "260255",
         "Data":  "06/07/2026",
         "Cod. Cliente":  "CO52615",
@@ -37,7 +57,7 @@
         "Data Consegna":  "10/07/2026",
         "Importo":  "3480.780000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260247. 260248."
+        "Note":  "TAVOLO REFRIGERATO Basato su Offerte di vendita 260247. 260248."
     },
     {
         "N. Ordine":  "260242",
@@ -47,7 +67,7 @@
         "Data Consegna":  "29/06/2026",
         "Importo":  "900.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "FRIGO BIBITE STATICO"
     },
     {
         "N. Ordine":  "260244",
@@ -77,7 +97,7 @@
         "Data Consegna":  "25/06/2026",
         "Importo":  "236.070000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "SECCHIELLO RESIDUO MORINI"
     },
     {
         "N. Ordine":  "260224",
@@ -98,16 +118,6 @@
         "Importo":  "286.720000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "BICCHIERE ACQUA PLANEO"
-    },
-    {
-        "N. Ordine":  "260217",
-        "Data":  "17/06/2026",
-        "Cod. Cliente":  "CO52964",
-        "Cliente":  "AZIENDA AGRICOLA PECORELLI FRANCESCO",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "400.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MACCHINA SOTTOVUOTO UNIVAC SMALL"
     },
     {
         "N. Ordine":  "260206",
