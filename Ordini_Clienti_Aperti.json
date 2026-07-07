@@ -177,7 +177,7 @@
         "Data Consegna":  "03/06/2026",
         "Importo":  "611.870000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260188."
+        "Note":  "RICAMBI ATA Basato su Offerte di vendita 260188."
     },
     {
         "N. Ordine":  "260173",
@@ -248,16 +248,6 @@
         "Importo":  "170.800000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
-    },
-    {
-        "N. Ordine":  "260075",
-        "Data":  "23/03/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "23/03/2026",
-        "Importo":  "1314.090000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE RESIDUO VASSOI MEDINA MORINI"
     },
     {
         "N. Ordine":  "260080",
