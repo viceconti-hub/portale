@@ -36,6 +36,15 @@
         "Note":  "FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257."
     },
     {
+        "N. Ordine":  "260159",
+        "Data":  "30/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "30/06/2026",
+        "Importo":  "290.650000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260151",
         "Data":  "29/06/2026",
         "Cod. Fornitore":  "F051522",
