@@ -27,6 +27,15 @@
         "Note":  "DETERGENTE"
     },
     {
+        "N. Ordine":  "260164",
+        "Data":  "08/07/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
+    },
+    {
         "N. Ordine":  "260157",
         "Data":  "07/07/2026",
         "Cod. Fornitore":  "F000894",
