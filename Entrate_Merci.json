@@ -1,11 +1,27 @@
 [
     {
+        "N. DDT":  "260139",
+        "Data":  "03/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "889.500000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260163."
+    },
+    {
         "N. DDT":  "260135",
         "Data":  "30/06/2026",
         "Cod. Fornitore":  "F001548",
         "Fornitore":  "UNIVAC GROUP SRL",
         "Importo":  "282.550000",
         "Note":  "AZIENDA AGRIGOLA PECORELLI MATRICOLA 0485040626  Basato su Ordini cliente 260217. Basato su Ordini d\u0027acquisto 260141."
+    },
+    {
+        "N. DDT":  "260138",
+        "Data":  "29/06/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "132.980000",
+        "Note":  "RIASTORANTE SANTA LUCIA GRIGLI GHISA PER GRIGLIA A PIETRA LAVICA Basato su Ordini cliente 260244. Basato su Ordini d\u0027acquisto 260151."
     },
     {
         "N. DDT":  "260134",
