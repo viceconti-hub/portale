@@ -158,21 +158,5 @@
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "507.830000",
         "Note":  "SANTOS BACKBAR INTEGRAZIONE Basato su Ordini d\u0027acquisto 260127."
-    },
-    {
-        "N. DDT":  "260124",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001512",
-        "Fornitore":  "FE.MA. SRL",
-        "Importo":  "82.400000",
-        "Note":  "Relè allo Stato Solido Basato su Offerte di vendita 260216. Basato su Ordini d\u0027acquisto 260137."
-    },
-    {
-        "N. DDT":  "260117",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F051184",
-        "Fornitore":  "LOTUS spa",
-        "Importo":  "3031.700000",
-        "Note":  "LIDO VALENTINA Basato su Ordini cliente 260175. TITOLO MPS 31/07/2026 Basato su Ordini d\u0027acquisto 260120."
     }
 ]
