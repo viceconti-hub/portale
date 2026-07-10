@@ -10,6 +10,16 @@
         "Note":  "DETERGENTE RATIONAL"
     },
     {
+        "N. Ordine":  "260265",
+        "Data":  "10/07/2026",
+        "Cod. Cliente":  "C001201",
+        "Cliente":  "LANTERNA VERDE di RUGGIERO SALVATORE",
+        "Data Consegna":  "10/07/2026",
+        "Importo":  "105.410000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE RATIONAL"
+    },
+    {
         "N. Ordine":  "260258",
         "Data":  "08/07/2026",
         "Cod. Cliente":  "C051468",
@@ -268,16 +278,6 @@
         "Importo":  "56.510000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260085",
-        "Data":  "27/03/2026",
-        "Cod. Cliente":  "C001686",
-        "Cliente":  "GRISOLIA DOMENICO",
-        "Data Consegna":  "27/03/2026",
-        "Importo":  "170.800000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPERCHI ALLUMINIO MORINI Basato su Offerte di vendita 260071."
     },
     {
         "N. Ordine":  "260080",
