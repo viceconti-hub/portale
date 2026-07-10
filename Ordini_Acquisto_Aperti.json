@@ -1,5 +1,32 @@
 [
     {
+        "N. Ordine":  "260165",
+        "Data":  "10/07/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "884.500000",
+        "Note":  "ACAL TOP3+TOP6 Basato su Ordini cliente 260259."
+    },
+    {
+        "N. Ordine":  "260166",
+        "Data":  "10/07/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "10/08/2026",
+        "Importo":  "935.500000",
+        "Note":  "Basato su Offerte di vendita 260259."
+    },
+    {
+        "N. Ordine":  "260164",
+        "Data":  "08/07/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
+    },
+    {
         "N. Ordine":  "260160",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
@@ -25,15 +52,6 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "502.150000",
         "Note":  "DETERGENTE"
-    },
-    {
-        "N. Ordine":  "260164",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260157",
