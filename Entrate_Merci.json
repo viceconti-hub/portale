@@ -118,45 +118,5 @@
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "2372.960000",
         "Note":  "PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260084."
-    },
-    {
-        "N. DDT":  "260137",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Importo":  "2978.260000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260087. 260102."
-    },
-    {
-        "N. DDT":  "260127",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F001613",
-        "Fornitore":  "BELLADONNA SRL",
-        "Importo":  "1046.760000",
-        "Note":  "MACELLERIA DE DIEGO TAVOLO ISPICA 80X80 Basato su Ordini d\u0027acquisto 260138."
-    },
-    {
-        "N. DDT":  "260125",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F051414",
-        "Fornitore":  "ZINCO GROUP SRL",
-        "Importo":  "889.420000",
-        "Note":  "PASSION SUSHI TUBAZIONE Basato su Ordini d\u0027acquisto 260130. 260132."
-    },
-    {
-        "N. DDT":  "260121",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "5123.790000",
-        "Note":  "PASSION SUSHI Basato su Ordini cliente 260118. Basato su Ordini d\u0027acquisto 260086."
-    },
-    {
-        "N. DDT":  "260120",
-        "Data":  "10/06/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "507.830000",
-        "Note":  "SANTOS BACKBAR INTEGRAZIONE Basato su Ordini d\u0027acquisto 260127."
     }
 ]
