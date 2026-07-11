@@ -70,6 +70,20 @@
         "Note":  "SPORTELLO NON APRE BENE"
     },
     {
+        "N. Attivita":  "7429",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "11/07/2026",
+        "Ora Inizio":  "900",
+        "Ora Fine":  "1000",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52548",
+        "Cliente":  "DIVINO ENOTECA DI PANTSULAYA SHORENA",
+        "Contenuto":  "AFFETTATRICE",
+        "Citta":  "MARATEA",
+        "Note":  "CARRELLO NON SCORRE"
+    },
+    {
         "N. Attivita":  "7427",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -101,7 +115,7 @@
         "N. Attivita":  "7425",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "09/07/2026",
+        "Data":  "11/07/2026",
         "Ora Inizio":  "1256",
         "Ora Fine":  "1311",
         "Tipo":  "ASSISTENZA",
