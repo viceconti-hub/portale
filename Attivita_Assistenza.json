@@ -45,7 +45,7 @@
         "N. Attivita":  "7434",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "11/07/2026",
+        "Data":  "13/07/2026",
         "Ora Inizio":  "1800",
         "Ora Fine":  "1900",
         "Tipo":  "CONSEGNA",
@@ -59,7 +59,7 @@
         "N. Attivita":  "7433",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "11/07/2026",
+        "Data":  "13/07/2026",
         "Ora Inizio":  "1700",
         "Ora Fine":  "1800",
         "Tipo":  "ASSISTENZA",
@@ -154,20 +154,6 @@
         "Note":  ""
     },
     {
-        "N. Attivita":  "7424",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "09/07/2026",
-        "Ora Inizio":  "1254",
-        "Ora Fine":  "1309",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Contenuto":  "FRYTOP",
-        "Citta":  "MARATEA",
-        "Note":  ""
-    },
-    {
         "N. Attivita":  "7423",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -196,20 +182,6 @@
         "Note":  "A VOLTE NON CARICA"
     },
     {
-        "N. Attivita":  "7421",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "06/07/2026",
-        "Ora Inizio":  "928",
-        "Ora Fine":  "943",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52790",
-        "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
-        "Contenuto":  "MACCHINA SOTTOVUOTO E FRIGGITRICE",
-        "Citta":  "TORTORA LIDO",
-        "Note":  ""
-    },
-    {
         "N. Attivita":  "7420",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -222,20 +194,6 @@
         "Contenuto":  "FRYTOP BERTO\u0027S",
         "Citta":  "NEMOLI",
         "Note":  "ORDINARE MANOPOLA E REVISIONARE GRUPPO PILOTA"
-    },
-    {
-        "N. Attivita":  "7419",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "04/07/2026",
-        "Ora Inizio":  "923",
-        "Ora Fine":  "938",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52407",
-        "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
-        "Contenuto":  "CUOCIPASTA E LAVABICCHIERI",
-        "Citta":  "SAN NICOLA ARCELLA",
-        "Note":  "CUOCIPASTA NON PARTE\r\rLAVABICCHIERI: REVISIONE DOSATORI"
     },
     {
         "N. Attivita":  "7416",
@@ -269,7 +227,7 @@
         "N. Attivita":  "7412",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "04/07/2026",
+        "Data":  "14/07/2026",
         "Ora Inizio":  "815",
         "Ora Fine":  "830",
         "Tipo":  "ASSISTENZA",
@@ -406,20 +364,6 @@
         "Note":  "LAVASTOVIGLIE A CAPPOTTA\r\rCAPPA: VERIFICA SOSTITUZIONE MOTORE"
     },
     {
-        "N. Attivita":  "7348",
-        "Priorita":  "2",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "08/07/2026",
-        "Ora Inizio":  "1400",
-        "Ora Fine":  "1500",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO51931",
-        "Cliente":  "DIPA di PACCHIANO LUCA \u0026 C. sas",
-        "Contenuto":  "GRIGLIA A PIETRA LAVICA",
-        "Citta":  "MARATEA",
-        "Note":  "GRIGLIA A GAS A PIETRA LAVICA ZANUSSI: CONTROLLO BRUCIATORE, FIAMMA IRREEGOLARE"
-    },
-    {
         "N. Attivita":  "7345",
         "Priorita":  "2",
         "Utente":  "Gianni",
@@ -521,7 +465,7 @@
         "N. Attivita":  "7299",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "06/07/2026",
+        "Data":  "14/07/2026",
         "Ora Inizio":  "1700",
         "Ora Fine":  "1800",
         "Tipo":  "ASSISTENZA",
@@ -826,20 +770,6 @@
         "Note":  "BILANCIA: SOLITO PROBLEMA, NON CARICAR. PORTARE BILANCIA IN SOSTITUZIONE"
     },
     {
-        "N. Attivita":  "7145",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "13/07/2026",
-        "Ora Inizio":  "1600",
-        "Ora Fine":  "1700",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52790",
-        "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
-        "Contenuto":  "RATIONAL",
-        "Citta":  "TORTORA LIDO",
-        "Note":  "RATIONAL: CONTROLLO GENERALE + GUARNIZIONE + LED \r\r+ RUBINETTO DI SCOLO GRASSI PER CAPPA"
-    },
-    {
         "N. Attivita":  "7140",
         "Priorita":  "2",
         "Utente":  "Gianni",
@@ -852,20 +782,6 @@
         "Contenuto":  "GRATTUGIA",
         "Citta":  "",
         "Note":  "GRATTUGIA"
-    },
-    {
-        "N. Attivita":  "7110",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "06/07/2026",
-        "Ora Inizio":  "919",
-        "Ora Fine":  "934",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C000981",
-        "Cliente":  "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S.",
-        "Contenuto":  "LAVASTOVIGLIE",
-        "Citta":  "LAURIA",
-        "Note":  "LAVASTOVIGLIE: PERDE ACQUA"
     },
     {
         "N. Attivita":  "7077",
