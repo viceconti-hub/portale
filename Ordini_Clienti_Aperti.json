@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260273",
+        "Data":  "15/07/2026",
+        "Cod. Cliente":  "CO52407",
+        "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
+        "Data Consegna":  "15/07/2026",
+        "Importo":  "610.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "OFFERTA SPECIALE VETRINA VETRINA REFRIGERATA PER INGREDIENTI PIZZA DA CM 150X39,5X43,5. Basato su Offerte di vendita 260265."
+    },
+    {
+        "N. Ordine":  "260274",
+        "Data":  "15/07/2026",
+        "Cod. Cliente":  "CO52407",
+        "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
+        "Data Consegna":  "15/07/2026",
+        "Importo":  "36.050000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BACINELLE INOX E POLIPROPILENE"
+    },
+    {
         "N. Ordine":  "260269",
         "Data":  "13/07/2026",
         "Cod. Cliente":  "C050882",
