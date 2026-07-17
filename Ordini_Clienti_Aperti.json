@@ -30,12 +30,22 @@
         "Note":  "DETERGENTE LAVABICCHIERI DET 6 1"
     },
     {
+        "N. Ordine":  "260282",
+        "Data":  "17/07/2026",
+        "Cod. Cliente":  "C051638",
+        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
+        "Data Consegna":  "17/07/2026",
+        "Importo":  "62.260000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CONTENITORI POLIPROPILENE GN 1/4 H 15 QTA \u00277 + COPERCHI"
+    },
+    {
         "N. Ordine":  "260274",
         "Data":  "15/07/2026",
         "Cod. Cliente":  "CO52407",
         "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
         "Data Consegna":  "15/07/2026",
-        "Importo":  "268.740000",
+        "Importo":  "269.740000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "BACINELLE INOX E POLIPROPILENE"
     },
