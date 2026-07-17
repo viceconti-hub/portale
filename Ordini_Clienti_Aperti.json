@@ -10,12 +10,32 @@
         "Note":  "DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5"
     },
     {
+        "N. Ordine":  "260280",
+        "Data":  "17/07/2026",
+        "Cod. Cliente":  "C051095",
+        "Cliente":  "IL RUSCELLO SNC DEI FRATELLI NAVARRA",
+        "Data Consegna":  "17/07/2026",
+        "Importo":  "97.210000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260281",
+        "Data":  "17/07/2026",
+        "Cod. Cliente":  "C001350",
+        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
+        "Data Consegna":  "17/07/2026",
+        "Importo":  "24.400000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE LAVABICCHIERI DET 6 1"
+    },
+    {
         "N. Ordine":  "260274",
         "Data":  "15/07/2026",
         "Cod. Cliente":  "CO52407",
         "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
         "Data Consegna":  "15/07/2026",
-        "Importo":  "36.050000",
+        "Importo":  "277.500000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "BACINELLE INOX E POLIPROPILENE"
     },
