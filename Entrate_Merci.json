@@ -1,5 +1,21 @@
 [
     {
+        "N. DDT":  "260141",
+        "Data":  "16/07/2026",
+        "Cod. Fornitore":  "F000220",
+        "Fornitore":  "ECOSAN SRL",
+        "Importo":  "624.030000",
+        "Note":  "ORDINE RAPIDO Basato su Ordini d\u0027acquisto 260167."
+    },
+    {
+        "N. DDT":  "260142",
+        "Data":  "10/07/2026",
+        "Cod. Fornitore":  "F051452",
+        "Fornitore":  "BRUZIA SYSTEM SRL",
+        "Importo":  "91.500000",
+        "Note":  ""
+    },
+    {
         "N. DDT":  "260140",
         "Data":  "06/07/2026",
         "Cod. Fornitore":  "F000102",
