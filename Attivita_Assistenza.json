@@ -1,19 +1,5 @@
 [
     {
-        "N. Attivita":  "7456",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "18/07/2026",
-        "Ora Inizio":  "1057",
-        "Ora Fine":  "1112",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Contenuto":  "DETERGENTE LAVASTOVIGLIE DET 12 QTA\u00274  Basato su Ordini cliente 260186.",
-        "Citta":  "MARATEA",
-        "Note":  ""
-    },
-    {
         "N. Attivita":  "7455",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -42,20 +28,6 @@
         "Note":  ""
     },
     {
-        "N. Attivita":  "7453",
-        "Priorita":  "2",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "18/07/2026",
-        "Ora Inizio":  "1000",
-        "Ora Fine":  "1100",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Contenuto":  "LAVABICCHIERI COMENDA",
-        "Citta":  "LAURIA",
-        "Note":  "NON LAVA BENE"
-    },
-    {
         "N. Attivita":  "7452",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -70,24 +42,10 @@
         "Note":  ""
     },
     {
-        "N. Attivita":  "7451",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "18/07/2026",
-        "Ora Inizio":  "949",
-        "Ora Fine":  "1004",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "CO52383",
-        "Cliente":  "IL MULINO SAS di MARIO BARBIERO",
-        "Contenuto":  "DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5",
-        "Citta":  "",
-        "Note":  ""
-    },
-    {
         "N. Attivita":  "7450",
         "Priorita":  "1",
         "Utente":  "Gianni",
-        "Data":  "18/07/2026",
+        "Data":  "20/07/2026",
         "Ora Inizio":  "1200",
         "Ora Fine":  "1215",
         "Tipo":  "CONSEGNA",
@@ -95,20 +53,6 @@
         "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
         "Contenuto":  "CONTENITORI POLIPROPILENE GN 1/4 H 15 QTA \u00277 + COPERCHI",
         "Citta":  "PRIAIA A MARE",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7449",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "18/07/2026",
-        "Ora Inizio":  "946",
-        "Ora Fine":  "1001",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Contenuto":  "DETERGENTE LAVABICCHIERI DET 6 1",
-        "Citta":  "LAURIA",
         "Note":  ""
     },
     {
