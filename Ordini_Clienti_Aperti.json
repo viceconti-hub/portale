@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260279",
-        "Data":  "17/07/2026",
-        "Cod. Cliente":  "CO52383",
-        "Cliente":  "IL MULINO SAS di MARIO BARBIERO",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "285.190000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVASTOVIGLIE 4 DET 12 + 3 BRILL 5"
-    },
-    {
         "N. Ordine":  "260280",
         "Data":  "17/07/2026",
         "Cod. Cliente":  "C051095",
@@ -18,16 +8,6 @@
         "Importo":  "97.210000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260281",
-        "Data":  "17/07/2026",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "24.400000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVABICCHIERI DET 6 1"
     },
     {
         "N. Ordine":  "260282",
@@ -120,16 +100,6 @@
         "Note":  "DETERGENTE"
     },
     {
-        "N. Ordine":  "260254",
-        "Data":  "05/07/2026",
-        "Cod. Cliente":  "C000126",
-        "Cliente":  "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA",
-        "Data Consegna":  "05/07/2026",
-        "Importo":  "146.400000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVASTOVIGLIE"
-    },
-    {
         "N. Ordine":  "260242",
         "Data":  "29/06/2026",
         "Cod. Cliente":  "C001400",
@@ -218,16 +188,6 @@
         "Importo":  "239.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA AFFETTATTRICE"
-    },
-    {
-        "N. Ordine":  "260186",
-        "Data":  "05/06/2026",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Data Consegna":  "05/06/2026",
-        "Importo":  "358.390000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVASTOVIGLIE"
     },
     {
         "N. Ordine":  "260182",
