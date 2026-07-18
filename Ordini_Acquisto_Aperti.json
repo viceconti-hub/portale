@@ -18,15 +18,6 @@
         "Note":  "Basato su Ordini cliente 260231. 260237. 260280."
     },
     {
-        "N. Ordine":  "260167",
-        "Data":  "15/07/2026",
-        "Cod. Fornitore":  "F000220",
-        "Fornitore":  "ECOSAN SRL",
-        "Data Consegna":  "15/07/2026",
-        "Importo":  "624.030000",
-        "Note":  "ORDINE RAPIDO"
-    },
-    {
         "N. Ordine":  "260168",
         "Data":  "15/07/2026",
         "Cod. Fornitore":  "F000220",
@@ -54,6 +45,15 @@
         "Note":  "Basato su Offerte di vendita 260259."
     },
     {
+        "N. Ordine":  "260164",
+        "Data":  "08/07/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
+    },
+    {
         "N. Ordine":  "260160",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
@@ -79,15 +79,6 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "502.150000",
         "Note":  "DETERGENTE"
-    },
-    {
-        "N. Ordine":  "260164",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260157",
