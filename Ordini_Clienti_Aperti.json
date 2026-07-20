@@ -10,6 +10,16 @@
         "Note":  "PIASTRA E COLTELLO TRITACARNE 32"
     },
     {
+        "N. Ordine":  "260288",
+        "Data":  "20/07/2026",
+        "Cod. Cliente":  "CO52969",
+        "Cliente":  "ZANI STEFANO",
+        "Data Consegna":  "20/07/2026",
+        "Importo":  "124.320000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260280",
         "Data":  "17/07/2026",
         "Cod. Cliente":  "C051095",
@@ -198,6 +208,16 @@
         "Importo":  "611.870000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "RICAMBI ATA Basato su Offerte di vendita 260188."
+    },
+    {
+        "N. Ordine":  "260289",
+        "Data":  "29/05/2026",
+        "Cod. Cliente":  "C050898",
+        "Cliente":  "LA LUMERA di SANTOIANNI ROSA",
+        "Data Consegna":  "29/05/2026",
+        "Importo":  "150.060000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Guarnizione magnetica P.1500 D7 436×656 mm GN 710"
     },
     {
         "N. Ordine":  "260157",
