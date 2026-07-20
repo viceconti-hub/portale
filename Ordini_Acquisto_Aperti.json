@@ -95,7 +95,7 @@
         "Cod. Fornitore":  "F000894",
         "Fornitore":  "COLD LINE srl",
         "Data Consegna":  "07/07/2026",
-        "Importo":  "586.820000",
+        "Importo":  "293.410000",
         "Note":  "Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHELA Basato su Ordini cliente 260256."
     },
     {
@@ -244,11 +244,11 @@
     },
     {
         "N. Ordine":  "260124",
-        "Data":  "04/06/2026",
+        "Data":  "05/06/2026",
         "Cod. Fornitore":  "F000894",
         "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "04/06/2026",
-        "Importo":  "0.000000",
+        "Data Consegna":  "05/06/2026",
+        "Importo":  "587.430000",
         "Note":  "RICAMBI PER STRADELLA, NERA, MAG"
     },
     {
