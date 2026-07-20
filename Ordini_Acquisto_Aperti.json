@@ -135,21 +135,21 @@
         "Note":  "GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO."
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -297,13 +297,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -315,13 +315,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
@@ -333,15 +333,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "260004",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "226.920000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260005",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F051055",
@@ -351,13 +342,13 @@
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "609.400000",
-        "Note":  "RICAMBI"
+        "N. Ordine":  "260004",
+        "Data":  "29/01/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/01/2026",
+        "Importo":  "226.920000",
+        "Note":  "RICAMBI DA COMPLETARE"
     },
     {
         "N. Ordine":  "250504",
@@ -367,6 +358,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "47.700000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "609.400000",
+        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250434",
