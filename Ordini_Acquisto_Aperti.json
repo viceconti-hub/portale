@@ -9,6 +9,15 @@
         "Note":  "MS NAPOLEONE Basato su Ordini cliente 260294."
     },
     {
+        "N. Ordine":  "260174",
+        "Data":  "21/07/2026",
+        "Cod. Fornitore":  "F051129",
+        "Fornitore":  "ATREPAN S.R.L.",
+        "Data Consegna":  "21/07/2026",
+        "Importo":  "237.900000",
+        "Note":  "CORRADO MICHELA Basato su Ordini cliente 260297."
+    },
+    {
         "N. Ordine":  "260171",
         "Data":  "20/07/2026",
         "Cod. Fornitore":  "F000162",
@@ -142,15 +151,6 @@
         "Data Consegna":  "30/06/2026",
         "Importo":  "290.650000",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260154",
-        "Data":  "23/06/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "23/06/2026",
-        "Importo":  "63.140000",
-        "Note":  "GUARNIZIONE CAMPAMA E KIT MANICOTTO SOTTOVUOTO VE.RO."
     },
     {
         "N. Ordine":  "260148",
