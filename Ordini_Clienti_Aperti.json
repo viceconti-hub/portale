@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260292",
+        "Data":  "21/07/2026",
+        "Cod. Cliente":  "C001073",
+        "Cliente":  "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA \u0026 C. SNC",
+        "Data Consegna":  "21/07/2026",
+        "Importo":  "133.710000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE LAVASTOVIGLIE"
+    },
+    {
+        "N. Ordine":  "260293",
+        "Data":  "21/07/2026",
+        "Cod. Cliente":  "C051540",
+        "Cliente":  "IL SAGITTARIO BAR DI FONDACARO GIUSEPPE",
+        "Data Consegna":  "21/07/2026",
+        "Importo":  "472.910000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "ASSISTENZA SU CUCINA MBM: SOSTITUZIONE BRUCIATORI E SPARTIFIAMMA Basato su Offerte di vendita 250038."
+    },
+    {
         "N. Ordine":  "260287",
         "Data":  "20/07/2026",
         "Cod. Cliente":  "CO52696",
