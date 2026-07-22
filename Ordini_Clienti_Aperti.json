@@ -140,16 +140,6 @@
         "Note":  "ARMADIO CONGELATORE COLDLINE SMART A70/1BE"
     },
     {
-        "N. Ordine":  "260253",
-        "Data":  "05/07/2026",
-        "Cod. Cliente":  "C001084",
-        "Cliente":  "TRATTORIA DEL PELLEGRINO di PETTINATO GIOVANNINA",
-        "Data Consegna":  "05/07/2026",
-        "Importo":  "54.660000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE"
-    },
-    {
         "N. Ordine":  "260237",
         "Data":  "26/06/2026",
         "Cod. Cliente":  "CO51871",
@@ -328,16 +318,6 @@
         "Importo":  "183.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "GRIGLIE COLDLINE GN 2/1"
-    },
-    {
-        "N. Ordine":  "260002",
-        "Data":  "07/01/2026",
-        "Cod. Cliente":  "C000831",
-        "Cliente":  "Panificio ARENA sas",
-        "Data Consegna":  "07/01/2026",
-        "Importo":  "21.060000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
     },
     {
         "N. Ordine":  "250942",
