@@ -1,13 +1,13 @@
 [
     {
-        "N. Ordine":  "260292",
-        "Data":  "21/07/2026",
-        "Cod. Cliente":  "C001073",
-        "Cliente":  "TAVERNA ROVITA di GAMBARDELLA MARIASTELLA \u0026 C. SNC",
-        "Data Consegna":  "21/07/2026",
-        "Importo":  "133.710000",
+        "N. Ordine":  "260299",
+        "Data":  "22/07/2026",
+        "Cod. Cliente":  "C000831",
+        "Cliente":  "Panificio ARENA sas",
+        "Data Consegna":  "22/07/2026",
+        "Importo":  "63.170000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVASTOVIGLIE"
+        "Note":  "LAMA SEGAOSSA 1840xh16 mm DIAMANTATA QTA\u0027 3"
     },
     {
         "N. Ordine":  "260293",
@@ -38,16 +38,6 @@
         "Importo":  "2400.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAVOLO REFRIGERATO CON LAVELLO Basato su Offerte di vendita 260274."
-    },
-    {
-        "N. Ordine":  "260296",
-        "Data":  "21/07/2026",
-        "Cod. Cliente":  "CO52790",
-        "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
-        "Data Consegna":  "21/07/2026",
-        "Importo":  "262.420000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE RATIONAL"
     },
     {
         "N. Ordine":  "260297",
