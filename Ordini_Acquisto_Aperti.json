@@ -99,15 +99,6 @@
         "Note":  "Basato su Ordini cliente 260258."
     },
     {
-        "N. Ordine":  "260162",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "502.150000",
-        "Note":  "DETERGENTE"
-    },
-    {
         "N. Ordine":  "260157",
         "Data":  "07/07/2026",
         "Cod. Fornitore":  "F000894",
@@ -115,15 +106,6 @@
         "Data Consegna":  "07/07/2026",
         "Importo":  "293.410000",
         "Note":  "Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHELA Basato su Ordini cliente 260256. BONIFICO DEL 21_07_2026"
-    },
-    {
-        "N. Ordine":  "260155",
-        "Data":  "06/07/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "07/07/2026",
-        "Importo":  "1359.510000",
-        "Note":  "TRATTORIA TICCIABACA Basato su Ordini cliente 260224."
     },
     {
         "N. Ordine":  "260163",
