@@ -8,6 +8,22 @@
         "Note":  "ORDINE RAPIDO Basato su Ordini d\u0027acquisto 260167."
     },
     {
+        "N. DDT":  "260146",
+        "Data":  "15/07/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "1359.510000",
+        "Note":  "TRATTORIA TICCIABACA CUCINA MATRICOLA SN_052611454  Basato su Ordini cliente 260224. Basato su Ordini d\u0027acquisto 260155."
+    },
+    {
+        "N. DDT":  "260145",
+        "Data":  "15/07/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "502.150000",
+        "Note":  "DETERGENTE Basato su Ordini d\u0027acquisto 260162."
+    },
+    {
         "N. DDT":  "260142",
         "Data":  "10/07/2026",
         "Cod. Fornitore":  "F051452",
