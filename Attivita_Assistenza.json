@@ -1,17 +1,17 @@
 [
     {
-        "N. Attivita":  "7459",
+        "N. Attivita":  "7460",
         "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "22/07/2026",
-        "Ora Inizio":  "1000",
-        "Ora Fine":  "1100",
+        "Ora Inizio":  "1632",
+        "Ora Fine":  "1647",
         "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001512",
-        "Cliente":  "LIDO GOLDEN BEACH di LUCI GIUSEPPE",
-        "Contenuto":  "MACCHINA SOTTOVUOTO",
-        "Citta":  "SAN NICOLA ARCELLA",
-        "Note":  ""
+        "Cod. Cliente":  "CO52077",
+        "Cliente":  "MADI SNC di DISMA CASELLA \u0026 C.",
+        "Contenuto":  "PLANETARIA",
+        "Citta":  "TRECCHINA",
+        "Note":  "SOSTITUZIONE CARBONCINI"
     },
     {
         "N. Attivita":  "7458",
@@ -26,20 +26,6 @@
         "Contenuto":  "CUCINA MBM",
         "Citta":  "TORTORA",
         "Note":  "COMPLETARE ASSISTENZA"
-    },
-    {
-        "N. Attivita":  "7457",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "22/07/2026",
-        "Ora Inizio":  "800",
-        "Ora Fine":  "900",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C051026",
-        "Cliente":  "NEW BAR GRAN CAFFE\u0027 srls",
-        "Contenuto":  "PRODUTTORE SIMAG SDE40",
-        "Citta":  "LAURIA",
-        "Note":  "NON PRODUCE"
     },
     {
         "N. Attivita":  "7452",
