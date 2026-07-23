@@ -45,6 +45,15 @@
         "Note":  "Basato su Ordini cliente 260231. 260237. 260280."
     },
     {
+        "N. Ordine":  "260176",
+        "Data":  "16/07/2026",
+        "Cod. Fornitore":  "F001558",
+        "Fornitore":  "LA MITO srl KLIMAITALIA",
+        "Data Consegna":  "16/07/2026",
+        "Importo":  "33.490000",
+        "Note":  "RICAMBI PER RICCIARDONE E BOTTEGA 63"
+    },
+    {
         "N. Ordine":  "260168",
         "Data":  "15/07/2026",
         "Cod. Fornitore":  "F000220",
