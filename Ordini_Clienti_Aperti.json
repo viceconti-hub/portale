@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260307",
-        "Data":  "24/07/2026",
-        "Cod. Cliente":  "CO52305",
-        "Cliente":  "PIZZA SI AeM COMPANY DI ALAGIA ANDREA, MAURONE AGOSTINO \u0026 C. S.N.C.",
-        "Data Consegna":  "24/07/2026",
-        "Importo":  "1220.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "OFFERTA SPECIALE FRIGGITRICE A GAS 1 VASCA USATA Basato su Offerte di vendita 260288."
-    },
-    {
         "N. Ordine":  "260305",
         "Data":  "23/07/2026",
         "Cod. Cliente":  "CO52101",
@@ -68,26 +58,6 @@
         "Importo":  "2400.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAVOLO REFRIGERATO CON LAVELLO Basato su Offerte di vendita 260274."
-    },
-    {
-        "N. Ordine":  "260297",
-        "Data":  "21/07/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Data Consegna":  "21/07/2026",
-        "Importo":  "237.900000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TEGLIA LAMIERA BLU SP 8/10, 35x60x2h cm BORDO DI PIEGA NATURALI QTA\u0027 15"
-    },
-    {
-        "N. Ordine":  "260280",
-        "Data":  "17/07/2026",
-        "Cod. Cliente":  "C051095",
-        "Cliente":  "IL RUSCELLO SNC DEI FRATELLI NAVARRA",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "97.210000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260282",
@@ -150,16 +120,6 @@
         "Note":  "ARMADIO CONGELATORE COLDLINE SMART A70/1BE"
     },
     {
-        "N. Ordine":  "260237",
-        "Data":  "26/06/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "26/06/2026",
-        "Importo":  "55.070000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FRIGGITRICE FERRO"
-    },
-    {
         "N. Ordine":  "260231",
         "Data":  "25/06/2026",
         "Cod. Cliente":  "C050901",
@@ -168,16 +128,6 @@
         "Importo":  "236.070000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SECCHIELLO RESIDUO MORINI"
-    },
-    {
-        "N. Ordine":  "260215",
-        "Data":  "17/06/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "286.720000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BICCHIERE ACQUA PLANEO"
     },
     {
         "N. Ordine":  "260206",
@@ -310,16 +260,6 @@
         "Note":  "TERMOMETRO DIGITALE"
     },
     {
-        "N. Ordine":  "260064",
-        "Data":  "11/03/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Data Consegna":  "11/03/2026",
-        "Importo":  "175.680000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TENTAZIONI CALICE ORANGE MORINI"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "10/01/2026",
         "Cod. Cliente":  "CO52910",
@@ -350,16 +290,6 @@
         "Note":  "MEDINA VASSOIO Basato su Offerte di vendita 250959."
     },
     {
-        "N. Ordine":  "250880",
-        "Data":  "27/11/2025",
-        "Cod. Cliente":  "CO52890",
-        "Cliente":  "GELATERIA GELOSIA 2 di MOCCIA GIUSEPPA",
-        "Data Consegna":  "27/11/2025",
-        "Importo":  "150.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 250925."
-    },
-    {
         "N. Ordine":  "250878",
         "Data":  "25/11/2025",
         "Cod. Cliente":  "CO52615",
@@ -370,16 +300,6 @@
         "Note":  "SOLO PER CONSEGNA DATA AGGIORNAMENTO TESTO LIBERO 28_02_2026"
     },
     {
-        "N. Ordine":  "250872",
-        "Data":  "21/11/2025",
-        "Cod. Cliente":  "CO52886",
-        "Cliente":  "PIZZERIA ALBACHIARA di VOLPI SIMONE",
-        "Data Consegna":  "21/11/2025",
-        "Importo":  "146.950000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE MORINI E TOMA"
-    },
-    {
         "N. Ordine":  "250856",
         "Data":  "12/11/2025",
         "Cod. Cliente":  "C000865",
@@ -388,16 +308,6 @@
         "Importo":  "42358.400000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "CAPPA SMEG Basato su Offerte di vendita 250237."
-    },
-    {
-        "N. Ordine":  "250833",
-        "Data":  "28/10/2025",
-        "Cod. Cliente":  "CO52766",
-        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
-        "Data Consegna":  "28/10/2025",
-        "Importo":  "0.000000",
-        "Agente":  "PIANIFICAZIONE",
-        "Note":  "SEDIE E TAVOLI SOLO PER CONSEGNA"
     },
     {
         "N. Ordine":  "250827",
@@ -430,16 +340,6 @@
         "Note":  "Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTICIPO"
     },
     {
-        "N. Ordine":  "250539",
-        "Data":  "12/07/2025",
-        "Cod. Cliente":  "CO52766",
-        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
-        "Data Consegna":  "12/07/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE SOLO PER CONSEGNA"
-    },
-    {
         "N. Ordine":  "250219",
         "Data":  "14/04/2025",
         "Cod. Cliente":  "C050910",
@@ -448,16 +348,6 @@
         "Importo":  "29.280000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "RICAMBI SIRMAN"
-    },
-    {
-        "N. Ordine":  "250198",
-        "Data":  "09/04/2025",
-        "Cod. Cliente":  "CO52766",
-        "Cliente":  "ILAMA di D\u0027ARCO PASQUALE",
-        "Data Consegna":  "15/06/2025",
-        "Importo":  "0.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RATIONAL solo per CONSEGNA"
     },
     {
         "N. Ordine":  "241114",
