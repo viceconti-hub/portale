@@ -1,5 +1,21 @@
 [
     {
+        "N. DDT":  "260152",
+        "Data":  "22/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Importo":  "227.870000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260178."
+    },
+    {
+        "N. DDT":  "260151",
+        "Data":  "22/07/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "293.410000",
+        "Note":  "Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHELA Basato su Ordini cliente 260256. BONIFICO DEL 21_07_2026 Basato su Ordini d\u0027acquisto 260157."
+    },
+    {
         "N. DDT":  "260150",
         "Data":  "22/07/2026",
         "Cod. Fornitore":  "F001602",
