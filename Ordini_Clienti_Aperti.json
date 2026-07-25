@@ -1,12 +1,22 @@
 [
     {
+        "N. Ordine":  "260310",
+        "Data":  "25/07/2026",
+        "Cod. Cliente":  "C000113",
+        "Cliente":  "LA SECCA di FULCO ANTONIO",
+        "Data Consegna":  "25/07/2026",
+        "Importo":  "1600.000000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "OFFERTA SPECIALE TAVOLO REFRIGERATO COLDLINE TA13/1MQ-710 USATO Basato su Offerte di vendita 260289."
+    },
+    {
         "N. Ordine":  "260309",
         "Data":  "24/07/2026",
         "Cod. Cliente":  "C051278",
         "Cliente":  "PIZZERIA FORESTIERI ERSILIO",
         "Data Consegna":  "24/07/2026",
         "Importo":  "54.460000",
-        "Agente":  "-Nessun addetto vendite-",
+        "Agente":  "VENDITA HOTELLERIE",
         "Note":  "CALICE ACQUA BALLON CL 25 H 13,8 DIAM.CM 8,2 Basato su Offerte di vendita 260284."
     },
     {
@@ -68,16 +78,6 @@
         "Importo":  "2400.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAVOLO REFRIGERATO CON LAVELLO Basato su Offerte di vendita 260274."
-    },
-    {
-        "N. Ordine":  "260282",
-        "Data":  "17/07/2026",
-        "Cod. Cliente":  "C051638",
-        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "62.260000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CONTENITORI POLIPROPILENE GN 1/4 H 15 QTA \u00277 + COPERCHI"
     },
     {
         "N. Ordine":  "260274",
