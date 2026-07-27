@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260179",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "425.480000",
+        "Note":  "TAVOLO ARMADIATO PER JOEL Basato su Ordini cliente 260314."
+    },
+    {
+        "N. Ordine":  "260180",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "293.430000",
+        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
         "N. Ordine":  "260173",
         "Data":  "21/07/2026",
         "Cod. Fornitore":  "F051353",
