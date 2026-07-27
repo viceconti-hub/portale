@@ -30,6 +30,26 @@
         "Note":  "TAGLIERE 40X30"
     },
     {
+        "N. Ordine":  "260320",
+        "Data":  "27/07/2026",
+        "Cod. Cliente":  "CO52407",
+        "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "86.640000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BACINELLE PER VETRINA REFRIGERATA INGREDIENTI"
+    },
+    {
+        "N. Ordine":  "260321",
+        "Data":  "27/07/2026",
+        "Cod. Cliente":  "C051638",
+        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "200.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BACINELLE INOX"
+    },
+    {
         "N. Ordine":  "260313",
         "Data":  "25/07/2026",
         "Cod. Cliente":  "CO52837",
