@@ -23,8 +23,26 @@
         "Cod. Fornitore":  "F000146",
         "Fornitore":  "NUOVA RICAMBI srl",
         "Data Consegna":  "27/07/2026",
-        "Importo":  "363.800000",
-        "Note":  ""
+        "Importo":  "61.570000",
+        "Note":  "DISINCROSTANTE DS-3 PERGEL 1 Kg"
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+    },
+    {
+        "N. Ordine":  "260183",
+        "Data":  "24/07/2026",
+        "Cod. Fornitore":  "F051515",
+        "Fornitore":  "CUSTOM SPA",
+        "Data Consegna":  "24/07/2026",
+        "Importo":  "215.940000",
+        "Note":  "GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG"
     },
     {
         "N. Ordine":  "260173",
@@ -34,15 +52,6 @@
         "Data Consegna":  "21/07/2026",
         "Importo":  "5228.920000",
         "Note":  "MS NAPOLEONE Basato su Ordini cliente 260294."
-    },
-    {
-        "N. Ordine":  "260174",
-        "Data":  "21/07/2026",
-        "Cod. Fornitore":  "F051129",
-        "Fornitore":  "ATREPAN S.R.L.",
-        "Data Consegna":  "21/07/2026",
-        "Importo":  "237.900000",
-        "Note":  "CORRADO MICHELA Basato su Ordini cliente 260297."
     },
     {
         "N. Ordine":  "260171",
@@ -63,31 +72,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260170",
-        "Data":  "17/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "25/06/2026",
-        "Importo":  "541.310000",
-        "Note":  "Basato su Ordini cliente 260231. 260237. 260280."
-    },
-    {
-        "N. Ordine":  "260176",
-        "Data":  "16/07/2026",
-        "Cod. Fornitore":  "F001558",
-        "Fornitore":  "LA MITO srl KLIMAITALIA",
-        "Data Consegna":  "16/07/2026",
-        "Importo":  "33.490000",
-        "Note":  "RICAMBI PER RICCIARDONE E BOTTEGA 63"
-    },
-    {
         "N. Ordine":  "260168",
         "Data":  "15/07/2026",
         "Cod. Fornitore":  "F000220",
         "Fornitore":  "ECOSAN SRL",
         "Data Consegna":  "15/07/2026",
         "Importo":  "2194.170000",
-        "Note":  ""
+        "Note":  "ORDINE PRINCIPALE"
     },
     {
         "N. Ordine":  "260165",
@@ -171,21 +162,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -225,15 +216,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
@@ -259,6 +241,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -360,6 +351,15 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
+        "N. Ordine":  "260005",
+        "Data":  "02/02/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "02/02/2026",
+        "Importo":  "147.860000",
+        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
+    },
+    {
         "N. Ordine":  "260004",
         "Data":  "29/01/2026",
         "Cod. Fornitore":  "F000826",
@@ -367,24 +367,6 @@
         "Data Consegna":  "29/01/2026",
         "Importo":  "226.920000",
         "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "260005",
-        "Data":  "29/01/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "29/01/2026",
-        "Importo":  "93.700000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
-    },
-    {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "609.400000",
-        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250504",
@@ -396,6 +378,15 @@
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "609.400000",
+        "Note":  "RICAMBI"
+    },
+    {
         "N. Ordine":  "250434",
         "Data":  "02/11/2025",
         "Cod. Fornitore":  "F000863",
@@ -403,15 +394,6 @@
         "Data Consegna":  "02/11/2025",
         "Importo":  "34.160000",
         "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250433",
-        "Data":  "01/11/2025",
-        "Cod. Fornitore":  "F051515",
-        "Fornitore":  "CUSTOM SPA",
-        "Data Consegna":  "01/11/2025",
-        "Importo":  "431.880000",
-        "Note":  "MARKET CRUSCO"
     },
     {
         "N. Ordine":  "250181",
