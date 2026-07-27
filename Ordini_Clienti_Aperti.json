@@ -1,5 +1,25 @@
 [
     {
+        "N. Ordine":  "260314",
+        "Data":  "27/07/2026",
+        "Cod. Cliente":  "CO52001",
+        "Cliente":  "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "710.000000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "TAVOLO ARMADIATO CON ANTE SCORREVOLI, STRUTTURA IN ACCIAIO INOX, PIANO DI LAVORO IN ACCIAIO INOX AISI 304, RIPIANO INTERMEDIO REGOLABILE, SENZA ALZATINA, 120X70X85H CM Basato su Offerte di vendita 260315."
+    },
+    {
+        "N. Ordine":  "260315",
+        "Data":  "27/07/2026",
+        "Cod. Cliente":  "CO52971",
+        "Cliente":  "CRESCENTE MARIANNA PRODOTTI TIPICI DEL POLLINO",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "81.690000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "BATTERIE PER BILANCIA"
+    },
+    {
         "N. Ordine":  "260313",
         "Data":  "25/07/2026",
         "Cod. Cliente":  "CO52837",
