@@ -45,6 +45,15 @@
         "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
+        "N. Ordine":  "260186",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "490.620000",
+        "Note":  "FRYTOP A GAS PER COZZI Basato su Ordini cliente 260324."
+    },
+    {
         "N. Ordine":  "260183",
         "Data":  "24/07/2026",
         "Cod. Fornitore":  "F051515",
@@ -88,24 +97,6 @@
         "Data Consegna":  "15/07/2026",
         "Importo":  "2194.170000",
         "Note":  "ORDINE PRINCIPALE"
-    },
-    {
-        "N. Ordine":  "260165",
-        "Data":  "10/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "884.500000",
-        "Note":  "ACAL TOP3+TOP6 Basato su Ordini cliente 260259."
-    },
-    {
-        "N. Ordine":  "260166",
-        "Data":  "10/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "10/08/2026",
-        "Importo":  "935.500000",
-        "Note":  "Basato su Offerte di vendita 260259."
     },
     {
         "N. Ordine":  "260164",
