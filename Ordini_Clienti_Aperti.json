@@ -30,6 +30,26 @@
         "Note":  "PORZIONATORE GELATO"
     },
     {
+        "N. Ordine":  "260329",
+        "Data":  "28/07/2026",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Data Consegna":  "31/07/2026",
+        "Importo":  "534.360000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PLANETARIA PLUTONE 7"
+    },
+    {
+        "N. Ordine":  "260330",
+        "Data":  "28/07/2026",
+        "Cod. Cliente":  "CO52975",
+        "Cliente":  "EUROPAPOLICE SRL",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "864.690000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SANIFICATORE DA PAVIMENTO ALL\u0027OZONO MOD. O3 TOWER 28, PRODUZIONE O3 G/H 28, IN ACCIAIO INOX AISI 304, PER AMBIENTI FINO A 360 MQ Basato su Offerte di vendita 260266."
+    },
+    {
         "N. Ordine":  "260314",
         "Data":  "27/07/2026",
         "Cod. Cliente":  "CO52001",
