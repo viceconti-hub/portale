@@ -1,5 +1,35 @@
 [
     {
+        "N. Ordine":  "260326",
+        "Data":  "28/07/2026",
+        "Cod. Cliente":  "C001624",
+        "Cliente":  "Ristorante SANTA LUCIA DI APICELLA TERESA",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "179.560000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø 42 CM ( SUP. INDUZIONE Ø 30 CM) Basato su Offerte di vendita 260321."
+    },
+    {
+        "N. Ordine":  "260327",
+        "Data":  "28/07/2026",
+        "Cod. Cliente":  "C050783",
+        "Cliente":  "LA MARINELLA di CLAUDIO CASTALDI",
+        "Data Consegna":  "31/07/2026",
+        "Importo":  "360.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PIATTI e TAPPI PER SPUMANTE Basato su Offerte di vendita 260319."
+    },
+    {
+        "N. Ordine":  "260328",
+        "Data":  "28/07/2026",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "24.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PORZIONATORE GELATO"
+    },
+    {
         "N. Ordine":  "260314",
         "Data":  "27/07/2026",
         "Cod. Cliente":  "CO52001",
@@ -65,7 +95,7 @@
         "Cod. Cliente":  "C001308",
         "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
         "Data Consegna":  "28/07/2026",
-        "Importo":  "233.200000",
+        "Importo":  "189.330000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
     },
@@ -128,16 +158,6 @@
         "Importo":  "472.910000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ASSISTENZA SU CUCINA MBM: SOSTITUZIONE BRUCIATORI E SPARTIFIAMMA Basato su Offerte di vendita 250038."
-    },
-    {
-        "N. Ordine":  "260294",
-        "Data":  "21/07/2026",
-        "Cod. Cliente":  "C050651",
-        "Cliente":  "MS NAPOLEONE SRL",
-        "Data Consegna":  "21/07/2026",
-        "Importo":  "3000.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ASCIUGA LUCIDA POSATE MOD.STAR EVO MANUALE Basato su Offerte di vendita 260271."
     },
     {
         "N. Ordine":  "260274",
