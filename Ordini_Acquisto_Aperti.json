@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260184",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "114.290000",
+        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
+    },
+    {
         "N. Ordine":  "260187",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -9,13 +18,13 @@
         "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
-        "N. Ordine":  "260184",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
+        "N. Ordine":  "260186",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
+        "Importo":  "490.620000",
+        "Note":  "FRYTOP A GAS PER COZZI Basato su Ordini cliente 260324."
     },
     {
         "N. Ordine":  "260179",
@@ -52,15 +61,6 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
-        "N. Ordine":  "260186",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "490.620000",
-        "Note":  "FRYTOP A GAS PER COZZI Basato su Ordini cliente 260324."
     },
     {
         "N. Ordine":  "260183",
