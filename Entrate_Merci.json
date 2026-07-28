@@ -1,5 +1,13 @@
 [
     {
+        "N. DDT":  "260157",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F051353",
+        "Fornitore":  "TAMAI S.R.L.",
+        "Importo":  "5228.920000",
+        "Note":  "MS NAPOLEONE MATRICOLA 3073 Basato su Ordini cliente 260294. Basato su Ordini d\u0027acquisto 260173."
+    },
+    {
         "N. DDT":  "260154",
         "Data":  "22/07/2026",
         "Cod. Fornitore":  "F000826",
@@ -30,6 +38,14 @@
         "Fornitore":  "MORINI s.r.l.",
         "Importo":  "514.550000",
         "Note":  "Basato su Ordini cliente 260231. 260237. 260280. Basato su Ordini d\u0027acquisto 260170."
+    },
+    {
+        "N. DDT":  "260158",
+        "Data":  "20/07/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Importo":  "2849.310000",
+        "Note":  "AI CARCONI MATRICOLA 62720616 Basato su Ordini d\u0027acquisto 260188."
     },
     {
         "N. DDT":  "260149",
