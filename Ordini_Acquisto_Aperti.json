@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260187",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "23/07/2026",
+        "Importo":  "492.680000",
+        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
+    },
+    {
         "N. Ordine":  "260179",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000826",
@@ -41,7 +50,7 @@
         "Cod. Fornitore":  "F001559",
         "Fornitore":  "KAREL srl",
         "Data Consegna":  "08/05/2026",
-        "Importo":  "279.700000",
+        "Importo":  "85.160000",
         "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
