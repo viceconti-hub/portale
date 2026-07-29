@@ -9,6 +9,33 @@
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
+        "N. Ordine":  "260194",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "88.540000",
+        "Note":  "ELETTROVALVOLE BREMA"
+    },
+    {
+        "N. Ordine":  "260195",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "0.000000",
+        "Note":  "NERA SRL matricola 012300627 il codice corretto e aggiornato per il Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST 2019"
+    },
+    {
+        "N. Ordine":  "260196",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "209.130000",
+        "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
+    },
+    {
         "N. Ordine":  "260192",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001573",
