@@ -9,6 +9,24 @@
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
+        "N. Ordine":  "260192",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "746.640000",
+        "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
+    },
+    {
+        "N. Ordine":  "260193",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "630.740000",
+        "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
+    },
+    {
         "N. Ordine":  "260184",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001559",
