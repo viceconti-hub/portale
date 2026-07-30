@@ -20,6 +20,16 @@
         "Note":  "PELLICOLA"
     },
     {
+        "N. Ordine":  "260339",
+        "Data":  "30/07/2026",
+        "Cod. Cliente":  "C000405",
+        "Cliente":  "SIRTAKI S.R.L.S",
+        "Data Consegna":  "30/07/2026",
+        "Importo":  "105.410000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "DETERGENTE RATIONAL ROSSO"
+    },
+    {
         "N. Ordine":  "260333",
         "Data":  "29/07/2026",
         "Cod. Cliente":  "C050617",
@@ -38,16 +48,6 @@
         "Importo":  "876.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "AFFETTATRICE A GRAVITÀ H275,LAMA INOXø275 mm,TAGLIO UTILE220X210h mm,C/AFFILATOIO,62x44x39h,230W,MON Basato su Offerte di vendita 260326."
-    },
-    {
-        "N. Ordine":  "260335",
-        "Data":  "29/07/2026",
-        "Cod. Cliente":  "C051047",
-        "Cliente":  "TRATTORIA TICCIABBACA di MAIORANA FRANCESCA",
-        "Data Consegna":  "30/07/2026",
-        "Importo":  "430.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TAVOLO A GIORNO IN ACCIAIO INOX AISI 304 CON ALZATINA CON RIPIANO DI FONDO D. 1500X700X850H  USATO Basato su Offerte di vendita 260279."
     },
     {
         "N. Ordine":  "260336",
@@ -158,16 +158,6 @@
         "Importo":  "149.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "BACINELLE INOX E DETERGENTE RATIONAL"
-    },
-    {
-        "N. Ordine":  "260322",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "C051638",
-        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "138.350000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE RATIONAL VERDE QTA\u0027 1"
     },
     {
         "N. Ordine":  "260323",
