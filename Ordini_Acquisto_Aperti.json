@@ -9,15 +9,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
-    },
-    {
         "N. Ordine":  "260194",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -43,6 +34,15 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "209.130000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
+    },
+    {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -171,13 +171,13 @@
         "Note":  "ORDINE PRINCIPALE"
     },
     {
-        "N. Ordine":  "260164",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
+        "N. Ordine":  "260201",
+        "Data":  "09/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/07/2026",
+        "Importo":  "835.880000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260160",
@@ -198,13 +198,13 @@
         "Note":  "Basato su Ordini cliente 260258."
     },
     {
-        "N. Ordine":  "260163",
-        "Data":  "03/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "03/07/2026",
-        "Importo":  "937.330000",
-        "Note":  ""
+        "N. Ordine":  "260164",
+        "Data":  "08/07/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260158",
