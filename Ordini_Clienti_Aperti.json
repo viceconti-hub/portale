@@ -40,16 +40,6 @@
         "Note":  "CASSERUOLA INOX + 2 SPICCHI ALLUMINIO Basato su Offerte di vendita 260328."
     },
     {
-        "N. Ordine":  "260341",
-        "Data":  "30/07/2026",
-        "Cod. Cliente":  "CO51897",
-        "Cliente":  "CAFFETTERIA DA CECILIA DI DI SANZO CECILIA",
-        "Data Consegna":  "30/07/2026",
-        "Importo":  "54.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERGENTE LAVABICCHIERI"
-    },
-    {
         "N. Ordine":  "260333",
         "Data":  "29/07/2026",
         "Cod. Cliente":  "C050617",
@@ -75,7 +65,7 @@
         "Cod. Cliente":  "C000835",
         "Cliente":  "Panificio D\u0027IMPERIO snc",
         "Data Consegna":  "29/07/2026",
-        "Importo":  "930.000000",
+        "Importo":  "900.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE Basato su Offerte di vendita 260327."
     },
