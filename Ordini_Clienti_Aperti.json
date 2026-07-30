@@ -6,7 +6,7 @@
         "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
         "Data Consegna":  "03/08/2026",
         "Importo":  "380.010000",
-        "Agente":  "-Nessun addetto vendite-",
+        "Agente":  "VENDITA HOTELLERIE",
         "Note":  "PIANI IN POLIETILENE ROSSO BRUNO 5/7 GIORNI LAVORATIVI Basato su Offerte di vendita 260277."
     },
     {
@@ -16,7 +16,7 @@
         "Cliente":  "CARNI LIMONGI SRL",
         "Data Consegna":  "30/07/2026",
         "Importo":  "150.100000",
-        "Agente":  "-Nessun addetto vendite-",
+        "Agente":  "VENDITA ACCESSORI",
         "Note":  "PELLICOLA"
     },
     {
@@ -26,8 +26,18 @@
         "Cliente":  "SIRTAKI S.R.L.S",
         "Data Consegna":  "30/07/2026",
         "Importo":  "105.410000",
-        "Agente":  "-Nessun addetto vendite-",
+        "Agente":  "VENDITA DETERSIVI",
         "Note":  "DETERGENTE RATIONAL ROSSO"
+    },
+    {
+        "N. Ordine":  "260340",
+        "Data":  "30/07/2026",
+        "Cod. Cliente":  "CO52316",
+        "Cliente":  "PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR",
+        "Data Consegna":  "30/07/2026",
+        "Importo":  "240.000000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "CASSERUOLA INOX + 2 SPICCHI ALLUMINIO Basato su Offerte di vendita 260328."
     },
     {
         "N. Ordine":  "260333",
