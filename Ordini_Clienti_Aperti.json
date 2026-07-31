@@ -20,16 +20,6 @@
         "Note":  "PELLICOLA"
     },
     {
-        "N. Ordine":  "260339",
-        "Data":  "30/07/2026",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Data Consegna":  "30/07/2026",
-        "Importo":  "105.410000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE RATIONAL ROSSO"
-    },
-    {
         "N. Ordine":  "260340",
         "Data":  "30/07/2026",
         "Cod. Cliente":  "CO52316",
@@ -68,36 +58,6 @@
         "Importo":  "900.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE Basato su Offerte di vendita 260327."
-    },
-    {
-        "N. Ordine":  "260326",
-        "Data":  "28/07/2026",
-        "Cod. Cliente":  "C001624",
-        "Cliente":  "Ristorante SANTA LUCIA DI APICELLA TERESA",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "179.560000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø 42 CM ( SUP. INDUZIONE Ø 30 CM) Basato su Offerte di vendita 260321."
-    },
-    {
-        "N. Ordine":  "260327",
-        "Data":  "28/07/2026",
-        "Cod. Cliente":  "C050783",
-        "Cliente":  "LA MARINELLA di CLAUDIO CASTALDI",
-        "Data Consegna":  "31/07/2026",
-        "Importo":  "360.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PIATTI e TAPPI PER SPUMANTE Basato su Offerte di vendita 260319."
-    },
-    {
-        "N. Ordine":  "260328",
-        "Data":  "28/07/2026",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "24.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PORZIONATORE GELATO"
     },
     {
         "N. Ordine":  "260329",
@@ -150,26 +110,6 @@
         "Note":  "TAGLIERE 40X30"
     },
     {
-        "N. Ordine":  "260320",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "CO52407",
-        "Cliente":  "LIDO SAN FRANCESCO di ESANOFOLE ANGELO",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "147.420000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BACINELLE GASTRONORM INTEGRAZIONE"
-    },
-    {
-        "N. Ordine":  "260321",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "C051638",
-        "Cliente":  "LA PIEDIGROTTA RISTORANTE PIZZERIA di PASQUALE AURELIO",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "149.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BACINELLE INOX E DETERGENTE RATIONAL"
-    },
-    {
         "N. Ordine":  "260323",
         "Data":  "27/07/2026",
         "Cod. Cliente":  "C001308",
@@ -190,16 +130,6 @@
         "Note":  "FRYTOP A GAS FIMAR Basato su Offerte di vendita 260316."
     },
     {
-        "N. Ordine":  "260309",
-        "Data":  "24/07/2026",
-        "Cod. Cliente":  "C051278",
-        "Cliente":  "PIZZERIA FORESTIERI ERSILIO",
-        "Data Consegna":  "24/07/2026",
-        "Importo":  "54.460000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "CALICE ACQUA BALLON CL 25 H 13,8 DIAM.CM 8,2 Basato su Offerte di vendita 260284."
-    },
-    {
         "N. Ordine":  "260305",
         "Data":  "23/07/2026",
         "Cod. Cliente":  "CO52101",
@@ -208,16 +138,6 @@
         "Importo":  "262.420000",
         "Agente":  "VENDITA DETERSIVI",
         "Note":  "DETERGENTE RATIONAL"
-    },
-    {
-        "N. Ordine":  "260306",
-        "Data":  "23/07/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "23/07/2026",
-        "Importo":  "125.170000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "EXECUTIVE CALICE ACQUA 26 VC12KFNG16 QTA\u0027 60"
     },
     {
         "N. Ordine":  "260299",
