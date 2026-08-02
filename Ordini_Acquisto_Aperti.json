@@ -63,15 +63,6 @@
         "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
     },
     {
-        "N. Ordine":  "260184",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
-    },
-    {
         "N. Ordine":  "260187",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -79,6 +70,15 @@
         "Data Consegna":  "23/07/2026",
         "Importo":  "492.680000",
         "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
+    },
+    {
+        "N. Ordine":  "260184",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "114.290000",
+        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
         "N. Ordine":  "260186",
@@ -196,15 +196,6 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "671.430000",
         "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
-    },
-    {
-        "N. Ordine":  "260158",
-        "Data":  "01/07/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "3303.200000",
-        "Note":  "FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257."
     },
     {
         "N. Ordine":  "260159",
