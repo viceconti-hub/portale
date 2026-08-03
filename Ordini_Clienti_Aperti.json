@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260348",
+        "Data":  "03/08/2026",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Data Consegna":  "03/08/2026",
+        "Importo":  "89.780000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø 42 CM ( SUP. INDUZIONE Ø 30 CM)"
+    },
+    {
         "N. Ordine":  "260347",
         "Data":  "02/08/2026",
         "Cod. Cliente":  "CO51863",
@@ -25,7 +35,7 @@
         "Cod. Cliente":  "C000405",
         "Cliente":  "SIRTAKI S.R.L.S",
         "Data Consegna":  "01/08/2026",
-        "Importo":  "259.260000",
+        "Importo":  "171.720000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
     },
@@ -208,6 +218,16 @@
         "Importo":  "33.430000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260237",
+        "Data":  "26/06/2026",
+        "Cod. Cliente":  "CO51871",
+        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
+        "Data Consegna":  "26/06/2026",
+        "Importo":  "55.070000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FRIGGITRICE FERRO"
     },
     {
         "N. Ordine":  "260231",
