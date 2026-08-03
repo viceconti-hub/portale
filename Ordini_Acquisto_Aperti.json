@@ -9,13 +9,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
+        "N. Ordine":  "260194",
         "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "88.540000",
+        "Note":  "ELETTROVALVOLE BREMA"
     },
     {
         "N. Ordine":  "260195",
@@ -36,22 +36,13 @@
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
     },
     {
-        "N. Ordine":  "260194",
+        "N. Ordine":  "260189",
         "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "88.540000",
-        "Note":  "ELETTROVALVOLE BREMA"
-    },
-    {
-        "N. Ordine":  "260184",
-        "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001559",
         "Fornitore":  "KAREL srl",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -79,6 +70,15 @@
         "Data Consegna":  "23/07/2026",
         "Importo":  "492.680000",
         "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
+    },
+    {
+        "N. Ordine":  "260184",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "114.290000",
+        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
         "N. Ordine":  "260186",
@@ -216,21 +216,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -288,15 +288,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260078",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
@@ -304,6 +295,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -369,13 +369,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -387,13 +387,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
@@ -423,15 +423,6 @@
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "609.400000",
-        "Note":  "RICAMBI"
-    },
-    {
         "N. Ordine":  "250504",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F050695",
@@ -439,6 +430,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "47.700000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "609.400000",
+        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250434",
