@@ -40,16 +40,6 @@
         "Note":  "BICCHIERI ELECTRA DOF"
     },
     {
-        "N. Ordine":  "260345",
-        "Data":  "01/08/2026",
-        "Cod. Cliente":  "CO52001",
-        "Cliente":  "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO",
-        "Data Consegna":  "01/08/2026",
-        "Importo":  "2129.000000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "ARMADIO FRIGO SMART A70/1ME INOX,1PORTA,-2°+8°C,VENTIL,3xGN2/1,CLASSE A,74x82x209hCM,220W,MONOFASE"
-    },
-    {
         "N. Ordine":  "260346",
         "Data":  "01/08/2026",
         "Cod. Cliente":  "C000405",
@@ -130,16 +120,6 @@
         "Note":  "SANIFICATORE DA PAVIMENTO ALL\u0027OZONO MOD. O3 TOWER 28, PRODUZIONE O3 G/H 28, IN ACCIAIO INOX AISI 304, PER AMBIENTI FINO A 360 MQ Basato su Offerte di vendita 260266."
     },
     {
-        "N. Ordine":  "260314",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "CO52001",
-        "Cliente":  "JOEL IN MILLE MISTURE DI LAMBOGLIA GIACOMO",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "710.000000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "TAVOLO ARMADIATO CON ANTE SCORREVOLI, STRUTTURA IN ACCIAIO INOX, PIANO DI LAVORO IN ACCIAIO INOX AISI 304, RIPIANO INTERMEDIO REGOLABILE, SENZA ALZATINA, 120X70X85H CM Basato su Offerte di vendita 260315."
-    },
-    {
         "N. Ordine":  "260315",
         "Data":  "27/07/2026",
         "Cod. Cliente":  "CO52971",
@@ -208,16 +188,6 @@
         "Importo":  "472.910000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ASSISTENZA SU CUCINA MBM: SOSTITUZIONE BRUCIATORI E SPARTIFIAMMA Basato su Offerte di vendita 250038."
-    },
-    {
-        "N. Ordine":  "260269",
-        "Data":  "13/07/2026",
-        "Cod. Cliente":  "C050882",
-        "Cliente":  "LA REGINA S.r.l. Servizi e Logistica",
-        "Data Consegna":  "13/07/2026",
-        "Importo":  "755.420000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "OFFERTA FORNITURA DETERGENTI LAVASTOVIGLIE Basato su Offerte di vendita 260261."
     },
     {
         "N. Ordine":  "260258",
