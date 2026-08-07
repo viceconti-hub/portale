@@ -10,16 +10,6 @@
         "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm QTA\u0027 2"
     },
     {
-        "N. Ordine":  "260362",
-        "Data":  "06/08/2026",
-        "Cod. Cliente":  "CO52327",
-        "Cliente":  "DRINK \u0026 SMOKE DI CONTE GIAN PIERO",
-        "Data Consegna":  "06/08/2026",
-        "Importo":  "29.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CALICE VINO BIANCO COLLEZIONE VINO CRISTALLINO CL 42,5 H 21,5 Ø CM 8,6"
-    },
-    {
         "N. Ordine":  "260363",
         "Data":  "06/08/2026",
         "Cod. Cliente":  "CO52581",
@@ -37,7 +27,17 @@
         "Data Consegna":  "27/08/2026",
         "Importo":  "4200.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Basato su Offerte di vendita 260336."
+        "Note":  "ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336."
+    },
+    {
+        "N. Ordine":  "260370",
+        "Data":  "06/08/2026",
+        "Cod. Cliente":  "CO52368",
+        "Cliente":  "4.0 SRLS YUMARA",
+        "Data Consegna":  "06/08/2026",
+        "Importo":  "697.110000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FORNO NERONE MECCANICO MOD.600 4, CAP.4 TEGLIE GN 1/1 ,PORTA A RIBALTA, DOPPIA VENTOLA,LUCE, CONVENZIONE,DIM,CAMERA 65x45,9x35hCM,DISTANZA TRA TEGLIE 80mm,77,5x72x56hCM, 3,15KW,MONOFASE"
     },
     {
         "N. Ordine":  "260354",
@@ -50,16 +50,6 @@
         "Note":  "MACINADOSATORE MD5000, OUTPUT G/S 3,CAP.TRAMOGGIA KG1100, Ø MACINE PIANE 64mm, BLUETOOH,BDS,TOUCH SCREEN, 21x38,4x55,9h CM, 200-240V-50Hz (w)"
     },
     {
-        "N. Ordine":  "260348",
-        "Data":  "03/08/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "03/08/2026",
-        "Importo":  "89.780000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FRIGGITRICE FERRO CON CESTELLO ILSA (ANCHE PER INDUZIONE) Ø 42 CM ( SUP. INDUZIONE Ø 30 CM)"
-    },
-    {
         "N. Ordine":  "260351",
         "Data":  "03/08/2026",
         "Cod. Cliente":  "CO52979",
@@ -68,16 +58,6 @@
         "Importo":  "1200.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Basato su Offerte di vendita 260334."
-    },
-    {
-        "N. Ordine":  "260347",
-        "Data":  "02/08/2026",
-        "Cod. Cliente":  "CO51863",
-        "Cliente":  "IL LUCANO SRLS",
-        "Data Consegna":  "02/08/2026",
-        "Importo":  "89.670000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "BICCHIERI ELECTRA DOF"
     },
     {
         "N. Ordine":  "260346",
@@ -188,16 +168,6 @@
         "Importo":  "33.430000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260237",
-        "Data":  "26/06/2026",
-        "Cod. Cliente":  "CO51871",
-        "Cliente":  "I SAPORI DI MARIANNA TRATTORIA E CUCINA D\u0027ASPORTO DI PEZZULLO MARIANNA",
-        "Data Consegna":  "26/06/2026",
-        "Importo":  "55.070000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FRIGGITRICE FERRO"
     },
     {
         "N. Ordine":  "260231",
