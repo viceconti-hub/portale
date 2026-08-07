@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260372",
+        "Data":  "07/08/2026",
+        "Cod. Cliente":  "C050651",
+        "Cliente":  "MS NAPOLEONE SRL",
+        "Data Consegna":  "07/08/2026",
+        "Importo":  "445.730000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CONTENITORI GASTRONORM"
+    },
+    {
         "N. Ordine":  "260361",
         "Data":  "06/08/2026",
         "Cod. Cliente":  "C000223",
@@ -17,7 +27,7 @@
         "Data Consegna":  "06/09/2026",
         "Importo":  "6100.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "ARMADIO LEVTRONIC 900 LT -20°+40°CINOX, 1PORTA, CAP. 60 TEGLIE 60X40, V240/mf, W1.360, cm 81x101,5x208,5H."
     },
     {
         "N. Ordine":  "260365",
@@ -80,16 +90,6 @@
         "Note":  "SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte di vendita 260325."
     },
     {
-        "N. Ordine":  "260336",
-        "Data":  "29/07/2026",
-        "Cod. Cliente":  "C000835",
-        "Cliente":  "Panificio D\u0027IMPERIO snc",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "900.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE Basato su Offerte di vendita 260327."
-    },
-    {
         "N. Ordine":  "260329",
         "Data":  "28/07/2026",
         "Cod. Cliente":  "C001320",
@@ -118,16 +118,6 @@
         "Importo":  "27.450000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "TAGLIERE 40X30"
-    },
-    {
-        "N. Ordine":  "260323",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "C001308",
-        "Cliente":  "SOC. COOP. MARATEA SERVIZI A.R.L.",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "189.330000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260305",
