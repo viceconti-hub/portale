@@ -20,6 +20,26 @@
         "Note":  "CONTENTIORTI GASTRONORM"
     },
     {
+        "N. Ordine":  "260385",
+        "Data":  "11/08/2026",
+        "Cod. Cliente":  "C000954",
+        "Cliente":  "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA",
+        "Data Consegna":  "11/08/2026",
+        "Importo":  "377.130000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANCO (IMBALLO MINIMO 24 PEZZI) 96 Basato su Offerte di vendita 260348."
+    },
+    {
+        "N. Ordine":  "260386",
+        "Data":  "11/08/2026",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Data Consegna":  "11/08/2026",
+        "Importo":  "35.140000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "AFFILACOLTELLO MANUALE Basato su Offerte di vendita 260349."
+    },
+    {
         "N. Ordine":  "260376",
         "Data":  "07/08/2026",
         "Cod. Cliente":  "CO52980",
