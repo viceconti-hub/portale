@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260209",
+        "Data":  "11/08/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "11/08/2026",
+        "Importo":  "375.610000",
+        "Note":  "Basato su Ordini cliente 260381. 260385. 260386."
+    },
+    {
         "N. Ordine":  "260204",
         "Data":  "06/08/2026",
         "Cod. Fornitore":  "F000894",
@@ -81,15 +90,6 @@
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
-        "N. Ordine":  "260192",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "746.640000",
-        "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
-    },
-    {
         "N. Ordine":  "260193",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001573",
@@ -115,6 +115,15 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "114.290000",
         "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
+    },
+    {
+        "N. Ordine":  "260192",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "746.640000",
+        "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
     },
     {
         "N. Ordine":  "260186",
@@ -252,21 +261,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260145",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "876.070000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260148",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "164.540000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260145",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "876.070000",
         "Note":  ""
     },
     {
@@ -324,15 +333,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260078",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "128.390000",
-        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260129",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -340,6 +340,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "1960.660000",
         "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
+    },
+    {
+        "N. Ordine":  "260078",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "128.390000",
+        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
@@ -405,13 +414,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -423,13 +432,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
