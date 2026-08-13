@@ -216,13 +216,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260164",
+        "N. Ordine":  "260160",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
         "Fornitore":  "UNIVAC GROUP SRL",
         "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
+        "Importo":  "561.200000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260161",
@@ -234,13 +234,13 @@
         "Note":  "Basato su Ordini cliente 260258."
     },
     {
-        "N. Ordine":  "260160",
+        "N. Ordine":  "260164",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
         "Fornitore":  "UNIVAC GROUP SRL",
         "Data Consegna":  "08/07/2026",
-        "Importo":  "561.200000",
-        "Note":  ""
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260159",
@@ -261,21 +261,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -315,30 +315,21 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260144",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "142.920000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "09/06/2026",
         "Importo":  "20.980000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260144",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "142.920000",
         "Note":  ""
     },
     {
@@ -349,6 +340,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -468,15 +468,6 @@
         "Note":  "RICAMBI DA COMPLETARE"
     },
     {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "595.060000",
-        "Note":  "RICAMBI"
-    },
-    {
         "N. Ordine":  "250504",
         "Data":  "31/12/2025",
         "Cod. Fornitore":  "F050695",
@@ -484,6 +475,15 @@
         "Data Consegna":  "31/12/2025",
         "Importo":  "47.700000",
         "Note":  "RICAMBI DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "250351",
+        "Data":  "31/12/2025",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "31/12/2025",
+        "Importo":  "595.060000",
+        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250434",
