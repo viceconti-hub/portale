@@ -108,15 +108,6 @@
         "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
     },
     {
-        "N. Ordine":  "260184",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
-    },
-    {
         "N. Ordine":  "260187",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -126,13 +117,13 @@
         "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+        "N. Ordine":  "260184",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "114.290000",
+        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
         "N. Ordine":  "260186",
@@ -169,6 +160,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "61.570000",
         "Note":  "DISINCROSTANTE DS-3 PERGEL 1 Kg"
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260200",
@@ -288,15 +288,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260136",
-        "Data":  "15/06/2026",
-        "Cod. Fornitore":  "F000865",
-        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
-        "Data Consegna":  "20/05/2026",
-        "Importo":  "1088.610000",
-        "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
-    },
-    {
         "N. Ordine":  "260134",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -304,6 +295,15 @@
         "Data Consegna":  "15/06/2026",
         "Importo":  "568.520000",
         "Note":  "FA TU"
+    },
+    {
+        "N. Ordine":  "260136",
+        "Data":  "15/06/2026",
+        "Cod. Fornitore":  "F000865",
+        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
+        "Data Consegna":  "20/05/2026",
+        "Importo":  "1088.610000",
+        "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
     },
     {
         "N. Ordine":  "260146",
@@ -324,6 +324,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
+    },
+    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
@@ -340,15 +349,6 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
-    },
-    {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
