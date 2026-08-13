@@ -174,21 +174,5 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Importo":  "502.150000",
         "Note":  "DETERGENTE Basato su Ordini d\u0027acquisto 260162."
-    },
-    {
-        "N. DDT":  "260156",
-        "Data":  "14/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "420.970000",
-        "Note":  "VETRINA REFRIGERATA DA BANCO CON VETRO CURVO Basato su Offerte di vendita 260259. Basato su Ordini d\u0027acquisto 260166."
-    },
-    {
-        "N. DDT":  "260155",
-        "Data":  "14/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "884.500000",
-        "Note":  "ACAL TOP3+TOP6 Basato su Ordini cliente 260259. Basato su Ordini d\u0027acquisto 260165."
     }
 ]
