@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260381",
-        "Data":  "11/08/2026",
-        "Cod. Cliente":  "C000829",
-        "Cliente":  "Panificio AGRELLO di MICELI ANNA MARIA",
-        "Data Consegna":  "11/08/2026",
-        "Importo":  "66.220000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CESTA ALTA CHIUSA X TRASPORTO STRONG SOVRAPPONIBILE, CM 60x50xh36"
-    },
-    {
         "N. Ordine":  "260384",
         "Data":  "11/08/2026",
         "Cod. Cliente":  "CO51931",
@@ -18,16 +8,6 @@
         "Importo":  "15.470000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "CONTENTIORTI GASTRONORM"
-    },
-    {
-        "N. Ordine":  "260385",
-        "Data":  "11/08/2026",
-        "Cod. Cliente":  "C000954",
-        "Cliente":  "RISTORANTE CAZZANEDDA G.S. sas di SISINNI ANNA RITA",
-        "Data Consegna":  "11/08/2026",
-        "Importo":  "377.130000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPPETTA IMPILABILE Ø 10 CM H 5 CM COLLEZIONE X-TANBUL BIANCO (IMBALLO MINIMO 24 PEZZI) 96 Basato su Offerte di vendita 260348."
     },
     {
         "N. Ordine":  "260386",
