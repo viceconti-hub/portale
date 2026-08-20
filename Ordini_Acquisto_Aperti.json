@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260210",
+        "Data":  "20/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "20/09/2026",
+        "Importo":  "231.740000",
+        "Note":  "Basato su Offerte di vendita 260354."
+    },
+    {
         "N. Ordine":  "260204",
         "Data":  "06/08/2026",
         "Cod. Fornitore":  "F000894",
