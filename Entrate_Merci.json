@@ -86,37 +86,5 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Importo":  "145.730000",
         "Note":  "Guarnizione porta forno QUBI6 DL Basato su Ordini d\u0027acquisto 260190."
-    },
-    {
-        "N. DDT":  "260154",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "1619.550000",
-        "Note":  "TAVOLO REFRIGERATO VENTILATO -2+8°C Basato su Ordini d\u0027acquisto 260185."
-    },
-    {
-        "N. DDT":  "260152",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Importo":  "227.870000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260178."
-    },
-    {
-        "N. DDT":  "260151",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "293.410000",
-        "Note":  "Coppia guide tipo L 605 mm per griglie EN60x40 CORRADO MICHELA Basato su Ordini cliente 260256. BONIFICO DEL 21_07_2026 Basato su Ordini d\u0027acquisto 260157."
-    },
-    {
-        "N. DDT":  "260150",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Importo":  "514.550000",
-        "Note":  "Basato su Ordini cliente 260231. 260237. 260280. Basato su Ordini d\u0027acquisto 260170."
     }
 ]
