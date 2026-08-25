@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7527",
+        "Priorita":  "1",
+        "Utente":  "BIAGIO RIZZO",
+        "Data":  "25/08/2026",
+        "Ora Inizio":  "1500",
+        "Ora Fine":  "1600",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO51727",
+        "Cliente":  "I PASTICCI DI WALTER DI CHIAPPETTA WALTER E LISA A. SNC",
+        "Contenuto":  "BANCO BAR",
+        "Citta":  "LAURIA",
+        "Note":  "TROVANO GHIACCIO ALL\u0027INTERNO. IN PASSATO ABBIAMO SOSTITUITO LA SONDA"
+    },
+    {
         "N. Attivita":  "7526",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
