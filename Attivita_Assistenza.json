@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7528",
+        "Priorita":  "1",
+        "Utente":  "BIAGIO RIZZO",
+        "Data":  "25/08/2026",
+        "Ora Inizio":  "1100",
+        "Ora Fine":  "1200",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C050609",
+        "Cliente":  "TURIST CALABRIA SRL LA MANTINERA",
+        "Contenuto":  "FORNO RATIONAL SCCWE G2G",
+        "Citta":  "PRAIA A MARE",
+        "Note":  ""
+    },
+    {
         "N. Attivita":  "7527",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -12,48 +26,6 @@
         "Contenuto":  "BANCO BAR",
         "Citta":  "LAURIA",
         "Note":  "TROVANO GHIACCIO ALL\u0027INTERNO. IN PASSATO ABBIAMO SOSTITUITO LA SONDA"
-    },
-    {
-        "N. Attivita":  "7526",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "21/08/2026",
-        "Ora Inizio":  "1700",
-        "Ora Fine":  "1715",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C050606",
-        "Cliente":  "IL PESCESPADA di ALDO MALTESE",
-        "Contenuto":  "FRIGGITRICE ELETTRICA DA BANCO FR8,1VASCA 8LT,STRUTTUR,VASCA E COPERCHIO INOX,27X49X37cm,3kW,MONOF M",
-        "Citta":  "SCALEA",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7525",
-        "Priorita":  "1",
-        "Utente":  "prospero",
-        "Data":  "20/08/2026",
-        "Ora Inizio":  "1228",
-        "Ora Fine":  "1243",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52832",
-        "Cliente":  "FLAVIA DE MARCO",
-        "Contenuto":  "ABBATTITORE VISION F MOD.W5F,CAP.MAX 6 TEGLIE GN1/1/EN60x40 h2CM,-40°+65°C,PLUG-IN,5COPPIE GUIDA GN1",
-        "Citta":  "ROTONDA",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7523",
-        "Priorita":  "1",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "23/08/2026",
-        "Ora Inizio":  "1200",
-        "Ora Fine":  "1300",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C050795",
-        "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
-        "Contenuto":  "PELAPATE FIMAR",
-        "Citta":  "LAGONEGRO",
-        "Note":  "NON PELA"
     },
     {
         "N. Attivita":  "7518",
@@ -87,7 +59,7 @@
         "N. Attivita":  "7512",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
-        "Data":  "31/08/2026",
+        "Data":  "25/08/2026",
         "Ora Inizio":  "1100",
         "Ora Fine":  "1115",
         "Tipo":  "ASSISTENZA",
@@ -193,20 +165,6 @@
         "Cliente":  "PASTICCERIA ARTE DOLCIARIA TRECCHINESE di VICECONTI NICOLA BIAGIO",
         "Contenuto":  "OFFERTA SPECIALE PRODUTTORE DI GHIACCIO ARISTARCO CP 25.6W USATO PER COMODATO 2 SETTIMANE Basato su",
         "Citta":  "TRECCHINA",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7501",
-        "Priorita":  "1",
-        "Utente":  "da specificare",
-        "Data":  "20/08/2026",
-        "Ora Inizio":  "900",
-        "Ora Fine":  "1000",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52055",
-        "Cliente":  "LUKANIA TURISMO SRL",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO",
-        "Citta":  "VIGGIANELLO",
         "Note":  ""
     },
     {
