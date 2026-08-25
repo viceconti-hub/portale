@@ -45,15 +45,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
-    },
-    {
         "N. Ordine":  "260194",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -81,6 +72,15 @@
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
     },
     {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+    },
+    {
         "N. Ordine":  "260192",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001573",
@@ -90,13 +90,13 @@
         "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
     },
     {
-        "N. Ordine":  "260184",
+        "N. Ordine":  "260193",
         "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "630.740000",
+        "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
     },
     {
         "N. Ordine":  "260187",
@@ -108,13 +108,13 @@
         "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
-        "N. Ordine":  "260193",
+        "N. Ordine":  "260184",
         "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "630.740000",
-        "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "114.290000",
+        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
         "N. Ordine":  "260186",
@@ -207,15 +207,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260164",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
-    },
-    {
         "N. Ordine":  "260160",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
@@ -232,6 +223,15 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "297.680000",
         "Note":  "Basato su Ordini cliente 260258."
+    },
+    {
+        "N. Ordine":  "260164",
+        "Data":  "08/07/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Data Consegna":  "08/07/2026",
+        "Importo":  "671.430000",
+        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260159",
@@ -324,15 +324,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
-    },
-    {
         "N. Ordine":  "260078",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F001602",
@@ -340,6 +331,15 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "128.390000",
         "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260126",
@@ -405,13 +405,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -423,13 +423,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
