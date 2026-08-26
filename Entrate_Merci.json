@@ -54,21 +54,5 @@
         "Fornitore":  "TAMAI S.R.L.",
         "Importo":  "5228.920000",
         "Note":  "MS NAPOLEONE MATRICOLA 3073 Basato su Ordini cliente 260294. Basato su Ordini d\u0027acquisto 260173."
-    },
-    {
-        "N. DDT":  "260163",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F051515",
-        "Fornitore":  "CUSTOM SPA",
-        "Importo":  "215.940000",
-        "Note":  "GRUPPO STAMPANTE PER MARKET DA CRUSCO + BATTERIA PER MAG Basato su Ordini d\u0027acquisto 260183."
-    },
-    {
-        "N. DDT":  "260162",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "306.090000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260163. 260180. 260201."
     }
 ]
