@@ -1,5 +1,19 @@
 [
     {
+        "N. Attivita":  "7536",
+        "Priorita":  "1",
+        "Utente":  "prospero",
+        "Data":  "26/08/2026",
+        "Ora Inizio":  "2052",
+        "Ora Fine":  "2107",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52055",
+        "Cliente":  "LUKANIA TURISMO SRL",
+        "Contenuto":  "CUOCIPASTA A GAS MARENO NPCP76G",
+        "Citta":  "VIGGIANELLO",
+        "Note":  ""
+    },
+    {
         "N. Attivita":  "7535",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
@@ -93,7 +107,7 @@
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C000468",
         "Cliente":  "GESTIONI TURISTICHE LA TORRE SRL",
-        "Contenuto":  "FRIGGITRICE",
+        "Contenuto":  "FRIGGITRICE 2 VASCHE",
         "Citta":  "MARATEA",
         "Note":  "UNA DELLE DUE VASCHE NON SI ACCENDE"
     },
