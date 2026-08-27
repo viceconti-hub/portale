@@ -8,6 +8,14 @@
         "Note":  "CAZZANEDDA, PANIFICIO AGRELLO, HAPPY MOMENTS Basato su Ordini cliente 260381. 260385. 260386. Basato su Ordini d\u0027acquisto 260209."
     },
     {
+        "N. DDT":  "260170",
+        "Data":  "10/08/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Importo":  "92.420000",
+        "Note":  "RICAMBI PER TIME OUT + MAG Basato su Ordini d\u0027acquisto 260211."
+    },
+    {
         "N. DDT":  "260169",
         "Data":  "05/08/2026",
         "Cod. Fornitore":  "F001569",
@@ -30,29 +38,5 @@
         "Fornitore":  "MORINI s.r.l.",
         "Importo":  "566.400000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336. Basato su Ordini d\u0027acquisto 260196."
-    },
-    {
-        "N. DDT":  "260165",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "3303.200000",
-        "Note":  "FLAVIA DE MARCO + MAG Basato su Ordini cliente 260257. Basato su Ordini d\u0027acquisto 260158."
-    },
-    {
-        "N. DDT":  "260161",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "98.720000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260180. 260198."
-    },
-    {
-        "N. DDT":  "260157",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F051353",
-        "Fornitore":  "TAMAI S.R.L.",
-        "Importo":  "5228.920000",
-        "Note":  "MS NAPOLEONE MATRICOLA 3073 Basato su Ordini cliente 260294. Basato su Ordini d\u0027acquisto 260173."
     }
 ]
