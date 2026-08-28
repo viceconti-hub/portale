@@ -46,5 +46,13 @@
         "Fornitore":  "MORINI s.r.l.",
         "Importo":  "566.400000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336. Basato su Ordini d\u0027acquisto 260196."
+    },
+    {
+        "N. DDT":  "260172",
+        "Data":  "30/07/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "170.190000",
+        "Note":  "Kit ventilatore Ø250 4 fili è il codice O18300016001 PER MODELLI POST 2019 PER NERA Basato su Ordini d\u0027acquisto 260213."
     }
 ]
