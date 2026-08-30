@@ -5,9 +5,19 @@
         "Cod. Cliente":  "C051108",
         "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
         "Data Consegna":  "29/08/2026",
-        "Importo":  "291.580000",
+        "Importo":  "262.420000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29/08/2026)"
+    },
+    {
+        "N. Ordine":  "260422",
+        "Data":  "29/08/2026",
+        "Cod. Cliente":  "CO52790",
+        "Cliente":  "GASTRONOMIA GRIGLIERIA TAKE AWAY DE DIEGO DI LUISINA TERESA CAMPAGNA",
+        "Data Consegna":  "29/08/2026",
+        "Importo":  "138.350000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "RAT DET VERDE"
     },
     {
         "N. Ordine":  "260420",
