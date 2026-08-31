@@ -30,16 +30,6 @@
         "Note":  "DETERGENTE RATIONAL"
     },
     {
-        "N. Ordine":  "260417",
-        "Data":  "27/08/2026",
-        "Cod. Cliente":  "C000981",
-        "Cliente":  "BAR RISTORANTE FREEDOM ROSSINO S.R.L.S.",
-        "Data Consegna":  "27/08/2026",
-        "Importo":  "24.000000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE"
-    },
-    {
         "N. Ordine":  "260409",
         "Data":  "24/08/2026",
         "Cod. Cliente":  "C001501",
@@ -58,16 +48,6 @@
         "Importo":  "117.800000",
         "Agente":  "VENDITA RICAMBI",
         "Note":  "LAMA PER AFF.300 Ø EST 300 Ø FORO 57 VITI 4 Ø INT. 254 H 22,5 MAT. C45"
-    },
-    {
-        "N. Ordine":  "260401",
-        "Data":  "20/08/2026",
-        "Cod. Cliente":  "C001093",
-        "Cliente":  "VELARDI Srl",
-        "Data Consegna":  "20/08/2026",
-        "Importo":  "262.420000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE RATIONAL"
     },
     {
         "N. Ordine":  "260400",
