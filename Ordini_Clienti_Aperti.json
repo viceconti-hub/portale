@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260425",
+        "Data":  "31/08/2026",
+        "Cod. Cliente":  "C000113",
+        "Cliente":  "LA SECCA di FULCO ANTONIO",
+        "Data Consegna":  "31/08/2026",
+        "Importo":  "550.000000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "PENSILE ANTE SCORREVOLI C/1 RIPIANO INTERNO REGOLABILE LISCIO,ACCIAIO AISI 304, 120X40X60 CM Basato su Offerte di vendita 260405."
+    },
+    {
         "N. Ordine":  "260421",
         "Data":  "29/08/2026",
         "Cod. Cliente":  "C051108",
@@ -108,6 +118,16 @@
         "Importo":  "4200.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336."
+    },
+    {
+        "N. Ordine":  "260340",
+        "Data":  "30/07/2026",
+        "Cod. Cliente":  "CO52316",
+        "Cliente":  "PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR",
+        "Data Consegna":  "30/07/2026",
+        "Importo":  "240.000000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "CASSERUOLA INOX + 2 SPICCHI ALLUMINIO Basato su Offerte di vendita 260328."
     },
     {
         "N. Ordine":  "260333",
