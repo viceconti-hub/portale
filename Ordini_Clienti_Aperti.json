@@ -10,26 +10,6 @@
         "Note":  "PENSILE ANTE SCORREVOLI C/1 RIPIANO INTERNO REGOLABILE LISCIO,ACCIAIO AISI 304, 120X40X60 CM Basato su Offerte di vendita 260405."
     },
     {
-        "N. Ordine":  "260421",
-        "Data":  "29/08/2026",
-        "Cod. Cliente":  "C051108",
-        "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
-        "Data Consegna":  "29/08/2026",
-        "Importo":  "262.420000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "DETERSIVI RATIONAL VERDE + BLU (ordine da messaggio vocale 29/08/2026)"
-    },
-    {
-        "N. Ordine":  "260420",
-        "Data":  "28/08/2026",
-        "Cod. Cliente":  "C050882",
-        "Cliente":  "LA REGINA S.r.l. Servizi e Logistica",
-        "Data Consegna":  "28/08/2026",
-        "Importo":  "262.420000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE RATIONAL"
-    },
-    {
         "N. Ordine":  "260409",
         "Data":  "24/08/2026",
         "Cod. Cliente":  "C001501",
@@ -38,16 +18,6 @@
         "Importo":  "61.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAGLIERE 70X40X2 Basato su Offerte di vendita 260363."
-    },
-    {
-        "N. Ordine":  "260414",
-        "Data":  "21/08/2026",
-        "Cod. Cliente":  "CO52984",
-        "Cliente":  "ANTONIOLLI KATIA",
-        "Data Consegna":  "21/08/2026",
-        "Importo":  "117.800000",
-        "Agente":  "VENDITA RICAMBI",
-        "Note":  "LAMA PER AFF.300 Ø EST 300 Ø FORO 57 VITI 4 Ø INT. 254 H 22,5 MAT. C45"
     },
     {
         "N. Ordine":  "260400",
@@ -98,26 +68,6 @@
         "Importo":  "4200.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ARMADIO FRIGO E CONGELATORE COLDLINE Basato su Offerte di vendita 260336."
-    },
-    {
-        "N. Ordine":  "260340",
-        "Data":  "30/07/2026",
-        "Cod. Cliente":  "CO52316",
-        "Cliente":  "PECCATI DI GOLA DA WALTER PIZZERIA - ROSTICCERIA - BAR",
-        "Data Consegna":  "30/07/2026",
-        "Importo":  "240.000000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "CASSERUOLA INOX + 2 SPICCHI ALLUMINIO Basato su Offerte di vendita 260328."
-    },
-    {
-        "N. Ordine":  "260333",
-        "Data":  "29/07/2026",
-        "Cod. Cliente":  "C050617",
-        "Cliente":  "CONVENTO FRATI MINORI CAPPUCCINI S.ANTONIO",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "1780.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SEGAOSSI IN ALLUMINIO ANOD.TO MOD.SE1830A Basato su Offerte di vendita 260325."
     },
     {
         "N. Ordine":  "260330",
@@ -190,16 +140,6 @@
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
-        "N. Ordine":  "260199",
-        "Data":  "09/06/2026",
-        "Cod. Cliente":  "CO52939",
-        "Cliente":  "PASSION SUSHI ABDULREMANE MOMADE CASSIMO",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "5405.380000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE LAVAGGIO Basato su Offerte di vendita 260200."
-    },
-    {
         "N. Ordine":  "260192",
         "Data":  "08/06/2026",
         "Cod. Cliente":  "C050650",
@@ -208,16 +148,6 @@
         "Importo":  "239.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA AFFETTATTRICE"
-    },
-    {
-        "N. Ordine":  "260182",
-        "Data":  "03/06/2026",
-        "Cod. Cliente":  "C001614",
-        "Cliente":  "FORASTIERO FRANCESCO",
-        "Data Consegna":  "03/06/2026",
-        "Importo":  "611.870000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RICAMBI ATA Basato su Offerte di vendita 260188."
     },
     {
         "N. Ordine":  "260289",
@@ -250,16 +180,6 @@
         "Note":  "IMPASTATRICE Basato su Offerte di vendita 260124. APPLICATO SCONTO ULTERIORE COMUNICATO TELEFONICAMENTE"
     },
     {
-        "N. Ordine":  "260128",
-        "Data":  "07/05/2026",
-        "Cod. Cliente":  "CO51863",
-        "Cliente":  "IL LUCANO SRLS",
-        "Data Consegna":  "08/05/2026",
-        "Importo":  "3.430000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COPERCHIO 1/2 AD INTEGRAZIONE"
-    },
-    {
         "N. Ordine":  "260118",
         "Data":  "01/05/2026",
         "Cod. Cliente":  "CO52939",
@@ -290,16 +210,6 @@
         "Note":  "ATTREZZATURE PROFESSIONALI Riferimento Bozza Progetto"
     },
     {
-        "N. Ordine":  "260067",
-        "Data":  "12/03/2026",
-        "Cod. Cliente":  "C051500",
-        "Cliente":  "LA DOLCE VITA SRLS",
-        "Data Consegna":  "12/03/2026",
-        "Importo":  "27.180000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "TERMOMETRO DIGITALE"
-    },
-    {
         "N. Ordine":  "260004",
         "Data":  "10/01/2026",
         "Cod. Cliente":  "CO52910",
@@ -318,16 +228,6 @@
         "Importo":  "49.780000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "TAPPO SAFEGUARD W.S. COSMETAL"
-    },
-    {
-        "N. Ordine":  "250924",
-        "Data":  "18/12/2025",
-        "Cod. Cliente":  "CO52897",
-        "Cliente":  "GARGANO TOPTUR SRL - HOTEL LE GINESTRE",
-        "Data Consegna":  "18/12/2025",
-        "Importo":  "208.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "MEDINA VASSOIO Basato su Offerte di vendita 250959."
     },
     {
         "N. Ordine":  "250878",
@@ -378,16 +278,6 @@
         "Importo":  "15117.070000",
         "Agente":  "PROGETTAZIONE",
         "Note":  "Basato su Offerte di vendita 250806. EMESSA FATTURA DI ANTICIPO"
-    },
-    {
-        "N. Ordine":  "250219",
-        "Data":  "14/04/2025",
-        "Cod. Cliente":  "C050910",
-        "Cliente":  "DA FELICE srl",
-        "Data Consegna":  "14/04/2025",
-        "Importo":  "29.280000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "RICAMBI SIRMAN"
     },
     {
         "N. Ordine":  "241114",
