@@ -2,16 +2,16 @@
     {
         "N. Attivita":  "7631",
         "Priorita":  "1",
-        "Utente":  "prospero",
+        "Utente":  "EGIDIO PERRETTA",
         "Data":  "04/09/2026",
         "Ora Inizio":  "1357",
         "Ora Fine":  "1412",
         "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "",
-        "Cliente":  "",
-        "Contenuto":  "L\u0027Approdo produttore di ghiaccio non produce",
-        "Citta":  "",
-        "Note":  "CLIENTE DA SPECIFICARE: Lapprodo\rL\u0027Approdo produttore di ghiaccio non produce"
+        "Cod. Cliente":  "C050971",
+        "Cliente":  "L\u0027APPRODO srl",
+        "Contenuto":  "L\u0027APPRODO LIDO DI CASTROCUCCO",
+        "Citta":  "MARATEA",
+        "Note":  "produttore di ghiaccio non produce"
     },
     {
         "N. Attivita":  "7627",
@@ -24,7 +24,7 @@
         "Cod. Cliente":  "CO52534",
         "Cliente":  "LA PERLA DEL TIRRENO SRLS",
         "Contenuto":  "perla del Tirreno Maratea Affettatrice controllo lama e coprilama. Il coprilama ha un dente che rovi",
-        "Citta":  "",
+        "Citta":  "MARATEA",
         "Note":  "perla del Tirreno Maratea Affettatrice controllo lama e coprilama. Il coprilama ha un dente che rovina la fetta"
     },
     {
@@ -38,7 +38,7 @@
         "Cod. Cliente":  "C051108",
         "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
         "Contenuto":  "SANGINETO FORNO RATIONAL PREDITA DURANTE IL LAVAGGIO, CONTATTARE MARCHIANO\u0027 PER INTERVENTO",
-        "Citta":  "",
+        "Citta":  "SAN NICOLA ARCELLA",
         "Note":  "SANGINETO FORNO RATIONAL PREDITA DURANTE IL LAVAGGIO, CONTATTARE MARCHIANO\u0027 PER INTERVENTO"
     },
     {
@@ -52,7 +52,7 @@
         "Cod. Cliente":  "CO52548",
         "Cliente":  "DIVINO ENOTECA DI PANTSULAYA SHORENA",
         "Contenuto":  "Divino Maratea Affettatrice: ritirare, portare macchina in sostituzione",
-        "Citta":  "",
+        "Citta":  "MARATEA",
         "Note":  "Divino Maratea Affettatrice: ritirare, portare macchina in sostituzione"
     },
     {
@@ -66,7 +66,7 @@
         "Cod. Cliente":  "C050795",
         "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
         "Contenuto":  "Ai Carconi Cuocipasta Ata 110 cm: ritirare per revisione e saldatura vasca",
-        "Citta":  "",
+        "Citta":  "LAGONEGRO",
         "Note":  "Ai Carconi Cuocipasta Ata 110 cm: ritirare per revisione e saldatura vasca"
     },
     {
@@ -80,7 +80,7 @@
         "Cod. Cliente":  "C051449",
         "Cliente":  "FRATTA ENZO",
         "Contenuto":  "birrificio, fratta, cuocipasta, richiesta trasformazione da metano a gpl, vedi foto whatsapp per i d",
-        "Citta":  "",
+        "Citta":  "ROTONDA",
         "Note":  "birrificio, fratta, cuocipasta, richiesta trasformazione da metano a gpl, vedi foto whatsapp per i dati della macchina"
     },
     {
@@ -94,7 +94,7 @@
         "Cod. Cliente":  "C051381",
         "Cliente":  "PANIFICIO DOLCEPANE S.R.L.",
         "Contenuto":  "Panificio DolcePane Tortora Affettatrice: eccentrico regolazione lama non funziona",
-        "Citta":  "",
+        "Citta":  "TORTORA",
         "Note":  "Panificio DolcePane Tortora Affettatrice: eccentrico regolazione lama non funziona"
     },
     {
@@ -108,7 +108,7 @@
         "Cod. Cliente":  "C001093",
         "Cliente":  "VELARDI Srl",
         "Contenuto":  "Velardi Fiumicello Grattugia Fimar ordinare tappo laterale",
-        "Citta":  "",
+        "Citta":  "MARATEA",
         "Note":  "Velardi Fiumicello Grattugia Fimar ordinare tappo laterale"
     },
     {
@@ -122,7 +122,7 @@
         "Cod. Cliente":  "C000405",
         "Cliente":  "SIRTAKI S.R.L.S",
         "Contenuto":  "SIRTAKI RATIONAL MANOPOLA",
-        "Citta":  "",
+        "Citta":  "NEMOLI",
         "Note":  "SIRTAKI RATIONAL MANOPOLA"
     },
     {
@@ -136,35 +136,35 @@
         "Cod. Cliente":  "C050795",
         "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
         "Contenuto":  "AI CARCONI GRIGLIA A PIETRA LAVICA: ORDINARE 4 BRUCIATORI",
-        "Citta":  "",
+        "Citta":  "LAGONEGRO",
         "Note":  "AI CARCONI GRIGLIA A PIETRA LAVICA: ORDINARE 4 BRUCIATORI"
     },
     {
         "N. Attivita":  "7608",
         "Priorita":  "1",
         "Utente":  "EGIDIO PERRETTA",
-        "Data":  "03/09/2026",
+        "Data":  "04/09/2026",
         "Ora Inizio":  "1018",
         "Ora Fine":  "1033",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "CO52615",
         "Cliente":  "M\u0026M SRL",
         "Contenuto":  "LAVASTOVIGLIE ELETTRONICA AF50.35 ESI DD, CESTO 50x50, 2 DOSATORI, hBICC 35cm, CICLO 90/120/180, 57x",
-        "Citta":  "",
+        "Citta":  "TORTORA",
         "Note":  "PROBLEMI DI LAVAGGIO: I CALICI ESCONO MACCHIATI. VERIFICARE PRESSIONE DELL\u0027ACQUA"
     },
     {
         "N. Attivita":  "7607",
         "Priorita":  "1",
         "Utente":  "EGIDIO PERRETTA",
-        "Data":  "03/09/2026",
+        "Data":  "04/09/2026",
         "Ora Inizio":  "1006",
         "Ora Fine":  "1021",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C001568",
         "Cliente":  "LACAVA VINCENZO SOCIETA\u0027 A RESPONSABILITA\u0027 LIMITATA BAR SMILE",
         "Contenuto":  "LAVABICCHIERI ELETTRONICA AF35.25E RB,CESTO TONDO ø 35 CM,2 DOSATORI ,h UTILE 25cm, CICLO 90/120/180",
-        "Citta":  "",
+        "Citta":  "PRAIA A MARE",
         "Note":  "CONTROLLARE INSTALLAZIONE EFFETTUATA DAL CLIENTE \rMONTARE I PIEDI: 1 NON SI AVVITA"
     },
     {
@@ -560,20 +560,6 @@
         "Note":  "SOSTITUIRE RESISTENZE"
     },
     {
-        "N. Attivita":  "7488",
-        "Priorita":  "2",
-        "Utente":  "Gianni",
-        "Data":  "06/08/2026",
-        "Ora Inizio":  "1800",
-        "Ora Fine":  "1900",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001360",
-        "Cliente":  "SUPERMERCATO A POTEGA I FIFINA di PALETTA GIOACCHINO",
-        "Contenuto":  "AFFETTATRICE",
-        "Citta":  "TRECCHINA",
-        "Note":  "NON PARTE"
-    },
-    {
         "N. Attivita":  "7486",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -731,7 +717,7 @@
         "N. Attivita":  "7409",
         "Priorita":  "1",
         "Utente":  "EGIDIO PERRETTA",
-        "Data":  "17/08/2026",
+        "Data":  "04/09/2026",
         "Ora Inizio":  "900",
         "Ora Fine":  "1000",
         "Tipo":  "ASSISTENZA",
@@ -743,9 +729,9 @@
     },
     {
         "N. Attivita":  "7391",
-        "Priorita":  "2",
+        "Priorita":  "1",
         "Utente":  "EGIDIO PERRETTA",
-        "Data":  "17/08/2026",
+        "Data":  "04/09/2026",
         "Ora Inizio":  "900",
         "Ora Fine":  "1000",
         "Tipo":  "ASSISTENZA",
@@ -785,7 +771,7 @@
     },
     {
         "N. Attivita":  "7345",
-        "Priorita":  "2",
+        "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "17/08/2026",
         "Ora Inizio":  "1500",
@@ -1018,7 +1004,7 @@
         "Cod. Cliente":  "C001320",
         "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
         "Contenuto":  "",
-        "Citta":  "",
+        "Citta":  "LAURIA",
         "Note":  "MATTONELLA SALE MATURATORE\r\r+ CESTELLI FRIGGITRICE BERTO\u0027S\r\r---\rTest scrittura Service Layer 14/03/2026"
     },
     {
@@ -1051,7 +1037,7 @@
     },
     {
         "N. Attivita":  "7171",
-        "Priorita":  "2",
+        "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "30/07/2026",
         "Ora Inizio":  "900",
@@ -1107,7 +1093,7 @@
     },
     {
         "N. Attivita":  "7140",
-        "Priorita":  "2",
+        "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "30/04/2026",
         "Ora Inizio":  "1912",
