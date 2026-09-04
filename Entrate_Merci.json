@@ -22,21 +22,5 @@
         "Fornitore":  "COMENDA ALI GROUP SRL",
         "Importo":  "92.420000",
         "Note":  "RICAMBI PER TIME OUT + MAG Basato su Ordini d\u0027acquisto 260211."
-    },
-    {
-        "N. DDT":  "260169",
-        "Data":  "05/08/2026",
-        "Cod. Fornitore":  "F001569",
-        "Fornitore":  "VAN BERKEL INTERNATIONAL SRL",
-        "Importo":  "107.930000",
-        "Note":  "SCHEDA ELETTRONICA PER OMAS L 37S MATRICOLA: 026305 RIF. PALETTA Basato su Ordini d\u0027acquisto 260208."
-    },
-    {
-        "N. DDT":  "260167",
-        "Data":  "05/08/2026",
-        "Cod. Fornitore":  "F051358",
-        "Fornitore":  "STAFF ICE SYSTEM SRL",
-        "Importo":  "100.280000",
-        "Note":  "RICAMBI PER PESCHERIA AZZURRA Basato su Ordini d\u0027acquisto 260205."
     }
 ]
