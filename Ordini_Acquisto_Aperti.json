@@ -36,6 +36,15 @@
         "Note":  "TERMOREGOLATORE MICROSTAT PECCATI DI GOLA Basato su Offerte di vendita 260354."
     },
     {
+        "N. Ordine":  "260203",
+        "Data":  "06/08/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "06/08/2026",
+        "Importo":  "143.960000",
+        "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm"
+    },
+    {
         "N. Ordine":  "260204",
         "Data":  "06/08/2026",
         "Cod. Fornitore":  "F000894",
@@ -52,15 +61,6 @@
         "Data Consegna":  "05/08/2026",
         "Importo":  "402.600000",
         "Note":  "GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E MACH 120)"
-    },
-    {
-        "N. Ordine":  "260203",
-        "Data":  "05/08/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "05/08/2026",
-        "Importo":  "143.960000",
-        "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm"
     },
     {
         "N. Ordine":  "260197",
