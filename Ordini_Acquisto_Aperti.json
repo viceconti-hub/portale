@@ -27,6 +27,15 @@
         "Note":  "Basato su Ordini cliente 260442."
     },
     {
+        "N. Ordine":  "260222",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F051184",
+        "Fornitore":  "LOTUS spa",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "174.240000",
+        "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
+    },
+    {
         "N. Ordine":  "260216",
         "Data":  "08/09/2026",
         "Cod. Fornitore":  "F001602",
