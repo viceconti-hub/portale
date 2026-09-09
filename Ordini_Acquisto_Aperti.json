@@ -18,6 +18,15 @@
         "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
     },
     {
+        "N. Ordine":  "260221",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "162.500000",
+        "Note":  "Basato su Ordini cliente 260442."
+    },
+    {
         "N. Ordine":  "260216",
         "Data":  "08/09/2026",
         "Cod. Fornitore":  "F001602",
