@@ -36,6 +36,15 @@
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
+        "N. Ordine":  "260223",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "1205.360000",
+        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
+    },
+    {
         "N. Ordine":  "260216",
         "Data":  "08/09/2026",
         "Cod. Fornitore":  "F001602",
