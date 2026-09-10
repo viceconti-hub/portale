@@ -3,7 +3,7 @@
         "N. Attivita":  "7678",
         "Priorita":  "1",
         "Utente":  "FRANCESCO FORASTIERO",
-        "Data":  "10/09/2026",
+        "Data":  "11/09/2026",
         "Ora Inizio":  "943",
         "Ora Fine":  "958",
         "Tipo":  "ASSISTENZA",
@@ -17,7 +17,7 @@
         "N. Attivita":  "7676",
         "Priorita":  "1",
         "Utente":  "prospero",
-        "Data":  "10/09/2026",
+        "Data":  "11/09/2026",
         "Ora Inizio":  "1947",
         "Ora Fine":  "2002",
         "Tipo":  "CONSEGNA",
@@ -54,34 +54,6 @@
         "Contenuto":  "CONFEZIONATR. SOTTOVUOTO VM98 (compreso imballo)",
         "Citta":  "LAURIA",
         "Note":  "BISOGNA PRESSARE FORTE LA BARRA PER FAR PARTIRE L\u0027ASPIRAZIONE"
-    },
-    {
-        "N. Attivita":  "7658",
-        "Priorita":  "1",
-        "Utente":  "EGIDIO PERRETTA",
-        "Data":  "08/09/2026",
-        "Ora Inizio":  "1000",
-        "Ora Fine":  "1100",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001722",
-        "Cliente":  "PIZZERIA LA STELLINA di SIGARI GIUSEPPE",
-        "Contenuto":  "Lavastoviglie kRUPPS",
-        "Citta":  "TORTORA",
-        "Note":  "sostituire tubo di scarico+sistemazione tubicino brillantante (mercoledì no)"
-    },
-    {
-        "N. Attivita":  "7657",
-        "Priorita":  "1",
-        "Utente":  "EGIDIO PERRETTA",
-        "Data":  "08/09/2026",
-        "Ora Inizio":  "900",
-        "Ora Fine":  "1000",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C000003",
-        "Cliente":  "A.L.I.T.U.R. srl Campeggio Maratea",
-        "Contenuto":  "FORNO ELETTRICO MOD.QUBI6 COMBINATO 6 TEGLIE GN1/1, TOUCH SCREEN,30°-300°C, BOILER,LAVAGGIO, RICETTA",
-        "Citta":  "MARATEA",
-        "Note":  "PERDE ACQUA"
     },
     {
         "N. Attivita":  "7645",
@@ -348,20 +320,6 @@
         "Contenuto":  "AFFETTATRICE SWEDLINGHAUS VM30 MONOFASE",
         "Citta":  "MARATEA",
         "Note":  "RITIRARE MACCHINA IN SOSTITUZIONE"
-    },
-    {
-        "N. Attivita":  "7543",
-        "Priorita":  "1",
-        "Utente":  "EGIDIO PERRETTA",
-        "Data":  "08/09/2026",
-        "Ora Inizio":  "1100",
-        "Ora Fine":  "1200",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52567",
-        "Cliente":  "CARACOJ PRAJA SRL",
-        "Contenuto":  "PRODUTTORE DI GHIACCIO CB955W INOX,CUBETTO PIENO, CAP.55KG, RAFFREDDAMENTO ACQUA, PRODUZIONE 95KG/24",
-        "Citta":  "PRAIA A MARE",
-        "Note":  "I CUBETTI SONO BUCATI. INTERVENTO CONCORDATO LUNEDI\u0027 31/08. MATRICOLA DA VERIFICARE SULLA TARGHETTA (2 MACCHINE UGUALI: 1330079 / 1330080)"
     },
     {
         "N. Attivita":  "7539",
