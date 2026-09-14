@@ -9,6 +9,15 @@
         "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
+        "N. Ordine":  "260219",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "7238.520000",
+        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
+    },
+    {
         "N. Ordine":  "260221",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -34,15 +43,6 @@
         "Data Consegna":  "30/09/2026",
         "Importo":  "1205.360000",
         "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
-    },
-    {
-        "N. Ordine":  "260219",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "7238.520000",
-        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
     },
     {
         "N. Ordine":  "260216",
@@ -117,6 +117,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+    },
+    {
         "N. Ordine":  "260194",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -133,15 +142,6 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
-    },
-    {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -189,15 +189,6 @@
         "Note":  "FRYTOP A GAS PER COZZI Basato su Ordini cliente 260324."
     },
     {
-        "N. Ordine":  "260220",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "0.000000",
-        "Note":  "SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C"
-    },
-    {
         "N. Ordine":  "260179",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000826",
@@ -232,6 +223,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+    },
+    {
+        "N. Ordine":  "260220",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "0.000000",
+        "Note":  "SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C"
     },
     {
         "N. Ordine":  "260200",
@@ -351,15 +351,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260136",
-        "Data":  "15/06/2026",
-        "Cod. Fornitore":  "F000865",
-        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
-        "Data Consegna":  "20/05/2026",
-        "Importo":  "1088.610000",
-        "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
-    },
-    {
         "N. Ordine":  "260134",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F050748",
@@ -369,6 +360,15 @@
         "Note":  "FA TU"
     },
     {
+        "N. Ordine":  "260136",
+        "Data":  "15/06/2026",
+        "Cod. Fornitore":  "F000865",
+        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
+        "Data Consegna":  "20/05/2026",
+        "Importo":  "1088.610000",
+        "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
+    },
+    {
         "N. Ordine":  "260146",
         "Data":  "11/06/2026",
         "Cod. Fornitore":  "F000102",
@@ -376,6 +376,15 @@
         "Data Consegna":  "11/06/2026",
         "Importo":  "62.650000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260129",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260143",
@@ -394,15 +403,6 @@
         "Data Consegna":  "09/06/2026",
         "Importo":  "142.920000",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260129",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260078",
@@ -468,13 +468,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -486,13 +486,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
