@@ -10,6 +10,16 @@
         "Note":  "Basato su Offerte di vendita 260418."
     },
     {
+        "N. Ordine":  "260451",
+        "Data":  "11/09/2026",
+        "Cod. Cliente":  "CO52993",
+        "Cliente":  "DILETTA LABORANTI",
+        "Data Consegna":  "11/09/2026",
+        "Importo":  "1145.260000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "CANTINETTA 150 LITRI - 2 ZONE CHIAMARE PRIMA DELLA CONSEGNA PAGAMENTO: PAYPAL"
+    },
+    {
         "N. Ordine":  "260442",
         "Data":  "09/09/2026",
         "Cod. Cliente":  "CO52991",
@@ -85,9 +95,9 @@
         "Cod. Cliente":  "CO52988",
         "Cliente":  "PUGLIESE MATTIA",
         "Data Consegna":  "05/09/2026",
-        "Importo":  "12200.000000",
+        "Importo":  "11468.000000",
         "Agente":  "PROGETTAZIONE",
-        "Note":  "ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416."
+        "Note":  "ATTREZZATURE PIZZERIA Basato su Offerte di vendita 260416. ORDINE AGGIORNATO IL 14/09/2026"
     },
     {
         "N. Ordine":  "260431",
