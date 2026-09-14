@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
+    },
+    {
         "N. Ordine":  "260221",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -18,13 +27,13 @@
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
-        "N. Ordine":  "260217",
+        "N. Ordine":  "260223",
         "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "30/09/2026",
+        "Importo":  "1205.360000",
+        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
     },
     {
         "N. Ordine":  "260219",
@@ -34,15 +43,6 @@
         "Data Consegna":  "09/09/2026",
         "Importo":  "7238.520000",
         "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
-    },
-    {
-        "N. Ordine":  "260223",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "30/09/2026",
-        "Importo":  "1205.360000",
-        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
     },
     {
         "N. Ordine":  "260216",
@@ -117,13 +117,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
+        "N. Ordine":  "260194",
         "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "88.540000",
+        "Note":  "ELETTROVALVOLE BREMA"
     },
     {
         "N. Ordine":  "260196",
@@ -135,13 +135,13 @@
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
     },
     {
-        "N. Ordine":  "260194",
+        "N. Ordine":  "260189",
         "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "88.540000",
-        "Note":  "ELETTROVALVOLE BREMA"
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -189,6 +189,15 @@
         "Note":  "FRYTOP A GAS PER COZZI Basato su Ordini cliente 260324."
     },
     {
+        "N. Ordine":  "260220",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "0.000000",
+        "Note":  "SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C"
+    },
+    {
         "N. Ordine":  "260179",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000826",
@@ -223,15 +232,6 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
-        "N. Ordine":  "260220",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "0.000000",
-        "Note":  "SONDA NTC 10K RANGE DI TEMPERATURA -50 +110°C"
     },
     {
         "N. Ordine":  "260200",
@@ -378,21 +378,21 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260078",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "128.390000",
-        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
-    },
-    {
         "N. Ordine":  "260143",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "09/06/2026",
         "Importo":  "20.980000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260144",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "142.920000",
         "Note":  ""
     },
     {
@@ -405,13 +405,13 @@
         "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
-        "N. Ordine":  "260144",
+        "N. Ordine":  "260078",
         "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
         "Data Consegna":  "09/06/2026",
-        "Importo":  "142.920000",
-        "Note":  ""
+        "Importo":  "128.390000",
+        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
