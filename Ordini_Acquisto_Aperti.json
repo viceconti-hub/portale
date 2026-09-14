@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260219",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "7238.520000",
+        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
+    },
+    {
         "N. Ordine":  "260217",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -9,13 +18,13 @@
         "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
-        "N. Ordine":  "260219",
+        "N. Ordine":  "260223",
         "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "7238.520000",
-        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "30/09/2026",
+        "Importo":  "1205.360000",
+        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
     },
     {
         "N. Ordine":  "260221",
@@ -34,15 +43,6 @@
         "Data Consegna":  "09/09/2026",
         "Importo":  "174.240000",
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
-    },
-    {
-        "N. Ordine":  "260223",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "30/09/2026",
-        "Importo":  "1205.360000",
-        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
     },
     {
         "N. Ordine":  "260216",
@@ -126,15 +126,6 @@
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
-        "N. Ordine":  "260194",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "88.540000",
-        "Note":  "ELETTROVALVOLE BREMA"
-    },
-    {
         "N. Ordine":  "260196",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -142,6 +133,15 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
+    },
+    {
+        "N. Ordine":  "260194",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "88.540000",
+        "Note":  "ELETTROVALVOLE BREMA"
     },
     {
         "N. Ordine":  "260192",
@@ -324,21 +324,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -351,15 +351,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260134",
-        "Data":  "15/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "568.520000",
-        "Note":  "FA TU"
-    },
-    {
         "N. Ordine":  "260136",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F000865",
@@ -367,6 +358,15 @@
         "Data Consegna":  "20/05/2026",
         "Importo":  "1088.610000",
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
+    },
+    {
+        "N. Ordine":  "260134",
+        "Data":  "15/06/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "568.520000",
+        "Note":  "FA TU"
     },
     {
         "N. Ordine":  "260146",
@@ -378,13 +378,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260129",
+        "N. Ordine":  "260144",
         "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "09/06/2026",
-        "Importo":  "1960.660000",
-        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
+        "Importo":  "142.920000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260143",
@@ -396,13 +396,13 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260144",
+        "N. Ordine":  "260129",
         "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "09/06/2026",
-        "Importo":  "142.920000",
-        "Note":  ""
+        "Importo":  "1960.660000",
+        "Note":  "PASSION SUSHI INTEGRAZIONE LAVAGGIO Basato su Ordini cliente 260199."
     },
     {
         "N. Ordine":  "260078",
@@ -468,13 +468,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -486,13 +486,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
