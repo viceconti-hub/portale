@@ -42,16 +42,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "16/10/2026",
         "Importo":  "1139.480000",
-        "Note":  "Basato su Ordini cliente 260448."
-    },
-    {
-        "N. Ordine":  "260230",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F051398",
-        "Fornitore":  "EPTA S.p.A.",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "15856.950000",
-        "Note":  "Basato su Ordini cliente 260448."
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
         "N. Ordine":  "260231",
@@ -68,8 +59,8 @@
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "05/09/2026",
-        "Importo":  "5932.370000",
-        "Note":  "Basato su Ordini cliente 260434."
+        "Importo":  "2635.860000",
+        "Note":  "BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA  Basato su Ordini cliente 260434."
     },
     {
         "N. Ordine":  "260233",
@@ -77,8 +68,8 @@
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "05/09/2026",
-        "Importo":  "7966.600000",
-        "Note":  "Basato su Ordini cliente 260434."
+        "Importo":  "3852.150000",
+        "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
     },
     {
         "N. Ordine":  "260234",
@@ -87,7 +78,7 @@
         "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/09/2026",
         "Importo":  "541.680000",
-        "Note":  "Basato su Ordini cliente 260434."
+        "Note":  "PUGLIESE MATTIA Basato su Ordini cliente 260434."
     },
     {
         "N. Ordine":  "260235",
@@ -95,8 +86,17 @@
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "07/09/2026",
-        "Importo":  "982.100000",
-        "Note":  "Basato su Ordini cliente 260435."
+        "Importo":  "1076.040000",
+        "Note":  "FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su Ordini cliente 260435."
+    },
+    {
+        "N. Ordine":  "260236",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Data Consegna":  "15/09/2026",
+        "Importo":  "15856.950000",
+        "Note":  "MACELLERIA COSENTNO"
     },
     {
         "N. Ordine":  "260217",
