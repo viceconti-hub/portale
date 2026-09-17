@@ -9,6 +9,15 @@
         "Note":  "Basato su Ordini cliente 260459."
     },
     {
+        "N. Ordine":  "260238",
+        "Data":  "17/09/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "1417.820000",
+        "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
+    },
+    {
         "N. Ordine":  "260229",
         "Data":  "16/09/2026",
         "Cod. Fornitore":  "F050748",
