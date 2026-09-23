@@ -23,7 +23,7 @@
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "21/09/2026",
-        "Importo":  "385.950000",
+        "Importo":  "192.980000",
         "Note":  "Guarnizione porta forno QUBI6 DL"
     },
     {
@@ -45,15 +45,6 @@
         "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
     },
     {
-        "N. Ordine":  "260229",
-        "Data":  "16/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "02/10/2026",
-        "Importo":  "626.710000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260234",
         "Data":  "16/09/2026",
         "Cod. Fornitore":  "F050748",
@@ -63,22 +54,13 @@
         "Note":  "PUGLIESE MATTIA Basato su Ordini cliente 260434."
     },
     {
-        "N. Ordine":  "260235",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "07/09/2026",
-        "Importo":  "1076.040000",
-        "Note":  "FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su Ordini cliente 260435."
-    },
-    {
-        "N. Ordine":  "260236",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F0515812",
-        "Fornitore":  "MISA SRL",
-        "Data Consegna":  "08/10/2026",
-        "Importo":  "15856.950000",
-        "Note":  "MACELLERIA COSENTNO"
+        "N. Ordine":  "260229",
+        "Data":  "16/09/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "02/10/2026",
+        "Importo":  "626.710000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
         "N. Ordine":  "260231",
@@ -106,6 +88,24 @@
         "Data Consegna":  "05/09/2026",
         "Importo":  "3852.150000",
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
+    },
+    {
+        "N. Ordine":  "260235",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "07/09/2026",
+        "Importo":  "1076.040000",
+        "Note":  "FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su Ordini cliente 260435."
+    },
+    {
+        "N. Ordine":  "260236",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Data Consegna":  "08/10/2026",
+        "Importo":  "15856.950000",
+        "Note":  "MACELLERIA COSENTNO"
     },
     {
         "N. Ordine":  "260225",
@@ -153,6 +153,15 @@
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
     },
     {
+        "N. Ordine":  "260219",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "7238.520000",
+        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
+    },
+    {
         "N. Ordine":  "260221",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -189,15 +198,6 @@
         "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
-        "N. Ordine":  "260219",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "7238.520000",
-        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART"
-    },
-    {
         "N. Ordine":  "260216",
         "Data":  "08/09/2026",
         "Cod. Fornitore":  "F001602",
@@ -232,15 +232,6 @@
         "Data Consegna":  "20/09/2026",
         "Importo":  "241.040000",
         "Note":  "TERMOREGOLATORE MICROSTAT PECCATI DI GOLA Basato su Offerte di vendita 260354."
-    },
-    {
-        "N. Ordine":  "260203",
-        "Data":  "06/08/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "06/08/2026",
-        "Importo":  "143.960000",
-        "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm"
     },
     {
         "N. Ordine":  "260202",
