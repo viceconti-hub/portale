@@ -1,5 +1,33 @@
 [
     {
+        "N. Attivita":  "7724",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "24/09/2026",
+        "Ora Inizio":  "1941",
+        "Ora Fine":  "2041",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C001261",
+        "Cliente":  "CARNI LIMONGI SRL",
+        "Contenuto":  "Bilancia/Etichettatrice elettronica MACH 8000 12/30 KG. BAS.STD BATT. TAST.MEMBR. TARGH.IT.",
+        "Citta":  "LAURIA",
+        "Note":  "PRESSO IL LORO CLIENTE HAPPY MARKET DI SCOTELLARO GIUSEPPE RISCONTRANO QUESTO PROBLEMA: IL CODICE A BARRE NON VIENE LETTO DAGLI SCANNER, DEVONO INSERIRE IL NUMERO MANUALMENTE \r\r18/09/2026 IL MIO TECNICO BIAGIO è STATO PRESSO IL SALUMIFICIO E POI PRESSO I"
+    },
+    {
+        "N. Attivita":  "7723",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "28/09/2026",
+        "Ora Inizio":  "900",
+        "Ora Fine":  "1000",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C000223",
+        "Cliente":  "FA TU PIZZA AND MORE FA TU SRL",
+        "Contenuto":  "FORNO ELE PER PIZZERIA MOD.NEAPOLIS 9(NEAP 9C),CAP.9PIZZE Ø33CM,0-510°C,",
+        "Citta":  "SAN NICOLA ARCELLA",
+        "Note":  "RIDUZIONE DELLA CAPACIT\u0027 ASPIRANTE DELLA CAPPA DEI 2 FORNI. Diagnosi 24/09: deposito grasso (grassi+farina+carbonio) nei condotti 120/150 e sulle giranti; condotti identici, calo simmetrico. Nota tecnica e foto in area tecnica Hub."
+    },
+    {
         "N. Attivita":  "7722",
         "Priorita":  "1",
         "Utente":  "BIAGIO RIZZO",
