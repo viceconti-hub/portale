@@ -1,8 +1,58 @@
-[{
-    "N. DDT":  "260175",
-    "Data":  "08/09/2026",
-    "Cod. Fornitore":  "F051522",
-    "Fornitore":  "MODULAR PROFESSIONAL srl",
-    "Importo":  "143.960000",
-    "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm Basato su Ordini d\u0027acquisto 260203."
-}]
+[
+    {
+        "N. DDT":  "260188",
+        "Data":  "22/09/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Importo":  "373.080000",
+        "Note":  "LA SECCA PENSILE 120X60 Basato su Ordini cliente 260425. Basato su Ordini d\u0027acquisto 260214."
+    },
+    {
+        "N. DDT":  "260183",
+        "Data":  "22/09/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Importo":  "3312.300000",
+        "Note":  "CELLA RIF.RINTELLI Basato su Ordini cliente 260469. Basato su Ordini d\u0027acquisto 260242."
+    },
+    {
+        "N. DDT":  "260177",
+        "Data":  "17/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "464.580000",
+        "Note":  "FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su Ordini cliente 260435. Basato su Ordini d\u0027acquisto 260235."
+    },
+    {
+        "N. DDT":  "260176",
+        "Data":  "17/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "2635.860000",
+        "Note":  "BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA  Basato su Ordini cliente 260434. Basato su Ordini d\u0027acquisto 260232."
+    },
+    {
+        "N. DDT":  "260186",
+        "Data":  "16/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "7238.520000",
+        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART Basato su Ordini d\u0027acquisto 260219."
+    },
+    {
+        "N. DDT":  "260184",
+        "Data":  "11/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "114.110000",
+        "Note":  "TEGLIA FORATA E GRIGLIA PER ABBATTITORE W30 Basato su Ordini cliente 260442 CLIENTE WEB Basato su Ordini d\u0027acquisto 260221. SPEDIZIONE CON BRT TRIANGOLAZIONE COLDLINE"
+    },
+    {
+        "N. DDT":  "260175",
+        "Data":  "08/09/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Importo":  "143.960000",
+        "Note":  "Cesto vasca intera per friggitrice elettrica vasca da 17 lt  Dimensioni 300x310x120 mm Basato su Ordini d\u0027acquisto 260203."
+    }
+]
