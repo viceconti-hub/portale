@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260226",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "25/09/2026",
+        "Importo":  "330.500000",
+        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
+    },
+    {
         "N. Ordine":  "260237",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -54,15 +63,6 @@
         "Note":  "Guarnizione porta forno QUBI6 DL"
     },
     {
-        "N. Ordine":  "260229",
-        "Data":  "16/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "02/10/2026",
-        "Importo":  "626.710000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260234",
         "Data":  "16/09/2026",
         "Cod. Fornitore":  "F050748",
@@ -72,13 +72,13 @@
         "Note":  "PUGLIESE MATTIA Basato su Ordini cliente 260434."
     },
     {
-        "N. Ordine":  "260236",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F0515812",
-        "Fornitore":  "MISA SRL",
-        "Data Consegna":  "08/10/2026",
-        "Importo":  "15856.950000",
-        "Note":  "MACELLERIA COSENTNO"
+        "N. Ordine":  "260229",
+        "Data":  "16/09/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "02/10/2026",
+        "Importo":  "626.710000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
         "N. Ordine":  "260231",
@@ -95,26 +95,8 @@
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "05/09/2026",
-        "Importo":  "3852.150000",
+        "Importo":  "7329.150000",
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
-    },
-    {
-        "N. Ordine":  "260225",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "164.210000",
-        "Note":  "MISCELATORE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
-    },
-    {
-        "N. Ordine":  "260226",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "345.870000",
-        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
         "N. Ordine":  "260227",
@@ -133,6 +115,24 @@
         "Data Consegna":  "16/10/2026",
         "Importo":  "10181.510000",
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
+    },
+    {
+        "N. Ordine":  "260236",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Data Consegna":  "08/10/2026",
+        "Importo":  "15856.950000",
+        "Note":  "MACELLERIA COSENTNO"
+    },
+    {
+        "N. Ordine":  "260225",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "164.210000",
+        "Note":  "MISCELATORE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
         "N. Ordine":  "260239",
@@ -158,7 +158,7 @@
         "Cod. Fornitore":  "F051184",
         "Fornitore":  "LOTUS spa",
         "Data Consegna":  "09/09/2026",
-        "Importo":  "174.240000",
+        "Importo":  "119.560000",
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
