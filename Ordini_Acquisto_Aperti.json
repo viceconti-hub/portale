@@ -27,24 +27,6 @@
         "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
     },
     {
-        "N. Ordine":  "260241",
-        "Data":  "23/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "23/09/2026",
-        "Importo":  "106.140000",
-        "Note":  "RESISTENZE PER TOSTIERE"
-    },
-    {
-        "N. Ordine":  "260243",
-        "Data":  "23/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "23/09/2026",
-        "Importo":  "141.520000",
-        "Note":  "RESISTENZA PER CUOCIPASTA RIF. I CARNALI"
-    },
-    {
         "N. Ordine":  "260248",
         "Data":  "23/09/2026",
         "Cod. Fornitore":  "F000102",
