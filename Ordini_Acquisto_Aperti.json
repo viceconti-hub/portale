@@ -63,6 +63,15 @@
         "Note":  "Guarnizione porta forno QUBI6 DL"
     },
     {
+        "N. Ordine":  "260233",
+        "Data":  "18/09/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "18/10/2026",
+        "Importo":  "3650.850000",
+        "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
+    },
+    {
         "N. Ordine":  "260234",
         "Data":  "16/09/2026",
         "Cod. Fornitore":  "F050748",
@@ -90,15 +99,6 @@
         "Note":  "MISCELATORE Basato su Ordini cliente 260434. PUGLIESE MATTIA"
     },
     {
-        "N. Ordine":  "260233",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "05/09/2026",
-        "Importo":  "3650.850000",
-        "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
-    },
-    {
         "N. Ordine":  "260227",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F001564",
@@ -113,7 +113,7 @@
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "16/10/2026",
-        "Importo":  "10181.510000",
+        "Importo":  "9672.440000",
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
