@@ -63,6 +63,15 @@
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
+        "N. Ordine":  "260225",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "164.210000",
+        "Note":  "MISCELATORE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
+    },
+    {
         "N. Ordine":  "260231",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F000102",
@@ -97,15 +106,6 @@
         "Data Consegna":  "08/10/2026",
         "Importo":  "15856.950000",
         "Note":  "MACELLERIA COSENTNO"
-    },
-    {
-        "N. Ordine":  "260225",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "164.210000",
-        "Note":  "MISCELATORE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
         "N. Ordine":  "260239",
@@ -378,21 +378,21 @@
         "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
     },
     {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260145",
         "Data":  "17/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "17/06/2026",
         "Importo":  "876.070000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260148",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "164.540000",
         "Note":  ""
     },
     {
@@ -504,15 +504,6 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
-        "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
-        "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
-    },
-    {
         "N. Ordine":  "260065",
         "Data":  "29/04/2026",
         "Cod. Fornitore":  "F000863",
@@ -529,6 +520,15 @@
         "Data Consegna":  "29/04/2026",
         "Importo":  "2009.340000",
         "Note":  "MeM Basato su Ordini cliente 250878."
+    },
+    {
+        "N. Ordine":  "260063",
+        "Data":  "29/04/2026",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
+        "Data Consegna":  "29/04/2026",
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
