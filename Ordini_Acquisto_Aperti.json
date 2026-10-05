@@ -18,15 +18,6 @@
         "Note":  "DA COMPLETARE"
     },
     {
-        "N. Ordine":  "260226",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "25/09/2026",
-        "Importo":  "330.500000",
-        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
-    },
-    {
         "N. Ordine":  "260237",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -34,6 +25,15 @@
         "Data Consegna":  "28/09/2026",
         "Importo":  "348.920000",
         "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
+    },
+    {
+        "N. Ordine":  "260226",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "25/09/2026",
+        "Importo":  "330.500000",
+        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
         "N. Ordine":  "260238",
@@ -90,24 +90,6 @@
         "Note":  "MISCELATORE Basato su Ordini cliente 260434. PUGLIESE MATTIA"
     },
     {
-        "N. Ordine":  "260227",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001564",
-        "Fornitore":  "FRIGOMECCANICA SRL",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "10618.920000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
-        "N. Ordine":  "260228",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "9672.440000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260236",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F0515812",
@@ -126,6 +108,24 @@
         "Note":  "MISCELATORE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
+        "N. Ordine":  "260228",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "9672.440000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
+    },
+    {
+        "N. Ordine":  "260227",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F001564",
+        "Fornitore":  "FRIGOMECCANICA SRL",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "10618.920000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
+    },
+    {
         "N. Ordine":  "260239",
         "Data":  "14/09/2026",
         "Cod. Fornitore":  "F001573",
@@ -133,15 +133,6 @@
         "Data Consegna":  "21/09/2026",
         "Importo":  "801.050000",
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
-    },
-    {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
         "N. Ordine":  "260222",
@@ -160,6 +151,15 @@
         "Data Consegna":  "30/09/2026",
         "Importo":  "662.950000",
         "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
+    },
+    {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
         "N. Ordine":  "260216",
@@ -216,6 +216,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+    },
+    {
         "N. Ordine":  "260194",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -232,15 +241,6 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
-    },
-    {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -441,21 +441,21 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260143",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "20.980000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260144",
         "Data":  "09/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "09/06/2026",
         "Importo":  "142.920000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260143",
+        "Data":  "09/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "09/06/2026",
+        "Importo":  "20.980000",
         "Note":  ""
     },
     {
@@ -522,13 +522,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -540,13 +540,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
