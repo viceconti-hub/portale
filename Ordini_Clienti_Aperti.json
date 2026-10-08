@@ -20,16 +20,6 @@
         "Note":  "DISINCROSTANTE DS-3 PERGEL 1 Kg PAGAMENTO: CONTRASSEGNO"
     },
     {
-        "N. Ordine":  "260494",
-        "Data":  "06/10/2026",
-        "Cod. Cliente":  "CO52997",
-        "Cliente":  "VISENTINI ANGELO",
-        "Data Consegna":  "06/10/2026",
-        "Importo":  "205.330000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SCHIDIONE GABBIA PIATTA, MISURA UTILE COTTURA 570MM, PER MODELLI E-8/12P G-8P G-12P G-20P E-8P S2 E-12P-S3 E-20P-S5"
-    },
-    {
         "N. Ordine":  "260491",
         "Data":  "06/10/2026",
         "Cod. Cliente":  "C050616",
@@ -40,6 +30,16 @@
         "Note":  "DETERGENTE RATIONAL"
     },
     {
+        "N. Ordine":  "260494",
+        "Data":  "06/10/2026",
+        "Cod. Cliente":  "CO52997",
+        "Cliente":  "VISENTINI ANGELO",
+        "Data Consegna":  "06/10/2026",
+        "Importo":  "205.330000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SCHIDIONE GABBIA PIATTA, MISURA UTILE COTTURA 570MM, PER MODELLI E-8/12P G-8P G-12P G-20P E-8P S2 E-12P-S3 E-20P-S MODALITA\u0027 DI PAGAMENTO: BONIFICO BANCARIO"
+    },
+    {
         "N. Ordine":  "260489",
         "Data":  "05/10/2026",
         "Cod. Cliente":  "C050749",
@@ -48,36 +48,6 @@
         "Importo":  "16000.000000",
         "Agente":  "PROGETTAZIONE",
         "Note":  "ATTREZZATURE COMPLETAMENTO FORNITURA Basato su Offerte di vendita 260199."
-    },
-    {
-        "N. Ordine":  "260482",
-        "Data":  "01/10/2026",
-        "Cod. Cliente":  "CO52054",
-        "Cliente":  "H2A srl",
-        "Data Consegna":  "01/10/2026",
-        "Importo":  "47.630000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260479",
-        "Data":  "30/09/2026",
-        "Cod. Cliente":  "C000126",
-        "Cliente":  "BAR RISTORANTE DA GIOVANNI di SCHETTINI DOMENICA",
-        "Data Consegna":  "30/09/2026",
-        "Importo":  "310.370000",
-        "Agente":  "VENDITA DETERSIVI",
-        "Note":  "DETERGENTE LAVASTOVIGLIE DET6 QTA\u0027 9 + BRILL 5 QTA\u0027 3"
-    },
-    {
-        "N. Ordine":  "260472",
-        "Data":  "23/09/2026",
-        "Cod. Cliente":  "CO52995",
-        "Cliente":  "LICUTI 69 SRL",
-        "Data Consegna":  "23/09/2026",
-        "Importo":  "293.130000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "GUARNIZIONE PORTA SCC 101, ICOMBI 10 GN 1/1 PAGAMENTO: PAYPAL"
     },
     {
         "N. Ordine":  "260460",
@@ -110,16 +80,6 @@
         "Note":  "fattura esente IVA: Cessioni ad esportatori non residenti art. 8 comma 1 lettera b - DPR 633/72 RICAMBI PER W5UG S/N 022102314 Basato su Offerte di vendita 260426."
     },
     {
-        "N. Ordine":  "260458",
-        "Data":  "16/09/2026",
-        "Cod. Cliente":  "CO52994",
-        "Cliente":  "AGRISALUMERIA LUISET DI CASETTA MAURO",
-        "Data Consegna":  "16/09/2026",
-        "Importo":  "297.190000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "POMPA A PEDALE PER LA DECALCIFICAZIONE DEL GENERATORE DI VAPORE + DECALCIFICATORE 10 LITRI BIDONE UN 3264 PAGAMENTO: PAYPAL"
-    },
-    {
         "N. Ordine":  "260448",
         "Data":  "11/09/2026",
         "Cod. Cliente":  "C051437",
@@ -128,16 +88,6 @@
         "Importo":  "42680.210000",
         "Agente":  "PROGETTAZIONE",
         "Note":  "ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418. AGGIORNATO AL 17_09_2026"
-    },
-    {
-        "N. Ordine":  "260443",
-        "Data":  "09/09/2026",
-        "Cod. Cliente":  "CO52992",
-        "Cliente":  "Gianni Rosticceria di Silvio e Davide Corsi",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "163.190000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "CESTO 1/2 PER FRIGGITRICI SERIE SUPERLOTUS MOD.F18-70G PAGAMENTO: CONTRASSEGNO"
     },
     {
         "N. Ordine":  "260444",
