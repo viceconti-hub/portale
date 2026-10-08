@@ -1,17 +1,17 @@
 [
     {
-        "N. Attivita":  "7742",
+        "N. Attivita":  "7743",
         "Priorita":  "1",
         "Utente":  "Gianni",
         "Data":  "08/10/2026",
-        "Ora Inizio":  "943",
-        "Ora Fine":  "958",
+        "Ora Inizio":  "800",
+        "Ora Fine":  "815",
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C001201",
         "Cliente":  "LANTERNA VERDE di RUGGIERO SALVATORE",
-        "Contenuto":  "Prosecuzione: LAVASTOVIGLIE",
+        "Contenuto":  "LAVASTOVIGLIE",
         "Citta":  "TRECCHINA",
-        "Note":  "prova di attivita\u0027 successiva\r------------------------------------\rperdita di acqua sporca\rORDINARE RICAMBI PER RIPARAZIONE POMPA PILETTA E TUBO SCARICO"
+        "Note":  "ORDINARE RICAMBI PER RIPARAZIONE POMPA"
     },
     {
         "N. Attivita":  "7741",
