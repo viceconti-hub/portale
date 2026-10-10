@@ -45,15 +45,6 @@
         "Note":  "DA COMPLETARE"
     },
     {
-        "N. Ordine":  "260237",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "28/09/2026",
-        "Importo":  "348.920000",
-        "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
-    },
-    {
         "N. Ordine":  "260248",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000102",
@@ -61,6 +52,15 @@
         "Data Consegna":  "24/09/2026",
         "Importo":  "215.460000",
         "Note":  "GUARNIZIONE PORTA SCC 101, ICOMBI 10 GN 1/1 PAGAMENTO: PAYPAL Basato su Ordini cliente 260472 LICUTI 69 SRL"
+    },
+    {
+        "N. Ordine":  "260266",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "24/09/2026",
+        "Importo":  "320.540000",
+        "Note":  "SPEDIRE CON GLS IN PORTO ASSEGNATO, NS CODICE 3191"
     },
     {
         "N. Ordine":  "260226",
@@ -72,13 +72,13 @@
         "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
-        "N. Ordine":  "260266",
+        "N. Ordine":  "260237",
         "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "24/09/2026",
-        "Importo":  "320.540000",
-        "Note":  "SPEDIRE CON GLS IN PORTO ASSEGNATO, NS CODICE 3191"
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "28/09/2026",
+        "Importo":  "348.920000",
+        "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
     },
     {
         "N. Ordine":  "260238",
@@ -234,15 +234,6 @@
         "Note":  "TERMOREGOLATORE MICROSTAT PECCATI DI GOLA Basato su Offerte di vendita 260354."
     },
     {
-        "N. Ordine":  "260255",
-        "Data":  "19/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "19/08/2026",
-        "Importo":  "62.650000",
-        "Note":  "SPEDIZIONE DIRETTA A CLIENTE FINALE. SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDBITO IN FATTURA"
-    },
-    {
         "N. Ordine":  "260262",
         "Data":  "19/08/2026",
         "Cod. Fornitore":  "F000102",
@@ -250,6 +241,15 @@
         "Data Consegna":  "19/08/2026",
         "Importo":  "444.890000",
         "Note":  "Autorizzo corriere speciale per spedizione detergente. Aggiungere residuo ora disponibile, grazie"
+    },
+    {
+        "N. Ordine":  "260255",
+        "Data":  "19/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "19/08/2026",
+        "Importo":  "62.650000",
+        "Note":  "SPEDIZIONE DIRETTA A CLIENTE FINALE. SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDBITO IN FATTURA"
     },
     {
         "N. Ordine":  "260261",
@@ -468,60 +468,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260259",
-        "Data":  "22/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "22/06/2026",
-        "Importo":  "142.900000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260258",
-        "Data":  "19/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "19/06/2026",
-        "Importo":  "1015.580000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260257",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "488.110000",
-        "Note":  "SPEDIZIONE CON BRT IN PORTO ASSEGNATO NS CODICE 1540097. PER QUESTA SPEDIZIONE CHIEDO IL FERMO DEPOSITO PRESSO FILIALE BRT DI ATENA LUCANA (SA)"
-    },
-    {
-        "N. Ordine":  "260148",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "164.540000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260145",
-        "Data":  "17/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "17/06/2026",
-        "Importo":  "876.070000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260147",
-        "Data":  "16/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "16/06/2026",
-        "Importo":  "62.650000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260136",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F000865",
@@ -529,33 +475,6 @@
         "Data Consegna":  "20/05/2026",
         "Importo":  "1088.610000",
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
-    },
-    {
-        "N. Ordine":  "260146",
-        "Data":  "11/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "11/06/2026",
-        "Importo":  "62.650000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260143",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "20.980000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260144",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "142.920000",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260129",
@@ -583,15 +502,6 @@
         "Data Consegna":  "08/06/2026",
         "Importo":  "296.870000",
         "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
-    },
-    {
-        "N. Ordine":  "260256",
-        "Data":  "08/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "08/06/2026",
-        "Importo":  "1038.240000",
-        "Note":  "autorizzo spedizione speciale per trasporto detergente, grazie"
     },
     {
         "N. Ordine":  "260106",
