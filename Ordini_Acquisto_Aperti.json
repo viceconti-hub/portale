@@ -45,15 +45,6 @@
         "Note":  "DA COMPLETARE"
     },
     {
-        "N. Ordine":  "260226",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "25/09/2026",
-        "Importo":  "330.500000",
-        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
-    },
-    {
         "N. Ordine":  "260237",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -72,6 +63,24 @@
         "Note":  "GUARNIZIONE PORTA SCC 101, ICOMBI 10 GN 1/1 PAGAMENTO: PAYPAL Basato su Ordini cliente 260472 LICUTI 69 SRL"
     },
     {
+        "N. Ordine":  "260226",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "25/09/2026",
+        "Importo":  "330.500000",
+        "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
+    },
+    {
+        "N. Ordine":  "260266",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "24/09/2026",
+        "Importo":  "320.540000",
+        "Note":  "SPEDIRE CON GLS IN PORTO ASSEGNATO, NS CODICE 3191"
+    },
+    {
         "N. Ordine":  "260238",
         "Data":  "23/09/2026",
         "Cod. Fornitore":  "F050748",
@@ -79,6 +88,15 @@
         "Data Consegna":  "14/10/2026",
         "Importo":  "1302.410000",
         "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
+    },
+    {
+        "N. Ordine":  "260265",
+        "Data":  "21/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "21/09/2026",
+        "Importo":  "273.280000",
+        "Note":  "Spedizione diretta a cliente finale, a vs carico con addebito in fattura. Autorizzo spedizione con TNT"
     },
     {
         "N. Ordine":  "260233",
@@ -144,15 +162,6 @@
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
     },
     {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
-    },
-    {
         "N. Ordine":  "260222",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F051184",
@@ -169,6 +178,15 @@
         "Data Consegna":  "30/09/2026",
         "Importo":  "662.950000",
         "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
+    },
+    {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
         "N. Ordine":  "260216",
@@ -189,6 +207,24 @@
         "Note":  "Basato su Ordini cliente 250827."
     },
     {
+        "N. Ordine":  "260264",
+        "Data":  "04/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "04/09/2026",
+        "Importo":  "920.220000",
+        "Note":  "autorizzo spedizione con TNT per trasporto detergente"
+    },
+    {
+        "N. Ordine":  "260263",
+        "Data":  "31/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "31/08/2026",
+        "Importo":  "748.130000",
+        "Note":  "autorizzo spedizione speciale per trasporto detersivi"
+    },
+    {
         "N. Ordine":  "260210",
         "Data":  "20/08/2026",
         "Cod. Fornitore":  "F000102",
@@ -196,6 +232,33 @@
         "Data Consegna":  "20/09/2026",
         "Importo":  "241.040000",
         "Note":  "TERMOREGOLATORE MICROSTAT PECCATI DI GOLA Basato su Offerte di vendita 260354."
+    },
+    {
+        "N. Ordine":  "260255",
+        "Data":  "19/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "19/08/2026",
+        "Importo":  "62.650000",
+        "Note":  "SPEDIZIONE DIRETTA A CLIENTE FINALE. SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDBITO IN FATTURA"
+    },
+    {
+        "N. Ordine":  "260262",
+        "Data":  "19/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "19/08/2026",
+        "Importo":  "444.890000",
+        "Note":  "Autorizzo corriere speciale per spedizione detergente. Aggiungere residuo ora disponibile, grazie"
+    },
+    {
+        "N. Ordine":  "260261",
+        "Data":  "06/08/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "06/08/2026",
+        "Importo":  "175.070000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260202",
@@ -225,6 +288,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+    },
+    {
         "N. Ordine":  "260194",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -241,15 +313,6 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
-    },
-    {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -321,6 +384,15 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "22/07/2026",
         "Importo":  "377.030000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260260",
+        "Data":  "22/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "22/07/2026",
+        "Importo":  "201.060000",
         "Note":  ""
     },
     {
@@ -396,13 +468,31 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260177",
-        "Data":  "24/06/2026",
+        "N. Ordine":  "260259",
+        "Data":  "22/06/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "24/06/2026",
-        "Importo":  "101.020000",
-        "Note":  "BRUCIATORE 430x205 mm PER GRIGLIA A PIETRA LAVICA ZANUSSI RIF. DIPA DI PACCHIANO"
+        "Data Consegna":  "22/06/2026",
+        "Importo":  "142.900000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260258",
+        "Data":  "19/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "19/06/2026",
+        "Importo":  "1015.580000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260257",
+        "Data":  "17/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "17/06/2026",
+        "Importo":  "488.110000",
+        "Note":  "SPEDIZIONE CON BRT IN PORTO ASSEGNATO NS CODICE 1540097. PER QUESTA SPEDIZIONE CHIEDO IL FERMO DEPOSITO PRESSO FILIALE BRT DI ATENA LUCANA (SA)"
     },
     {
         "N. Ordine":  "260148",
@@ -493,6 +583,15 @@
         "Data Consegna":  "08/06/2026",
         "Importo":  "296.870000",
         "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
+    },
+    {
+        "N. Ordine":  "260256",
+        "Data":  "08/06/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "08/06/2026",
+        "Importo":  "1038.240000",
+        "Note":  "autorizzo spedizione speciale per trasporto detergente, grazie"
     },
     {
         "N. Ordine":  "260106",
