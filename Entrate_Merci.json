@@ -8,6 +8,22 @@
         "Note":  "MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita 260437. Basato su Ordini d\u0027acquisto 260253."
     },
     {
+        "N. DDT":  "260217",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "338.840000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260180. 260266. Conf. REPA 04 143507, 04 180848."
+    },
+    {
+        "N. DDT":  "260216",
+        "Data":  "24/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "215.460000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260248. Conf. REPA 04 180862."
+    },
+    {
         "N. DDT":  "260190",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000826",
@@ -40,6 +56,14 @@
         "Note":  "CELLA RIF.RINTELLI Basato su Ordini cliente 260469. Basato su Ordini d\u0027acquisto 260242."
     },
     {
+        "N. DDT":  "260215",
+        "Data":  "21/09/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "273.280000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260265. Conf. REPA 04 178452."
+    },
+    {
         "N. DDT":  "260177",
         "Data":  "17/09/2026",
         "Cod. Fornitore":  "F000826",
@@ -62,13 +86,5 @@
         "Fornitore":  "COLD LINE srl",
         "Importo":  "7238.520000",
         "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART Basato su Ordini d\u0027acquisto 260219."
-    },
-    {
-        "N. DDT":  "260184",
-        "Data":  "11/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "114.110000",
-        "Note":  "TEGLIA FORATA E GRIGLIA PER ABBATTITORE W30 Basato su Ordini cliente 260442 CLIENTE WEB Basato su Ordini d\u0027acquisto 260221. SPEDIZIONE CON BRT TRIANGOLAZIONE COLDLINE"
     }
 ]
