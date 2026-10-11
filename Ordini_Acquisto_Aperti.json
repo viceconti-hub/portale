@@ -45,22 +45,13 @@
         "Note":  "DA COMPLETARE"
     },
     {
-        "N. Ordine":  "260248",
+        "N. Ordine":  "260237",
         "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "24/09/2026",
-        "Importo":  "215.460000",
-        "Note":  "GUARNIZIONE PORTA SCC 101, ICOMBI 10 GN 1/1 PAGAMENTO: PAYPAL Basato su Ordini cliente 260472 LICUTI 69 SRL"
-    },
-    {
-        "N. Ordine":  "260266",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "24/09/2026",
-        "Importo":  "320.540000",
-        "Note":  "SPEDIRE CON GLS IN PORTO ASSEGNATO, NS CODICE 3191"
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "28/09/2026",
+        "Importo":  "348.920000",
+        "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
     },
     {
         "N. Ordine":  "260226",
@@ -72,15 +63,6 @@
         "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO"
     },
     {
-        "N. Ordine":  "260237",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "28/09/2026",
-        "Importo":  "348.920000",
-        "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
-    },
-    {
         "N. Ordine":  "260238",
         "Data":  "23/09/2026",
         "Cod. Fornitore":  "F050748",
@@ -88,15 +70,6 @@
         "Data Consegna":  "14/10/2026",
         "Importo":  "1302.410000",
         "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
-    },
-    {
-        "N. Ordine":  "260265",
-        "Data":  "21/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "21/09/2026",
-        "Importo":  "273.280000",
-        "Note":  "Spedizione diretta a cliente finale, a vs carico con addebito in fattura. Autorizzo spedizione con TNT"
     },
     {
         "N. Ordine":  "260233",
@@ -207,15 +180,6 @@
         "Note":  "Basato su Ordini cliente 250827."
     },
     {
-        "N. Ordine":  "260264",
-        "Data":  "04/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "04/09/2026",
-        "Importo":  "920.220000",
-        "Note":  "autorizzo spedizione con TNT per trasporto detergente"
-    },
-    {
         "N. Ordine":  "260263",
         "Data":  "31/08/2026",
         "Cod. Fornitore":  "F000102",
@@ -223,42 +187,6 @@
         "Data Consegna":  "31/08/2026",
         "Importo":  "748.130000",
         "Note":  "autorizzo spedizione speciale per trasporto detersivi"
-    },
-    {
-        "N. Ordine":  "260210",
-        "Data":  "20/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "20/09/2026",
-        "Importo":  "241.040000",
-        "Note":  "TERMOREGOLATORE MICROSTAT PECCATI DI GOLA Basato su Offerte di vendita 260354."
-    },
-    {
-        "N. Ordine":  "260262",
-        "Data":  "19/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "19/08/2026",
-        "Importo":  "444.890000",
-        "Note":  "Autorizzo corriere speciale per spedizione detergente. Aggiungere residuo ora disponibile, grazie"
-    },
-    {
-        "N. Ordine":  "260255",
-        "Data":  "19/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "19/08/2026",
-        "Importo":  "62.650000",
-        "Note":  "SPEDIZIONE DIRETTA A CLIENTE FINALE. SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDBITO IN FATTURA"
-    },
-    {
-        "N. Ordine":  "260261",
-        "Data":  "06/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "06/08/2026",
-        "Importo":  "175.070000",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260202",
@@ -288,24 +216,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
-    },
-    {
-        "N. Ordine":  "260194",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "88.540000",
-        "Note":  "ELETTROVALVOLE BREMA"
-    },
-    {
         "N. Ordine":  "260196",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -313,6 +223,15 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
+    },
+    {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -378,24 +297,6 @@
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
-        "N. Ordine":  "260200",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "22/07/2026",
-        "Importo":  "377.030000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260260",
-        "Data":  "22/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "22/07/2026",
-        "Importo":  "201.060000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260171",
         "Data":  "20/07/2026",
         "Cod. Fornitore":  "F000162",
@@ -423,15 +324,6 @@
         "Note":  "ORDINE PRINCIPALE"
     },
     {
-        "N. Ordine":  "260201",
-        "Data":  "09/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "09/07/2026",
-        "Importo":  "835.880000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260160",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F001548",
@@ -457,15 +349,6 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "671.430000",
         "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
-    },
-    {
-        "N. Ordine":  "260159",
-        "Data":  "30/06/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "30/06/2026",
-        "Importo":  "290.650000",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260136",
