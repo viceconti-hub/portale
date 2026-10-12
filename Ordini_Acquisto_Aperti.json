@@ -18,6 +18,24 @@
         "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
     },
     {
+        "N. Ordine":  "260270",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "1075.210000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260271",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "293.290000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260254",
         "Data":  "09/10/2026",
         "Cod. Fornitore":  "F000830",
