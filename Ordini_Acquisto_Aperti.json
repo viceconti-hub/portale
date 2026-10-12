@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260268",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000216",
+        "Fornitore":  "A.T.A. SRL",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "84.680000",
+        "Note":  "PER LAVASTOVIGLIE ATA AF880 MATRICOLA: 0706880039"
+    },
+    {
+        "N. Ordine":  "260269",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000063",
+        "Fornitore":  "Cimbali Group S.p.A.",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "105.140000",
+        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
+    },
+    {
         "N. Ordine":  "260254",
         "Data":  "09/10/2026",
         "Cod. Fornitore":  "F000830",
@@ -7,6 +25,15 @@
         "Data Consegna":  "09/11/2026",
         "Importo":  "209.840000",
         "Note":  "Basato su Offerte di vendita 260437."
+    },
+    {
+        "N. Ordine":  "260267",
+        "Data":  "09/10/2026",
+        "Cod. Fornitore":  "F000146",
+        "Fornitore":  "NUOVA RICAMBI srl",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "80.180000",
+        "Note":  "JOLLYBEACH DI PROVENZANO FABIO \u0026 C. S.A.S. Basato su Ordini cliente 260495."
     },
     {
         "N. Ordine":  "260252",
