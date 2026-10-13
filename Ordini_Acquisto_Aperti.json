@@ -5,7 +5,7 @@
         "Cod. Fornitore":  "F000216",
         "Fornitore":  "A.T.A. SRL",
         "Data Consegna":  "12/10/2026",
-        "Importo":  "84.680000",
+        "Importo":  "101.500000",
         "Note":  "PER LAVASTOVIGLIE ATA AF880 MATRICOLA: 0706880039"
     },
     {
@@ -24,15 +24,6 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "12/10/2026",
         "Importo":  "1075.210000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260271",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "165.070000",
         "Note":  ""
     },
     {
