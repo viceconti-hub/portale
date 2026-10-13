@@ -1,5 +1,21 @@
 [
     {
+        "N. DDT":  "260222",
+        "Data":  "13/10/2026",
+        "Cod. Fornitore":  "F000865",
+        "Fornitore":  "SAMBONET PADERNO INDUSTRIE S.p.A.",
+        "Importo":  "33.900000",
+        "Note":  "Schiacciapatate 3 Griglie Inox Basato su Offerte di vendita 260438. Basato su Ordini cliente 260501 FRYLLOS DI VIOLA MICHELE Basato su Ordini d\u0027acquisto 260273."
+    },
+    {
+        "N. DDT":  "260221",
+        "Data":  "13/10/2026",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Importo":  "165.070000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260271."
+    },
+    {
         "N. DDT":  "260219",
         "Data":  "13/10/2026",
         "Cod. Fornitore":  "F000146",
