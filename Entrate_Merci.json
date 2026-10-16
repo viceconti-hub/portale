@@ -40,6 +40,14 @@
         "Note":  "MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita 260437. Basato su Ordini d\u0027acquisto 260253."
     },
     {
+        "N. DDT":  "260225",
+        "Data":  "30/09/2026",
+        "Cod. Fornitore":  "F001569",
+        "Fornitore":  "VAN BERKEL INTERNATIONAL SRL",
+        "Importo":  "72.380000",
+        "Note":  "RICAMBI AFFETTATRICE CARNE BERKEL BSFSX02000000 MATRICOLA: 0110S540/2010 RIF. GRAN SOLE LAGONEGRO Basato su Ordini d\u0027acquisto 260275."
+    },
+    {
         "N. DDT":  "260224",
         "Data":  "30/09/2026",
         "Cod. Fornitore":  "F000826",
@@ -126,13 +134,5 @@
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "2635.860000",
         "Note":  "BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA  Basato su Ordini cliente 260434. Basato su Ordini d\u0027acquisto 260232."
-    },
-    {
-        "N. DDT":  "260186",
-        "Data":  "16/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "7238.520000",
-        "Note":  "RUSTICHELLI ARMADIO LEVTRONIC 900\rARMADIO FRIGO SMART E ARMADIO CONGELATORE SMART Basato su Ordini d\u0027acquisto 260219."
     }
 ]
