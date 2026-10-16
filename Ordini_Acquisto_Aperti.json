@@ -153,15 +153,6 @@
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
     },
     {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
-    },
-    {
         "N. Ordine":  "260222",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F051184",
@@ -178,6 +169,15 @@
         "Data Consegna":  "30/09/2026",
         "Importo":  "662.950000",
         "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
+    },
+    {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
         "N. Ordine":  "260216",
@@ -234,15 +234,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
-    },
-    {
         "N. Ordine":  "260196",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F001602",
@@ -250,6 +241,15 @@
         "Data Consegna":  "29/07/2026",
         "Importo":  "594.730000",
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
+    },
+    {
+        "N. Ordine":  "260189",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001559",
+        "Fornitore":  "KAREL srl",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "76.030000",
+        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
         "N. Ordine":  "260192",
@@ -457,15 +457,6 @@
         "Data Consegna":  "20/04/2026",
         "Importo":  "337.560000",
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
-    },
-    {
-        "N. Ordine":  "260005",
-        "Data":  "02/02/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "02/02/2026",
-        "Importo":  "147.860000",
-        "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
     },
     {
         "N. Ordine":  "250434",
