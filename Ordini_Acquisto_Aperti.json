@@ -1,14 +1,5 @@
 [
     {
-        "N. Ordine":  "260268",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000216",
-        "Fornitore":  "A.T.A. SRL",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "101.500000",
-        "Note":  "PER LAVASTOVIGLIE ATA AF880 MATRICOLA: 0706880039"
-    },
-    {
         "N. Ordine":  "260269",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000063",
@@ -466,15 +457,6 @@
         "Data Consegna":  "02/11/2025",
         "Importo":  "34.160000",
         "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250181",
-        "Data":  "20/05/2025",
-        "Cod. Fornitore":  "F000216",
-        "Fornitore":  "A.T.A. SRL",
-        "Data Consegna":  "20/05/2025",
-        "Importo":  "380.320000",
-        "Note":  "RICAMBI DA COMPLETARE (MY ATA OK)"
     },
     {
         "N. Ordine":  "250015",
