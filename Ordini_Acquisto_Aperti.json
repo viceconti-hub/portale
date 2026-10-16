@@ -117,6 +117,15 @@
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
+        "N. Ordine":  "260236",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Data Consegna":  "08/10/2026",
+        "Importo":  "15856.950000",
+        "Note":  "MACELLERIA COSENTNO"
+    },
+    {
         "N. Ordine":  "260227",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F001564",
@@ -133,15 +142,6 @@
         "Data Consegna":  "16/10/2026",
         "Importo":  "9672.440000",
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
-        "N. Ordine":  "260236",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F0515812",
-        "Fornitore":  "MISA SRL",
-        "Data Consegna":  "08/10/2026",
-        "Importo":  "15856.950000",
-        "Note":  "MACELLERIA COSENTNO"
     },
     {
         "N. Ordine":  "260239",
@@ -234,15 +234,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260196",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "594.730000",
-        "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
-    },
-    {
         "N. Ordine":  "260189",
         "Data":  "29/07/2026",
         "Cod. Fornitore":  "F001559",
@@ -250,6 +241,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "76.030000",
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+    },
+    {
+        "N. Ordine":  "260196",
+        "Data":  "29/07/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "29/07/2026",
+        "Importo":  "594.730000",
+        "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
     },
     {
         "N. Ordine":  "260192",
@@ -466,15 +466,6 @@
         "Data Consegna":  "02/02/2026",
         "Importo":  "147.860000",
         "Note":  "RESISTENZA GRILL VAPOR PER HAPPY MOMENTS"
-    },
-    {
-        "N. Ordine":  "250351",
-        "Data":  "31/12/2025",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "31/12/2025",
-        "Importo":  "595.060000",
-        "Note":  "RICAMBI"
     },
     {
         "N. Ordine":  "250434",
