@@ -48,6 +48,14 @@
         "Note":  "MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita 260437. Basato su Ordini d\u0027acquisto 260253."
     },
     {
+        "N. DDT":  "260228",
+        "Data":  "05/10/2026",
+        "Cod. Fornitore":  "F001548",
+        "Fornitore":  "UNIVAC GROUP SRL",
+        "Importo":  "150.300000",
+        "Note":  "RICAMBI SOTTOVUOTO SPRINT AUT MATRICOLA: 386310320 RIF. 4.0 YUMARA Basato su Ordini d\u0027acquisto 260276."
+    },
+    {
         "N. DDT":  "260225",
         "Data":  "30/09/2026",
         "Cod. Fornitore":  "F001569",
@@ -126,21 +134,5 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Importo":  "273.280000",
         "Note":  "Basato su Ordini d\u0027acquisto 260265. Conf. REPA 04 178452."
-    },
-    {
-        "N. DDT":  "260177",
-        "Data":  "17/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "464.580000",
-        "Note":  "FRYTOP A GAS FIMAR FRY1LM COZZI NICOLA e TAGLIERE 70X40 OLIVIERI Basato su Ordini cliente 260435. Basato su Ordini d\u0027acquisto 260235."
-    },
-    {
-        "N. DDT":  "260176",
-        "Data":  "17/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "2635.860000",
-        "Note":  "BANCO PIZZA VETRINA INGEDIENTI VETRINA REFRIGERATA e LAVELLO PUGLIESE MATTIA  Basato su Ordini cliente 260434. Basato su Ordini d\u0027acquisto 260232."
     }
 ]
