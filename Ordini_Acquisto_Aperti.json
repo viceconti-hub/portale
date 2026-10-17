@@ -324,15 +324,6 @@
         "Note":  "ORDINE PRINCIPALE"
     },
     {
-        "N. Ordine":  "260160",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "561.200000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260161",
         "Data":  "08/07/2026",
         "Cod. Fornitore":  "F000055",
@@ -340,15 +331,6 @@
         "Data Consegna":  "08/07/2026",
         "Importo":  "297.680000",
         "Note":  "Basato su Ordini cliente 260258."
-    },
-    {
-        "N. Ordine":  "260164",
-        "Data":  "08/07/2026",
-        "Cod. Fornitore":  "F001548",
-        "Fornitore":  "UNIVAC GROUP SRL",
-        "Data Consegna":  "08/07/2026",
-        "Importo":  "671.430000",
-        "Note":  "MATIC 35 X GIANFRANCO + MAG Basato su Ordini cliente 260262."
     },
     {
         "N. Ordine":  "260136",
@@ -450,24 +432,6 @@
         "Note":  "DETERGENTE GUARNIZIONI DOCCETTE"
     },
     {
-        "N. Ordine":  "250434",
-        "Data":  "02/11/2025",
-        "Cod. Fornitore":  "F000863",
-        "Fornitore":  "BREMA GROUP SPA",
-        "Data Consegna":  "02/11/2025",
-        "Importo":  "34.160000",
-        "Note":  "RICAMBI DA COMPLETARE"
-    },
-    {
-        "N. Ordine":  "250015",
-        "Data":  "21/01/2025",
-        "Cod. Fornitore":  "F000918",
-        "Fornitore":  "SANELLI AMBROGIO",
-        "Data Consegna":  "21/01/2025",
-        "Importo":  "294.080000",
-        "Note":  "DA TRASMETTERE"
-    },
-    {
         "N. Ordine":  "240531",
         "Data":  "26/07/2024",
         "Cod. Fornitore":  "F000808",
@@ -475,14 +439,5 @@
         "Data Consegna":  "26/07/2024",
         "Importo":  "7199.830000",
         "Note":  "H2A RAT 60X40"
-    },
-    {
-        "N. Ordine":  "240482",
-        "Data":  "09/07/2024",
-        "Cod. Fornitore":  "F000805",
-        "Fornitore":  "SMEG SPA",
-        "Data Consegna":  "09/07/2024",
-        "Importo":  "195.200000",
-        "Note":  "DETERGENTI"
     }
 ]
