@@ -56,12 +56,28 @@
         "Note":  "MANICO IL LEGNO, PADELLE RETINA PER PIZZERIA Basato su Offerte di vendita 260437. Basato su Ordini d\u0027acquisto 260253."
     },
     {
+        "N. DDT":  "260238",
+        "Data":  "07/10/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Importo":  "5935.300000",
+        "Note":  "MACELLERIA COSENTNO Basato su Ordini d\u0027acquisto 260236."
+    },
+    {
         "N. DDT":  "260228",
         "Data":  "05/10/2026",
         "Cod. Fornitore":  "F001548",
         "Fornitore":  "UNIVAC GROUP SRL",
         "Importo":  "150.300000",
         "Note":  "RICAMBI SOTTOVUOTO SPRINT AUT MATRICOLA: 386310320 RIF. 4.0 YUMARA Basato su Ordini d\u0027acquisto 260276."
+    },
+    {
+        "N. DDT":  "260237",
+        "Data":  "01/10/2026",
+        "Cod. Fornitore":  "F0515812",
+        "Fornitore":  "MISA SRL",
+        "Importo":  "9833.200000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260215."
     },
     {
         "N. DDT":  "260225",
@@ -78,6 +94,14 @@
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "133.770000",
         "Note":  "COPRICEPPO GRAN SOLE MARATEA Rif. Ordine cliente 260477. Ordine portale Fimar 33965. Basato su Ordini d\u0027acquisto 260274."
+    },
+    {
+        "N. DDT":  "260240",
+        "Data":  "25/09/2026",
+        "Cod. Fornitore":  "F000866",
+        "Fornitore":  "PIAZZA EFFEPI srl",
+        "Importo":  "254.600000",
+        "Note":  "MACINA SPEZIE RIF. EVRA Basato su Ordini cliente 260476. Basato su Ordini d\u0027acquisto 260282."
     },
     {
         "N. DDT":  "260223",
