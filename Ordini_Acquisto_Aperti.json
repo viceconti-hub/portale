@@ -144,6 +144,15 @@
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
     },
     {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
+    },
+    {
         "N. Ordine":  "260222",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F051184",
@@ -160,15 +169,6 @@
         "Data Consegna":  "30/09/2026",
         "Importo":  "662.950000",
         "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
-    },
-    {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
     },
     {
         "N. Ordine":  "260216",
@@ -243,13 +243,13 @@
         "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
     },
     {
-        "N. Ordine":  "260192",
+        "N. Ordine":  "260187",
         "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "28/07/2026",
-        "Importo":  "746.640000",
-        "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "23/07/2026",
+        "Importo":  "492.680000",
+        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
         "N. Ordine":  "260193",
@@ -261,6 +261,15 @@
         "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
     },
     {
+        "N. Ordine":  "260192",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "28/07/2026",
+        "Importo":  "746.640000",
+        "Note":  "PLUTONE 7 1 PER HAPPY M + MAG Basato su Ordini cliente 260329."
+    },
+    {
         "N. Ordine":  "260184",
         "Data":  "28/07/2026",
         "Cod. Fornitore":  "F001559",
@@ -270,13 +279,13 @@
         "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
     },
     {
-        "N. Ordine":  "260187",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "23/07/2026",
-        "Importo":  "492.680000",
-        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260180",
@@ -286,15 +295,6 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
-    },
-    {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260171",
@@ -396,13 +396,13 @@
         "Note":  "Basato su Ordini cliente 260118."
     },
     {
-        "N. Ordine":  "260063",
+        "N. Ordine":  "260066",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F000151",
-        "Fornitore":  "ORVED Srl unipersonale",
+        "Cod. Fornitore":  "F001530",
+        "Fornitore":  "ARTINOX spa",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "4831.200000",
-        "Note":  "Basato su Ordini cliente 250878."
+        "Importo":  "2009.340000",
+        "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260065",
@@ -414,13 +414,13 @@
         "Note":  "MeM Basato su Ordini cliente 250878."
     },
     {
-        "N. Ordine":  "260066",
+        "N. Ordine":  "260063",
         "Data":  "29/04/2026",
-        "Cod. Fornitore":  "F001530",
-        "Fornitore":  "ARTINOX spa",
+        "Cod. Fornitore":  "F000151",
+        "Fornitore":  "ORVED Srl unipersonale",
         "Data Consegna":  "29/04/2026",
-        "Importo":  "2009.340000",
-        "Note":  "MeM Basato su Ordini cliente 250878."
+        "Importo":  "4831.200000",
+        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260054",
