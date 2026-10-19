@@ -117,15 +117,6 @@
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
     },
     {
-        "N. Ordine":  "260236",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F0515812",
-        "Fornitore":  "MISA SRL",
-        "Data Consegna":  "08/10/2026",
-        "Importo":  "15856.950000",
-        "Note":  "MACELLERIA COSENTNO"
-    },
-    {
         "N. Ordine":  "260227",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F001564",
@@ -153,15 +144,6 @@
         "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB"
     },
     {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
-    },
-    {
         "N. Ordine":  "260222",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F051184",
@@ -171,6 +153,15 @@
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
+        "N. Ordine":  "260217",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P"
+    },
+    {
         "N. Ordine":  "260216",
         "Data":  "08/09/2026",
         "Cod. Fornitore":  "F001602",
@@ -178,15 +169,6 @@
         "Data Consegna":  "04/09/2026",
         "Importo":  "155.750000",
         "Note":  "Basato su Ordini cliente 260431. 260438. 260440. 260441."
-    },
-    {
-        "N. Ordine":  "260215",
-        "Data":  "07/09/2026",
-        "Cod. Fornitore":  "F0515812",
-        "Fornitore":  "MISA SRL",
-        "Data Consegna":  "27/10/2025",
-        "Importo":  "13929.960000",
-        "Note":  "Basato su Ordini cliente 250827."
     },
     {
         "N. Ordine":  "260263",
@@ -223,24 +205,6 @@
         "Data Consegna":  "30/07/2026",
         "Importo":  "739.030000",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260196",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "594.730000",
-        "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
-    },
-    {
-        "N. Ordine":  "260187",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "23/07/2026",
-        "Importo":  "492.680000",
-        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
         "N. Ordine":  "260192",
@@ -304,15 +268,6 @@
         "Data Consegna":  "20/05/2026",
         "Importo":  "1088.610000",
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
-    },
-    {
-        "N. Ordine":  "260078",
-        "Data":  "09/06/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "09/06/2026",
-        "Importo":  "128.390000",
-        "Note":  "SANTA LUCIA PIASTRA IN GHISA ILSA Basato su Ordini cliente 260123."
     },
     {
         "N. Ordine":  "260126",
