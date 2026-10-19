@@ -234,13 +234,13 @@
         "Note":  "PANIFICIO D\u0027IMPERIO Basato su Ordini cliente 260336."
     },
     {
-        "N. Ordine":  "260189",
-        "Data":  "29/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "76.030000",
-        "Note":  "LIDO SAN FRANCESCO Basato su Ordini cliente 260320."
+        "N. Ordine":  "260187",
+        "Data":  "28/07/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "23/07/2026",
+        "Importo":  "492.680000",
+        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
         "N. Ordine":  "260192",
@@ -259,24 +259,6 @@
         "Data Consegna":  "28/07/2026",
         "Importo":  "630.740000",
         "Note":  "O3 PER EUROPAPOLICE Basato su Ordini cliente 260330."
-    },
-    {
-        "N. Ordine":  "260184",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001559",
-        "Fornitore":  "KAREL srl",
-        "Data Consegna":  "29/07/2026",
-        "Importo":  "114.290000",
-        "Note":  "Basato su Ordini cliente 260128. 260157. 260320. 260321. 260323."
-    },
-    {
-        "N. Ordine":  "260187",
-        "Data":  "28/07/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "23/07/2026",
-        "Importo":  "492.680000",
-        "Note":  "Basato su Ordini cliente 260306. 260309. 260326. 260327."
     },
     {
         "N. Ordine":  "260180",
@@ -303,15 +285,6 @@
         "Fornitore":  "SLAYER BLADES SRL",
         "Data Consegna":  "20/07/2026",
         "Importo":  "147.800000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260169",
-        "Data":  "17/07/2026",
-        "Cod. Fornitore":  "F001552",
-        "Fornitore":  "GO PACK S.R.L. a socio unico",
-        "Data Consegna":  "17/07/2026",
-        "Importo":  "375.270000",
         "Note":  ""
     },
     {
@@ -367,15 +340,6 @@
         "Data Consegna":  "18/05/2026",
         "Importo":  "185.640000",
         "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
-    },
-    {
-        "N. Ordine":  "260044",
-        "Data":  "13/05/2026",
-        "Cod. Fornitore":  "F051446",
-        "Fornitore":  "MECNOSUD S.R.L.",
-        "Data Consegna":  "13/05/2026",
-        "Importo":  "2867.000000",
-        "Note":  "Basato su Ordini cliente 250878."
     },
     {
         "N. Ordine":  "260089",
