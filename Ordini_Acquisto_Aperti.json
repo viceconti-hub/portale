@@ -1,5 +1,41 @@
 [
     {
+        "N. Ordine":  "260277",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "2580.790000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260278",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "4573.290000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260279",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "6783.200000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260280",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "6525.780000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
         "N. Ordine":  "260269",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000063",
