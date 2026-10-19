@@ -108,15 +108,6 @@
         "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
     },
     {
-        "N. Ordine":  "260238",
-        "Data":  "23/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "14/10/2026",
-        "Importo":  "1302.410000",
-        "Note":  "MACELLERIA COSENTINO INTEGRAZIONE TAVOLI INOX Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260233",
         "Data":  "18/09/2026",
         "Cod. Fornitore":  "F001573",
@@ -124,24 +115,6 @@
         "Data Consegna":  "18/10/2026",
         "Importo":  "3650.850000",
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
-    },
-    {
-        "N. Ordine":  "260234",
-        "Data":  "16/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "02/10/2026",
-        "Importo":  "541.680000",
-        "Note":  "PUGLIESE MATTIA Basato su Ordini cliente 260434."
-    },
-    {
-        "N. Ordine":  "260229",
-        "Data":  "16/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "02/10/2026",
-        "Importo":  "626.710000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
         "N. Ordine":  "260236",
@@ -187,15 +160,6 @@
         "Data Consegna":  "09/09/2026",
         "Importo":  "119.560000",
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
-    },
-    {
-        "N. Ordine":  "260223",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "30/09/2026",
-        "Importo":  "662.950000",
-        "Note":  "RINALDI CAPPA 180X90 SENZA MOTORE Basato su Ordini cliente 260444."
     },
     {
         "N. Ordine":  "260217",
