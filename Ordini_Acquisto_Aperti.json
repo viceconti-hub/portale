@@ -1,5 +1,23 @@
 [
     {
+        "N. Ordine":  "260285",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "14/10/2026",
+        "Importo":  "460.440000",
+        "Note":  "Basato su Ordini cliente 260505. 260517."
+    },
+    {
+        "N. Ordine":  "260286",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F000080",
+        "Fornitore":  "GIMAR ITALIA S.r.l.",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "3588.150000",
+        "Note":  "Basato su Ordini cliente 260511."
+    },
+    {
         "N. Ordine":  "260277",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F000826",
@@ -171,15 +189,6 @@
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
-        "N. Ordine":  "260216",
-        "Data":  "08/09/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "04/09/2026",
-        "Importo":  "155.750000",
-        "Note":  "Basato su Ordini cliente 260431. 260438. 260440. 260441."
-    },
-    {
         "N. Ordine":  "260263",
         "Data":  "31/08/2026",
         "Cod. Fornitore":  "F000102",
@@ -252,15 +261,6 @@
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
-        "N. Ordine":  "260171",
-        "Data":  "20/07/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "20/07/2026",
-        "Importo":  "147.800000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260136",
         "Data":  "15/06/2026",
         "Cod. Fornitore":  "F000865",
@@ -270,15 +270,6 @@
         "Note":  "Basato su Ordini cliente 260157. 260206. 260207."
     },
     {
-        "N. Ordine":  "260126",
-        "Data":  "08/06/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "08/06/2026",
-        "Importo":  "296.870000",
-        "Note":  "FIMAPA LAMA + MAG Basato su Ordini cliente 260192."
-    },
-    {
         "N. Ordine":  "260106",
         "Data":  "21/05/2026",
         "Cod. Fornitore":  "F000821",
@@ -286,15 +277,6 @@
         "Data Consegna":  "10/06/2026",
         "Importo":  "3597.500000",
         "Note":  "LA CAPPELLINA VETRINA MIX VBD 150 Basato su Ordini cliente 260159."
-    },
-    {
-        "N. Ordine":  "260103",
-        "Data":  "18/05/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "18/05/2026",
-        "Importo":  "185.640000",
-        "Note":  "CULURGIONI E C. SNC LAMA Basato su Ordini cliente 260154."
     },
     {
         "N. Ordine":  "260089",
