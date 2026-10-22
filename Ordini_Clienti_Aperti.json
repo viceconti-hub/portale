@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260523",
-        "Data":  "22/10/2026",
-        "Cod. Cliente":  "CO53003",
-        "Cliente":  "CHIARELLO ANNAMARIA",
-        "Data Consegna":  "22/10/2026",
-        "Importo":  "61.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260524",
         "Data":  "22/10/2026",
         "Cod. Cliente":  "CO53004",
@@ -18,6 +8,16 @@
         "Importo":  "112.240000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA PER AFFETTATRICE FIMAR AFH250X23050M"
+    },
+    {
+        "N. Ordine":  "260523",
+        "Data":  "22/10/2026",
+        "Cod. Cliente":  "CO53003",
+        "Cliente":  "CHIARELLO ANNAMARIA",
+        "Data Consegna":  "22/10/2026",
+        "Importo":  "61.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260517",
