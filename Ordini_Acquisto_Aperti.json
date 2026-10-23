@@ -18,12 +18,21 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260277",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "1267.490000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260278",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "2145.980000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -36,22 +45,13 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "2145.980000",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
-        "N. Ordine":  "260277",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "1267.490000",
-        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260284",
@@ -63,15 +63,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260270",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "1075.210000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260269",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000063",
@@ -79,6 +70,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "224.350000",
         "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
+    },
+    {
+        "N. Ordine":  "260270",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "1075.210000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260254",
@@ -99,15 +99,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260250",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "63.540000",
-        "Note":  "DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260249",
         "Data":  "29/09/2026",
         "Cod. Fornitore":  "F000922",
@@ -115,6 +106,15 @@
         "Data Consegna":  "29/09/2026",
         "Importo":  "22.450000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260250",
+        "Data":  "29/09/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "29/09/2026",
+        "Importo":  "63.540000",
+        "Note":  "DA COMPLETARE"
     },
     {
         "N. Ordine":  "260237",
@@ -135,21 +135,21 @@
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
     },
     {
-        "N. Ordine":  "260228",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "9672.440000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260227",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F001564",
         "Fornitore":  "FRIGOMECCANICA SRL",
         "Data Consegna":  "16/10/2026",
         "Importo":  "10618.920000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
+    },
+    {
+        "N. Ordine":  "260228",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F001573",
+        "Fornitore":  "SIRMAN spa",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "9672.440000",
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
