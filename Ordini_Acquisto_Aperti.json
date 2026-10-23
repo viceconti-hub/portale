@@ -63,15 +63,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260269",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000063",
-        "Fornitore":  "Cimbali Group S.p.A.",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "224.350000",
-        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
-    },
-    {
         "N. Ordine":  "260270",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -79,6 +70,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "1075.210000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260269",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000063",
+        "Fornitore":  "Cimbali Group S.p.A.",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "224.350000",
+        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
     },
     {
         "N. Ordine":  "260254",
@@ -99,15 +99,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260249",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "22.450000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260250",
         "Data":  "29/09/2026",
         "Cod. Fornitore":  "F050695",
@@ -115,6 +106,15 @@
         "Data Consegna":  "29/09/2026",
         "Importo":  "63.540000",
         "Note":  "DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260249",
+        "Data":  "29/09/2026",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Data Consegna":  "29/09/2026",
+        "Importo":  "22.450000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260237",
@@ -135,21 +135,21 @@
         "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
     },
     {
-        "N. Ordine":  "260227",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001564",
-        "Fornitore":  "FRIGOMECCANICA SRL",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "10618.920000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
-    },
-    {
         "N. Ordine":  "260228",
         "Data":  "15/09/2026",
         "Cod. Fornitore":  "F001573",
         "Fornitore":  "SIRMAN spa",
         "Data Consegna":  "16/10/2026",
         "Importo":  "9672.440000",
+        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
+    },
+    {
+        "N. Ordine":  "260227",
+        "Data":  "15/09/2026",
+        "Cod. Fornitore":  "F001564",
+        "Fornitore":  "FRIGOMECCANICA SRL",
+        "Data Consegna":  "16/10/2026",
+        "Importo":  "10618.920000",
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
@@ -207,15 +207,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -223,6 +214,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260136",
