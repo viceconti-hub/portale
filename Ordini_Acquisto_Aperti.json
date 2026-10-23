@@ -1,14 +1,5 @@
 [
     {
-        "N. Ordine":  "260285",
-        "Data":  "21/10/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "14/10/2026",
-        "Importo":  "460.440000",
-        "Note":  "Basato su Ordini cliente 260505. 260517."
-    },
-    {
         "N. Ordine":  "260286",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F000080",
@@ -18,21 +9,21 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260277",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "1267.490000",
-        "Note":  "Basato su Ordini cliente 260489."
+        "N. Ordine":  "260285",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "14/10/2026",
+        "Importo":  "460.440000",
+        "Note":  "Basato su Ordini cliente 260505. 260517."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "2145.980000",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -45,13 +36,22 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260278",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "2145.980000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260277",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "1267.490000",
+        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260284",
@@ -153,15 +153,6 @@
         "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
-        "N. Ordine":  "260222",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F051184",
-        "Fornitore":  "LOTUS spa",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "119.560000",
-        "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
-    },
-    {
         "N. Ordine":  "260217",
         "Data":  "09/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -169,6 +160,15 @@
         "Data Consegna":  "09/09/2026",
         "Importo":  "469.700000",
         "Note":  "MeM Top 4P GN 2263×700×40 P"
+    },
+    {
+        "N. Ordine":  "260222",
+        "Data":  "09/09/2026",
+        "Cod. Fornitore":  "F051184",
+        "Fornitore":  "LOTUS spa",
+        "Data Consegna":  "09/09/2026",
+        "Importo":  "119.560000",
+        "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
         "N. Ordine":  "260263",
@@ -207,15 +207,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260180",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "305.630000",
-        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
-    },
-    {
         "N. Ordine":  "260182",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F0515824",
@@ -223,6 +214,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+    },
+    {
+        "N. Ordine":  "260180",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "305.630000",
+        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
     },
     {
         "N. Ordine":  "260136",
