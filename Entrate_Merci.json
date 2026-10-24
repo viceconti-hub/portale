@@ -126,37 +126,5 @@
         "Fornitore":  "FIMAR s.p.a.",
         "Importo":  "330.500000",
         "Note":  "CEPPO IL POLIETILENE Basato su Ordini cliente 260448 MACELLERIA COSENTINO Basato su Ordini d\u0027acquisto 260226."
-    },
-    {
-        "N. DDT":  "260248",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Importo":  "801.050000",
-        "Note":  "VETRINA VINI SOAVE Basato su Ordini cliente 260451. DILETTA LABORANTI WEB Basato su Ordini d\u0027acquisto 260239."
-    },
-    {
-        "N. DDT":  "260217",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "338.840000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260180. 260266. Conf. REPA 04 143507, 04 180848."
-    },
-    {
-        "N. DDT":  "260216",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "215.460000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260248. Conf. REPA 04 180862."
-    },
-    {
-        "N. DDT":  "260190",
-        "Data":  "24/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "247.660000",
-        "Note":  "RESISTENZE TOSTIERE E RESISTENZA CUOCIPASTA CARNALI Basato su Ordini d\u0027acquisto 260241. 260243."
     }
 ]
