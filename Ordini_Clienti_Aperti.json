@@ -20,16 +20,6 @@
         "Note":  "LAMA PER AFFETTATRICE FIMAR AFH250X23050M"
     },
     {
-        "N. Ordine":  "260517",
-        "Data":  "21/10/2026",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Data Consegna":  "21/10/2026",
-        "Importo":  "309.290000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "APRISCATOLE E ACCIAINO"
-    },
-    {
         "N. Ordine":  "260521",
         "Data":  "21/10/2026",
         "Cod. Cliente":  "CO52190",
@@ -38,6 +28,16 @@
         "Importo":  "300.000000",
         "Agente":  "VENDITA DETERSIVI",
         "Note":  "DETERGENTE RATIONAL E KAP TECNET"
+    },
+    {
+        "N. Ordine":  "260517",
+        "Data":  "21/10/2026",
+        "Cod. Cliente":  "C001320",
+        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
+        "Data Consegna":  "21/10/2026",
+        "Importo":  "309.290000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "APRISCATOLE E ACCIAINO"
     },
     {
         "N. Ordine":  "260511",
@@ -78,16 +78,6 @@
         "Importo":  "717.800000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "RESISTENZA 2520W 220V"
-    },
-    {
-        "N. Ordine":  "260501",
-        "Data":  "12/10/2026",
-        "Cod. Cliente":  "CO52280",
-        "Cliente":  "FRYLLOS DI VIOLA MICHELE",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "40.000000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "Schiacciapatate 3 Griglie Inox Basato su Offerte di vendita 260438."
     },
     {
         "N. Ordine":  "260499",
