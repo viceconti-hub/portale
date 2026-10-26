@@ -1,5 +1,33 @@
 [
     {
+        "N. Attivita":  "7795",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "26/10/2026",
+        "Ora Inizio":  "953",
+        "Ora Fine":  "1053",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C000984",
+        "Cliente":  "MACELLERIA ROTONDARO MATTEO ANTONIO",
+        "Contenuto":  "TRITACARNE",
+        "Citta":  "LAURIA",
+        "Note":  "SOSTITUZIONE SPINETTA PIASTRA E SOSITTUZIONE PERNO + FORNITURA COLTELLO 32"
+    },
+    {
+        "N. Attivita":  "7794",
+        "Priorita":  "1",
+        "Utente":  "Gianni",
+        "Data":  "26/10/2026",
+        "Ora Inizio":  "953",
+        "Ora Fine":  "1053",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "C001628",
+        "Cliente":  "ACAL SRL",
+        "Contenuto":  "RATIONAL iCombi Pro 102 ELETTRICO, CAP.10x2/1GN o 20xGN1/1, TOUCHE SCREEN,SONDA,LAVAGGIO,PASTI AL GI",
+        "Citta":  "NEMOLI",
+        "Note":  "SOSTITUIRE SCHEDA"
+    },
+    {
         "N. Attivita":  "7793",
         "Priorita":  "1",
         "Utente":  "Gianni",
@@ -406,20 +434,6 @@
         "Note":  "SERVICE 12 MANCATA ACQUA: PROBABILE ELETTROVALVOLA ( PRIMA DAVA ERRORE 120, DOPO TRATTAMENTO è CAMBIATO IL SERVICE)"
     },
     {
-        "N. Attivita":  "7695",
-        "Priorita":  "2",
-        "Utente":  "BIAGIO RIZZO",
-        "Data":  "07/10/2026",
-        "Ora Inizio":  "1700",
-        "Ora Fine":  "1800",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "CO52768",
-        "Cliente":  "VE.RO SRLS WHARFY",
-        "Contenuto":  "macchina sottovuoto",
-        "Citta":  "SAPRI",
-        "Note":  "sostituzione, olio"
-    },
-    {
         "N. Attivita":  "7678",
         "Priorita":  "2",
         "Utente":  "Gianni",
@@ -488,20 +502,6 @@
         "Contenuto":  "perla del Tirreno Maratea Affettatrice controllo lama e coprilama. Il coprilama ha un dente che rovi",
         "Citta":  "MARATEA",
         "Note":  "perla del Tirreno Maratea Affettatrice controllo lama e coprilama. Il coprilama ha un dente che rovina la fetta"
-    },
-    {
-        "N. Attivita":  "7626",
-        "Priorita":  "2",
-        "Utente":  "Gianni",
-        "Data":  "13/10/2026",
-        "Ora Inizio":  "1233",
-        "Ora Fine":  "1248",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C051108",
-        "Cliente":  "SANGINETO S.a.s. di Sangineto Concetta CRAWFORD PUB",
-        "Contenuto":  "SANGINETO FORNO RATIONAL PREDITA DURANTE IL LAVAGGIO, CONTATTARE MARCHIANO\u0027 PER INTERVENTO",
-        "Citta":  "SAN NICOLA ARCELLA",
-        "Note":  "SANGINETO FORNO RATIONAL PREDITA DURANTE IL LAVAGGIO,"
     },
     {
         "N. Attivita":  "7617",
@@ -1311,9 +1311,9 @@
         "Tipo":  "ASSISTENZA",
         "Cod. Cliente":  "C000984",
         "Cliente":  "MACELLERIA ROTONDARO MATTEO ANTONIO",
-        "Contenuto":  "BILANCIA",
+        "Contenuto":  "BILANCIA SUPREMA",
         "Citta":  "LAURIA",
-        "Note":  "BILANCIA: NON SI ACCENDE"
+        "Note":  "BILANCIA: NON SI ACCENDE\r\rRITIRO MACCHINA IN SOSTITUZIONE"
     },
     {
         "N. Attivita":  "6884",
