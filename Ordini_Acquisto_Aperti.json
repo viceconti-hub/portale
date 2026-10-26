@@ -198,15 +198,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -214,6 +205,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260136",
