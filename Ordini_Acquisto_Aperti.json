@@ -18,15 +18,6 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260280",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
         "N. Ordine":  "260277",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F000826",
@@ -51,6 +42,15 @@
         "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
         "Data Consegna":  "05/10/2026",
         "Importo":  "6783.200000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260280",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -99,15 +99,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260250",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "63.540000",
-        "Note":  "DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260249",
         "Data":  "29/09/2026",
         "Cod. Fornitore":  "F000922",
@@ -115,6 +106,15 @@
         "Data Consegna":  "29/09/2026",
         "Importo":  "22.450000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260250",
+        "Data":  "29/09/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "29/09/2026",
+        "Importo":  "63.540000",
+        "Note":  "DA COMPLETARE"
     },
     {
         "N. Ordine":  "260237",
@@ -198,15 +198,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -214,6 +205,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260136",
