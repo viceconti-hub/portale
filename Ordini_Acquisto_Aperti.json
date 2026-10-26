@@ -18,6 +18,15 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
+        "N. Ordine":  "260280",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "4117.500000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
         "N. Ordine":  "260277",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F000826",
@@ -45,15 +54,6 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260280",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
         "N. Ordine":  "260284",
         "Data":  "16/10/2026",
         "Cod. Fornitore":  "F001559",
@@ -63,15 +63,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260269",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000063",
-        "Fornitore":  "Cimbali Group S.p.A.",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "224.350000",
-        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
-    },
-    {
         "N. Ordine":  "260270",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -79,6 +70,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "1075.210000",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260269",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000063",
+        "Fornitore":  "Cimbali Group S.p.A.",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "224.350000",
+        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
     },
     {
         "N. Ordine":  "260254",
@@ -99,15 +99,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260249",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "22.450000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260250",
         "Data":  "29/09/2026",
         "Cod. Fornitore":  "F050695",
@@ -115,6 +106,15 @@
         "Data Consegna":  "29/09/2026",
         "Importo":  "63.540000",
         "Note":  "DA COMPLETARE"
+    },
+    {
+        "N. Ordine":  "260249",
+        "Data":  "29/09/2026",
+        "Cod. Fornitore":  "F000922",
+        "Fornitore":  "KRUPPS s.r.l.",
+        "Data Consegna":  "29/09/2026",
+        "Importo":  "22.450000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260237",
