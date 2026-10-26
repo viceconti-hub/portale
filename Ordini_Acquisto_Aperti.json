@@ -63,15 +63,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260270",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "1075.210000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260269",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000063",
@@ -79,6 +70,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "224.350000",
         "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
+    },
+    {
+        "N. Ordine":  "260270",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "1075.210000",
+        "Note":  ""
     },
     {
         "N. Ordine":  "260254",
@@ -198,15 +198,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260180",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "305.630000",
-        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
-    },
-    {
         "N. Ordine":  "260182",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F0515824",
@@ -214,6 +205,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+    },
+    {
+        "N. Ordine":  "260180",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "305.630000",
+        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
     },
     {
         "N. Ordine":  "260136",
