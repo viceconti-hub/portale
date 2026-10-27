@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260527",
+        "Data":  "26/10/2026",
+        "Cod. Cliente":  "CO53005",
+        "Cliente":  "ISABELLA PEGORARI",
+        "Data Consegna":  "26/10/2026",
+        "Importo":  "84.200000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "LAMA PER AFF. 250-40-3 Ø INT. 210 H 17,5 MAT. C45 PAGAMENTO: PAYPAL"
+    },
+    {
         "N. Ordine":  "260523",
         "Data":  "22/10/2026",
         "Cod. Cliente":  "CO53003",
@@ -7,7 +17,7 @@
         "Data Consegna":  "22/10/2026",
         "Importo":  "61.000000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  ""
+        "Note":  "LAMA"
     },
     {
         "N. Ordine":  "260524",
