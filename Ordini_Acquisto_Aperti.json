@@ -54,12 +54,21 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260277",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260278",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "1439.970000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -72,22 +81,13 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
-        "N. Ordine":  "260277",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "1345.710000",
-        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260284",
