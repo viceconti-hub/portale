@@ -22,7 +22,7 @@
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F000826",
         "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "05/10/2026",
+        "Data Consegna":  "29/10/2026",
         "Importo":  "1345.710000",
         "Note":  "Basato su Ordini cliente 260489."
     },
@@ -78,7 +78,7 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "12/10/2026",
         "Importo":  "1075.210000",
-        "Note":  ""
+        "Note":  "MODULO I/O PER RISTORANTE DA MIMI E RESISTENZE PER SUANNO 89"
     },
     {
         "N. Ordine":  "260254",
@@ -88,15 +88,6 @@
         "Data Consegna":  "09/11/2026",
         "Importo":  "209.840000",
         "Note":  "Basato su Offerte di vendita 260437."
-    },
-    {
-        "N. Ordine":  "260251",
-        "Data":  "06/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "06/10/2026",
-        "Importo":  "927.790000",
-        "Note":  ""
     },
     {
         "N. Ordine":  "260249",
@@ -189,22 +180,13 @@
         "Note":  "GRIGLIA PLASTIFICATA GN 2/1"
     },
     {
-        "N. Ordine":  "260197",
-        "Data":  "30/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "30/07/2026",
-        "Importo":  "739.030000",
-        "Note":  ""
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
-        "Note":  "GUARNIZIONI RATIONA E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+        "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
     },
     {
         "N. Ordine":  "260182",
