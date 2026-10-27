@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260287",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "26/10/2026",
+        "Importo":  "59.390000",
+        "Note":  "ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON ADDEBITO IN FATTURA"
+    },
+    {
         "N. Ordine":  "260285",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F001602",
