@@ -18,15 +18,6 @@
         "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
     },
     {
-        "N. Ordine":  "260288",
-        "Data":  "27/10/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "28/10/2026",
-        "Importo":  "143.850000",
-        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
-    },
-    {
         "N. Ordine":  "260287",
         "Data":  "27/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -34,6 +25,15 @@
         "Data Consegna":  "26/10/2026",
         "Importo":  "59.390000",
         "Note":  "ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON ADDEBITO IN FATTURA"
+    },
+    {
+        "N. Ordine":  "260288",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
+        "Data Consegna":  "28/10/2026",
+        "Importo":  "143.850000",
+        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
     },
     {
         "N. Ordine":  "260286",
@@ -216,15 +216,6 @@
         "Note":  "GRIGLIA PLASTIFICATA GN 2/1"
     },
     {
-        "N. Ordine":  "260180",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "305.630000",
-        "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
-    },
-    {
         "N. Ordine":  "260182",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F0515824",
@@ -232,6 +223,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "142.800000",
         "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
+    },
+    {
+        "N. Ordine":  "260180",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "305.630000",
+        "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
     },
     {
         "N. Ordine":  "260136",
