@@ -1,21 +1,12 @@
 [
     {
-        "N. Ordine":  "260287",
+        "N. Ordine":  "260290",
         "Data":  "27/10/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "26/10/2026",
-        "Importo":  "59.390000",
-        "Note":  "ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON ADDEBITO IN FATTURA"
-    },
-    {
-        "N. Ordine":  "260288",
-        "Data":  "27/10/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "28/10/2026",
-        "Importo":  "143.850000",
-        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
+        "Data Consegna":  "27/10/2026",
+        "Importo":  "246.960000",
+        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
     },
     {
         "N. Ordine":  "260289",
@@ -27,22 +18,22 @@
         "Note":  "SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDEBITO IN FATTURA, SPEDIZIONE DIRETTA A CLIENTE FINALE"
     },
     {
-        "N. Ordine":  "260290",
+        "N. Ordine":  "260288",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
+        "Data Consegna":  "28/10/2026",
+        "Importo":  "143.850000",
+        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
+    },
+    {
+        "N. Ordine":  "260287",
         "Data":  "27/10/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/10/2026",
-        "Importo":  "246.960000",
-        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
-    },
-    {
-        "N. Ordine":  "260285",
-        "Data":  "21/10/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Data Consegna":  "14/10/2026",
-        "Importo":  "460.440000",
-        "Note":  "Basato su Ordini cliente 260505. 260517."
+        "Data Consegna":  "26/10/2026",
+        "Importo":  "59.390000",
+        "Note":  "ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON ADDEBITO IN FATTURA"
     },
     {
         "N. Ordine":  "260286",
@@ -54,21 +45,21 @@
         "Note":  "Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260277",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "1345.710000",
-        "Note":  "Basato su Ordini cliente 260489."
+        "N. Ordine":  "260285",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F001602",
+        "Fornitore":  "MORINI s.r.l.",
+        "Data Consegna":  "14/10/2026",
+        "Importo":  "460.440000",
+        "Note":  "Basato su Ordini cliente 260505. 260517."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -81,13 +72,22 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260278",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "1439.970000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260277",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260284",
@@ -99,15 +99,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260269",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000063",
-        "Fornitore":  "Cimbali Group S.p.A.",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "224.350000",
-        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
-    },
-    {
         "N. Ordine":  "260270",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -115,6 +106,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "1075.210000",
         "Note":  "MODULO I/O PER RISTORANTE DA MIMI E RESISTENZE PER SUANNO 89"
+    },
+    {
+        "N. Ordine":  "260269",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000063",
+        "Fornitore":  "Cimbali Group S.p.A.",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "224.350000",
+        "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
     },
     {
         "N. Ordine":  "260254",
