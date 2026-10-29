@@ -162,15 +162,6 @@
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
     },
     {
-        "N. Ordine":  "260217",
-        "Data":  "09/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "09/09/2026",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P"
-    },
-    {
         "N. Ordine":  "260263",
         "Data":  "31/08/2026",
         "Cod. Fornitore":  "F000102",
@@ -187,15 +178,6 @@
         "Data Consegna":  "05/08/2026",
         "Importo":  "402.600000",
         "Note":  "GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E MACH 120)"
-    },
-    {
-        "N. Ordine":  "260218",
-        "Data":  "04/08/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "04/08/2026",
-        "Importo":  "237.900000",
-        "Note":  "GRIGLIA PLASTIFICATA GN 2/1"
     },
     {
         "N. Ordine":  "260180",
