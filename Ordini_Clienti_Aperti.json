@@ -120,16 +120,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260448",
-        "Data":  "11/09/2026",
-        "Cod. Cliente":  "C051437",
-        "Cliente":  "MACELLERIA COSENTINO",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "42680.000000",
-        "Agente":  "PROGETTAZIONE",
-        "Note":  "ATTREZZATURE MACELLERIA Basato su Offerte di vendita 260418"
-    },
-    {
         "N. Ordine":  "260444",
         "Data":  "09/09/2026",
         "Cod. Cliente":  "CO51854",
@@ -140,16 +130,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260440",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.890000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SHAKER INOX KENTA ML.500 L0208"
-    },
-    {
         "N. Ordine":  "260441",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C000022",
@@ -158,6 +138,16 @@
         "Importo":  "26.770000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "PORZIONATORE GELATO"
+    },
+    {
+        "N. Ordine":  "260440",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C001350",
+        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.890000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SHAKER INOX KENTA ML.500 L0208"
     },
     {
         "N. Ordine":  "260438",
@@ -290,16 +280,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260206",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "CO52962",
-        "Cliente":  "THEMYSCIRA SRL",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "254.850000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE"
-    },
-    {
         "N. Ordine":  "260207",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "C051270",
@@ -308,6 +288,16 @@
         "Importo":  "624.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
+    },
+    {
+        "N. Ordine":  "260206",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "CO52962",
+        "Cliente":  "THEMYSCIRA SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "254.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
     },
     {
         "N. Ordine":  "260192",
