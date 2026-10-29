@@ -36,15 +36,6 @@
         "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
     },
     {
-        "N. Ordine":  "260286",
-        "Data":  "21/10/2026",
-        "Cod. Fornitore":  "F000080",
-        "Fornitore":  "GIMAR ITALIA S.r.l.",
-        "Data Consegna":  "17/11/2026",
-        "Importo":  "3588.150000",
-        "Note":  "Basato su Ordini cliente 260511."
-    },
-    {
         "N. Ordine":  "260285",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F001602",
@@ -54,13 +45,22 @@
         "Note":  "Basato su Ordini cliente 260505. 260517."
     },
     {
-        "N. Ordine":  "260279",
+        "N. Ordine":  "260286",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F000080",
+        "Fornitore":  "GIMAR ITALIA S.r.l.",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "3588.150000",
+        "Note":  "Basato su Ordini cliente 260511."
+    },
+    {
+        "N. Ordine":  "260277",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "6783.200000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260278",
@@ -72,13 +72,13 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260277",
+        "N. Ordine":  "260279",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "1345.710000",
-        "Note":  "Basato su Ordini cliente 260489."
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "6783.200000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260280",
@@ -99,15 +99,6 @@
         "Note":  "PIASTRA AD INDUZIONE A 2 ZONE Basato su Ordini cliente 260514 LFS GROUP SRL"
     },
     {
-        "N. Ordine":  "260270",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "1075.210000",
-        "Note":  "MODULO I/O PER RISTORANTE DA MIMI E RESISTENZE PER SUANNO 89"
-    },
-    {
         "N. Ordine":  "260269",
         "Data":  "12/10/2026",
         "Cod. Fornitore":  "F000063",
@@ -115,6 +106,15 @@
         "Data Consegna":  "12/10/2026",
         "Importo":  "224.350000",
         "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
+    },
+    {
+        "N. Ordine":  "260270",
+        "Data":  "12/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "12/10/2026",
+        "Importo":  "1075.210000",
+        "Note":  "MODULO I/O PER RISTORANTE DA MIMI E RESISTENZE PER SUANNO 89"
     },
     {
         "N. Ordine":  "260254",
@@ -126,15 +126,6 @@
         "Note":  "Basato su Offerte di vendita 260437."
     },
     {
-        "N. Ordine":  "260250",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "63.540000",
-        "Note":  "DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260249",
         "Data":  "29/09/2026",
         "Cod. Fornitore":  "F000922",
@@ -144,6 +135,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260250",
+        "Data":  "29/09/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "29/09/2026",
+        "Importo":  "63.540000",
+        "Note":  "DA COMPLETARE"
+    },
+    {
         "N. Ordine":  "260237",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -151,24 +151,6 @@
         "Data Consegna":  "28/09/2026",
         "Importo":  "348.920000",
         "Note":  "RICAMBI Basato su Ordini cliente 260459. Rif: W5UG S/N 022102314 RIF. MAMA MIA"
-    },
-    {
-        "N. Ordine":  "260233",
-        "Data":  "18/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "18/10/2026",
-        "Importo":  "3650.850000",
-        "Note":  "PUGLIESE MATTIA FORNO PIZZA E CAVALLETTO Basato su Ordini cliente 260434."
-    },
-    {
-        "N. Ordine":  "260228",
-        "Data":  "15/09/2026",
-        "Cod. Fornitore":  "F001573",
-        "Fornitore":  "SIRMAN spa",
-        "Data Consegna":  "16/10/2026",
-        "Importo":  "9672.440000",
-        "Note":  "MACELLERIA COSENTINO Basato su Ordini cliente 260448."
     },
     {
         "N. Ordine":  "260222",
@@ -216,15 +198,6 @@
         "Note":  "GRIGLIA PLASTIFICATA GN 2/1"
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -232,6 +205,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260136",
