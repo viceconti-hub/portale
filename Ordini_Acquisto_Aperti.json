@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260250",
+        "Data":  "29/10/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "158.660000",
+        "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
+    },
+    {
         "N. Ordine":  "260292",
         "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -99,24 +108,6 @@
         "Note":  "Basato su Offerte di vendita 260437."
     },
     {
-        "N. Ordine":  "260249",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F000922",
-        "Fornitore":  "KRUPPS s.r.l.",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "22.450000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260250",
-        "Data":  "29/09/2026",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "29/09/2026",
-        "Importo":  "63.540000",
-        "Note":  "DA COMPLETARE"
-    },
-    {
         "N. Ordine":  "260237",
         "Data":  "24/09/2026",
         "Cod. Fornitore":  "F000894",
@@ -160,15 +151,6 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
-    },
-    {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "240531",
