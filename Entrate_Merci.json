@@ -128,6 +128,22 @@
         "Note":  "Basato su Ordini d\u0027acquisto 260215."
     },
     {
+        "N. DDT":  "260256",
+        "Data":  "30/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "237.900000",
+        "Note":  "GRIGLIA PLASTIFICATA GN 2/1 Basato su Ordini d\u0027acquisto 260218."
+    },
+    {
+        "N. DDT":  "260255",
+        "Data":  "30/09/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Importo":  "469.700000",
+        "Note":  "MeM Top 4P GN 2263×700×40 P Basato su Ordini d\u0027acquisto 260217."
+    },
+    {
         "N. DDT":  "260225",
         "Data":  "30/09/2026",
         "Cod. Fornitore":  "F001569",
