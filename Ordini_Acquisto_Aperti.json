@@ -1,12 +1,12 @@
 [
     {
-        "N. Ordine":  "260287",
-        "Data":  "27/10/2026",
+        "N. Ordine":  "260292",
+        "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "26/10/2026",
-        "Importo":  "59.390000",
-        "Note":  "ISABELLA PEGORARI Basato su Ordini cliente 260527. SPEDIZIONE DIRETTA CON ADDEBITO IN FATTURA"
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "312.750000",
+        "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
     },
     {
         "N. Ordine":  "260288",
@@ -16,15 +16,6 @@
         "Data Consegna":  "28/10/2026",
         "Importo":  "143.850000",
         "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
-    },
-    {
-        "N. Ordine":  "260289",
-        "Data":  "27/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/10/2026",
-        "Importo":  "35.600000",
-        "Note":  "SPESE DI SPEDIZIONE A VOSTRO CARICO CON ADDEBITO IN FATTURA, SPEDIZIONE DIRETTA A CLIENTE FINALE"
     },
     {
         "N. Ordine":  "260290",
@@ -99,15 +90,6 @@
         "Note":  "Ordine creato\rL\u0027ordine 0000172809 E\u0027 stato creato con successo"
     },
     {
-        "N. Ordine":  "260270",
-        "Data":  "12/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "12/10/2026",
-        "Importo":  "1075.210000",
-        "Note":  "MODULO I/O PER RISTORANTE DA MIMI E RESISTENZE PER SUANNO 89"
-    },
-    {
         "N. Ordine":  "260254",
         "Data":  "09/10/2026",
         "Cod. Fornitore":  "F000830",
@@ -171,15 +153,6 @@
         "Note":  "GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E MACH 120)"
     },
     {
-        "N. Ordine":  "260182",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F0515824",
-        "Fornitore":  "NTA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "142.800000",
-        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
-    },
-    {
         "N. Ordine":  "260180",
         "Data":  "27/07/2026",
         "Cod. Fornitore":  "F000102",
@@ -187,6 +160,15 @@
         "Data Consegna":  "27/07/2026",
         "Importo":  "305.630000",
         "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
+    },
+    {
+        "N. Ordine":  "260182",
+        "Data":  "27/07/2026",
+        "Cod. Fornitore":  "F0515824",
+        "Fornitore":  "NTA SRL",
+        "Data Consegna":  "27/07/2026",
+        "Importo":  "142.800000",
+        "Note":  "LAMPADA E FILTRO AI CARBONI ATTIVI"
     },
     {
         "N. Ordine":  "260136",
