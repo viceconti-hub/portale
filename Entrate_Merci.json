@@ -1,5 +1,21 @@
 [
     {
+        "N. DDT":  "260259",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "35.600000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260289. Conf. REPA 04 202676."
+    },
+    {
+        "N. DDT":  "260258",
+        "Data":  "21/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Importo":  "1075.210000",
+        "Note":  "Basato su Ordini d\u0027acquisto 260270. Conf. REPA 04 198845."
+    },
+    {
         "N. DDT":  "260257",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F001602",
