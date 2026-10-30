@@ -9,15 +9,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260292",
-        "Data":  "29/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "312.750000",
-        "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
-    },
-    {
         "N. Ordine":  "260250",
         "Data":  "29/10/2026",
         "Cod. Fornitore":  "F050695",
@@ -27,13 +18,13 @@
         "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
     },
     {
-        "N. Ordine":  "260290",
-        "Data":  "27/10/2026",
+        "N. Ordine":  "260292",
+        "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/10/2026",
-        "Importo":  "246.960000",
-        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "312.750000",
+        "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
     },
     {
         "N. Ordine":  "260288",
@@ -43,6 +34,15 @@
         "Data Consegna":  "28/10/2026",
         "Importo":  "143.850000",
         "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
+    },
+    {
+        "N. Ordine":  "260290",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/10/2026",
+        "Importo":  "246.960000",
+        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
     },
     {
         "N. Ordine":  "260286",
