@@ -150,37 +150,5 @@
         "Fornitore":  "MISA SRL",
         "Importo":  "9833.200000",
         "Note":  "Basato su Ordini d\u0027acquisto 260215."
-    },
-    {
-        "N. DDT":  "260256",
-        "Data":  "30/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "237.900000",
-        "Note":  "GRIGLIA PLASTIFICATA GN 2/1 Basato su Ordini d\u0027acquisto 260218."
-    },
-    {
-        "N. DDT":  "260255",
-        "Data":  "30/09/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Importo":  "469.700000",
-        "Note":  "MeM Top 4P GN 2263×700×40 P Basato su Ordini d\u0027acquisto 260217."
-    },
-    {
-        "N. DDT":  "260225",
-        "Data":  "30/09/2026",
-        "Cod. Fornitore":  "F001569",
-        "Fornitore":  "VAN BERKEL INTERNATIONAL SRL",
-        "Importo":  "72.380000",
-        "Note":  "RICAMBI AFFETTATRICE CARNE BERKEL BSFSX02000000 MATRICOLA: 0110S540/2010 RIF. GRAN SOLE LAGONEGRO Basato su Ordini d\u0027acquisto 260275."
-    },
-    {
-        "N. DDT":  "260224",
-        "Data":  "30/09/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Importo":  "133.770000",
-        "Note":  "COPRICEPPO GRAN SOLE MARATEA Rif. Ordine cliente 260477. Ordine portale Fimar 33965. Basato su Ordini d\u0027acquisto 260274."
     }
 ]
