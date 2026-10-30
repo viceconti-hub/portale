@@ -9,15 +9,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260292",
-        "Data":  "29/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "312.750000",
-        "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
-    },
-    {
         "N. Ordine":  "260250",
         "Data":  "29/10/2026",
         "Cod. Fornitore":  "F050695",
@@ -27,13 +18,13 @@
         "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
     },
     {
-        "N. Ordine":  "260290",
-        "Data":  "27/10/2026",
+        "N. Ordine":  "260292",
+        "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
         "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/10/2026",
-        "Importo":  "246.960000",
-        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "312.750000",
+        "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
     },
     {
         "N. Ordine":  "260288",
@@ -45,6 +36,15 @@
         "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
     },
     {
+        "N. Ordine":  "260290",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000102",
+        "Fornitore":  "REPA ITALIA SRL",
+        "Data Consegna":  "27/10/2026",
+        "Importo":  "246.960000",
+        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
+    },
+    {
         "N. Ordine":  "260286",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F000080",
@@ -54,12 +54,21 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260277",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489."
+    },
+    {
+        "N. Ordine":  "260278",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "1439.970000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -72,22 +81,13 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
+        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
-        "N. Ordine":  "260277",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "1345.710000",
-        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260284",
