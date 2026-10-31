@@ -9,15 +9,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260250",
-        "Data":  "29/10/2026",
-        "Cod. Fornitore":  "F050695",
-        "Fornitore":  "COMENDA ALI GROUP SRL",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "158.660000",
-        "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
-    },
-    {
         "N. Ordine":  "260292",
         "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -25,6 +16,15 @@
         "Data Consegna":  "29/10/2026",
         "Importo":  "312.750000",
         "Note":  "Spese di spedizione a vs carico, con addebito in fattura, grazie"
+    },
+    {
+        "N. Ordine":  "260250",
+        "Data":  "29/10/2026",
+        "Cod. Fornitore":  "F050695",
+        "Fornitore":  "COMENDA ALI GROUP SRL",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "158.660000",
+        "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
     },
     {
         "N. Ordine":  "260288",
@@ -151,15 +151,6 @@
         "Data Consegna":  "05/08/2026",
         "Importo":  "402.600000",
         "Note":  "GRUPPO STAMPANTE SUPERIORE FUJITSU FILM 3000 (X MACH 5000 E MACH 120)"
-    },
-    {
-        "N. Ordine":  "260180",
-        "Data":  "27/07/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "305.630000",
-        "Note":  "GUARNIZIONI RATIONAL E ELETTROVALVOLE BREMA Basato su Richiesta di offerta a fornitore 260004."
     },
     {
         "N. Ordine":  "240531",
