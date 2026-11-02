@@ -27,15 +27,6 @@
         "Note":  "RICAMBI MARATEA SERVIZI E MAGAZZINO"
     },
     {
-        "N. Ordine":  "260288",
-        "Data":  "27/10/2026",
-        "Cod. Fornitore":  "F000162",
-        "Fornitore":  "SLAYER BLADES SRL",
-        "Data Consegna":  "28/10/2026",
-        "Importo":  "143.850000",
-        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
-    },
-    {
         "N. Ordine":  "260290",
         "Data":  "27/10/2026",
         "Cod. Fornitore":  "F000102",
@@ -43,6 +34,15 @@
         "Data Consegna":  "27/10/2026",
         "Importo":  "246.960000",
         "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
+    },
+    {
+        "N. Ordine":  "260288",
+        "Data":  "27/10/2026",
+        "Cod. Fornitore":  "F000162",
+        "Fornitore":  "SLAYER BLADES SRL",
+        "Data Consegna":  "28/10/2026",
+        "Importo":  "143.850000",
+        "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
     },
     {
         "N. Ordine":  "260286",
@@ -54,13 +54,13 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260277",
+        "N. Ordine":  "260279",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F000826",
-        "Fornitore":  "FIMAR s.p.a.",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "1345.710000",
-        "Note":  "Basato su Ordini cliente 260489."
+        "Cod. Fornitore":  "F051055",
+        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "6783.200000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260278",
@@ -72,13 +72,13 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260279",
+        "N. Ordine":  "260277",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051055",
-        "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "6783.200000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489."
     },
     {
         "N. Ordine":  "260280",
