@@ -36,15 +36,6 @@
         "Note":  "ORDINE WEB SLAYER N. 42946: OSTERIA DELLA ROCCA, ONY E ROBY, MACELLERIA ROTONDARO"
     },
     {
-        "N. Ordine":  "260290",
-        "Data":  "27/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "27/10/2026",
-        "Importo":  "246.960000",
-        "Note":  "SPEDIZIONE A VS CARICO CON ADDEBITO IN FATTURA, GRAZIE"
-    },
-    {
         "N. Ordine":  "260286",
         "Data":  "21/10/2026",
         "Cod. Fornitore":  "F000080",
@@ -114,7 +105,7 @@
         "Fornitore":  "LILLY CODROIPO",
         "Data Consegna":  "09/11/2026",
         "Importo":  "209.840000",
-        "Note":  "Basato su Offerte di vendita 260437."
+        "Note":  "PANIFICIO D\u0027IMPERIO Basato su Offerte di vendita 260437."
     },
     {
         "N. Ordine":  "260237",
@@ -133,15 +124,6 @@
         "Data Consegna":  "09/09/2026",
         "Importo":  "119.560000",
         "Note":  "Gianni Rosticceria di Silvio e Davide Corsi Basato su Ordini cliente 260443."
-    },
-    {
-        "N. Ordine":  "260263",
-        "Data":  "31/08/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Data Consegna":  "31/08/2026",
-        "Importo":  "748.130000",
-        "Note":  "autorizzo spedizione speciale per trasporto detersivi"
     },
     {
         "N. Ordine":  "260202",
