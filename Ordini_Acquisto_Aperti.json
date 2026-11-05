@@ -27,6 +27,15 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
+        "N. Ordine":  "260280",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "4117.500000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
         "N. Ordine":  "260277",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F000826",
@@ -51,15 +60,6 @@
         "Fornitore":  "ARRIS CATERING EQUIPMENT SRL",
         "Data Consegna":  "05/10/2026",
         "Importo":  "6783.200000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
-        "N. Ordine":  "260280",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
