@@ -10,6 +10,16 @@
         "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
     },
     {
+        "N. Ordine":  "260543",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "C001628",
+        "Cliente":  "ACAL SRL",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "42.700000",
+        "Agente":  "VENDITA DETERSIVI",
+        "Note":  "TUBETTO LUBRIFICANTE 25G"
+    },
+    {
         "N. Ordine":  "260540",
         "Data":  "03/11/2026",
         "Cod. Cliente":  "C000835",
@@ -238,16 +248,6 @@
         "Importo":  "864.690000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SANIFICATORE DA PAVIMENTO ALL\u0027OZONO MOD. O3 TOWER 28, PRODUZIONE O3 G/H 28, IN ACCIAIO INOX AISI 304, PER AMBIENTI FINO A 360 MQ Basato su Offerte di vendita 260266."
-    },
-    {
-        "N. Ordine":  "260317",
-        "Data":  "27/07/2026",
-        "Cod. Cliente":  "C051685",
-        "Cliente":  "TAVERNA DEL BUONGUSTAIO DI LIMONGI EGIDIO",
-        "Data Consegna":  "27/07/2026",
-        "Importo":  "27.450000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "TAGLIERE 40X30"
     },
     {
         "N. Ordine":  "260305",
