@@ -1,31 +1,17 @@
 [
     {
-        "N. Attivita":  "7822",
+        "N. Attivita":  "7838",
         "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/10/2026",
-        "Ora Inizio":  "1800",
-        "Ora Fine":  "1900",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C000405",
-        "Cliente":  "SIRTAKI S.R.L.S",
-        "Contenuto":  "CALICE FLUTE CALIPSO CL10 H15,5 Ø CM 4,5 Basato su Ordini cliente 260505.",
-        "Citta":  "NEMOLI",
-        "Note":  ""
-    },
-    {
-        "N. Attivita":  "7821",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/10/2026",
-        "Ora Inizio":  "1321",
-        "Ora Fine":  "1336",
-        "Tipo":  "CONSEGNA",
-        "Cod. Cliente":  "C001320",
-        "Cliente":  "HAPPY MOMENTS RESTAURANT \u0026 SERVICE S.R.L.",
-        "Contenuto":  "APRISCATOLE E ACCIAINO Basato su Ordini cliente 260517.",
-        "Citta":  "LAURIA",
-        "Note":  ""
+        "Utente":  "prospero",
+        "Data":  "05/11/2026",
+        "Ora Inizio":  "937",
+        "Ora Fine":  "952",
+        "Tipo":  "ASSISTENZA",
+        "Cod. Cliente":  "CO52622",
+        "Cliente":  "GIOIA AURELIO",
+        "Contenuto":  "PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420. Basato su Ordini cliente 260438.",
+        "Citta":  "",
+        "Note":  "PRESSO PLASTICART"
     },
     {
         "N. Attivita":  "7820",
@@ -40,20 +26,6 @@
         "Contenuto":  "LAVASTOVIGLIE A CAPPOTTA AT1200,CESTO QUADRO50X50,PIATTOø39cm,3CICLI 50/90/150s,76X83X138;10,1kW,MO",
         "Citta":  "VIGGIANELLO",
         "Note":  ""
-    },
-    {
-        "N. Attivita":  "7819",
-        "Priorita":  "1",
-        "Utente":  "Gianni",
-        "Data":  "30/10/2026",
-        "Ora Inizio":  "1254",
-        "Ora Fine":  "1354",
-        "Tipo":  "ASSISTENZA",
-        "Cod. Cliente":  "C001628",
-        "Cliente":  "ACAL SRL",
-        "Contenuto":  "RATIONAL iCombi Pro 102 ELETTRICO, CAP.10x2/1GN o 20xGN1/1, TOUCHE SCREEN,SONDA,LAVAGGIO,PASTI AL GI",
-        "Citta":  "NEMOLI",
-        "Note":  "SOSTITUIRE SCHEDA"
     },
     {
         "N. Attivita":  "7818",
@@ -185,7 +157,7 @@
         "N. Attivita":  "7786",
         "Priorita":  "2",
         "Utente":  "Gianni",
-        "Data":  "29/10/2026",
+        "Data":  "05/11/2026",
         "Ora Inizio":  "1514",
         "Ora Fine":  "1614",
         "Tipo":  "ASSISTENZA",
