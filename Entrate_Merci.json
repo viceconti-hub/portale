@@ -8,6 +8,14 @@
         "Note":  "Basato su Ordini d\u0027acquisto 260293. Conf. REPA 04 205274."
     },
     {
+        "N. DDT":  "260265",
+        "Data":  "29/10/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Importo":  "1345.710000",
+        "Note":  "Basato su Ordini cliente 260489. Basato su Ordini d\u0027acquisto 260277."
+    },
+    {
         "N. DDT":  "260262",
         "Data":  "29/10/2026",
         "Cod. Fornitore":  "F000102",
