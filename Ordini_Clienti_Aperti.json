@@ -50,16 +50,6 @@
         "Note":  "MANIGLIA PORTA CON INSERTO 5210-25"
     },
     {
-        "N. Ordine":  "260532",
-        "Data":  "29/10/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "500.000000",
-        "Agente":  "VENDITA ACCESSORI",
-        "Note":  "SISTEMA FILTRANTE BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260241."
-    },
-    {
         "N. Ordine":  "260534",
         "Data":  "29/10/2026",
         "Cod. Cliente":  "CO52988",
@@ -98,16 +88,6 @@
         "Importo":  "2900.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "GUIDOVIA CELLA E SFASCIO - PROPOSTA GIMAR DEL 16/10/2026 Basato su Offerte di vendita 260466."
-    },
-    {
-        "N. Ordine":  "260499",
-        "Data":  "09/10/2026",
-        "Cod. Cliente":  "C000835",
-        "Cliente":  "Panificio D\u0027IMPERIO snc",
-        "Data Consegna":  "09/10/2026",
-        "Importo":  "244.980000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "MANICO IN LEGNO E PADELLE Basato su Offerte di vendita 260437."
     },
     {
         "N. Ordine":  "260492",
