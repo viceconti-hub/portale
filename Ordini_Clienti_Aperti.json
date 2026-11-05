@@ -10,16 +10,6 @@
         "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
     },
     {
-        "N. Ordine":  "260541",
-        "Data":  "03/11/2026",
-        "Cod. Cliente":  "C050795",
-        "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
-        "Data Consegna":  "03/11/2026",
-        "Importo":  "19822.070000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SOLUZIONE 2 - REPARTO LAVAGGIO E REPARTO PREPARAZIONE E COTTURA - RIF. CHIAMATA 260161 (SOLUZIONE 1 = OFFERTA 260433) Basato su Offerte di vendita 260434."
-    },
-    {
         "N. Ordine":  "260540",
         "Data":  "03/11/2026",
         "Cod. Cliente":  "C000835",
@@ -28,6 +18,16 @@
         "Importo":  "756.400000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "OFFERTA SPECIALE TAVOLO A GIORNO PANIFICIO 200X100 CON RUOTE NUOVO Basato su Offerte di vendita 260459."
+    },
+    {
+        "N. Ordine":  "260541",
+        "Data":  "03/11/2026",
+        "Cod. Cliente":  "C050795",
+        "Cliente":  "SOCIETA\u0027 AGRICOLA AI CARCONI srls di GIUSEPPE GIOIA",
+        "Data Consegna":  "03/11/2026",
+        "Importo":  "19822.070000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SOLUZIONE 2 - REPARTO LAVAGGIO E REPARTO PREPARAZIONE E COTTURA - RIF. CHIAMATA 260161 (SOLUZIONE 1 = OFFERTA 260433) Basato su Offerte di vendita 260434."
     },
     {
         "N. Ordine":  "260539",
@@ -280,16 +280,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260207",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "C051270",
-        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "624.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
-    },
-    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
@@ -298,6 +288,16 @@
         "Importo":  "254.850000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "624.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
         "N. Ordine":  "260192",
