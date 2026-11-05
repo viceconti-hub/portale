@@ -40,16 +40,6 @@
         "Note":  "MANIGLIA PORTA CON INSERTO 5210-25"
     },
     {
-        "N. Ordine":  "260534",
-        "Data":  "29/10/2026",
-        "Cod. Cliente":  "CO52988",
-        "Cliente":  "PUGLIESE MATTIA",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "264.460000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "DISPENSER PELLICOLA MOD.W450 KAREL STRUTTURA IN ACCIAIO INOX, RULLI ASTINE IN ALLUMINIO ANODIZZATO"
-    },
-    {
         "N. Ordine":  "260532",
         "Data":  "29/10/2026",
         "Cod. Cliente":  "CO52190",
@@ -60,14 +50,14 @@
         "Note":  "SISTEMA FILTRANTE BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260241."
     },
     {
-        "N. Ordine":  "260524",
-        "Data":  "22/10/2026",
-        "Cod. Cliente":  "CO53004",
-        "Cliente":  "MARIO VIGILE DEL FUOCO",
-        "Data Consegna":  "22/10/2026",
-        "Importo":  "112.240000",
-        "Agente":  "VENDITA RICAMBI",
-        "Note":  "LAMA PER AFFETTATRICE FIMAR AFH250X23050M"
+        "N. Ordine":  "260534",
+        "Data":  "29/10/2026",
+        "Cod. Cliente":  "CO52988",
+        "Cliente":  "PUGLIESE MATTIA",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "264.460000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "DISPENSER PELLICOLA MOD.W450 KAREL STRUTTURA IN ACCIAIO INOX, RULLI ASTINE IN ALLUMINIO ANODIZZATO"
     },
     {
         "N. Ordine":  "260523",
@@ -78,6 +68,16 @@
         "Importo":  "61.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "LAMA"
+    },
+    {
+        "N. Ordine":  "260524",
+        "Data":  "22/10/2026",
+        "Cod. Cliente":  "CO53004",
+        "Cliente":  "MARIO VIGILE DEL FUOCO",
+        "Data Consegna":  "22/10/2026",
+        "Importo":  "112.240000",
+        "Agente":  "VENDITA RICAMBI",
+        "Note":  "LAMA PER AFFETTATRICE FIMAR AFH250X23050M"
     },
     {
         "N. Ordine":  "260511",
@@ -140,16 +140,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260441",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.770000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PORZIONATORE GELATO"
-    },
-    {
         "N. Ordine":  "260440",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C001350",
@@ -158,6 +148,16 @@
         "Importo":  "26.890000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SHAKER INOX KENTA ML.500 L0208"
+    },
+    {
+        "N. Ordine":  "260441",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C000022",
+        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.770000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PORZIONATORE GELATO"
     },
     {
         "N. Ordine":  "260434",
