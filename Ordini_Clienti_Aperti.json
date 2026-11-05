@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260542",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "CO52615",
+        "Cliente":  "M\u0026M SRL",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "38.450000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
+    },
+    {
         "N. Ordine":  "260540",
         "Data":  "03/11/2026",
         "Cod. Cliente":  "C000835",
@@ -30,16 +40,6 @@
         "Note":  "MANIGLIA PORTA CON INSERTO 5210-25"
     },
     {
-        "N. Ordine":  "260532",
-        "Data":  "29/10/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Data Consegna":  "29/10/2026",
-        "Importo":  "500.000000",
-        "Agente":  "VENDITA ACCESSORI",
-        "Note":  "SISTEMA FILTRANTE BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260241."
-    },
-    {
         "N. Ordine":  "260534",
         "Data":  "29/10/2026",
         "Cod. Cliente":  "CO52988",
@@ -50,14 +50,14 @@
         "Note":  "DISPENSER PELLICOLA MOD.W450 KAREL STRUTTURA IN ACCIAIO INOX, RULLI ASTINE IN ALLUMINIO ANODIZZATO"
     },
     {
-        "N. Ordine":  "260523",
-        "Data":  "22/10/2026",
-        "Cod. Cliente":  "CO53003",
-        "Cliente":  "CHIARELLO ANNAMARIA",
-        "Data Consegna":  "22/10/2026",
-        "Importo":  "61.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "LAMA"
+        "N. Ordine":  "260532",
+        "Data":  "29/10/2026",
+        "Cod. Cliente":  "CO52190",
+        "Cliente":  "CORRADO MICHELA BINARIO 1",
+        "Data Consegna":  "29/10/2026",
+        "Importo":  "500.000000",
+        "Agente":  "VENDITA ACCESSORI",
+        "Note":  "SISTEMA FILTRANTE BRITA PER FORNO RATIONAL Basato su Offerte di vendita 260241."
     },
     {
         "N. Ordine":  "260524",
@@ -68,6 +68,16 @@
         "Importo":  "112.240000",
         "Agente":  "VENDITA RICAMBI",
         "Note":  "LAMA PER AFFETTATRICE FIMAR AFH250X23050M"
+    },
+    {
+        "N. Ordine":  "260523",
+        "Data":  "22/10/2026",
+        "Cod. Cliente":  "CO53003",
+        "Cliente":  "CHIARELLO ANNAMARIA",
+        "Data Consegna":  "22/10/2026",
+        "Importo":  "61.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "LAMA"
     },
     {
         "N. Ordine":  "260511",
@@ -130,16 +140,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260440",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.890000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SHAKER INOX KENTA ML.500 L0208"
-    },
-    {
         "N. Ordine":  "260441",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C000022",
@@ -150,14 +150,14 @@
         "Note":  "PORZIONATORE GELATO"
     },
     {
-        "N. Ordine":  "260438",
-        "Data":  "07/09/2026",
-        "Cod. Cliente":  "CO52622",
-        "Cliente":  "GIOIA AURELIO",
-        "Data Consegna":  "07/09/2026",
-        "Importo":  "90.910000",
+        "N. Ordine":  "260440",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C001350",
+        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.890000",
         "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PALINO DIAMETRO 20 NON FORATO Basato su Offerte di vendita 260420."
+        "Note":  "SHAKER INOX KENTA ML.500 L0208"
     },
     {
         "N. Ordine":  "260434",
