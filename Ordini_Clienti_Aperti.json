@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260547",
-        "Data":  "06/11/2026",
-        "Cod. Cliente":  "C001261",
-        "Cliente":  "CARNI LIMONGI SRL",
-        "Data Consegna":  "06/11/2026",
-        "Importo":  "150.100000",
-        "Agente":  "VENDITA ACCESSORI",
-        "Note":  "FILM TERM PP FASCIA 400MMX400MTL - 12/50MY (N° 01 BOBINA, COMPRESO CONTRIBUTO CONAI ADDEBITATO DAL FORNITORE)"
-    },
-    {
         "N. Ordine":  "260546",
         "Data":  "06/11/2026",
         "Cod. Cliente":  "CO52300",
@@ -20,14 +10,14 @@
         "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
-        "N. Ordine":  "260544",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "C051640",
-        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "182.510000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
+        "N. Ordine":  "260547",
+        "Data":  "06/11/2026",
+        "Cod. Cliente":  "C001261",
+        "Cliente":  "CARNI LIMONGI SRL",
+        "Data Consegna":  "06/11/2026",
+        "Importo":  "150.100000",
+        "Agente":  "VENDITA ACCESSORI",
+        "Note":  "FILM TERM PP FASCIA 400MMX400MTL - 12/50MY (N° 01 BOBINA, COMPRESO CONTRIBUTO CONAI ADDEBITATO DAL FORNITORE)"
     },
     {
         "N. Ordine":  "260542",
@@ -38,6 +28,16 @@
         "Importo":  "38.450000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
+    },
+    {
+        "N. Ordine":  "260544",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "C051640",
+        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "182.510000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
     },
     {
         "N. Ordine":  "260541",
@@ -120,16 +120,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260441",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.770000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PORZIONATORE GELATO"
-    },
-    {
         "N. Ordine":  "260440",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C001350",
@@ -138,6 +128,16 @@
         "Importo":  "26.890000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SHAKER INOX KENTA ML.500 L0208"
+    },
+    {
+        "N. Ordine":  "260441",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C000022",
+        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.770000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PORZIONATORE GELATO"
     },
     {
         "N. Ordine":  "260434",
