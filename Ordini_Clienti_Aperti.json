@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260546",
-        "Data":  "06/11/2026",
-        "Cod. Cliente":  "CO52300",
-        "Cliente":  "PANIFICIO CUORE FELICE DI CANNAZZARO CATERINA",
-        "Data Consegna":  "06/11/2026",
-        "Importo":  "220.000000",
-        "Agente":  "VENDITA HOTELLERIE",
-        "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
-    },
-    {
         "N. Ordine":  "260547",
         "Data":  "06/11/2026",
         "Cod. Cliente":  "C001261",
@@ -20,14 +10,14 @@
         "Note":  "FILM TERM PP FASCIA 400MMX400MTL - 12/50MY (N° 01 BOBINA, COMPRESO CONTRIBUTO CONAI ADDEBITATO DAL FORNITORE)"
     },
     {
-        "N. Ordine":  "260542",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "CO52615",
-        "Cliente":  "M\u0026M SRL",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "38.450000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
+        "N. Ordine":  "260546",
+        "Data":  "06/11/2026",
+        "Cod. Cliente":  "CO52300",
+        "Cliente":  "PANIFICIO CUORE FELICE DI CANNAZZARO CATERINA",
+        "Data Consegna":  "06/11/2026",
+        "Importo":  "220.000000",
+        "Agente":  "VENDITA HOTELLERIE",
+        "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
         "N. Ordine":  "260544",
@@ -38,6 +28,16 @@
         "Importo":  "182.510000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
+    },
+    {
+        "N. Ordine":  "260542",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "CO52615",
+        "Cliente":  "M\u0026M SRL",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "38.450000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
     },
     {
         "N. Ordine":  "260541",
@@ -250,16 +250,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260206",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "CO52962",
-        "Cliente":  "THEMYSCIRA SRL",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "254.850000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE"
-    },
-    {
         "N. Ordine":  "260207",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "C051270",
@@ -268,6 +258,16 @@
         "Importo":  "624.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
+    },
+    {
+        "N. Ordine":  "260206",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "CO52962",
+        "Cliente":  "THEMYSCIRA SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "254.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
     },
     {
         "N. Ordine":  "260192",
