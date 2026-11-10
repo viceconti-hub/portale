@@ -30,16 +30,6 @@
         "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
-        "N. Ordine":  "260542",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "CO52615",
-        "Cliente":  "M\u0026M SRL",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "38.450000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
-    },
-    {
         "N. Ordine":  "260544",
         "Data":  "05/11/2026",
         "Cod. Cliente":  "C051640",
@@ -48,6 +38,16 @@
         "Importo":  "182.510000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
+    },
+    {
+        "N. Ordine":  "260542",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "CO52615",
+        "Cliente":  "M\u0026M SRL",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "38.450000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
     },
     {
         "N. Ordine":  "260541",
@@ -130,16 +130,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260440",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.890000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SHAKER INOX KENTA ML.500 L0208"
-    },
-    {
         "N. Ordine":  "260441",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C000022",
@@ -148,6 +138,16 @@
         "Importo":  "26.770000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "PORZIONATORE GELATO"
+    },
+    {
+        "N. Ordine":  "260440",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C001350",
+        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.890000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SHAKER INOX KENTA ML.500 L0208"
     },
     {
         "N. Ordine":  "260434",
@@ -250,16 +250,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260206",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "CO52962",
-        "Cliente":  "THEMYSCIRA SRL",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "254.850000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE"
-    },
-    {
         "N. Ordine":  "260207",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "C051270",
@@ -268,6 +258,16 @@
         "Importo":  "624.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
+    },
+    {
+        "N. Ordine":  "260206",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "CO52962",
+        "Cliente":  "THEMYSCIRA SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "254.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
     },
     {
         "N. Ordine":  "260192",
