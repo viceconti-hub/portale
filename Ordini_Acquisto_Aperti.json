@@ -6,7 +6,7 @@
         "Fornitore":  "COLD LINE srl",
         "Data Consegna":  "03/11/2026",
         "Importo":  "2365.580000",
-        "Note":  "Basato su Ordini cliente 260541."
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
         "N. Ordine":  "260297",
@@ -15,7 +15,7 @@
         "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "03/11/2026",
         "Importo":  "3257.400000",
-        "Note":  "Basato su Ordini cliente 260541."
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
         "N. Ordine":  "260298",
@@ -23,8 +23,17 @@
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "03/11/2026",
-        "Importo":  "20069.000000",
-        "Note":  "Basato su Ordini cliente 260541."
+        "Importo":  "17659.500000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
+    },
+    {
+        "N. Ordine":  "260299",
+        "Data":  "10/11/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "09/11/2026",
+        "Importo":  "5697.400000",
+        "Note":  "BELLAVISTA Basato su Ordini cliente 260550."
     },
     {
         "N. Ordine":  "260295",
