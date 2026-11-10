@@ -10,16 +10,6 @@
         "Note":  "ARI.3415-010036 PEG 50.42 DD - ATTIVITA\u0027 7836 CHIAMATA 260256 Basato su Offerte di vendita 260517."
     },
     {
-        "N. Ordine":  "260549",
-        "Data":  "08/11/2026",
-        "Cod. Cliente":  "CO53009",
-        "Cliente":  "STEFANIA STAGNI",
-        "Data Consegna":  "08/11/2026",
-        "Importo":  "102.090000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "GUARNIZIONE PORTA SCC, CM 61 DAL 04/2004"
-    },
-    {
         "N. Ordine":  "260546",
         "Data":  "06/11/2026",
         "Cod. Cliente":  "CO52300",
@@ -250,16 +240,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260207",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "C051270",
-        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "624.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
-    },
-    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
@@ -268,6 +248,16 @@
         "Importo":  "254.850000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "624.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
         "N. Ordine":  "260192",
