@@ -14,7 +14,7 @@
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "03/11/2026",
-        "Importo":  "3257.400000",
+        "Importo":  "1408.190000",
         "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
@@ -32,7 +32,7 @@
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "09/11/2026",
-        "Importo":  "5697.400000",
+        "Importo":  "2435.640000",
         "Note":  "BELLAVISTA Basato su Ordini cliente 260550."
     },
     {
@@ -72,15 +72,6 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260278",
-        "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
-        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
-    },
-    {
         "N. Ordine":  "260279",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F051055",
@@ -90,12 +81,21 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
+        "N. Ordine":  "260278",
+        "Data":  "19/10/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "05/10/2026",
+        "Importo":  "1439.970000",
+        "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
+    },
+    {
         "N. Ordine":  "260280",
         "Data":  "19/10/2026",
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "4117.500000",
+        "Importo":  "3520.470000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
