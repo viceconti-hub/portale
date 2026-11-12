@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260555",
+        "Data":  "12/11/2026",
+        "Cod. Cliente":  "CO53011",
+        "Cliente":  "SMOKIN’BROTHERS",
+        "Data Consegna":  "12/11/2026",
+        "Importo":  "86.250000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Coppia guide tipo C 605 mm per griglie GN 2/1 PAGAMENTO: PAYPAL"
+    },
+    {
         "N. Ordine":  "260552",
         "Data":  "11/11/2026",
         "Cod. Cliente":  "C000981",
@@ -25,7 +35,7 @@
         "Cod. Cliente":  "CO51719",
         "Cliente":  "BELLAVISTA BAR RISTORANTE PIZZERIA di PAPA MICHELA",
         "Data Consegna":  "09/11/2026",
-        "Importo":  "4273.050000",
+        "Importo":  "3830.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "ARI.3415-010036 PEG 50.42 DD - ATTIVITA\u0027 7836 CHIAMATA 260256 Basato su Offerte di vendita 260517."
     },
@@ -130,16 +140,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260440",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C001350",
-        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.890000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "SHAKER INOX KENTA ML.500 L0208"
-    },
-    {
         "N. Ordine":  "260441",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C000022",
@@ -148,6 +148,16 @@
         "Importo":  "26.770000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "PORZIONATORE GELATO"
+    },
+    {
+        "N. Ordine":  "260440",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C001350",
+        "Cliente":  "HAPPY CAFE\u0027 SNC di Rossino D. e Saruba S.",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.890000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "SHAKER INOX KENTA ML.500 L0208"
     },
     {
         "N. Ordine":  "260434",
