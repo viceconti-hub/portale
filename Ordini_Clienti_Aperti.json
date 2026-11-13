@@ -40,16 +40,6 @@
         "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
-        "N. Ordine":  "260542",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "CO52615",
-        "Cliente":  "M\u0026M SRL",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "38.450000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
-    },
-    {
         "N. Ordine":  "260544",
         "Data":  "05/11/2026",
         "Cod. Cliente":  "C051640",
@@ -58,6 +48,16 @@
         "Importo":  "182.510000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
+    },
+    {
+        "N. Ordine":  "260542",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "CO52615",
+        "Cliente":  "M\u0026M SRL",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "38.450000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
     },
     {
         "N. Ordine":  "260541",
