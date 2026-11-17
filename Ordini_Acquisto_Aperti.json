@@ -9,6 +9,15 @@
         "Note":  ""
     },
     {
+        "N. Ordine":  "260301",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "10/11/2026",
+        "Importo":  "490.440000",
+        "Note":  "BELLAVISTA Basato su Ordini cliente 260551."
+    },
+    {
         "N. Ordine":  "260296",
         "Data":  "10/11/2026",
         "Cod. Fornitore":  "F000894",
