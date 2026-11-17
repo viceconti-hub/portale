@@ -18,6 +18,24 @@
         "Note":  "BELLAVISTA Basato su Ordini cliente 260551."
     },
     {
+        "N. Ordine":  "260302",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "4320.370000",
+        "Note":  "Basato su Ordini cliente 260561 LA PASTAFROLLA srl"
+    },
+    {
+        "N. Ordine":  "260303",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "1659.200000",
+        "Note":  "Basato su Ordini cliente 260561 LA PASTAFROLLA srl"
+    },
+    {
         "N. Ordine":  "260296",
         "Data":  "10/11/2026",
         "Cod. Fornitore":  "F000894",
