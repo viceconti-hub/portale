@@ -1,15 +1,5 @@
 [
     {
-        "N. Ordine":  "260562",
-        "Data":  "17/11/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Data Consegna":  "17/11/2026",
-        "Importo":  "-485.320000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554."
-    },
-    {
         "N. Ordine":  "260560",
         "Data":  "17/11/2026",
         "Cod. Cliente":  "CO52190",
@@ -28,6 +18,16 @@
         "Importo":  "8800.000000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
+    },
+    {
+        "N. Ordine":  "260562",
+        "Data":  "17/11/2026",
+        "Cod. Cliente":  "CO52190",
+        "Cliente":  "CORRADO MICHELA BINARIO 1",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "-485.320000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554."
     },
     {
         "N. Ordine":  "260558",
@@ -170,16 +170,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260441",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.770000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PORZIONATORE GELATO"
-    },
-    {
         "N. Ordine":  "260440",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C001350",
@@ -188,6 +178,16 @@
         "Importo":  "26.890000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SHAKER INOX KENTA ML.500 L0208"
+    },
+    {
+        "N. Ordine":  "260441",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C000022",
+        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.770000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PORZIONATORE GELATO"
     },
     {
         "N. Ordine":  "260434",
@@ -290,16 +290,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260207",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "C051270",
-        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "624.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
-    },
-    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
@@ -308,6 +298,16 @@
         "Importo":  "254.850000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "624.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
         "N. Ordine":  "260192",
@@ -368,16 +368,6 @@
         "Importo":  "56.510000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  ""
-    },
-    {
-        "N. Ordine":  "260080",
-        "Data":  "23/03/2026",
-        "Cod. Cliente":  "C001223",
-        "Cliente":  "NERA SRL",
-        "Data Consegna":  "20/03/2026",
-        "Importo":  "17058.750000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "ATTREZZATURE PROFESSIONALI Riferimento Bozza Progetto"
     },
     {
         "N. Ordine":  "260004",
