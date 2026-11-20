@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260566",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO52638",
+        "Cliente":  "ZACCAGNINO RISTORAZIONE SRL A S.U",
+        "Data Consegna":  "20/11/2026",
+        "Importo":  "249.860000",
+        "Agente":  "VENDITA DETERSIVI",
+        "Note":  "DETERGENTE COFFEE CLEAN 900 gr"
+    },
+    {
         "N. Ordine":  "260564",
         "Data":  "19/11/2026",
         "Cod. Cliente":  "CO53017",
@@ -26,7 +36,7 @@
         "Cliente":  "LA PASTAFROLLA srl",
         "Data Consegna":  "07/12/2026",
         "Importo":  "8800.000000",
-        "Agente":  "-Nessun addetto vendite-",
+        "Agente":  "VENDITA ATTREZZATURE",
         "Note":  ""
     },
     {
