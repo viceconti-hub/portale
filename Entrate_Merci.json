@@ -54,21 +54,5 @@
         "Fornitore":  "REPA ITALIA SRL",
         "Importo":  "35.600000",
         "Note":  "Basato su Ordini d\u0027acquisto 260289. Conf. REPA 04 202676."
-    },
-    {
-        "N. DDT":  "260258",
-        "Data":  "21/10/2026",
-        "Cod. Fornitore":  "F000102",
-        "Fornitore":  "REPA ITALIA SRL",
-        "Importo":  "1075.210000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260270. Conf. REPA 04 198845."
-    },
-    {
-        "N. DDT":  "260257",
-        "Data":  "21/10/2026",
-        "Cod. Fornitore":  "F001602",
-        "Fornitore":  "MORINI s.r.l.",
-        "Importo":  "578.490000",
-        "Note":  "Basato su Ordini d\u0027acquisto 260285. Bolla Morini 0023175, ordini 2161988 e 2155590."
     }
 ]
