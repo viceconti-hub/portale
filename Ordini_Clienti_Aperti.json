@@ -10,16 +10,6 @@
         "Note":  "OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO\r\rRICAMBIO PER\rMESCOLATRICE PLANETARIA MOD. SELENE 60\rN° 0407101\rANNO 2004\rTRIFASE Basato su Offerte di vendita 260468."
     },
     {
-        "N. Ordine":  "260571",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO53019",
-        "Cliente":  "MOMENTEERIE S.R.L.",
-        "Data Consegna":  "20/11/2026",
-        "Importo":  "188.490000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "KIT POMPA DI SCARICO DA INSTALLARE (PER AF 35/38/40/45/50)"
-    },
-    {
         "N. Ordine":  "260566",
         "Data":  "20/11/2026",
         "Cod. Cliente":  "CO52638",
@@ -60,6 +50,16 @@
         "Note":  "GUARNIZIONE PORTA SCC, CM 61 DAL 04/2004 CONSEGNA ALLA MACELLERIA"
     },
     {
+        "N. Ordine":  "260571",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO53019",
+        "Cliente":  "MOMENTEERIE S.R.L.",
+        "Data Consegna":  "20/11/2026",
+        "Importo":  "188.490000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KIT POMPA DI SCARICO DA INSTALLARE (PER AF 35/38/40/45/50)"
+    },
+    {
         "N. Ordine":  "260564",
         "Data":  "19/11/2026",
         "Cod. Cliente":  "CO53017",
@@ -68,6 +68,16 @@
         "Importo":  "40.260000",
         "Agente":  "VENDITA HOTELLERIE",
         "Note":  "TAGLIERE IN POLIETILENE 40x30x2"
+    },
+    {
+        "N. Ordine":  "260560",
+        "Data":  "17/11/2026",
+        "Cod. Cliente":  "CO52190",
+        "Cliente":  "CORRADO MICHELA BINARIO 1",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "3890.000000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "FORNO CUPPONE CUP.TZ435/2M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA\u0027 7837 CHIAMATA 260257 Basato su Offerte di vendita 260518."
     },
     {
         "N. Ordine":  "260561",
@@ -88,16 +98,6 @@
         "Importo":  "-485.320000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554."
-    },
-    {
-        "N. Ordine":  "260560",
-        "Data":  "17/11/2026",
-        "Cod. Cliente":  "CO52190",
-        "Cliente":  "CORRADO MICHELA BINARIO 1",
-        "Data Consegna":  "17/11/2026",
-        "Importo":  "3890.000000",
-        "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "FORNO CUPPONE CUP.TZ435/2M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA\u0027 7837 CHIAMATA 260257 Basato su Offerte di vendita 260518."
     },
     {
         "N. Ordine":  "260558",
@@ -150,16 +150,6 @@
         "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
-        "N. Ordine":  "260544",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "C051640",
-        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "182.510000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
-    },
-    {
         "N. Ordine":  "260542",
         "Data":  "05/11/2026",
         "Cod. Cliente":  "CO52615",
@@ -168,6 +158,16 @@
         "Importo":  "38.450000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
+    },
+    {
+        "N. Ordine":  "260544",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "C051640",
+        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "182.510000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
     },
     {
         "N. Ordine":  "260541",
@@ -350,16 +350,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260206",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "CO52962",
-        "Cliente":  "THEMYSCIRA SRL",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "254.850000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "HOTELLERIE"
-    },
-    {
         "N. Ordine":  "260207",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "C051270",
@@ -368,6 +358,16 @@
         "Importo":  "624.550000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
+    },
+    {
+        "N. Ordine":  "260206",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "CO52962",
+        "Cliente":  "THEMYSCIRA SRL",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "254.850000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "HOTELLERIE"
     },
     {
         "N. Ordine":  "260192",
