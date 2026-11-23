@@ -9,6 +9,15 @@
         "Note":  "COPPIA GUIDE E GRIGLIE PER TAVOLI COLDLINE"
     },
     {
+        "N. Ordine":  "260307",
+        "Data":  "23/11/2026",
+        "Cod. Fornitore":  "F000826",
+        "Fornitore":  "FIMAR s.p.a.",
+        "Data Consegna":  "24/08/2026",
+        "Importo":  "668.560000",
+        "Note":  "Basato su Ordini cliente 260409. 260564. 260568."
+    },
+    {
         "N. Ordine":  "260304",
         "Data":  "20/11/2026",
         "Cod. Fornitore":  "F050748",
@@ -60,7 +69,7 @@
         "Fornitore":  "MODULAR PROFESSIONAL srl",
         "Data Consegna":  "17/11/2026",
         "Importo":  "1659.200000",
-        "Note":  "Basato su Ordini cliente 260561 LA PASTAFROLLA srl"
+        "Note":  "LA PASTAFROLLA SRL Basato su Ordini cliente 260561"
     },
     {
         "N. Ordine":  "260296",
