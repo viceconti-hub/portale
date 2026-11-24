@@ -10,6 +10,16 @@
         "Note":  "OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO\r\rRICAMBIO PER\rMESCOLATRICE PLANETARIA MOD. SELENE 60\rN° 0407101\rANNO 2004\rTRIFASE Basato su Offerte di vendita 260468."
     },
     {
+        "N. Ordine":  "260571",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO53019",
+        "Cliente":  "MOMENTEERIE S.R.L.",
+        "Data Consegna":  "20/11/2026",
+        "Importo":  "188.490000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "KIT POMPA DI SCARICO DA INSTALLARE (PER AF 35/38/40/45/50)"
+    },
+    {
         "N. Ordine":  "260566",
         "Data":  "20/11/2026",
         "Cod. Cliente":  "CO52638",
@@ -48,16 +58,6 @@
         "Importo":  "102.090000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "GUARNIZIONE PORTA SCC, CM 61 DAL 04/2004 CONSEGNA ALLA MACELLERIA"
-    },
-    {
-        "N. Ordine":  "260571",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO53019",
-        "Cliente":  "MOMENTEERIE S.R.L.",
-        "Data Consegna":  "20/11/2026",
-        "Importo":  "188.490000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "KIT POMPA DI SCARICO DA INSTALLARE (PER AF 35/38/40/45/50)"
     },
     {
         "N. Ordine":  "260564",
@@ -230,16 +230,6 @@
         "Note":  "CAPPA A PARETE SNACK SENZA MOTORE COMPLETA DI FILTRI A LABIRINTO PROF.900 3 FILTRI 50X50 CM CAPPA GIA\u0027 FATTURATA ORDINE SOLO PER CONSEGNA"
     },
     {
-        "N. Ordine":  "260441",
-        "Data":  "08/09/2026",
-        "Cod. Cliente":  "C000022",
-        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
-        "Data Consegna":  "08/09/2026",
-        "Importo":  "26.770000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "PORZIONATORE GELATO"
-    },
-    {
         "N. Ordine":  "260440",
         "Data":  "08/09/2026",
         "Cod. Cliente":  "C001350",
@@ -248,6 +238,16 @@
         "Importo":  "26.890000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "SHAKER INOX KENTA ML.500 L0208"
+    },
+    {
+        "N. Ordine":  "260441",
+        "Data":  "08/09/2026",
+        "Cod. Cliente":  "C000022",
+        "Cliente":  "AGUA LOCA DI D\u0027IMPERIO NICOLA",
+        "Data Consegna":  "08/09/2026",
+        "Importo":  "26.770000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "PORZIONATORE GELATO"
     },
     {
         "N. Ordine":  "260434",
@@ -350,16 +350,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260207",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "C051270",
-        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "624.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
-    },
-    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
@@ -368,6 +358,16 @@
         "Importo":  "254.850000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "624.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
         "N. Ordine":  "260192",
