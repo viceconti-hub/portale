@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260309",
+        "Data":  "24/11/2026",
+        "Cod. Fornitore":  "F001552",
+        "Fornitore":  "GO PACK S.R.L. a socio unico",
+        "Data Consegna":  "24/11/2026",
+        "Importo":  "750.500000",
+        "Note":  ""
+    },
+    {
         "N. Ordine":  "260306",
         "Data":  "23/11/2026",
         "Cod. Fornitore":  "F000894",
@@ -81,24 +90,6 @@
         "Note":  "LA PASTAFROLLA SRL Basato su Ordini cliente 260561"
     },
     {
-        "N. Ordine":  "260296",
-        "Data":  "10/11/2026",
-        "Cod. Fornitore":  "F000894",
-        "Fornitore":  "COLD LINE srl",
-        "Data Consegna":  "03/11/2026",
-        "Importo":  "1436.250000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
-    },
-    {
-        "N. Ordine":  "260297",
-        "Data":  "10/11/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "03/11/2026",
-        "Importo":  "1408.190000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
-    },
-    {
         "N. Ordine":  "260298",
         "Data":  "10/11/2026",
         "Cod. Fornitore":  "F051522",
@@ -115,6 +106,24 @@
         "Data Consegna":  "09/11/2026",
         "Importo":  "2435.640000",
         "Note":  "BELLAVISTA Basato su Ordini cliente 260550."
+    },
+    {
+        "N. Ordine":  "260297",
+        "Data":  "10/11/2026",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
+        "Data Consegna":  "03/11/2026",
+        "Importo":  "1408.190000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
+    },
+    {
+        "N. Ordine":  "260296",
+        "Data":  "10/11/2026",
+        "Cod. Fornitore":  "F000894",
+        "Fornitore":  "COLD LINE srl",
+        "Data Consegna":  "03/11/2026",
+        "Importo":  "1436.250000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
         "N. Ordine":  "260250",
@@ -144,12 +153,12 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
+        "Importo":  "3520.470000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -162,12 +171,12 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260278",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "3520.470000",
+        "Importo":  "1439.970000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
