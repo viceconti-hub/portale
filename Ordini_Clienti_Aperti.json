@@ -10,26 +10,6 @@
         "Note":  "OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO\r\rRICAMBIO PER\rMESCOLATRICE PLANETARIA MOD. SELENE 60\rN° 0407101\rANNO 2004\rTRIFASE Basato su Offerte di vendita 260468."
     },
     {
-        "N. Ordine":  "260568",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO52562",
-        "Cliente":  "BAR CLELIA DI ALAGIA GAETANO",
-        "Data Consegna":  "20/11/2026",
-        "Importo":  "470.010000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FOR.VBR4752 - ATTIVITA\u0027 7875 CHIAMATA 260285 Basato su Offerte di vendita 260569."
-    },
-    {
-        "N. Ordine":  "260569",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO53018",
-        "Cliente":  "BRACERIA DEI SANTI",
-        "Data Consegna":  "20/11/2026",
-        "Importo":  "102.090000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "GUARNIZIONE PORTA SCC, CM 61 DAL 04/2004 CONSEGNA ALLA MACELLERIA"
-    },
-    {
         "N. Ordine":  "260566",
         "Data":  "20/11/2026",
         "Cod. Cliente":  "CO52638",
@@ -50,6 +30,26 @@
         "Note":  "ABBATTITORE MODI ACTIVE MOD.W3AG,CAP.3TEGLIE GN 2/3 Basato su Offerte di vendita 260573."
     },
     {
+        "N. Ordine":  "260568",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO52562",
+        "Cliente":  "BAR CLELIA DI ALAGIA GAETANO",
+        "Data Consegna":  "20/11/2026",
+        "Importo":  "470.010000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FOR.VBR4752 - ATTIVITA\u0027 7875 CHIAMATA 260285 Basato su Offerte di vendita 260569."
+    },
+    {
+        "N. Ordine":  "260569",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO53018",
+        "Cliente":  "BRACERIA DEI SANTI",
+        "Data Consegna":  "20/11/2026",
+        "Importo":  "102.090000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "GUARNIZIONE PORTA SCC, CM 61 DAL 04/2004 CONSEGNA ALLA MACELLERIA"
+    },
+    {
         "N. Ordine":  "260564",
         "Data":  "19/11/2026",
         "Cod. Cliente":  "CO53017",
@@ -60,14 +60,14 @@
         "Note":  "TAGLIERE IN POLIETILENE 40x30x2"
     },
     {
-        "N. Ordine":  "260562",
+        "N. Ordine":  "260560",
         "Data":  "17/11/2026",
         "Cod. Cliente":  "CO52190",
         "Cliente":  "CORRADO MICHELA BINARIO 1",
         "Data Consegna":  "17/11/2026",
-        "Importo":  "-485.320000",
+        "Importo":  "3890.000000",
         "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554."
+        "Note":  "FORNO CUPPONE CUP.TZ435/2M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA\u0027 7837 CHIAMATA 260257 Basato su Offerte di vendita 260518."
     },
     {
         "N. Ordine":  "260561",
@@ -80,14 +80,14 @@
         "Note":  "ATTREZZATURE"
     },
     {
-        "N. Ordine":  "260560",
+        "N. Ordine":  "260562",
         "Data":  "17/11/2026",
         "Cod. Cliente":  "CO52190",
         "Cliente":  "CORRADO MICHELA BINARIO 1",
         "Data Consegna":  "17/11/2026",
-        "Importo":  "3890.000000",
+        "Importo":  "-485.320000",
         "Agente":  "VENDITA ATTREZZATURE",
-        "Note":  "FORNO CUPPONE CUP.TZ435/2M-C5P-CP TIZIANO 2 CAMERE RES.POTENZIATE - ATTIVITA\u0027 7837 CHIAMATA 260257 Basato su Offerte di vendita 260518."
+        "Note":  "PERMUTA TAVOLO ARMADIATO Basato su Offerte di vendita 260554."
     },
     {
         "N. Ordine":  "260558",
@@ -140,16 +140,6 @@
         "Note":  "TEGLIE E GUANTI Basato su Offerte di vendita 260470."
     },
     {
-        "N. Ordine":  "260544",
-        "Data":  "05/11/2026",
-        "Cod. Cliente":  "C051640",
-        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
-        "Data Consegna":  "05/11/2026",
-        "Importo":  "182.510000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
-    },
-    {
         "N. Ordine":  "260542",
         "Data":  "05/11/2026",
         "Cod. Cliente":  "CO52615",
@@ -158,6 +148,16 @@
         "Importo":  "38.450000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "KAP-TECNET MOVE GREASY KG 5 PER FORNI E GRILL"
+    },
+    {
+        "N. Ordine":  "260544",
+        "Data":  "05/11/2026",
+        "Cod. Cliente":  "C051640",
+        "Cliente":  "PERRETTA SERVICE DI IMMACOLATO EGIDIO",
+        "Data Consegna":  "05/11/2026",
+        "Importo":  "182.510000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "COLD.F211480152 - OFFERTA COLDLINE 12231 DEL 05/11/2026 Basato su Offerte di vendita 260522."
     },
     {
         "N. Ordine":  "260541",
