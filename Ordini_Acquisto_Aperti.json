@@ -54,24 +54,6 @@
         "Note":  "LA PASTAFROLLA srl Basato su Ordini cliente 260561."
     },
     {
-        "N. Ordine":  "260300",
-        "Data":  "17/11/2026",
-        "Cod. Fornitore":  "F000146",
-        "Fornitore":  "NUOVA RICAMBI srl",
-        "Data Consegna":  "17/11/2026",
-        "Importo":  "258.440000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260298",
-        "Data":  "17/11/2026",
-        "Cod. Fornitore":  "F051522",
-        "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "18/12/2026",
-        "Importo":  "5022.800000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
-    },
-    {
         "N. Ordine":  "260303",
         "Data":  "17/11/2026",
         "Cod. Fornitore":  "F051522",
@@ -97,6 +79,24 @@
         "Data Consegna":  "10/11/2026",
         "Importo":  "490.440000",
         "Note":  "BELLAVISTA Basato su Ordini cliente 260551."
+    },
+    {
+        "N. Ordine":  "260300",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F000146",
+        "Fornitore":  "NUOVA RICAMBI srl",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "258.440000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260298",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F051522",
+        "Fornitore":  "MODULAR PROFESSIONAL srl",
+        "Data Consegna":  "18/12/2026",
+        "Importo":  "5022.800000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
         "N. Ordine":  "260297",
