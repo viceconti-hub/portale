@@ -63,31 +63,13 @@
         "Note":  "CORRADO MICHELA Basato su Ordini cliente 260560."
     },
     {
-        "N. Ordine":  "260298",
+        "N. Ordine":  "260303",
         "Data":  "17/11/2026",
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "18/12/2026",
-        "Importo":  "5022.800000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
-    },
-    {
-        "N. Ordine":  "260300",
-        "Data":  "17/11/2026",
-        "Cod. Fornitore":  "F000146",
-        "Fornitore":  "NUOVA RICAMBI srl",
         "Data Consegna":  "17/11/2026",
-        "Importo":  "258.440000",
-        "Note":  ""
-    },
-    {
-        "N. Ordine":  "260301",
-        "Data":  "17/11/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
-        "Data Consegna":  "10/11/2026",
-        "Importo":  "490.440000",
-        "Note":  "BELLAVISTA Basato su Ordini cliente 260551."
+        "Importo":  "1659.200000",
+        "Note":  "LA PASTAFROLLA SRL Basato su Ordini cliente 260561"
     },
     {
         "N. Ordine":  "260302",
@@ -99,22 +81,40 @@
         "Note":  "LA PASTAFROLLA srl Basato su Ordini cliente 260561"
     },
     {
-        "N. Ordine":  "260303",
+        "N. Ordine":  "260301",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Data Consegna":  "10/11/2026",
+        "Importo":  "490.440000",
+        "Note":  "BELLAVISTA Basato su Ordini cliente 260551."
+    },
+    {
+        "N. Ordine":  "260300",
+        "Data":  "17/11/2026",
+        "Cod. Fornitore":  "F000146",
+        "Fornitore":  "NUOVA RICAMBI srl",
+        "Data Consegna":  "17/11/2026",
+        "Importo":  "258.440000",
+        "Note":  ""
+    },
+    {
+        "N. Ordine":  "260298",
         "Data":  "17/11/2026",
         "Cod. Fornitore":  "F051522",
         "Fornitore":  "MODULAR PROFESSIONAL srl",
-        "Data Consegna":  "17/11/2026",
-        "Importo":  "1659.200000",
-        "Note":  "LA PASTAFROLLA SRL Basato su Ordini cliente 260561"
+        "Data Consegna":  "18/12/2026",
+        "Importo":  "5022.800000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
-        "N. Ordine":  "260299",
+        "N. Ordine":  "260297",
         "Data":  "10/11/2026",
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "09/11/2026",
-        "Importo":  "2435.640000",
-        "Note":  "BELLAVISTA Basato su Ordini cliente 260550."
+        "Data Consegna":  "03/11/2026",
+        "Importo":  "1408.190000",
+        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
         "N. Ordine":  "260296",
@@ -126,13 +126,13 @@
         "Note":  "AI CARCONI Basato su Ordini cliente 260541."
     },
     {
-        "N. Ordine":  "260297",
+        "N. Ordine":  "260299",
         "Data":  "10/11/2026",
         "Cod. Fornitore":  "F051393",
         "Fornitore":  "ARISTARCO S.P.A.",
-        "Data Consegna":  "03/11/2026",
-        "Importo":  "1408.190000",
-        "Note":  "AI CARCONI Basato su Ordini cliente 260541."
+        "Data Consegna":  "09/11/2026",
+        "Importo":  "2435.640000",
+        "Note":  "BELLAVISTA Basato su Ordini cliente 260550."
     },
     {
         "N. Ordine":  "260250",
@@ -162,12 +162,12 @@
         "Note":  "MACELLERIA COSENTINO GUIDOVIA Basato su Ordini cliente 260511."
     },
     {
-        "N. Ordine":  "260278",
+        "N. Ordine":  "260280",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F050748",
-        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
+        "Cod. Fornitore":  "F051393",
+        "Fornitore":  "ARISTARCO S.P.A.",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "1439.970000",
+        "Importo":  "3520.470000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
@@ -180,12 +180,12 @@
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
-        "N. Ordine":  "260280",
+        "N. Ordine":  "260278",
         "Data":  "19/10/2026",
-        "Cod. Fornitore":  "F051393",
-        "Fornitore":  "ARISTARCO S.P.A.",
+        "Cod. Fornitore":  "F050748",
+        "Fornitore":  "ACCIAIO T. \u0026 D. SRL",
         "Data Consegna":  "05/10/2026",
-        "Importo":  "3520.470000",
+        "Importo":  "1439.970000",
         "Note":  "CAMPOLEROSE Basato su Ordini cliente 260489."
     },
     {
