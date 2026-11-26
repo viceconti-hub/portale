@@ -1,5 +1,14 @@
 [
     {
+        "N. Ordine":  "260310",
+        "Data":  "26/11/2026",
+        "Cod. Fornitore":  "F000805",
+        "Fornitore":  "SMEG SPA",
+        "Data Consegna":  "12/11/2025",
+        "Importo":  "1903.200000",
+        "Note":  "PASTICCERIA TUZIO Basato su Ordini cliente 250856."
+    },
+    {
         "N. Ordine":  "260309",
         "Data":  "24/11/2026",
         "Cod. Fornitore":  "F001552",
