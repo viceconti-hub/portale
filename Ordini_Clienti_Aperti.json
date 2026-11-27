@@ -20,16 +20,6 @@
         "Note":  "OFFERTA SPECIALE SCONTO 40% DAL PREZZO DI LISTINO\r\rRICAMBIO PER\rMESCOLATRICE PLANETARIA MOD. SELENE 60\rN° 0407101\rANNO 2004\rTRIFASE Basato su Offerte di vendita 260468."
     },
     {
-        "N. Ordine":  "260568",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO52562",
-        "Cliente":  "BAR CLELIA DI ALAGIA GAETANO",
-        "Data Consegna":  "27/11/2026",
-        "Importo":  "470.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FOR.VBR4752 - ATTIVITA\u0027 7875 CHIAMATA 260285 Basato su Offerte di vendita 260569."
-    },
-    {
         "N. Ordine":  "260566",
         "Data":  "20/11/2026",
         "Cod. Cliente":  "CO52638",
@@ -48,6 +38,16 @@
         "Importo":  "2240.000000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "ABBATTITORE MODI ACTIVE MOD.W3AG,CAP.3TEGLIE GN 2/3 Basato su Offerte di vendita 260573."
+    },
+    {
+        "N. Ordine":  "260568",
+        "Data":  "20/11/2026",
+        "Cod. Cliente":  "CO52562",
+        "Cliente":  "BAR CLELIA DI ALAGIA GAETANO",
+        "Data Consegna":  "27/11/2026",
+        "Importo":  "470.000000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "FOR.VBR4752 - ATTIVITA\u0027 7875 CHIAMATA 260285 Basato su Offerte di vendita 260569."
     },
     {
         "N. Ordine":  "260564",
@@ -330,16 +330,6 @@
         "Note":  ""
     },
     {
-        "N. Ordine":  "260207",
-        "Data":  "15/06/2026",
-        "Cod. Cliente":  "C051270",
-        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
-        "Data Consegna":  "15/06/2026",
-        "Importo":  "624.550000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
-    },
-    {
         "N. Ordine":  "260206",
         "Data":  "15/06/2026",
         "Cod. Cliente":  "CO52962",
@@ -348,6 +338,16 @@
         "Importo":  "254.850000",
         "Agente":  "-Nessun addetto vendite-",
         "Note":  "HOTELLERIE"
+    },
+    {
+        "N. Ordine":  "260207",
+        "Data":  "15/06/2026",
+        "Cod. Cliente":  "C051270",
+        "Cliente":  "BAR MILLE VOGLIE DI D\u0027ANDREA SALVATORE ANDREA",
+        "Data Consegna":  "15/06/2026",
+        "Importo":  "624.550000",
+        "Agente":  "-Nessun addetto vendite-",
+        "Note":  "Riempi Bigne\u0027 Inox Basato su Offerte di vendita 260111."
     },
     {
         "N. Ordine":  "260192",
