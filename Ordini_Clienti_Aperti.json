@@ -1,5 +1,15 @@
 [
     {
+        "N. Ordine":  "260576",
+        "Data":  "28/11/2026",
+        "Cod. Cliente":  "CO52478",
+        "Cliente":  "ERBORA DOTT.SSA FORASTIERO",
+        "Data Consegna":  "28/11/2026",
+        "Importo":  "0.000000",
+        "Agente":  "VENDITA ATTREZZATURE",
+        "Note":  "BILANCIA PESO-PREZZO-IMPORTO MOD.ASB6,PIATTO INOX 230X300mm,PORTATA 3/6 KG,DIVISIONE 1/2 G,3DISPLAY LATO OPERATORE+3LATO CLIENTE,BATTERIA RICARICABILE (AUTONOMIA 70H)"
+    },
+    {
         "N. Ordine":  "260574",
         "Data":  "27/11/2026",
         "Cod. Cliente":  "CO52712",
@@ -48,16 +58,6 @@
         "Importo":  "2240.000000",
         "Agente":  "VENDITA ATTREZZATURE",
         "Note":  "ABBATTITORE MODI ACTIVE MOD.W3AG,CAP.3TEGLIE GN 2/3 Basato su Offerte di vendita 260573."
-    },
-    {
-        "N. Ordine":  "260568",
-        "Data":  "20/11/2026",
-        "Cod. Cliente":  "CO52562",
-        "Cliente":  "BAR CLELIA DI ALAGIA GAETANO",
-        "Data Consegna":  "27/11/2026",
-        "Importo":  "470.000000",
-        "Agente":  "-Nessun addetto vendite-",
-        "Note":  "FOR.VBR4752 - ATTIVITA\u0027 7875 CHIAMATA 260285 Basato su Offerte di vendita 260569."
     },
     {
         "N. Ordine":  "260564",
